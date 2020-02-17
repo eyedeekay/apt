@@ -1,0 +1,286 @@
+Package: anoncoin-qt
+Source: anoncoin (0.8.5.6-1)
+Version: 0.8.5.6-1+b1
+Architecture: amd64
+Maintainer: Kill Your TV <killyourtv@i2pmail.org>
+Installed-Size: 5942
+Depends: libboost-filesystem1.55.0, libboost-program-options1.55.0, libboost-system1.55.0, libboost-thread1.55.0, libc6 (>= 2.15), libdb5.3++, libgcc1 (>= 1:4.1.1), libleveldb1, libminiupnpc10 (>= 1.9.20140610), libqrencode3 (>= 3.2.0), libqt4-dbus (>= 4:4.5.3), libqt4-network (>= 4:4.5.3), libqtcore4 (>= 4:4.8.0), libqtgui4 (>= 4:4.8.0), libssl1.0.0 (>= 1.0.1), libstdc++6 (>= 4.9)
+Recommends: i2p | i2p-router, tor
+Suggests: db-util
+Homepage: https://anoncoin.net/
+Priority: optional
+Section: utils
+Filename: pool/main/a/anoncoin/anoncoin-qt_0.8.5.6-1+b1_amd64.deb
+Size: 1789438
+SHA256: 9a5d30345417aad66a09e3bb37b3e7ac077e4d5db9ffdbcd0fe1739e2b4e491f
+SHA1: cdd98f31f46eeb1c113d02a579c18027c45b7a1f
+MD5sum: d1b67b2adc1b3b1a185ebbe45359be57
+Description: peer-to-peer network based digital currency - Qt GUI
+ Anoncoin is a free open source peer-to-peer electronic cash system that
+ is completely decentralized, without the need for a central server or
+ trusted parties.  Users hold the crypto keys to their own money and
+ transact directly with each other, with the help of a P2P network to
+ check for double-spending. Anoncoin is a fork of Bitcoin.
+ .
+ Full transaction history is stored locally at each client.
+ This requires 200 MB+ of space, slowly growing.
+ .
+ This package provides Anoncoin-Qt, a GUI for Anoncoin based on Qt.
+
+Package: anoncoind
+Source: anoncoin (0.8.5.6-1)
+Version: 0.8.5.6-1+b1
+Architecture: amd64
+Maintainer: Kill Your TV <killyourtv@i2pmail.org>
+Installed-Size: 2797
+Depends: libboost-filesystem1.55.0, libboost-program-options1.55.0, libboost-system1.55.0, libboost-thread1.55.0, libc6 (>= 2.15), libdb5.3++, libgcc1 (>= 1:4.1.1), libleveldb1, libminiupnpc10 (>= 1.9.20140610), libssl1.0.0 (>= 1.0.1), libstdc++6 (>= 4.9), zlib1g (>= 1:1.1.4)
+Recommends: i2p | i2p-router, tor
+Suggests: db-util
+Homepage: https://anoncoin.net/
+Priority: optional
+Section: utils
+Filename: pool/main/a/anoncoin/anoncoind_0.8.5.6-1+b1_amd64.deb
+Size: 689574
+SHA256: 8d8a466fe09c830a31a64f6b9f59ae7827085f122990b74ac826f8ba09186cb9
+SHA1: 64541f4a89695be1e2f874757ff952853fd2f8eb
+MD5sum: c1f80747a75aecd966f8d4072276c06e
+Description: peer-to-peer network based digital currency - daemon
+ Anoncoin is a free open source peer-to-peer electronic cash system that
+ is completely decentralized, without the need for a central server or
+ trusted parties.  Users hold the crypto keys to their own money and
+ transact directly with each other, with the help of a P2P network to
+ check for double-spending. Anoncoin is a fork of Bitcoin.
+ .
+ Full transaction history is stored locally at each client.
+ This requires 200 MB+ of space, slowly growing.
+ .
+ This package provides anoncoind, a combined daemon and CLI tool to
+ interact with the daemon.
+
+Package: i2p
+Priority: optional
+Section: net
+Installed-Size: 641
+Maintainer: zzz <zzz@i2pmail.org>
+Architecture: all
+Version: 0.9.44p-1~trusty+1
+Depends: adduser, debconf, i2p-router (>= 0.8.6-5), libjbigi-jni, lsb-base (>= 3.0-6), service-wrapper
+Filename: pool/main/i/i2p/i2p_0.9.44p-1~trusty+1_all.deb
+Size: 69862
+SHA256: bd3ef40a2cf7cee0eb7c14e9fdd9aac4cf38da368cfcee72d564dc404390ec46
+SHA1: 03ce02763d5001ab664c389ac84c2e1a511c5a2f
+MD5sum: 69d06f14587eee019e39a6e63ee8c5ea
+Description: Invisible Internet Project (I2P) - anonymous network
+Description-md5: af30cb5729ed02b68be39b03bbe331bf
+Bugs: mailto:zzz@i2pmail.org
+
+Package: i2p-doc
+Source: i2p
+Priority: extra
+Section: doc
+Installed-Size: 70992
+Maintainer: zzz <zzz@i2pmail.org>
+Architecture: all
+Version: 0.9.44p-1~trusty+1
+Suggests: i2p, default-jdk-doc
+Filename: pool/main/i/i2p/i2p-doc_0.9.44p-1~trusty+1_all.deb
+Size: 2995220
+SHA256: fc47f5c0974234f40c4993969f6428e986277311c2f425ecc77dfebb87b104e6
+SHA1: 079d5ba1b3541ee72ca5b4e4ac8e10421befaa1e
+MD5sum: a154926f5dc10790de163c6f8fc5edaa
+Description: Invisible Internet Project (I2P) - developer documentation
+Description-md5: a38a3343330ab23e4039d143d8b57c15
+Bugs: mailto:zzz@i2pmail.org
+
+Package: i2p-keyring
+Version: 2019.09.21
+Architecture: all
+Maintainer: zzz on i2p <zzz@i2pmail.org>
+Installed-Size: 28
+Depends: gnupg, coreutils (>= 7.4)
+Recommends: killyourtv-keyring
+Priority: extra
+Section: misc
+Filename: pool/main/i/i2p-keyring/i2p-keyring_2019.09.21_all.deb
+Size: 14460
+SHA256: 1bf76927d8474bbc49cda0c2c2b524b80b2b024216a0d946f885fc709f9d0a24
+SHA1: bcc696f63a9b082b63fe94b2d2d696706bc3d5c6
+MD5sum: d3c996f5e5aa9de630b10183fd71964f
+Description: GnuPG keys of the I2P package repository
+ This package provides digital keys used for signing I2P's repositories.
+ Upon installation of this package, your APT trusted keyring will updated with
+ these keys. Upon removal of this package, the keys provided by this package
+ will be removed from the APT trusted keyring.
+
+Package: i2p-router
+Source: i2p
+Priority: optional
+Section: net
+Installed-Size: 16266
+Maintainer: zzz <zzz@i2pmail.org>
+Architecture: all
+Version: 0.9.44p-1~trusty+1
+Recommends: libjbigi-jni, fonts-dejavu
+Replaces: i2p (<< 0.8.6-5)
+Suggests: apparmor, privoxy, syndie
+Depends: openjdk-8-jre-headless | openjdk-7-jre-headless | java8-runtime-headless | java7-runtime-headless, geoip-database, gettext-base, libgetopt-java, libjson-simple-java (<< 3), glassfish-javaee, famfamfam-flag-png
+Breaks: i2p (<< 0.8.6-5)
+Filename: pool/main/i/i2p/i2p-router_0.9.44p-1~trusty+1_all.deb
+Size: 13351930
+SHA256: d012138391d301f895c0427dab5ad480cbf853e5d33640b0939fadb1f1391e11
+SHA1: b7e0b385f6bea64a957bdf72b15815f69297d848
+MD5sum: 5b21c15dc0c16fc6369319093998e78b
+Description: Invisible Internet Project (I2P) - Router
+Description-md5: 356b1a9240ca1d1db0615e292b8169e7
+Bugs: mailto:zzz@i2pmail.org
+
+Package: killyourtv-keyring
+Version: 2015.03.27.1
+Architecture: all
+Maintainer: Kill Your TV <killyourtv@i2pmail.org>
+Installed-Size: 44
+Depends: gnupg, coreutils (>= 7.4), i2p-keyring
+Priority: extra
+Section: misc
+Filename: pool/main/k/killyourtv-keyring/killyourtv-keyring_2015.03.27.1_all.deb
+Size: 12906
+SHA256: e3254e2e94827d8a96e1c12117ad014228316ed1e84cb9e0ae2f5e7c61e0f3e8
+SHA1: 429087beaea13597dbcd229651663468e2902ab1
+MD5sum: 21afd35581800ad3a2c4ba69053cd63b
+Description: GnuPG keys of KillYourTV's repository
+ This package provides digital keys used for signing KillYourTV's repositories.
+ Upon instalation of this package, your APT trusted keyring will updated with
+ these keys. Upon removal of this package, the keys provided by this package
+ will be removed from the APT trusted keyring.
+
+Package: libjbigi-jni
+Source: i2p
+Priority: optional
+Section: java
+Installed-Size: 44
+Maintainer: zzz <zzz@i2pmail.org>
+Architecture: amd64
+Version: 0.9.44p-1~trusty+1
+Depends: libc6 (>= 2.2.5), libgmp10, i2p-router
+Filename: pool/main/i/i2p/libjbigi-jni_0.9.44p-1~trusty+1_amd64.deb
+Size: 4904
+SHA256: f0c21bd7d451c7595c5c88b4ef94bd73aa74615ae3512fecb358bf1d764750c0
+SHA1: 27bd921683bdfed32623a82c86c3746ec360811b
+MD5sum: 446922540eab4abfcf0054a69520cd79
+Description: Invisible Internet Project (I2P) - libjbigi library
+Description-md5: 9abc006aa799702ff868098881332bad
+Bugs: mailto:zzz@i2pmail.org
+
+Package: libservice-wrapper-doc
+Source: service-wrapper-java
+Version: 3.5.25-1
+Architecture: all
+Maintainer: Kill Your TV <killyourtv@i2pmail.org>
+Installed-Size: 1994
+Homepage: http://wrapper.tanukisoftware.com
+Priority: optional
+Section: doc
+Filename: pool/main/s/service-wrapper-java/libservice-wrapper-doc_3.5.25-1_all.deb
+Size: 169306
+SHA256: 854efc671674d6451599b9992eb51aa2d635b51d4ca0c629022d1f40c1f82836
+SHA1: 701f08a4d33e83a9b66fa2c89d5891cb944d7b75
+MD5sum: 547f3719236b9dad6d7b2104b03a3513
+Description: Jar daemon wrapper (javadoc files)
+ The Java Service Wrapper makes very easy to install a Java Application as a
+ daemon process on Unix systems. The Wrapper monitors a JVM (Java Virtual
+ Machine) process and automatically restarts it if it that the JVM has crashed
+ or hung. This process takes just a few seconds once the Wrapper has decided
+ there is a problem. It also gives the ability to handle process priority.
+ .
+ This package contains the javadoc files.
+
+Package: libservice-wrapper-java
+Source: service-wrapper-java
+Version: 3.5.25-1
+Architecture: all
+Maintainer: Kill Your TV <killyourtv@i2pmail.org>
+Installed-Size: 264
+Depends: service-wrapper (= 3.5.25-1)
+Homepage: http://wrapper.tanukisoftware.com
+Priority: optional
+Section: java
+Filename: pool/main/s/service-wrapper-java/libservice-wrapper-java_3.5.25-1_all.deb
+Size: 219860
+SHA256: 261cfc0629ef8846447b1ddb2482cc0a1e072391601d7090fd22ed2e7556beea
+SHA1: 8cfa74fd842e1c1443a2daf928e1bbd7c17ce07d
+MD5sum: cb6fed96a9ffdf6dfec99dfd15fb267a
+Description: Jar daemon wrapper java libraries
+ This Package contains the Java jar libraries used by the Java Service Wrapper.
+ It can be used to handle wrapper specific attributes.
+ .
+ The Java Service Wrapper makes very easy to install a Java Application as a
+ daemon process on Unix systems. The Wrapper monitors a JVM (Java Virtual
+ Machine) process and automatically restarts it if it that the JVM has crashed
+ or hung. This process takes just a few seconds once the Wrapper has decided
+ there is a problem. It also gives the ability to handle process priority.
+
+Package: libservice-wrapper-jni
+Source: service-wrapper-java
+Version: 3.5.25-1
+Architecture: amd64
+Maintainer: Kill Your TV <killyourtv@i2pmail.org>
+Installed-Size: 71
+Depends: libc6 (>= 2.14), service-wrapper (= 3.5.25-1), default-jre-headless | java5-runtime-headless | java6-runtime-headless
+Suggests: libservice-wrapper-doc
+Homepage: http://wrapper.tanukisoftware.com
+Priority: optional
+Section: java
+Filename: pool/main/s/service-wrapper-java/libservice-wrapper-jni_3.5.25-1_amd64.deb
+Size: 14336
+SHA256: 8dca40558e620ad35b911f6fddcc8fcf29255b65765cc4113135f60439abe025
+SHA1: 76bac860da9d2cd573b641c2abb4231aeae9d28d
+MD5sum: b4706d25934dc1490a88b463aef0be95
+Description: Jar daemon wrapper JNI libraries
+ This Package contains the JNI libraries used by the Java Service Wrapper.
+ .
+ The Java Service Wrapper makes very easy to install a Java Application as a
+ daemon process on Unix systems. The Wrapper monitors a JVM (Java Virtual
+ Machine) process and automatically restarts it if it that the JVM has crashed
+ or hung. This process takes just a few seconds once the Wrapper has decided
+ there is a problem. It also gives the ability to handle process priority.
+
+Package: service-wrapper
+Source: service-wrapper-java
+Version: 3.5.25-1
+Architecture: amd64
+Maintainer: Kill Your TV <killyourtv@i2pmail.org>
+Installed-Size: 401
+Depends: libc6 (>= 2.14), libservice-wrapper-java (>= 3.5.25-1), libservice-wrapper-jni (>= 3.5.25-1)
+Homepage: http://wrapper.tanukisoftware.com
+Priority: optional
+Section: java
+Filename: pool/main/s/service-wrapper-java/service-wrapper_3.5.25-1_amd64.deb
+Size: 154702
+SHA256: 8931b6f8963e884c6e52cd55ae18cab1bffdc9fcd747a6b8d236056d7a399ac6
+SHA1: 7008d97e643dfa20027a59a6cf42b4c7cfb9a3d7
+MD5sum: 1c07eb535e037aef657a1b849e420f66
+Description: Jar daemon wrapper
+ The Java Service Wrapper makes very easy to install a Java Application as a
+ daemon process on Unix systems. The Wrapper monitors a JVM (Java Virtual
+ Machine) process and automatically restarts it if it that the JVM has crashed
+ or hung. This process takes just a few seconds once the Wrapper has decided
+ there is a problem. It also gives the ability to handle process priority.
+
+Package: syndie
+Priority: extra
+Section: java
+Installed-Size: 4596
+Maintainer: Kill Your TV <killyourtv@i2pmail.org>
+Architecture: all
+Version: 1.107b-2ubuntu1
+Suggests: tor, freenet
+Depends: openjdk-9-jre | openjdk-8-jre | openjdk-7-jre | default-jre | java9-runtime | java8-runtime | java7-runtime, libswt-gtk-3-java, libhsqldb-java, i2p-router | i2p
+Enhances: i2p, i2p-router, tor
+Filename: pool/main/s/syndie/syndie_1.107b-2ubuntu1_all.deb
+Size: 4220986
+SHA256: ae476672797154ef6dc25137ddb81a7e45e283aa79870a41daba0e8de95b4f1e
+SHA1: 70296e8d4a5fc20a2315b73947b3c2314192b176
+MD5sum: 69056e17c771fb3c46543f8e06f26c0b
+Description: Syndie anonymous distributed forums
+Description-md5: 6ac3d9136577e5e981c1dbb49a9f93b2
+

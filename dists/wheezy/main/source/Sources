@@ -1,0 +1,51 @@
+Package: i2p
+Binary: i2p, libjbigi-jni, i2p-doc, i2p-router
+Version: 0.9.44p-1~precise+1
+Section: net
+Maintainer: zzz <zzz@i2pmail.org>
+Build-Depends: debhelper (>= 7.0.50~), ant (>= 1.8), debconf, openjdk-7-jdk, glassfish-javaee, dh-apparmor, bash-completion, gettext, libgetopt-java, libgmp-dev (>= 2:5.0.2), libservice-wrapper-java, hardening-wrapper, po-debconf
+Architecture: any all
+Standards-Version: 3.9.6
+Format: 3.0 (quilt)
+Directory: pool/main/i/i2p
+Files: 
+ 82b0130fee829dac4593fa1ee659a950 10198169 i2p_0.9.44p.orig.tar.bz2
+ dfd38acd0f1110889d1ea830050db4f2 53008 i2p_0.9.44p-1~precise+1.debian.tar.xz
+ ca4e9c4103206708548a7d55259f670c 2047 i2p_0.9.44p-1~precise+1.dsc
+Checksums-Sha1: 
+ 28c6accc9ef3839c6ae4b7b2e08efb3e232a12f4 10198169 i2p_0.9.44p.orig.tar.bz2
+ 7c00bc99fae2dbda3e583eff0ca44d45480d7b71 53008 i2p_0.9.44p-1~precise+1.debian.tar.xz
+ c3f943341be90197185965eecc16179e258c77c0 2047 i2p_0.9.44p-1~precise+1.dsc
+Checksums-Sha256: 
+ b8a2ff4b5d6f44d79e40d1b6ce4f0f963ac3d32d617de857d7fcd52f920c3729 10198169 i2p_0.9.44p.orig.tar.bz2
+ 9082c8c29c2e2cee56a15406ad74694bde15992f83d1b1f78eaa4c4af00ead7b 53008 i2p_0.9.44p-1~precise+1.debian.tar.xz
+ 7962409bbbd7e19327f42c3b9dffe519f9f706582feaefe132881279648cd75c 2047 i2p_0.9.44p-1~precise+1.dsc
+Homepage: https://geti2p.net/
+Package-List: i2p deb net optional arch=all
+ i2p-doc deb doc extra arch=all
+ i2p-router deb net optional arch=all
+ libjbigi-jni deb java optional arch=any
+
+Package: i2p-keyring
+Format: 1.0
+Binary: i2p-keyring
+Architecture: all
+Version: 2019.09.21
+Maintainer: zzz on i2p <zzz@i2pmail.org>
+Standards-Version: 3.9.4
+Build-Depends: debhelper (>= 7), gnupg
+Package-List:
+ i2p-keyring deb misc extra arch=all
+Priority: extra
+Section: misc
+Directory: pool/main/i/i2p-keyring
+Files: 
+ f62e4e589ca511f54e9a6ceaf1ed63ef 1420 i2p-keyring_2019.09.21.dsc
+ 8cc88707b11bf88c30266166f279653e 16038 i2p-keyring_2019.09.21.tar.gz
+Checksums-Sha1: 
+ 5c96fdeabb14f7996cea9688ea1a31624eb794e9 1420 i2p-keyring_2019.09.21.dsc
+ 5b74ba6cf8ff5e7d891ac3716226187b2124fe2b 16038 i2p-keyring_2019.09.21.tar.gz
+Checksums-Sha256: 
+ f7ebf4a9c8c454df44fec2327c844c03142750c98457cb38f4292d4b3e8879b3 1420 i2p-keyring_2019.09.21.dsc
+ db228a0e0d6c370241c88ecf00eef7deab272d212413073a8a0451248c5940b6 16038 i2p-keyring_2019.09.21.tar.gz
+
