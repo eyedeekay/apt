@@ -1,10 +1,11 @@
 disco
 ========================
 
+- [.](.)
 - [main](main)
-- [Contents-amd64bz2](Contents-amd64bz2)
-- [Contents-amd64gz](Contents-amd64gz)
-- [Releasegpg](Releasegpg)
-- [READMEmd](READMEmd)
+- [Contents-amd64.bz2](Contents-amd64.bz2)
+- [Contents-amd64.gz](Contents-amd64.gz)
+- [Release.gpg](Release.gpg)
+- [README.md](README.md)
 - [Release](Release)
 - [InRelease](InRelease)

@@ -1,10 +1,11 @@
 stretch
 ========================
 
+- [.](.)
 - [main](main)
-- [Releasegpg](Releasegpg)
-- [Contents-amd64gz](Contents-amd64gz)
+- [Release.gpg](Release.gpg)
+- [Contents-amd64.gz](Contents-amd64.gz)
 - [Release](Release)
-- [Contents-amd64bz2](Contents-amd64bz2)
+- [Contents-amd64.bz2](Contents-amd64.bz2)
 - [InRelease](InRelease)
-- [READMEmd](READMEmd)
+- [README.md](README.md)

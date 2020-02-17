@@ -1,12 +1,13 @@
 syndie
 ========================
 
-- [syndie_1105b-1ubuntu1_alldeb](syndie_1105b-1ubuntu1_alldeb)
-- [syndie_1107b-2ubuntu1_alldeb](syndie_1107b-2ubuntu1_alldeb)
-- [syndie_1107borigtarbz2](syndie_1107borigtarbz2)
-- [syndie_1105borigtarbz2](syndie_1105borigtarbz2)
-- [READMEmd](READMEmd)
-- [syndie_1107b-2ubuntu1debiantarxz](syndie_1107b-2ubuntu1debiantarxz)
-- [syndie_1105b-1ubuntu1dsc](syndie_1105b-1ubuntu1dsc)
-- [syndie_1105b-1ubuntu1debiantarxz](syndie_1105b-1ubuntu1debiantarxz)
-- [syndie_1107b-2ubuntu1dsc](syndie_1107b-2ubuntu1dsc)
+- [.](.)
+- [syndie_1.105b-1ubuntu1_all.deb](syndie_1.105b-1ubuntu1_all.deb)
+- [syndie_1.107b-2ubuntu1_all.deb](syndie_1.107b-2ubuntu1_all.deb)
+- [syndie_1.107b.orig.tar.bz2](syndie_1.107b.orig.tar.bz2)
+- [syndie_1.105b.orig.tar.bz2](syndie_1.105b.orig.tar.bz2)
+- [README.md](README.md)
+- [syndie_1.107b-2ubuntu1.debian.tar.xz](syndie_1.107b-2ubuntu1.debian.tar.xz)
+- [syndie_1.105b-1ubuntu1.dsc](syndie_1.105b-1ubuntu1.dsc)
+- [syndie_1.105b-1ubuntu1.debian.tar.xz](syndie_1.105b-1ubuntu1.debian.tar.xz)
+- [syndie_1.107b-2ubuntu1.dsc](syndie_1.107b-2ubuntu1.dsc)

@@ -1,10 +1,11 @@
 eoan
 ========================
 
+- [.](.)
 - [main](main)
 - [InRelease](InRelease)
-- [Contents-amd64gz](Contents-amd64gz)
+- [Contents-amd64.gz](Contents-amd64.gz)
 - [Release](Release)
-- [READMEmd](READMEmd)
-- [Contents-amd64bz2](Contents-amd64bz2)
-- [Releasegpg](Releasegpg)
+- [README.md](README.md)
+- [Contents-amd64.bz2](Contents-amd64.bz2)
+- [Release.gpg](Release.gpg)

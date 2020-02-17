@@ -1,10 +1,11 @@
 buster
 ========================
 
+- [.](.)
 - [main](main)
 - [InRelease](InRelease)
 - [Release](Release)
-- [READMEmd](READMEmd)
-- [Contents-amd64bz2](Contents-amd64bz2)
-- [Releasegpg](Releasegpg)
-- [Contents-amd64gz](Contents-amd64gz)
+- [README.md](README.md)
+- [Contents-amd64.bz2](Contents-amd64.bz2)
+- [Release.gpg](Release.gpg)
+- [Contents-amd64.gz](Contents-amd64.gz)

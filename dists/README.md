@@ -1,6 +1,7 @@
 dists
 ========================
 
+- [.](.)
 - [focal](focal)
 - [stretch](stretch)
 - [unstable](unstable)
@@ -14,4 +15,4 @@ dists
 - [bionic](bionic)
 - [disco](disco)
 - [wheezy](wheezy)
-- [READMEmd](READMEmd)
+- [README.md](README.md)

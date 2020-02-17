@@ -1,10 +1,11 @@
 unstable
 ========================
 
+- [.](.)
 - [main](main)
-- [Contents-amd64gz](Contents-amd64gz)
-- [Contents-amd64bz2](Contents-amd64bz2)
-- [Releasegpg](Releasegpg)
+- [Contents-amd64.gz](Contents-amd64.gz)
+- [Contents-amd64.bz2](Contents-amd64.bz2)
+- [Release.gpg](Release.gpg)
 - [InRelease](InRelease)
 - [Release](Release)
-- [READMEmd](READMEmd)
+- [README.md](README.md)

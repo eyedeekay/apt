@@ -1,10 +1,11 @@
 xenial
 ========================
 
+- [.](.)
 - [main](main)
-- [Releasegpg](Releasegpg)
-- [Contents-amd64gz](Contents-amd64gz)
-- [READMEmd](READMEmd)
+- [Release.gpg](Release.gpg)
+- [Contents-amd64.gz](Contents-amd64.gz)
+- [README.md](README.md)
 - [Release](Release)
 - [InRelease](InRelease)
-- [Contents-amd64bz2](Contents-amd64bz2)
+- [Contents-amd64.bz2](Contents-amd64.bz2)

@@ -1,9 +1,10 @@
 source
 ========================
 
+- [.](.)
 - [Sources](Sources)
-- [Sourcesbz2](Sourcesbz2)
-- [READMEmd](READMEmd)
-- [Sourcesgz](Sourcesgz)
+- [Sources.bz2](Sources.bz2)
+- [README.md](README.md)
+- [Sources.gz](Sources.gz)
 - [Release](Release)
-- [Sourcesxz](Sourcesxz)
+- [Sources.xz](Sources.xz)

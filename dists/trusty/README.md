@@ -1,10 +1,11 @@
 trusty
 ========================
 
+- [.](.)
 - [main](main)
 - [InRelease](InRelease)
-- [Contents-amd64bz2](Contents-amd64bz2)
-- [READMEmd](READMEmd)
-- [Contents-amd64gz](Contents-amd64gz)
-- [Releasegpg](Releasegpg)
+- [Contents-amd64.bz2](Contents-amd64.bz2)
+- [README.md](README.md)
+- [Contents-amd64.gz](Contents-amd64.gz)
+- [Release.gpg](Release.gpg)
 - [Release](Release)

@@ -1,8 +1,9 @@
 deb.i2p2.de
 ========================
 
-- [git](git)
+- [.](.)
+- [.git](.git)
 - [dists](dists)
 - [pool](pool)
 - [fakeod](fakeod)
-- [READMEmd](READMEmd)
+- [README.md](README.md)
