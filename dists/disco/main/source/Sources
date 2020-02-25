@@ -1,6 +1,6 @@
 Package: i2p
 Binary: i2p, libjbigi-jni, i2p-doc, i2p-router
-Version: 0.9.44-1~disco+1
+Version: 0.9.45-1~disco+1
 Section: net
 Maintainer: zzz <zzz@i2pmail.org>
 Build-Depends: debhelper (>= 9.20160709), ant (>= 1.8), debconf, default-jdk, libjetty9-java (>= 9.4), libtaglibs-standard-jstlel-java, libtomcat9-java, dh-apparmor, bash-completion, gettext, libgetopt-java, libjson-simple-java (<< 3), libgmp-dev (>= 2:5.0.5), libservice-wrapper-java, po-debconf
@@ -9,17 +9,17 @@ Standards-Version: 4.3.0
 Format: 3.0 (quilt)
 Directory: pool/main/i/i2p
 Files: 
- f271778adcb6e036eb81a31d0882152a 6900544 i2p_0.9.44.orig.tar.bz2
- c3b2549c2b089d29d73fad7477ebb016 54400 i2p_0.9.44-1~disco+1.debian.tar.xz
- b3d2fbb68bfc3f75dc92690d892663df 2194 i2p_0.9.44-1~disco+1.dsc
+ 3416fb827a4e38d200264c443cfdd2fd 6904253 i2p_0.9.45.orig.tar.bz2
+ 6563d7ff16c59d47cb58a2c7e6b157da 54988 i2p_0.9.45-1~disco+1.debian.tar.xz
+ 2d4e515c09f42f214cbd5d649df6863a 2194 i2p_0.9.45-1~disco+1.dsc
 Checksums-Sha1: 
- 898011fe520333b0fc000f4f6e8745161d1b192e 6900544 i2p_0.9.44.orig.tar.bz2
- c95b72aa4627f32003d9491e2e364cac17f9d082 54400 i2p_0.9.44-1~disco+1.debian.tar.xz
- 324a18edf82d11c3cef14b265a588a09f1c98381 2194 i2p_0.9.44-1~disco+1.dsc
+ d954b4a449e9976d1ee6009c91f0561d07455a99 6904253 i2p_0.9.45.orig.tar.bz2
+ 44c2af0accebc4bb006892127d4449620a548cbb 54988 i2p_0.9.45-1~disco+1.debian.tar.xz
+ c671be595c872543e0c079610171b6625ee1556a 2194 i2p_0.9.45-1~disco+1.dsc
 Checksums-Sha256: 
- d92e78f4965a4b8e9427dab46645d1c2d56b81a0a4998ff4b4d87cdf1897e100 6900544 i2p_0.9.44.orig.tar.bz2
- d56c0136548790b34f2f6c5969bda34343c4b81573a951a96fe7ba3fc587fc2d 54400 i2p_0.9.44-1~disco+1.debian.tar.xz
- 2d818fa5bb3c0b0cb09c5448c7e91822db6d0d0bca866c35040e0ec4c337cb97 2194 i2p_0.9.44-1~disco+1.dsc
+ 073cb69336bcf2866f62842192d128c8a61d1e4fc3a06f198f1e305b1c22b967 6904253 i2p_0.9.45.orig.tar.bz2
+ d9e72280defcecd48f04c07f451c1c187e4017961c6db934940278971838d9f9 54988 i2p_0.9.45-1~disco+1.debian.tar.xz
+ 7af1503f3600183a544daffd252df986267ba415c3fd4162819e8c09cadf6936 2194 i2p_0.9.45-1~disco+1.dsc
 Homepage: https://geti2p.net/
 Package-List: i2p deb net optional arch=all
  i2p-doc deb doc extra arch=all
