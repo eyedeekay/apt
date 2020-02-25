@@ -1,6 +1,6 @@
 Package: i2p
 Binary: i2p, libjbigi-jni, i2p-doc, i2p-router
-Version: 0.9.44p-1~trusty+1
+Version: 0.9.45p-1~trusty+1
 Section: net
 Maintainer: zzz <zzz@i2pmail.org>
 Build-Depends: debhelper (>= 7.0.50~), ant (>= 1.8), debconf, openjdk-7-jdk, glassfish-javaee, dh-apparmor, dh-systemd, bash-completion, gettext, libgetopt-java, libjson-simple-java (<< 3), libgmp-dev (>= 2:5.0.2), libservice-wrapper-java, hardening-wrapper, po-debconf
@@ -9,17 +9,17 @@ Standards-Version: 3.9.6
 Format: 3.0 (quilt)
 Directory: pool/main/i/i2p
 Files: 
- 82b0130fee829dac4593fa1ee659a950 10198169 i2p_0.9.44p.orig.tar.bz2
- 59c1544954d744d0fe4d2ee32b672951 52604 i2p_0.9.44p-1~trusty+1.debian.tar.xz
- aeba75143c6ecb44d22779da63d16164 2083 i2p_0.9.44p-1~trusty+1.dsc
+ a11d493bed715d8fc732b3be5d6e8bd0 10228648 i2p_0.9.45p.orig.tar.bz2
+ 8a42cc7972668eeac718ca05e2bf9b86 52640 i2p_0.9.45p-1~trusty+1.debian.tar.xz
+ ee2fe35f89dc2fb445324afbd1657771 2083 i2p_0.9.45p-1~trusty+1.dsc
 Checksums-Sha1: 
- 28c6accc9ef3839c6ae4b7b2e08efb3e232a12f4 10198169 i2p_0.9.44p.orig.tar.bz2
- 1cab2c412682894bf39566784291cd75dc776164 52604 i2p_0.9.44p-1~trusty+1.debian.tar.xz
- df730f30943661991936027b7fcc65b12764b364 2083 i2p_0.9.44p-1~trusty+1.dsc
+ ee456b483e6c1190c8c7a4f3cea5b38a5eb9bde4 10228648 i2p_0.9.45p.orig.tar.bz2
+ 15a2c25c30d571e6adbd5efca71bb82ca1056bde 52640 i2p_0.9.45p-1~trusty+1.debian.tar.xz
+ 485e8627eb8d5b425029ba41d62419a3fba949a7 2083 i2p_0.9.45p-1~trusty+1.dsc
 Checksums-Sha256: 
- b8a2ff4b5d6f44d79e40d1b6ce4f0f963ac3d32d617de857d7fcd52f920c3729 10198169 i2p_0.9.44p.orig.tar.bz2
- 4acb0e84be7a2645c95f2c6d7fddcf25ea74d1233578ef33b9d0b5767a3c0752 52604 i2p_0.9.44p-1~trusty+1.debian.tar.xz
- c7efe8420a53d3854dfeb42e0612f1feeae3fab8053bd38d6b757607f37bd6b1 2083 i2p_0.9.44p-1~trusty+1.dsc
+ 069502294d825b574e8924f977e1de697f2bf5d9bdc60092c695be9f8694a2ce 10228648 i2p_0.9.45p.orig.tar.bz2
+ 421c02ca95ab7621515c6077bf8ab507f31a597768612728c2fb6e039b507b9f 52640 i2p_0.9.45p-1~trusty+1.debian.tar.xz
+ 0b553d5460c9ddcd8746308137ed9041dff8feee95bbb28e7042a9206580cb78 2083 i2p_0.9.45p-1~trusty+1.dsc
 Homepage: https://geti2p.net/
 Package-List: i2p deb net optional arch=all
  i2p-doc deb doc extra arch=all

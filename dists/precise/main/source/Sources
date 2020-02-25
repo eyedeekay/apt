@@ -1,6 +1,6 @@
 Package: i2p
 Binary: i2p, libjbigi-jni, i2p-doc, i2p-router
-Version: 0.9.44p-1~precise+1
+Version: 0.9.45p-1~precise+1
 Section: net
 Maintainer: zzz <zzz@i2pmail.org>
 Build-Depends: debhelper (>= 7.0.50~), ant (>= 1.8), debconf, openjdk-7-jdk, glassfish-javaee, dh-apparmor, bash-completion, gettext, libgetopt-java, libgmp-dev (>= 2:5.0.2), libservice-wrapper-java, hardening-wrapper, po-debconf
@@ -9,17 +9,17 @@ Standards-Version: 3.9.6
 Format: 3.0 (quilt)
 Directory: pool/main/i/i2p
 Files: 
- 82b0130fee829dac4593fa1ee659a950 10198169 i2p_0.9.44p.orig.tar.bz2
- dfd38acd0f1110889d1ea830050db4f2 53008 i2p_0.9.44p-1~precise+1.debian.tar.xz
- ca4e9c4103206708548a7d55259f670c 2047 i2p_0.9.44p-1~precise+1.dsc
+ a11d493bed715d8fc732b3be5d6e8bd0 10228648 i2p_0.9.45p.orig.tar.bz2
+ e2cc9552c3817877ba185dda5adb2582 53080 i2p_0.9.45p-1~precise+1.debian.tar.xz
+ 1dc2aaad75d095480b29fbdce62bf8eb 2047 i2p_0.9.45p-1~precise+1.dsc
 Checksums-Sha1: 
- 28c6accc9ef3839c6ae4b7b2e08efb3e232a12f4 10198169 i2p_0.9.44p.orig.tar.bz2
- 7c00bc99fae2dbda3e583eff0ca44d45480d7b71 53008 i2p_0.9.44p-1~precise+1.debian.tar.xz
- c3f943341be90197185965eecc16179e258c77c0 2047 i2p_0.9.44p-1~precise+1.dsc
+ ee456b483e6c1190c8c7a4f3cea5b38a5eb9bde4 10228648 i2p_0.9.45p.orig.tar.bz2
+ 4cc78b67d0e0879936d885cfcb296fca29acff4f 53080 i2p_0.9.45p-1~precise+1.debian.tar.xz
+ cfaf35f2e266997e80f5fe54fc9cbc79620254aa 2047 i2p_0.9.45p-1~precise+1.dsc
 Checksums-Sha256: 
- b8a2ff4b5d6f44d79e40d1b6ce4f0f963ac3d32d617de857d7fcd52f920c3729 10198169 i2p_0.9.44p.orig.tar.bz2
- 9082c8c29c2e2cee56a15406ad74694bde15992f83d1b1f78eaa4c4af00ead7b 53008 i2p_0.9.44p-1~precise+1.debian.tar.xz
- 7962409bbbd7e19327f42c3b9dffe519f9f706582feaefe132881279648cd75c 2047 i2p_0.9.44p-1~precise+1.dsc
+ 069502294d825b574e8924f977e1de697f2bf5d9bdc60092c695be9f8694a2ce 10228648 i2p_0.9.45p.orig.tar.bz2
+ 75a14c103174cd06bd53d384aa1b0c573a0453035f912fe43d91fa5149fba505 53080 i2p_0.9.45p-1~precise+1.debian.tar.xz
+ a89fe2b75fc042e3a737aa266b5ebf286b0c46e59ac28feaa4b59f88d2ada40c 2047 i2p_0.9.45p-1~precise+1.dsc
 Homepage: https://geti2p.net/
 Package-List: i2p deb net optional arch=all
  i2p-doc deb doc extra arch=all

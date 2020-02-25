@@ -1,6 +1,6 @@
 Package: i2p
 Binary: i2p, libjbigi-jni, i2p-doc, i2p-router
-Version: 0.9.44x-1~xenial+1
+Version: 0.9.45x-1~xenial+1
 Section: net
 Maintainer: zzz <zzz@i2pmail.org>
 Build-Depends: debhelper (>= 7.0.50~), ant (>= 1.8), debconf, openjdk-8-jdk, libjetty9-java, glassfish-javaee, libtomcat8-java, dh-apparmor, dh-systemd, bash-completion, gettext, libgetopt-java, libjson-simple-java (<< 3), libgmp-dev (>= 2:5.0.2), libservice-wrapper-java, hardening-wrapper, po-debconf
@@ -9,17 +9,17 @@ Standards-Version: 3.9.6
 Format: 3.0 (quilt)
 Directory: pool/main/i/i2p
 Files: 
- 0fd8db9d99af75c921fa51e983a22080 6931545 i2p_0.9.44x.orig.tar.bz2
- dd345f1d2f81825741358c66d1d5391c 54576 i2p_0.9.44x-1~xenial+1.debian.tar.xz
- f3d5be8db14127ed4236b7f3d3cd5e9a 2113 i2p_0.9.44x-1~xenial+1.dsc
+ dffa21319369ad6966b912103ce3c450 6937016 i2p_0.9.45x.orig.tar.bz2
+ 08a3e32b478cfb6b4416578f06e5128e 53060 i2p_0.9.45x-1~xenial+1.debian.tar.xz
+ fb58251078071b0482b841531745ad70 2113 i2p_0.9.45x-1~xenial+1.dsc
 Checksums-Sha1: 
- e3b619f6671a0e3e01f147920dd57a2e75f7498a 6931545 i2p_0.9.44x.orig.tar.bz2
- 1a29061c0f4cd100f9b6c2bd2ebcb6f492abdf39 54576 i2p_0.9.44x-1~xenial+1.debian.tar.xz
- fb9d71e747ae44390fc20d1f22b635e2022fb343 2113 i2p_0.9.44x-1~xenial+1.dsc
+ 841e311a320357242361b3b9439cce7d15871001 6937016 i2p_0.9.45x.orig.tar.bz2
+ 1f4af2258d10533693e31ca96cb272913394af29 53060 i2p_0.9.45x-1~xenial+1.debian.tar.xz
+ c9c3de6dc4c838ea88168e239bcdb739dc329b16 2113 i2p_0.9.45x-1~xenial+1.dsc
 Checksums-Sha256: 
- ed23566dc03d53eba8d9976ad99fe70ac344d49a867dc56e9416dc674d91bba3 6931545 i2p_0.9.44x.orig.tar.bz2
- 75aed0db8ef8c91e9d89843464f5214bbc45e451f142d6c92bcd6b41e7f3b712 54576 i2p_0.9.44x-1~xenial+1.debian.tar.xz
- ec552ea12981b5ae1bb9dd3693dca56a744c688ad495234de4c7bd10a29b156c 2113 i2p_0.9.44x-1~xenial+1.dsc
+ b5b8b6fe2fd7156bd84c43b25fd0a09d8c719506331f6f9d1e67cf8d8731a998 6937016 i2p_0.9.45x.orig.tar.bz2
+ 447b4ca66482de02fc4e180b651fb84368f96f1521adde9658780a8a4a77766c 53060 i2p_0.9.45x-1~xenial+1.debian.tar.xz
+ 3d918ecfb3e617af6d0886a79330a7d9f4efd81e9c8e579997230c344a5af56c 2113 i2p_0.9.45x-1~xenial+1.dsc
 Homepage: https://geti2p.net/
 Package-List: i2p deb net optional arch=all
  i2p-doc deb doc extra arch=all

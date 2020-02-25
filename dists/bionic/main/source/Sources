@@ -1,6 +1,6 @@
 Package: i2p
 Binary: i2p, libjbigi-jni, i2p-doc, i2p-router
-Version: 0.9.44-1ubuntu1
+Version: 0.9.45-1ubuntu1
 Section: net
 Maintainer: zzz <zzz@i2pmail.org>
 Build-Depends: debhelper (>= 9.20160709), ant (>= 1.8), debconf, openjdk-8-jdk, libjetty9-java (>= 9.4), libtaglibs-standard-jstlel-java, libtomcat8-java, dh-apparmor, bash-completion, gettext, libgetopt-java, libjson-simple-java (<< 3), libgmp-dev (>= 2:5.0.5), libservice-wrapper-java, po-debconf
@@ -9,17 +9,17 @@ Standards-Version: 3.9.8
 Format: 3.0 (quilt)
 Directory: pool/main/i/i2p
 Files: 
- f271778adcb6e036eb81a31d0882152a 6900544 i2p_0.9.44.orig.tar.bz2
- 67c2618b56e43ea0fd44e2e1228ada03 54372 i2p_0.9.44-1ubuntu1.debian.tar.xz
- a0a6a3b7c2f1f6eb6b8c99e1f0d1d971 2094 i2p_0.9.44-1ubuntu1.dsc
+ 3416fb827a4e38d200264c443cfdd2fd 6904253 i2p_0.9.45.orig.tar.bz2
+ 369edccde2b4841e6b0f4751195269f5 54996 i2p_0.9.45-1ubuntu1.debian.tar.xz
+ 3fc6cadf3e03bc1cc3c56e96a0f288b0 2094 i2p_0.9.45-1ubuntu1.dsc
 Checksums-Sha1: 
- 898011fe520333b0fc000f4f6e8745161d1b192e 6900544 i2p_0.9.44.orig.tar.bz2
- b5e10f5a1ebc816b7a3429d1766a324ca77027a1 54372 i2p_0.9.44-1ubuntu1.debian.tar.xz
- 0e196c4687e4c1c710e5812dc208310badeaf521 2094 i2p_0.9.44-1ubuntu1.dsc
+ d954b4a449e9976d1ee6009c91f0561d07455a99 6904253 i2p_0.9.45.orig.tar.bz2
+ 1509d25ea77b79a0ae66eac4bfca68b4540af0df 54996 i2p_0.9.45-1ubuntu1.debian.tar.xz
+ 3de6bdda6b213e29e620eead4c630f589bc5d85f 2094 i2p_0.9.45-1ubuntu1.dsc
 Checksums-Sha256: 
- d92e78f4965a4b8e9427dab46645d1c2d56b81a0a4998ff4b4d87cdf1897e100 6900544 i2p_0.9.44.orig.tar.bz2
- c4ad9c7a3b5c1cab6a683eccd9136f42da7df683b1a4d10d2f5b2055b689bba4 54372 i2p_0.9.44-1ubuntu1.debian.tar.xz
- 9697ebaddabc80191d1f96b85dcf7d3907b6e14fca01ce87688738aec425aa09 2094 i2p_0.9.44-1ubuntu1.dsc
+ 073cb69336bcf2866f62842192d128c8a61d1e4fc3a06f198f1e305b1c22b967 6904253 i2p_0.9.45.orig.tar.bz2
+ 9c3eb0c29029ef4eb901ee4320834b1fbe03eec31c072938fef759cb11a61bf9 54996 i2p_0.9.45-1ubuntu1.debian.tar.xz
+ da0c968449ead658fdd4e2f85da07c898f5eba54df20797daee3afccc7a01b96 2094 i2p_0.9.45-1ubuntu1.dsc
 Homepage: https://geti2p.net/
 Package-List: i2p deb net optional arch=all
  i2p-doc deb doc extra arch=all

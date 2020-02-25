@@ -4,13 +4,13 @@ Section: net
 Installed-Size: 627
 Maintainer: zzz <zzz@i2pmail.org>
 Architecture: all
-Version: 0.9.44p-1~precise+1
+Version: 0.9.45p-1~precise+1
 Depends: adduser, debconf, i2p-router (>= 0.8.6-5), libjbigi-jni, lsb-base (>= 3.0-6), service-wrapper
-Filename: pool/main/i/i2p/i2p_0.9.44p-1~precise+1_all.deb
-Size: 69182
-SHA256: bd0b59966f32aae341cab43e0e3bd286f4fbc9208090d319c2b2a62b472c5795
-SHA1: 13a51d023e6cd4edda5b5dd1ac897bb0726b1140
-MD5sum: 561e502e808af444fa045bcc71bbd5bc
+Filename: pool/main/i/i2p/i2p_0.9.45p-1~precise+1_all.deb
+Size: 70006
+SHA256: 8629199578a8fd599d21d8182c3296a3bb7faf8be8cfcff3c3259e75261d20a3
+SHA1: cce19122b0f7bebab5e8cb5fd408da3a0d607210
+MD5sum: 3aff30076e837691be1d024ef7856d97
 Description: Invisible Internet Project (I2P) - anonymous network
 Description-md5: af30cb5729ed02b68be39b03bbe331bf
 Bugs: mailto:zzz@i2pmail.org
@@ -19,16 +19,16 @@ Package: i2p-doc
 Source: i2p
 Priority: extra
 Section: doc
-Installed-Size: 70993
+Installed-Size: 71048
 Maintainer: zzz <zzz@i2pmail.org>
 Architecture: all
-Version: 0.9.44p-1~precise+1
+Version: 0.9.45p-1~precise+1
 Suggests: i2p, default-jdk-doc
-Filename: pool/main/i/i2p/i2p-doc_0.9.44p-1~precise+1_all.deb
-Size: 2995608
-SHA256: c0f8891af4685195047c73acc850145009526a2ed4bd2c7f4cb803f89cd388be
-SHA1: db5c43db65a9853fc1f6752993fb3561f9811ea8
-MD5sum: f8bf3447fe77092c915d1785007c344e
+Filename: pool/main/i/i2p/i2p-doc_0.9.45p-1~precise+1_all.deb
+Size: 2983272
+SHA256: 773db9e296217e93dd35f56460cf6d83f717c0ac1de2a249206c997943dba430
+SHA1: 1b085d8b76e1caee9b696e5a344d7e87daab44aa
+MD5sum: 3314d0b8517a69452aac5a9c37e3e0c2
 Description: Invisible Internet Project (I2P) - developer documentation
 Description-md5: a38a3343330ab23e4039d143d8b57c15
 Bugs: mailto:zzz@i2pmail.org
@@ -57,20 +57,20 @@ Package: i2p-router
 Source: i2p
 Priority: optional
 Section: net
-Installed-Size: 16425
+Installed-Size: 16517
 Maintainer: zzz <zzz@i2pmail.org>
 Architecture: all
-Version: 0.9.44p-1~precise+1
+Version: 0.9.45p-1~precise+1
 Recommends: libjbigi-jni, fonts-dejavu
 Replaces: i2p (<< 0.8.6-5)
 Suggests: apparmor, privoxy, syndie
 Depends: openjdk-8-jre-headless | openjdk-7-jre-headless | java8-runtime-headless | java7-runtime-headless, geoip-database, gettext-base, libgetopt-java, glassfish-javaee
 Breaks: i2p (<< 0.8.6-5)
-Filename: pool/main/i/i2p/i2p-router_0.9.44p-1~precise+1_all.deb
-Size: 13472658
-SHA256: 99ba72973cf6a30c61421f4a88b12fdaab49d07f8529123bc91963ed999404a5
-SHA1: 0b285717722b74f9b4371d2dc44d37b6226c6f7a
-MD5sum: ccdc1e9e7596bf9d21490c6f62c2da9f
+Filename: pool/main/i/i2p/i2p-router_0.9.45p-1~precise+1_all.deb
+Size: 13572750
+SHA256: 2344bf66dbb17bb88b7715219804cdca9d3acb4fa4f821b44d90a06aeb46bcc8
+SHA1: 49b3d8570c809e3e6bb425747c695304405ada7e
+MD5sum: dbf200dc0a9559c429aa4ce93b8d1243
 Description: Invisible Internet Project (I2P) - Router
 Description-md5: 356b1a9240ca1d1db0615e292b8169e7
 Bugs: mailto:zzz@i2pmail.org
@@ -82,13 +82,13 @@ Section: java
 Installed-Size: 44
 Maintainer: zzz <zzz@i2pmail.org>
 Architecture: amd64
-Version: 0.9.44p-1~precise+1
+Version: 0.9.45p-1~precise+1
 Depends: libc6 (>= 2.2.5), libgmp10, i2p-router
-Filename: pool/main/i/i2p/libjbigi-jni_0.9.44p-1~precise+1_amd64.deb
-Size: 4880
-SHA256: cb763f3586210ba8d2e96f903be2f3c6289c07f3b9a8f9bd8faea838a7a1ca73
-SHA1: 40420179c401d1b9e36b15ae065d6f50853bcad1
-MD5sum: 40bd4c8b55b602d862ab62c86df0d641
+Filename: pool/main/i/i2p/libjbigi-jni_0.9.45p-1~precise+1_amd64.deb
+Size: 4884
+SHA256: 29d6c33d4d86a01b8dd027a14f4ad808af0b457ce8373e0c0c99d7250388ca80
+SHA1: 91287ee26dbf0ba16333ed2609b633a967736e86
+MD5sum: eb6de6d6192854b22828c2d027022a45
 Description: Invisible Internet Project (I2P) - libjbigi library
 Description-md5: 9abc006aa799702ff868098881332bad
 Bugs: mailto:zzz@i2pmail.org
