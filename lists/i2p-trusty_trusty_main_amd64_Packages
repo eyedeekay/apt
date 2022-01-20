@@ -1,0 +1,161 @@
+Package: i2p
+Priority: optional
+Section: net
+Installed-Size: 642
+Maintainer: zzz <zzz@i2pmail.org>
+Architecture: all
+Version: 0.9.46p-1~trusty+1
+Depends: adduser, debconf, i2p-router (>= 0.8.6-5), libjbigi-jni, lsb-base (>= 3.0-6), service-wrapper
+Filename: pool/main/i/i2p/i2p_0.9.46p-1~trusty+1_all.deb
+Size: 70280
+MD5sum: 24c0344a138d7d985ca2cebce16cf90f
+SHA1: a26a80f96614ec38dd5f659a143123179ec61f41
+SHA256: 2245db173031d4b9656094173f688821fac082f51d3fe8f34722accab3a25951
+Description: Invisible Internet Project (I2P) - anonymous network
+Description-md5: af30cb5729ed02b68be39b03bbe331bf
+Bugs: mailto:zzz@i2pmail.org
+
+Package: i2p-doc
+Source: i2p
+Priority: extra
+Section: doc
+Installed-Size: 72408
+Maintainer: zzz <zzz@i2pmail.org>
+Architecture: all
+Version: 0.9.46p-1~trusty+1
+Suggests: i2p, default-jdk-doc
+Filename: pool/main/i/i2p/i2p-doc_0.9.46p-1~trusty+1_all.deb
+Size: 3056760
+MD5sum: 2508377e7f89082eb10eab7fafbe1195
+SHA1: b6cfd28c964056487ef033e50c943cd81c437c86
+SHA256: cb7a7764025900fa40e06b5f2ff2d9299ab47ba08e726a741dbda408e09a6456
+Description: Invisible Internet Project (I2P) - developer documentation
+Description-md5: a38a3343330ab23e4039d143d8b57c15
+Bugs: mailto:zzz@i2pmail.org
+
+Package: i2p-router
+Source: i2p
+Priority: optional
+Section: net
+Installed-Size: 17441
+Maintainer: zzz <zzz@i2pmail.org>
+Architecture: all
+Version: 0.9.46p-1~trusty+1
+Recommends: libjbigi-jni
+Replaces: i2p (<< 0.8.6-5)
+Suggests: apparmor, privoxy, syndie
+Depends: openjdk-8-jre-headless | openjdk-7-jre-headless | java8-runtime-headless | java7-runtime-headless, geoip-database, gettext-base, libgetopt-java, libjson-simple-java (<< 3), glassfish-javaee, famfamfam-flag-png
+Breaks: i2p (<< 0.8.6-5)
+Filename: pool/main/i/i2p/i2p-router_0.9.46p-1~trusty+1_all.deb
+Size: 14330712
+MD5sum: c87a0252a4cfa2e008b473d6e584d524
+SHA1: 486c3769dfc80678810a183308b1539e39463ab0
+SHA256: c931d0340114191cdfceed9b990913bbeac51f20b96a15f53ad2d2751ddd763b
+Description: Invisible Internet Project (I2P) - Router
+Description-md5: b09b6523ae336da4c30a1d1deee14532
+Bugs: mailto:zzz@i2pmail.org
+
+Package: libjbigi-jni
+Source: i2p
+Priority: optional
+Section: java
+Installed-Size: 44
+Maintainer: zzz <zzz@i2pmail.org>
+Architecture: amd64
+Version: 0.9.46p-1~trusty+1
+Depends: libc6 (>= 2.2.5), libgmp10, i2p-router
+Filename: pool/main/i/i2p/libjbigi-jni_0.9.46p-1~trusty+1_amd64.deb
+Size: 4884
+MD5sum: bf8effb8016564487af3aa9f48c9fa7b
+SHA1: c2f48730006993e0a61f8bba24b3b2888a7673be
+SHA256: b9ae80133a56a5c4473dab796a655d7b9c39f09518a2e02820120134b38e56ac
+Description: Invisible Internet Project (I2P) - libjbigi library
+Description-md5: 9abc006aa799702ff868098881332bad
+Bugs: mailto:zzz@i2pmail.org
+
+Package: libservice-wrapper-doc
+Source: service-wrapper-java
+Priority: optional
+Section: doc
+Installed-Size: 1994
+Maintainer: Kill Your TV <killyourtv@i2pmail.org>
+Architecture: all
+Version: 3.5.25-1ubuntu1
+Filename: pool/main/s/service-wrapper-java/libservice-wrapper-doc_3.5.25-1ubuntu1_all.deb
+Size: 168856
+MD5sum: 53a277dc58d3f2be38e366b7caf294d6
+SHA1: 48b5029c584552f0b561dc60dba61d02ed265161
+SHA256: 5f477f7e0efbcd198065c44068c227b3f7969cf721d88fce7385186c334f13cb
+Description: Jar daemon wrapper (javadoc files)
+Description-md5: 75a2fd80382d103fe1e27d263f169c94
+
+Package: libservice-wrapper-java
+Source: service-wrapper-java
+Priority: optional
+Section: java
+Installed-Size: 264
+Maintainer: Kill Your TV <killyourtv@i2pmail.org>
+Architecture: all
+Version: 3.5.25-1ubuntu1
+Depends: service-wrapper
+Filename: pool/main/s/service-wrapper-java/libservice-wrapper-java_3.5.25-1ubuntu1_all.deb
+Size: 219656
+MD5sum: 0f942263a69b1960a4c2b0171dfc7f0d
+SHA1: 53b71557ddeb5b96bdcfb932664da6303254b652
+SHA256: 124667f6f4eeb50fdd7c5d97ed93d383b13bcb538bb4f008d226301847fa8d58
+Description: Jar daemon wrapper java libraries
+Description-md5: 609e3c08b9f3180259a3f02706b9e374
+
+Package: libservice-wrapper-jni
+Source: service-wrapper-java
+Priority: optional
+Section: java
+Installed-Size: 71
+Maintainer: Kill Your TV <killyourtv@i2pmail.org>
+Architecture: amd64
+Version: 3.5.25-1ubuntu1
+Suggests: libservice-wrapper-doc
+Depends: libc6 (>= 2.14), service-wrapper, default-jre-headless | java5-runtime-headless | java6-runtime-headless
+Filename: pool/main/s/service-wrapper-java/libservice-wrapper-jni_3.5.25-1ubuntu1_amd64.deb
+Size: 14294
+MD5sum: 078362746080001f7a22f96a59ec6acf
+SHA1: bb3cb8614a97d493f5cb6215721359922550a8ba
+SHA256: 6549fc0c15f1a3f671414a2269303d96adee7fd2401c9ce1548a24fe265d24c6
+Description: Jar daemon wrapper JNI libraries
+Description-md5: 2487638ce372a9da038a5f06eb17f25a
+
+Package: service-wrapper
+Source: service-wrapper-java
+Priority: optional
+Section: java
+Installed-Size: 397
+Maintainer: Kill Your TV <killyourtv@i2pmail.org>
+Architecture: amd64
+Version: 3.5.25-1ubuntu1
+Depends: libc6 (>= 2.14), libservice-wrapper-java (>= 3.5.25-1ubuntu1), libservice-wrapper-jni (>= 3.5.25-1ubuntu1)
+Filename: pool/main/s/service-wrapper-java/service-wrapper_3.5.25-1ubuntu1_amd64.deb
+Size: 152390
+MD5sum: 90713b453e96fd54870dd8bc58c33a1a
+SHA1: 24789a676324d234de5e3b249a86462c2c5df002
+SHA256: d764c90054a25360876027ad35d8e72283cc06cb8cd412ee4c67018673383550
+Description: Jar daemon wrapper
+Description-md5: 55c730f30d08582a332d56d0b541cfcf
+
+Package: syndie
+Priority: extra
+Section: java
+Installed-Size: 4596
+Maintainer: Kill Your TV <killyourtv@i2pmail.org>
+Architecture: all
+Version: 1.107b-2ubuntu1
+Suggests: tor, freenet
+Depends: openjdk-9-jre | openjdk-8-jre | openjdk-7-jre | default-jre | java9-runtime | java8-runtime | java7-runtime, libswt-gtk-3-java, libhsqldb-java, i2p-router | i2p
+Enhances: i2p, i2p-router, tor
+Filename: pool/main/s/syndie/syndie_1.107b-2ubuntu1_all.deb
+Size: 4220986
+MD5sum: 69056e17c771fb3c46543f8e06f26c0b
+SHA1: 70296e8d4a5fc20a2315b73947b3c2314192b176
+SHA256: ae476672797154ef6dc25137ddb81a7e45e283aa79870a41daba0e8de95b4f1e
+Description: Syndie anonymous distributed forums
+Description-md5: 6ac3d9136577e5e981c1dbb49a9f93b2
+
