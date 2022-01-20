@@ -1,0 +1,62 @@
+2013-10-12 01:34:51 add experimental deb main i386 killyourtv-keyring 2013.10.11
+2013-10-12 01:34:51 add experimental deb main amd64 killyourtv-keyring 2013.10.11
+2013-10-12 01:34:51 add experimental deb main kfreebsd-i386 killyourtv-keyring 2013.10.11
+2013-10-12 01:34:51 add experimental deb main kfreebsd-amd64 killyourtv-keyring 2013.10.11
+2013-10-12 01:34:51 add experimental deb main armel killyourtv-keyring 2013.10.11
+2013-10-12 01:34:51 add experimental deb main powerpc killyourtv-keyring 2013.10.11
+2013-10-12 01:34:51 add experimental deb main armhf killyourtv-keyring 2013.10.11
+2013-10-12 01:34:51 add experimental dsc main source killyourtv-keyring 2013.10.11
+2013-10-12 02:16:41 replace experimental deb main i386 killyourtv-keyring 2013.10.12 2013.10.11
+2013-10-12 02:16:41 replace experimental deb main amd64 killyourtv-keyring 2013.10.12 2013.10.11
+2013-10-12 02:16:41 replace experimental deb main kfreebsd-i386 killyourtv-keyring 2013.10.12 2013.10.11
+2013-10-12 02:16:41 replace experimental deb main kfreebsd-amd64 killyourtv-keyring 2013.10.12 2013.10.11
+2013-10-12 02:16:41 replace experimental deb main armel killyourtv-keyring 2013.10.12 2013.10.11
+2013-10-12 02:16:41 replace experimental deb main powerpc killyourtv-keyring 2013.10.12 2013.10.11
+2013-10-12 02:16:41 replace experimental deb main armhf killyourtv-keyring 2013.10.12 2013.10.11
+2013-10-12 02:16:41 replace experimental dsc main source killyourtv-keyring 2013.10.12 2013.10.11
+2013-10-12 16:26:39 add experimental deb main i386 i2p-keyring 2013.10.12
+2013-10-12 16:26:39 add experimental deb main amd64 i2p-keyring 2013.10.12
+2013-10-12 16:26:39 add experimental deb main kfreebsd-i386 i2p-keyring 2013.10.12
+2013-10-12 16:26:39 add experimental deb main kfreebsd-amd64 i2p-keyring 2013.10.12
+2013-10-12 16:26:39 add experimental deb main armel i2p-keyring 2013.10.12
+2013-10-12 16:26:39 add experimental deb main powerpc i2p-keyring 2013.10.12
+2013-10-12 16:26:39 add experimental deb main armhf i2p-keyring 2013.10.12
+2013-10-12 16:26:39 add experimental dsc main source i2p-keyring 2013.10.12
+2013-10-12 16:27:51 replace experimental deb main i386 killyourtv-keyring 2013.10.12.1 2013.10.12
+2013-10-12 16:27:51 replace experimental deb main amd64 killyourtv-keyring 2013.10.12.1 2013.10.12
+2013-10-12 16:27:51 replace experimental deb main kfreebsd-i386 killyourtv-keyring 2013.10.12.1 2013.10.12
+2013-10-12 16:27:51 replace experimental deb main kfreebsd-amd64 killyourtv-keyring 2013.10.12.1 2013.10.12
+2013-10-12 16:27:51 replace experimental deb main armel killyourtv-keyring 2013.10.12.1 2013.10.12
+2013-10-12 16:27:51 replace experimental deb main powerpc killyourtv-keyring 2013.10.12.1 2013.10.12
+2013-10-12 16:27:51 replace experimental deb main armhf killyourtv-keyring 2013.10.12.1 2013.10.12
+2013-10-12 16:27:51 replace experimental dsc main source killyourtv-keyring 2013.10.12.1 2013.10.12
+2015-03-27 03:05:41 replace experimental deb main i386 killyourtv-keyring 2015.03.27.1 2013.10.12.1
+2015-03-27 03:05:41 replace experimental deb main amd64 killyourtv-keyring 2015.03.27.1 2013.10.12.1
+2015-03-27 03:05:41 replace experimental deb main kfreebsd-i386 killyourtv-keyring 2015.03.27.1 2013.10.12.1
+2015-03-27 03:05:41 replace experimental deb main kfreebsd-amd64 killyourtv-keyring 2015.03.27.1 2013.10.12.1
+2015-03-27 03:05:41 replace experimental deb main armel killyourtv-keyring 2015.03.27.1 2013.10.12.1
+2015-03-27 03:05:41 replace experimental deb main powerpc killyourtv-keyring 2015.03.27.1 2013.10.12.1
+2015-03-27 03:05:41 replace experimental deb main armhf killyourtv-keyring 2015.03.27.1 2013.10.12.1
+2015-03-27 03:05:41 replace experimental dsc main source killyourtv-keyring 2015.03.27.1 2013.10.12.1
+2019-07-24 17:46:02 add experimental deb main arm64 i2p-keyring 2013.10.12
+2019-07-24 17:46:02 add experimental deb main arm64 killyourtv-keyring 2015.03.27.1
+2019-07-24 17:46:13 add experimental deb main ppc64el i2p-keyring 2013.10.12
+2019-07-24 17:46:13 add experimental deb main ppc64el killyourtv-keyring 2015.03.27.1
+2019-07-24 17:46:25 add experimental deb main s390x i2p-keyring 2013.10.12
+2019-07-24 17:46:25 add experimental deb main s390x killyourtv-keyring 2015.03.27.1
+2019-11-03 19:58:21 replace experimental deb main i386 i2p-keyring 2019.09.21 2013.10.12
+2019-11-03 19:58:21 replace experimental deb main amd64 i2p-keyring 2019.09.21 2013.10.12
+2019-11-03 19:58:21 replace experimental deb main arm64 i2p-keyring 2019.09.21 2013.10.12
+2019-11-03 19:58:21 replace experimental deb main armhf i2p-keyring 2019.09.21 2013.10.12
+2019-11-03 19:58:21 replace experimental deb main ppc64el i2p-keyring 2019.09.21 2013.10.12
+2019-11-03 19:58:21 replace experimental deb main s390x i2p-keyring 2019.09.21 2013.10.12
+2019-11-03 19:58:21 replace experimental dsc main source i2p-keyring 2019.09.21 2013.10.12
+2020-02-25 18:00:17 replace experimental deb main armel i2p-keyring 2019.09.21 2013.10.12
+2021-09-10 17:36:11 replace experimental deb main i386 i2p-keyring 2021.09.10 2019.09.21
+2021-09-10 17:36:11 replace experimental deb main amd64 i2p-keyring 2021.09.10 2019.09.21
+2021-09-10 17:36:11 replace experimental deb main armel i2p-keyring 2021.09.10 2019.09.21
+2021-09-10 17:36:11 replace experimental deb main armhf i2p-keyring 2021.09.10 2019.09.21
+2021-09-10 17:36:11 replace experimental deb main arm64 i2p-keyring 2021.09.10 2019.09.21
+2021-09-10 17:36:11 replace experimental deb main ppc64el i2p-keyring 2021.09.10 2019.09.21
+2021-09-10 17:36:11 replace experimental deb main s390x i2p-keyring 2021.09.10 2019.09.21
+2021-09-10 17:36:24 replace experimental dsc main source i2p-keyring 2021.09.10 2019.09.21
