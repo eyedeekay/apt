@@ -1,0 +1,30 @@
+Package: i2p
+Binary: i2p, libjbigi-jni, i2p-doc, i2p-router
+Version: 0.9.50-1ubuntu1
+Section: net
+Maintainer: zzz <zzz@i2pmail.org>
+Build-Depends: debhelper (>= 9.20160709), ant (>= 1.9.8), debconf, default-jdk, libjetty9-java (>= 9.4), libtaglibs-standard-jstlel-java, libtomcat9-java, dh-apparmor, bash-completion, gettext, libgetopt-java, libjson-simple-java (>= 2), libjson-simple-java (<< 3), libgmp-dev (>= 2:5.0.5), libservice-wrapper-java, po-debconf
+Architecture: any all
+Standards-Version: 4.3.0
+Format: 3.0 (quilt)
+Directory: pool/main/i/i2p
+Files:
+ 1ee73295cd4c3ab679a72f50d07d2728 6743108 i2p_0.9.50.orig.tar.bz2
+ 12655e9b3c4d34bdc6bdd930369278c2 55788 i2p_0.9.50-1ubuntu1.debian.tar.xz
+ 30d9b8a854d7eaf85d545bc046c85f45 2220 i2p_0.9.50-1ubuntu1.dsc
+Checksums-Sha1:
+ b59a838bd8f056556a31499be9908b8d9c232d0a 6743108 i2p_0.9.50.orig.tar.bz2
+ 99507f20b09b69d038faf2bb026a373cb7f9f031 55788 i2p_0.9.50-1ubuntu1.debian.tar.xz
+ 00dbecdb910fff9b82bba33b7f50583767544059 2220 i2p_0.9.50-1ubuntu1.dsc
+Checksums-Sha256:
+ e427747a37d6e251b811d96713ff79906a9c4cd9b8f3db2708a04282a9132f63 6743108 i2p_0.9.50.orig.tar.bz2
+ fdf600f8a2c2c3d26a323ad7106aca7b51d865573b031e607def8966197b769e 55788 i2p_0.9.50-1ubuntu1.debian.tar.xz
+ 8877f27c4c94098ffbecce54f2acdefc53ff7c4f458a92b77c500ae8061d8e53 2220 i2p_0.9.50-1ubuntu1.dsc
+Homepage: https://geti2p.net/
+Package-List: i2p deb net optional arch=all
+ i2p-doc deb doc extra arch=all
+ i2p-router deb net optional arch=all
+ libjbigi-jni deb java optional arch=any
+Vcs-Git: https://salsa.debian.org/debian/i2p.git
+Vcs-Browser: https://salsa.debian.org/debian/i2p
+
