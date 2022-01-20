@@ -1,0 +1,10 @@
+Updates already processed for zesty:
+Target zesty|main|source
+Delete
+Index i2p-zesty_zesty_main_Sources :1:399ffd8ef05919e2b7388784bf751b68337e5872 :2:882c1e24d43516f3d72999be1a2e3b0cac7d98a47837f4079a5861a61c2de496 621b52a51242d13b311294c0110d1c80 1457
+Target zesty|main|amd64
+Delete
+Index i2p-zesty_zesty_main_amd64_Packages :1:640e0c03c6f2198c2f9bbd1c7eea75d54177fdc3 :2:090610b714d6c766c74119658c58f65085001754c63f4de4864d3bd967f5e535 f512238a10395304f411eef651946900 2651
+Target zesty|main|i386
+Delete
+Index i2p-zesty_zesty_main_i386_Packages :1:f801293945735122d368793b49f4a92afc11ca4f :2:b9296efd116ed3c7e64ff8f2f753da4497cbfccf76423e1667f6dbf4ee1173a4 e41a2167034b20f438256ed6549444e6 2649
