@@ -1,0 +1,205 @@
+service-wrapper-java (3.5.22-1~quantal1) quantal; urgency=low
+
+  * Upload to PPA
+
+ -- Kill Your TV <killyourtv@i2pmail.org>  Wed, 06 Nov 2013 01:05:14 +0000
+
+service-wrapper-java (3.5.22-1) unstable; urgency=low
+
+  * Imported Upstream version 3.5.22
+
+ -- Kill Your TV <killyourtv@i2pmail.org>  Tue, 05 Nov 2013 22:50:51 +0000
+
+service-wrapper-java (3.5.21-1) unstable; urgency=low
+
+  * Imported Upstream version 3.5.21
+  * refresh patches
+
+ -- Kill Your TV <killyourtv@i2pmail.org>  Sat, 12 Oct 2013 00:47:36 +0000
+
+service-wrapper-java (3.5.20-1+quantal1) quantal; urgency=low
+
+  * Upload to PPA
+
+ -- Kill Your TV <killyourtv@i2pmail.org>  Thu, 26 Sep 2013 18:01:26 +0000
+
+service-wrapper-java (3.5.20-1) unstable; urgency=low
+
+  * Imported Upstream version 3.5.20
+
+ -- Kill Your TV <killyourtv@i2pmail.org>  Sat, 10 Aug 2013 23:10:48 +0000
+
+service-wrapper-java (3.5.19-1+quantal1) quantal; urgency=low
+
+  * Upload to PPA
+
+ -- Kill Your TV <killyourtv@i2pmail.org>  Fri, 05 Jul 2013 21:34:50 +0000
+
+service-wrapper-java (3.5.19-1) unstable; urgency=low
+
+  * Imported Upstream version 3.5.19
+
+ -- Kill Your TV <killyourtv@i2pmail.org>  Mon, 17 Jun 2013 00:54:14 +0000
+
+service-wrapper-java (3.5.17-3~quantal1) quantal; urgency=low
+
+  * Upload to PPA
+
+ -- Kill Your TV <killyourtv@i2pmail.org>  Fri, 17 May 2013 21:01:03 +0000
+
+service-wrapper-java (3.5.17-3) unstable; urgency=low
+
+  * Re-depend on (>= ${source:Version})
+
+ -- Kill Your TV <killyourtv@i2pmail.org>  Fri, 17 May 2013 16:32:34 +0000
+
+service-wrapper-java (3.5.17-2) unstable; urgency=low
+
+  * harden build
+  * Build-depend on debhelper >=9
+
+ -- Kill Your TV <killyourtv@i2pmail.org>  Sun, 05 May 2013 23:30:16 +0000
+
+service-wrapper-java (3.5.17-1quantal1) quantal; urgency=low
+
+  * Uploading to PPA
+
+ -- Kill Your TV <killyourtv@i2pmail.org>  Wed, 02 Jan 2013 19:57:22 +0000
+
+service-wrapper-java (3.5.17-1) unstable; urgency=low
+
+  * New upstream release
+
+ -- Kill Your TV <killyourtv@i2pmail.org>  Fri, 21 Dec 2012 22:11:10 +0000
+
+service-wrapper-java (3.5.16-1~quantal1) quantal; urgency=low
+
+  * Upload to PPA
+
+ -- Kill Your TV <killyourtv@i2pmail.org>  Wed, 14 Nov 2012 21:09:40 +0000
+
+service-wrapper-java (3.5.16-1) unstable; urgency=low
+
+  * Imported Upstream version 3.5.16
+
+ -- Kill Your TV <killyourtv@i2pmail.org>  Sat, 03 Nov 2012 20:04:28 +0000
+
+service-wrapper-java (3.5.15-1precise1) precise; urgency=low
+
+  * Upload to PPA
+
+ -- Kill Your TV <killyourtv@i2pmail.org>  Sat, 21 Jul 2012 14:02:19 +0000
+
+service-wrapper-java (3.5.15-1) unstable; urgency=low
+
+  * New upstream version
+
+ -- Kill Your TV <killyourtv@i2pmail.org>  Mon, 25 Jun 2012 00:27:11 +0000
+
+service-wrapper-java (3.5.14-1) unstable; urgency=low
+
+  * Imported Upstream version 3.5.14
+
+ -- Kill Your TV <killyourtv@i2pmail.org>  Fri, 17 Feb 2012 15:35:10 +0000
+
+service-wrapper-java (3.5.13-1) unstable; urgency=low
+
+  * Imported Upstream version 3.5.13
+
+ -- Kill Your TV <killyourtv@i2pmail.org>  Sat, 26 Nov 2011 12:58:47 +0000
+
+service-wrapper-java (3.5.12-1) unstable; urgency=low
+
+  * Imported Upstream version 3.5.12
+  * remove umask patch
+
+ -- Kill Your TV <killyourtv@i2pmail.org>  Thu, 29 Sep 2011 21:10:10 +0000
+
+service-wrapper-java (3.5.11-2) unstable; urgency=low
+
+  * Apply patch from upstream svn repo to fix the bug I reported upstream at
+    https://sourceforge.net/tracker/?func=detail&atid=425187&aid=3408967&group_id=39428
+
+ -- Kill Your TV <killyourtv@i2pmail.org>  Tue, 20 Sep 2011 21:34:10 +0000
+
+service-wrapper-java (3.5.11-1) unstable; urgency=low
+
+  * New upstream version 3.5.11
+
+ -- Kill Your TV <killyourtv@i2pmail.org>  Fri, 16 Sep 2011 00:08:59 +0000
+
+service-wrapper-java (3.5.10-2) unstable; urgency=low
+
+  * Only add javadocs to javadoc package (oops)
+  * Place javadoc package in the correct section
+
+ -- Kill Your TV <killyourtv@i2pmail.org>  Mon, 08 Aug 2011 19:59:37 +0000
+
+service-wrapper-java (3.5.10-1) unstable; urgency=low
+
+  * New upstream version
+  * Now packaging javadocs
+
+ -- Kill Your TV <killyourtv@i2pmail.org>  Sun, 07 Aug 2011 20:51:09 +0000
+
+service-wrapper-java (3.5.9-6) unstable; urgency=low
+
+  * Depend on -headless java packages
+
+ -- Kill Your TV <killyourtv@i2pmail.org>  Mon, 01 Aug 2011 14:55:08 +0000
+
+service-wrapper-java (3.5.9-5) unstable; urgency=low
+
+  * Fix the multi-arch support in the package. I made the mistake of adding
+    "any" where it should have said "all" and vice versa. Oops.
+  * Add patches to add makefiles for X64 Windows and Linux on arm. Sure,
+    Debian doesn't support Windows, but I2P does. I wanted a place to keep
+    this patch.
+
+ -- Kill Your TV <killyourtv@i2pmail.org>  Tue, 26 Jul 2011 19:44:08 +0000
+
+service-wrapper-java (3.5.9-4) unstable; urgency=low
+
+  * Allow any arch to be built. 
+
+ -- Kill Your TV <killyourtv@i2pmail.org>  Mon, 25 Jul 2011 19:53:50 +0000
+
+service-wrapper-java (3.5.9-3) unstable; urgency=low
+
+  * split preinst scripts
+  * add manpage taken from the package in Debian experimental (3.5.3-2)
+
+ -- Kill Your TV <killyourtv@i2pmail.org>  Thu, 26 May 2011 17:20:11 +0000
+
+service-wrapper-java (3.5.9-2) experimental; urgency=low
+
+  * Standards version bump (no changes needed)
+  * Symlink doc/libservice-wrapper-java and libservice-wrapper-jni to
+    doc/service-wrapper
+  * Remove obsolete build-dep on default-jdk-builddep
+
+ -- Kill Your TV <killyourtv@i2pmail.org>  Fri, 20 May 2011 14:18:02 +0000
+
+service-wrapper-java (3.5.9-1) experimental; urgency=low
+
+  * New upstream release
+
+ -- Kill Your TV <killyourtv@i2pmail.org>  Sat, 14 May 2011 16:39:39 +0000
+
+service-wrapper-java (3.5.8-1~exp1) experimental; urgency=low
+
+  * New upstream
+
+ -- Kill Your TV <killyourtv@i2pmail.org>  Thu, 28 Apr 2011 21:23:24 +0000
+
+service-wrapper-java (3.5.7-1) stable; urgency=low
+
+  * New upstream
+
+ -- Kill Your TV <killyourtv@mail.i2p>  Tue, 01 Feb 2011 23:09:03 +0000
+
+service-wrapper-java (3.5.6-1) unstable; urgency=low
+
+  * Initial release
+
+ -- Kill Your TV <killyourtv@mail.i2p>  Wed, 19 Jan 2011 18:31:45 +0000
