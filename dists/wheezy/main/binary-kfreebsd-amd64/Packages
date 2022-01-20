@@ -1,0 +1,372 @@
+Package: anoncoin-qt
+Source: anoncoin
+Version: 0.8.5.6-1~deb7u1+1
+Architecture: kfreebsd-amd64
+Maintainer: Kill Your TV <killyourtv@i2pmail.org>
+Installed-Size: 6619
+Depends: libboost-filesystem1.49.0 (>= 1.49.0-1), libboost-program-options1.49.0 (>= 1.49.0-1), libboost-system1.49.0 (>= 1.49.0-1), libboost-thread1.49.0 (>= 1.49.0-1), libc0.1 (>= 2.4), libdb5.1++, libgcc1 (>= 1:4.1.1), libminiupnpc5, libqrencode3 (>= 3.2.0), libqt4-dbus (>= 4:4.5.3), libqt4-network (>= 4:4.5.3), libqtcore4 (>= 4:4.8.0), libqtgui4 (>= 4:4.8.0), libssl1.0.0 (>= 1.0.0), libstdc++6 (>= 4.6)
+Recommends: i2p | i2p-router, tor
+Suggests: db-util
+Homepage: https://anoncoin.net/
+Priority: optional
+Section: utils
+Filename: pool/main/a/anoncoin/anoncoin-qt_0.8.5.6-1~deb7u1+1_kfreebsd-amd64.deb
+Size: 1954220
+SHA256: 583d8aad5cab04562393e35b8196ed766d23904eb939b2d17400cb774f6d8724
+SHA1: 681faf2de3844aa20f6befdc7da9ef3681da234a
+MD5sum: 666a1cf430210afac69586969400b8d0
+Description: peer-to-peer network based digital currency - Qt GUI
+ Anoncoin is a free open source peer-to-peer electronic cash system that
+ is completely decentralized, without the need for a central server or
+ trusted parties.  Users hold the crypto keys to their own money and
+ transact directly with each other, with the help of a P2P network to
+ check for double-spending. Anoncoin is a fork of Bitcoin.
+ .
+ Full transaction history is stored locally at each client.
+ This requires 200 MB+ of space, slowly growing.
+ .
+ This package provides Anoncoin-Qt, a GUI for Anoncoin based on Qt.
+
+Package: anoncoind
+Source: anoncoin
+Version: 0.8.5.6-1~deb7u1+1
+Architecture: kfreebsd-amd64
+Maintainer: Kill Your TV <killyourtv@i2pmail.org>
+Installed-Size: 3249
+Depends: libboost-filesystem1.49.0 (>= 1.49.0-1), libboost-program-options1.49.0 (>= 1.49.0-1), libboost-system1.49.0 (>= 1.49.0-1), libboost-thread1.49.0 (>= 1.49.0-1), libc0.1 (>= 2.4), libdb5.1++, libgcc1 (>= 1:4.1.1), libminiupnpc5, libssl1.0.0 (>= 1.0.0), libstdc++6 (>= 4.6), zlib1g (>= 1:1.1.4)
+Recommends: i2p | i2p-router, tor
+Suggests: db-util
+Homepage: https://anoncoin.net/
+Priority: optional
+Section: utils
+Filename: pool/main/a/anoncoin/anoncoind_0.8.5.6-1~deb7u1+1_kfreebsd-amd64.deb
+Size: 812744
+SHA256: b24cd09a255f55ba22515ff5471f8e23afbc232e96ebdb7a615270cf9440e7ff
+SHA1: 393179e74ad40cb1578e16c211a6ef734b8457f1
+MD5sum: 8ba3c298e0f6988b209be71854087b84
+Description: peer-to-peer network based digital currency - daemon
+ Anoncoin is a free open source peer-to-peer electronic cash system that
+ is completely decentralized, without the need for a central server or
+ trusted parties.  Users hold the crypto keys to their own money and
+ transact directly with each other, with the help of a P2P network to
+ check for double-spending. Anoncoin is a fork of Bitcoin.
+ .
+ Full transaction history is stored locally at each client.
+ This requires 200 MB+ of space, slowly growing.
+ .
+ This package provides anoncoind, a combined daemon and CLI tool to
+ interact with the daemon.
+
+Package: i2p
+Version: 0.9.18-1~deb7u+1
+Architecture: all
+Bugs: mailto:killyourtv@i2pmail.org
+Maintainer: Kill Your TV <killyourtv@i2pmail.org>
+Installed-Size: 166
+Depends: adduser, debconf, i2p-router (>= 0.8.6-5), libjbigi-jni, lsb-base, service-wrapper
+Homepage: https://geti2p.net
+Priority: optional
+Section: net
+Filename: pool/main/i/i2p/i2p_0.9.18-1~deb7u+1_all.deb
+Size: 31326
+SHA256: cec28abbd7a4428f29c7ad8cad3c0dee1ba0e01daf22a87aacb488f30ad56138
+SHA1: 412d1d838363fc9e2ad51a0dc08a15b35dd9b085
+MD5sum: 4d8c6c47ccd4bcbdd601932f70f198d1
+Description: Load-balanced unspoofable packet switching network
+ I2P is an anonymizing network, offering a simple layer that identity-sensitive
+ applications can use to securely communicate. All data is wrapped with several
+ layers of encryption, and the network is both distributed and dynamic, with no
+ trusted parties.
+ .
+ This package depends on the router, jbigi, the java service wrapper, and
+ includes support to run I2P as a daemon.
+
+Package: i2p-doc
+Source: i2p
+Version: 0.9.18-1~deb7u+1
+Architecture: all
+Bugs: mailto:killyourtv@i2pmail.org
+Maintainer: Kill Your TV <killyourtv@i2pmail.org>
+Installed-Size: 54858
+Suggests: i2p, default-jdk-doc
+Homepage: https://geti2p.net
+Priority: optional
+Section: doc
+Filename: pool/main/i/i2p/i2p-doc_0.9.18-1~deb7u+1_all.deb
+Size: 2080008
+SHA256: b3a18e9d6c1d10683d4739cf8e8a2d87adfc748967120cc9fbb06bf51b1491a6
+SHA1: 9201e288c0a7dc8d575a2e76c7cd086064359a66
+MD5sum: 30683ab677ca2f7dc763fa9d7e499fe3
+Description: Documentation for I2P
+ I2P is an anonymizing network, offering a simple layer that identity-sensitive
+ applications can use to securely communicate. All data is wrapped with several
+ layers of encryption, and the network is both distributed and dynamic, with no
+ trusted parties.
+ .
+ This package contains the Javadoc files.
+
+Package: i2p-keyring
+Version: 2014.09.25
+Architecture: all
+Maintainer: Kill Your TV <killyourtv@i2pmail.org>
+Installed-Size: 41
+Depends: gnupg, coreutils (>= 7.4)
+Recommends: killyourtv-keyring
+Priority: extra
+Section: misc
+Filename: pool/main/i/i2p-keyring/i2p-keyring_2014.09.25_all.deb
+Size: 9740
+SHA256: 1e70a4625ae2a34e2b38aee03a1cde6d5383dc5b02ca4dbc169deb20c9fb655b
+SHA1: 94cf680feb0b5bbc7f639bfcda1d26bbf50f51fe
+MD5sum: d2791752105bf817de1d03dcd5a25dd3
+Description: GnuPG keys of the I2P package repository
+ This package provides digital keys used for signing I2P's repositories.
+ Upon instalation of this package, your APT trusted keyring will updated with
+ these keys. Upon removal of this package, the keys provided by this package
+ will be removed from the APT trusted keyring.
+
+Package: i2p-router
+Source: i2p
+Version: 0.9.18-1~deb7u+1
+Architecture: all
+Bugs: mailto:killyourtv@i2pmail.org
+Maintainer: Kill Your TV <killyourtv@i2pmail.org>
+Installed-Size: 14354
+Depends: openjdk-8-jre-headless | openjdk-7-jre-headless | openjdk-6-jre-headless | default-jre-headless | java8-runtime-headless | java7-runtime-headless | java6-runtime-headless, libecj-java
+Recommends: libjbigi-jni, ttf-dejavu
+Suggests: tor, apparmor, i2p-messenger, i2phex, i2p-tahoe-lafs, imule, irc-client, itoopie, mail-client, mail-reader, news-reader, polipo, privoxy, robert, syndie, www-browser, xul-ext-torbutton
+Breaks: i2p (<< 0.8.6-5)
+Replaces: i2p (<< 0.8.6-5)
+Homepage: https://geti2p.net
+Priority: optional
+Section: net
+Filename: pool/main/i/i2p/i2p-router_0.9.18-1~deb7u+1_all.deb
+Size: 10541270
+SHA256: b96632eeb66f83ab5d42a1f867d30695f6516ca040b262abe7a56edc4ad8ae68
+SHA1: 329c77aa0783a4bc4327f17c39404e2e797c6690
+MD5sum: ac347b53d23a7776f5ad1ab8825b2f80
+Description: Load-balanced unspoofable packet switching network
+ I2P is an anonymizing network, offering a simple layer that identity-sensitive
+ applications can use to securely communicate. All data is wrapped with several
+ layers of encryption, and the network is both distributed and dynamic, with no
+ trusted parties.
+ .
+ TrueType fonts (such as those provided in the package ttf-dejavu) are required
+ in order to generate graphs.
+
+Package: i2pd
+Version: 0.8.0-1~deb7u+1
+Architecture: kfreebsd-amd64
+Maintainer: Kill Your TV <killyourtv@i2pmail.org>
+Installed-Size: 2202
+Pre-Depends: adduser
+Depends: libboost-date-time1.49.0 (>= 1.49.0-1), libboost-filesystem1.49.0 (>= 1.49.0-1), libboost-program-options1.49.0 (>= 1.49.0-1), libboost-regex1.49.0 (>= 1.49.0-1), libboost-system1.49.0 (>= 1.49.0-1), libc0.1 (>= 2.4), libcrypto++9, libgcc1 (>= 1:4.1.1), libstdc++6 (>= 4.6)
+Recommends: privoxy
+Suggests: tor
+Homepage: https://privacysolutions.no/
+Priority: optional
+Section: net
+Filename: pool/main/i/i2pd/i2pd_0.8.0-1~deb7u+1_kfreebsd-amd64.deb
+Size: 909192
+SHA256: cff9124e3d12ecd0a4b8753425d3d6c4d30eb6a9dce6b73aa9055d7bc337e36e
+SHA1: 9857e394102a1c688849304da7c54408f0241fa0
+MD5sum: 512532293fd7fc270746960f74307aff
+Description: load-balanced unspoofable packet switching network - C++ port
+ I2P is an anonymizing network, offering a simple layer that identity-sensitive
+ applications can use to securely communicate. All data is wrapped with several
+ layers of encryption, and the network is both distributed and dynamic, with no
+ trusted parties.
+ .
+ This package contains the port of the I2P router to C++. Unless willing
+ to test and report problems, you should install the 'i2p' package instead.
+
+Package: i2pd-dbg
+Source: i2pd
+Version: 0.8.0-1~deb7u+1
+Architecture: kfreebsd-amd64
+Maintainer: Kill Your TV <killyourtv@i2pmail.org>
+Installed-Size: 15703
+Depends: i2pd (= 0.8.0-1~deb7u+1)
+Homepage: https://privacysolutions.no/
+Priority: extra
+Section: debug
+Filename: pool/main/i/i2pd/i2pd-dbg_0.8.0-1~deb7u+1_kfreebsd-amd64.deb
+Size: 14863346
+SHA256: 57149b83809251c9b6c3be40bee574817324b438067aad70d4447b5d64b0e88f
+SHA1: 7aa272d82fb33c8a10394de418487894ae911e1b
+MD5sum: 81ed36e67d32460d49d17947f645fa45
+Description: i2pd debugging symbols
+ I2P is an anonymizing network, offering a simple layer that identity-sensitive
+ applications can use to securely communicate. All data is wrapped with several
+ layers of encryption, and the network is both distributed and dynamic, with no
+ trusted parties.
+ .
+ This package contains symbols required for debugging.
+
+Package: killyourtv-keyring
+Version: 2015.03.27.1
+Architecture: all
+Maintainer: Kill Your TV <killyourtv@i2pmail.org>
+Installed-Size: 44
+Depends: gnupg, coreutils (>= 7.4), i2p-keyring
+Priority: extra
+Section: misc
+Filename: pool/main/k/killyourtv-keyring/killyourtv-keyring_2015.03.27.1_all.deb
+Size: 12906
+SHA256: e3254e2e94827d8a96e1c12117ad014228316ed1e84cb9e0ae2f5e7c61e0f3e8
+SHA1: 429087beaea13597dbcd229651663468e2902ab1
+MD5sum: 21afd35581800ad3a2c4ba69053cd63b
+Description: GnuPG keys of KillYourTV's repository
+ This package provides digital keys used for signing KillYourTV's repositories.
+ Upon instalation of this package, your APT trusted keyring will updated with
+ these keys. Upon removal of this package, the keys provided by this package
+ will be removed from the APT trusted keyring.
+
+Package: libjbigi-jni
+Source: i2p
+Version: 0.9.18-1~deb7u+1
+Architecture: kfreebsd-amd64
+Bugs: mailto:killyourtv@i2pmail.org
+Maintainer: Kill Your TV <killyourtv@i2pmail.org>
+Installed-Size: 16
+Depends: libc0.1 (>= 2.3), libgmp10, i2p-router
+Homepage: http://www.i2p2.de/jbigi
+Priority: optional
+Section: java
+Filename: pool/main/i/i2p/libjbigi-jni_0.9.18-1~deb7u+1_kfreebsd-amd64.deb
+Size: 3808
+SHA256: 37d7dfac3f524dafd96c45d2f64335fbf152fb078288d220eb4746da3f85e4b9
+SHA1: d7bd379f2349202505fb6aef17f1bfc32e615576
+MD5sum: 0f1afba365aba383014fe7f0730b6931
+Description: Java Big Integer library
+ This Package contains the libjbigi JNI library (and on x86 platforms, jcpuid).
+ .
+ libjbigi is a math library that is part of the I2P installation.  Use of this
+ library greatly enhances the efficiency of cryptographic algorithms, such as
+ the ones used by I2P. You can expect to see a 5-7x speed improvement on certain
+ tasks, such as elGamal encryption/decryption.
+
+Package: libservice-wrapper-doc
+Source: service-wrapper-java
+Version: 3.5.25-1~deb7u+1
+Architecture: all
+Maintainer: Kill Your TV <killyourtv@i2pmail.org>
+Installed-Size: 2119
+Homepage: http://wrapper.tanukisoftware.com
+Priority: optional
+Section: doc
+Filename: pool/main/s/service-wrapper-java/libservice-wrapper-doc_3.5.25-1~deb7u+1_all.deb
+Size: 226306
+SHA256: a1eb1e78ddf31d7fdeb7cada2c99bb1814c30ecff0f99aa9a49f309c31ad2010
+SHA1: 508a74ae1fe5b2d19e0a82261c71104e7e90c889
+MD5sum: 10fe52b355de64cbd21ac72fe9f14fad
+Description: Jar daemon wrapper (javadoc files)
+ The Java Service Wrapper makes very easy to install a Java Application as a
+ daemon process on Unix systems. The Wrapper monitors a JVM (Java Virtual
+ Machine) process and automatically restarts it if it that the JVM has crashed
+ or hung. This process takes just a few seconds once the Wrapper has decided
+ there is a problem. It also gives the ability to handle process priority.
+ .
+ This package contains the javadoc files.
+
+Package: libservice-wrapper-java
+Source: service-wrapper-java
+Version: 3.5.25-1~deb7u+1
+Architecture: all
+Maintainer: Kill Your TV <killyourtv@i2pmail.org>
+Installed-Size: 264
+Depends: service-wrapper
+Homepage: http://wrapper.tanukisoftware.com
+Priority: optional
+Section: java
+Filename: pool/main/s/service-wrapper-java/libservice-wrapper-java_3.5.25-1~deb7u+1_all.deb
+Size: 221048
+SHA256: 5541ece84a27b8836ae7749bac16d2e25e7a9f388aef103237a75f7069471740
+SHA1: 090e7a9840587cf0bf57000da514b9d8a3dc5637
+MD5sum: f5e6100fa03e80e56a6db76d7ee0c90f
+Description: Jar daemon wrapper java libraries
+ This Package contains the Java jar libraries used by the Java Service Wrapper.
+ It can be used to handle wrapper specific attributes.
+ .
+ The Java Service Wrapper makes very easy to install a Java Application as a
+ daemon process on Unix systems. The Wrapper monitors a JVM (Java Virtual
+ Machine) process and automatically restarts it if it that the JVM has crashed
+ or hung. This process takes just a few seconds once the Wrapper has decided
+ there is a problem. It also gives the ability to handle process priority.
+
+Package: libservice-wrapper-jni
+Source: service-wrapper-java
+Version: 3.5.25-1~deb7u+1
+Architecture: kfreebsd-amd64
+Maintainer: Kill Your TV <killyourtv@i2pmail.org>
+Installed-Size: 49
+Depends: libc0.1 (>= 2.3), service-wrapper, default-jre-headless | java5-runtime-headless | java6-runtime-headless
+Suggests: libservice-wrapper-doc
+Homepage: http://wrapper.tanukisoftware.com
+Priority: optional
+Section: java
+Filename: pool/main/s/service-wrapper-java/libservice-wrapper-jni_3.5.25-1~deb7u+1_kfreebsd-amd64.deb
+Size: 16392
+SHA256: c8d5d787077bdcd30f6567e17c9d2ee37ff2fec7dce5542d6031d8ed9f7116a2
+SHA1: 2f5214844a36f7496246ad2b15cfd7784f04a450
+MD5sum: 1ef1f4968f6599f326c49beaf82461b9
+Description: Jar daemon wrapper JNI libraries
+ This Package contains the JNI libraries used by the Java Service Wrapper.
+ .
+ The Java Service Wrapper makes very easy to install a Java Application as a
+ daemon process on Unix systems. The Wrapper monitors a JVM (Java Virtual
+ Machine) process and automatically restarts it if it that the JVM has crashed
+ or hung. This process takes just a few seconds once the Wrapper has decided
+ there is a problem. It also gives the ability to handle process priority.
+
+Package: service-wrapper
+Source: service-wrapper-java
+Version: 3.5.25-1~deb7u+1
+Architecture: kfreebsd-amd64
+Maintainer: Kill Your TV <killyourtv@i2pmail.org>
+Installed-Size: 416
+Depends: libc0.1 (>= 2.3), libservice-wrapper-java (>= 3.5.25-1~deb7u+1), libservice-wrapper-jni (>= 3.5.25-1~deb7u+1)
+Homepage: http://wrapper.tanukisoftware.com
+Priority: optional
+Section: java
+Filename: pool/main/s/service-wrapper-java/service-wrapper_3.5.25-1~deb7u+1_kfreebsd-amd64.deb
+Size: 169312
+SHA256: 9f2098bafa5d0c16d842cfae32866050d1926c5467acd5b7302eac0dfd83a565
+SHA1: 41da5a1dd2429517778320096a02eba3e79c78a2
+MD5sum: c01c0a3314c6d248d6988ef6b02b7fe2
+Description: Jar daemon wrapper
+ The Java Service Wrapper makes very easy to install a Java Application as a
+ daemon process on Unix systems. The Wrapper monitors a JVM (Java Virtual
+ Machine) process and automatically restarts it if it that the JVM has crashed
+ or hung. This process takes just a few seconds once the Wrapper has decided
+ there is a problem. It also gives the ability to handle process priority.
+
+Package: syndie
+Version: 1.105b-1
+Architecture: all
+Maintainer: Kill Your TV <killyourtv@i2pmail.org>
+Installed-Size: 5846
+Depends: default-jre | java5-runtime | java6-runtime, libswt-cairo-gtk-3-jni, libswt-gtk-3-java, i2p-router | i2p, jarwrapper
+Suggests: tor, freenet
+Enhances: i2p, i2p-router, tor
+Homepage: http://syndie.de
+Priority: extra
+Section: java
+Filename: pool/main/s/syndie/syndie_1.105b-1_all.deb
+Size: 5494460
+SHA256: 8ac7eb451f733065b68faaed4498b54d2219cf19aab8aa804b0140a0d9859cc8
+SHA1: 98d6c65c752e506788e6958c13dff25319f14886
+MD5sum: 7584d632c17afa401eb0dcd17883fa67
+Description: open source system for operating distributed forums
+ Syndie is java-based open source system for operating secure distributed
+ forums.
+ .
+ Some of the features include:
+  - Decentralized forums
+  - Private forums
+  - Offline browsing
+  - Secure reader
+ .
+ At its core, Syndie is a content layer with a defined file format and
+ cryptographic algorithms.
+
