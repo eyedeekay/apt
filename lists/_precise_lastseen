@@ -1,0 +1,22 @@
+Updates already processed for precise:
+Target precise|main|source
+Delete
+Index i2p-precise_precise_main_Sources :1:a359882a5531610e7f99fcec53dd90d93a029842 :2:1e254eb853a6eef3569e7d0c46c3ae8b9db42a57ea2f3274e781b7704015503a ef2ec5812f16d9e35ea474c2584cfd40 4301
+Target precise|main|s390x
+Delete
+Target precise|main|ppc64el
+Delete
+Target precise|main|powerpc
+Delete
+Index i2p-precise_precise_main_powerpc_Packages :1:b3f0e3780561d69f21003139d50be042b31cf1ee :2:cc4c8c242ffadbee6b9ba5eaaa9c824ca5ea25b88cde866d7647f7d0d7205ce6 255575959f0e8bac6f21989c3af4392e 4506
+Target precise|main|armhf
+Delete
+Index i2p-precise_precise_main_armhf_Packages :1:f52fd8bab357fb2723e267124bbed7b13d8d7ad8 :2:7de630a12bc676402a90f9976dc6cf2a9c00c33080fbfc982cdff590c09a1b97 2f5dba79709ad6c6aaeaafe46fc1cc4d 4510
+Target precise|main|arm64
+Delete
+Target precise|main|amd64
+Delete
+Index i2p-precise_precise_main_amd64_Packages :1:01f8292f9b4c609f78764c7d6be692b81503bca8 :2:f9cdc4fa75d381abab757a3650c1c9bf4960fefa5f7b7f3d6889451b7cfd217c f0d593b7bc014b130811b5162ec42bf5 5891
+Target precise|main|i386
+Delete
+Index i2p-precise_precise_main_i386_Packages :1:e139f0128d066a7c654f6bcb3a4ffffae69a91aa :2:96ef4fab95a36ca7bf768162564b14cacba9ce2125030ed5c52f878de0c66018 7d1ec1f00a7c3976e9ae6de3c7726845 5883
