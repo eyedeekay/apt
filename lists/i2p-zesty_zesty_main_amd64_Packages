@@ -1,0 +1,75 @@
+Package: i2p
+Priority: optional
+Section: net
+Installed-Size: 338
+Maintainer: zzz <zzz@i2pmail.org>
+Architecture: all
+Version: 0.9.32-1ubuntu1
+Depends: adduser, debconf, i2p-router (>= 0.8.6-5), libjbigi-jni, lsb-base (>= 3.0-6), service-wrapper
+Filename: pool/main/i/i2p/i2p_0.9.32-1ubuntu1_all.deb
+Size: 61710
+MD5sum: 1a2370c13cfc584ac6f710ae6be2e40b
+SHA1: 8c8dab73b5c197761deb3e51ec7855572e4c96ae
+SHA256: b1bab75a63e3390fc20433cc058611b9a7b73f3613e33591f9fee9c810e32f3c
+Description: Anonymous network (I2P)
+Description-md5: 8928f35d2fc881f87602ede2469309c0
+Bugs: mailto:zzz@i2pmail.org
+
+Package: i2p-doc
+Source: i2p
+Priority: extra
+Section: doc
+Installed-Size: 64491
+Maintainer: zzz <zzz@i2pmail.org>
+Architecture: all
+Version: 0.9.32-1ubuntu1
+Suggests: i2p, default-jdk-doc
+Filename: pool/main/i/i2p/i2p-doc_0.9.32-1ubuntu1_all.deb
+Size: 2597466
+MD5sum: 33e3585f52ff3079e9f860763c760574
+SHA1: a6b0a5815783f80ae87ccc3f2700268968bb1e1c
+SHA256: 6df57fcbd60f4c1a64a471407788527f816111de44e70887017349fec4cb8e4a
+Description: I2P developer documentation
+Description-md5: d7f14013406adebd1d08800d7374b041
+Bugs: mailto:zzz@i2pmail.org
+
+Package: libjbigi-jni
+Source: i2p
+Priority: optional
+Section: java
+Installed-Size: 25
+Maintainer: zzz <zzz@i2pmail.org>
+Architecture: amd64
+Version: 0.9.32-1ubuntu1
+Depends: libc6 (>= 2.4), libgmp10 (>= 2:5.0.2), i2p-router
+Filename: pool/main/i/i2p/libjbigi-jni_0.9.32-1ubuntu1_amd64.deb
+Size: 4902
+MD5sum: 9db11c07e7a56291a09b9999d0e74ff6
+SHA1: 8007c4f418776d94a6560878c1372a6c795b34e5
+SHA256: aa288f6005cea97d97c94b8e6bcc8300493b799a7f2017d68afead64ab005776
+Description: I2P libjbigi library
+Description-md5: d98ba584e7990f88e89129e1d5857186
+Bugs: mailto:zzz@i2pmail.org
+
+Package: i2p-router
+Source: i2p
+Priority: optional
+Section: net
+Installed-Size: 12695
+Maintainer: zzz <zzz@i2pmail.org>
+Architecture: all
+Version: 0.9.32-1ubuntu1
+Recommends: libjbigi-jni, ttf-dejavu
+Replaces: i2p (<< 0.8.6-5)
+Suggests: tor, apparmor, i2p-messenger, i2phex, i2p-tahoe-lafs, imule, irc-client, itoopie, mail-client, mail-reader, news-reader, polipo, privoxy, robert, syndie, www-browser, xul-ext-torbutton
+Depends: openjdk-8-jre-headless | java8-runtime-headless, libjetty9-java, glassfish-javaee, libtomcat8-java, geoip-database, gettext-base, libgetopt-java
+Breaks: i2p (<< 0.8.6-5)
+Filename: pool/main/i/i2p/i2p-router_0.9.32-1ubuntu1_all.deb
+Size: 9114748
+MD5sum: 849435fa1096b4278fde4fb9ecc57343
+SHA1: a363d23f1002f4a56a0b3f86943fa8770e0924aa
+SHA256: 22b26fd72e550e89505add84d3e59f4f40fd35833ed3784838eb979fd5788383
+Description: Router for I2P
+Description-md5: 6a3e86ed060e1d943f4b83865acc0a55
+Bugs: mailto:zzz@i2pmail.org
+
