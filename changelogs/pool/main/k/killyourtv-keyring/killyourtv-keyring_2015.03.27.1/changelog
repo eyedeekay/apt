@@ -1,0 +1,51 @@
+killyourtv-keyring (2015.03.27.1) unstable; urgency=medium
+
+  * Extended expiration for another year
+
+ -- Kill Your TV <killyourtv@i2pmail.org>  Fri, 27 Mar 2015 01:49:14 +0000
+
+killyourtv-keyring (2013.10.12.1) unstable; urgency=low
+
+  * Remove deb.i2p2.no key
+  * Depend on i2p-keyring package
+
+ -- Kill Your TV <killyourtv@i2pmail.org>  Sat, 12 Oct 2013 14:09:28 +0000
+
+killyourtv-keyring (2013.10.12) unstable; urgency=low
+
+  * Add deb.i2p2.no key
+
+ -- Kill Your TV <killyourtv@i2pmail.org>  Sat, 12 Oct 2013 00:14:17 +0000
+
+killyourtv-keyring (2013.04.06) unstable; urgency=low
+
+  * Switch to a signing only key
+  * Bump standards version (no changes needed)
+
+ -- Kill Your TV <killyourtv@i2pmail.org>  Sat, 06 Apr 2013 16:41:11 +0000
+
+killyourtv-keyring (2013.03.20) unstable; urgency=low
+
+  * Switch to scripts based on pkg-kde-archive package.
+  * Add new 4096 bit key which will be signing the repository in the
+    future.
+
+ -- Kill Your TV <killyourtv@i2pmail.org>  Wed, 20 Mar 2013 00:55:43 +0000
+
+killyourtv-keyring (2011.12.20) stable; urgency=low
+
+  * Updated key
+
+ -- Kill Your TV <killyourtv@i2pmail.org>  Tue, 20 Dec 2011 21:31:00 +0000
+
+killyourtv-keyring (2011.01.15) stable; urgency=low
+
+  * Switched to binary keyring
+
+ -- Kill Your TV <killyourtv@mail.i2p>  Sat, 15 Jan 2011 02:53:25 +0000
+
+killyourtv-keyring (2011.01.12) stable; urgency=low
+
+  * Initial release.
+
+ -- Kill Your TV <killyourtv@mail.i2p>  Wed, 12 Jan 2011 16:43:18 +0000
