@@ -1,0 +1,57 @@
+Package: anoncoind
+Source: anoncoin
+Priority: optional
+Section: utils
+Installed-Size: 2680
+Maintainer: Kill Your TV <killyourtv@i2pmail.org>
+Architecture: amd64
+Version: 0.8.5.6-1ubuntu1~saucy1
+Recommends: i2p | i2p-router, tor
+Suggests: db-util
+Depends: libboost-filesystem1.53.0, libboost-program-options1.53.0, libboost-system1.53.0, libboost-thread1.53.0, libc6 (>= 2.15), libdb5.1++, libgcc1 (>= 1:4.1.1), libleveldb1, libminiupnpc8 (>= 1.6), libssl1.0.0 (>= 1.0.0), libstdc++6 (>= 4.6)
+Filename: pool/main/a/anoncoin/anoncoind_0.8.5.6-1ubuntu1~saucy1_amd64.deb
+Size: 674630
+MD5sum: d379b6390a6562b34d817bc74e8d863b
+SHA1: a5adcf393121a3f8d5c3d6f6a9443d164624cf71
+SHA256: 71547771b0d0e013de6d857f2a6b82e5502f7657cb5d2929a3e420664d1c3875
+Description: peer-to-peer network based digital currency - daemon
+ Anoncoin is a free open source peer-to-peer electronic cash system that
+ is completely decentralized, without the need for a central server or
+ trusted parties.  Users hold the crypto keys to their own money and
+ transact directly with each other, with the help of a P2P network to
+ check for double-spending. Anoncoin is a fork of Bitcoin.
+ .
+ Full transaction history is stored locally at each client.
+ This requires 200 MB+ of space, slowly growing.
+ .
+ This package provides anoncoind, a combined daemon and CLI tool to
+ interact with the daemon.
+
+Package: anoncoin-qt
+Source: anoncoin
+Priority: optional
+Section: utils
+Installed-Size: 5850
+Maintainer: Kill Your TV <killyourtv@i2pmail.org>
+Architecture: amd64
+Version: 0.8.5.6-1ubuntu1~saucy1
+Recommends: i2p | i2p-router, tor
+Suggests: db-util
+Depends: libboost-filesystem1.53.0, libboost-program-options1.53.0, libboost-system1.53.0, libboost-thread1.53.0, libc6 (>= 2.15), libdb5.1++, libgcc1 (>= 1:4.1.1), libleveldb1, libminiupnpc8 (>= 1.6), libqrencode3 (>= 3.2.0), libqt4-dbus (>= 4:4.5.3), libqt4-network (>= 4:4.5.3), libqtcore4 (>= 4:4.8.0), libqtgui4 (>= 4:4.8.0), libssl1.0.0 (>= 1.0.0), libstdc++6 (>= 4.6)
+Filename: pool/main/a/anoncoin/anoncoin-qt_0.8.5.6-1ubuntu1~saucy1_amd64.deb
+Size: 1788406
+MD5sum: 21da64f089400fa43e796ebf47cdf206
+SHA1: fcf7a1e00b1dc300f56dd7393cdec93a6014290a
+SHA256: 656558d07a95c178582f180eda0801f4c9ad26c12af7d1fbbe0e89484e89fd48
+Description: peer-to-peer network based digital currency - Qt GUI
+ Anoncoin is a free open source peer-to-peer electronic cash system that
+ is completely decentralized, without the need for a central server or
+ trusted parties.  Users hold the crypto keys to their own money and
+ transact directly with each other, with the help of a P2P network to
+ check for double-spending. Anoncoin is a fork of Bitcoin.
+ .
+ Full transaction history is stored locally at each client.
+ This requires 200 MB+ of space, slowly growing.
+ .
+ This package provides Anoncoin-Qt, a GUI for Anoncoin based on Qt.
+
