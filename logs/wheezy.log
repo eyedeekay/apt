@@ -1,0 +1,1645 @@
+2013-10-12 01:21:18 add wheezy dsc main source i2p 0.9.8-2
+2013-10-12 01:21:18 add wheezy deb main amd64 libjbigi-jni 0.9.8-2
+2013-10-12 01:21:18 add wheezy deb main i386 i2p 0.9.8-2
+2013-10-12 01:21:18 add wheezy deb main amd64 i2p 0.9.8-2
+2013-10-12 01:21:18 add wheezy deb main kfreebsd-i386 i2p 0.9.8-2
+2013-10-12 01:21:18 add wheezy deb main kfreebsd-amd64 i2p 0.9.8-2
+2013-10-12 01:21:18 add wheezy deb main armel i2p 0.9.8-2
+2013-10-12 01:21:18 add wheezy deb main powerpc i2p 0.9.8-2
+2013-10-12 01:21:18 add wheezy deb main armhf i2p 0.9.8-2
+2013-10-12 01:21:18 add wheezy deb main i386 i2p-router 0.9.8-2
+2013-10-12 01:21:18 add wheezy deb main amd64 i2p-router 0.9.8-2
+2013-10-12 01:21:18 add wheezy deb main kfreebsd-i386 i2p-router 0.9.8-2
+2013-10-12 01:21:18 add wheezy deb main kfreebsd-amd64 i2p-router 0.9.8-2
+2013-10-12 01:21:18 add wheezy deb main armel i2p-router 0.9.8-2
+2013-10-12 01:21:18 add wheezy deb main powerpc i2p-router 0.9.8-2
+2013-10-12 01:21:18 add wheezy deb main armhf i2p-router 0.9.8-2
+2013-10-12 01:27:49 add wheezy deb main i386 libjbigi-jni 0.9.8-2
+2013-10-12 01:31:16 add wheezy dsc main source killyourtv-keyring 2013.10.11
+2013-10-12 01:31:16 add wheezy deb main i386 killyourtv-keyring 2013.10.11
+2013-10-12 01:31:16 add wheezy deb main amd64 killyourtv-keyring 2013.10.11
+2013-10-12 01:31:16 add wheezy deb main kfreebsd-i386 killyourtv-keyring 2013.10.11
+2013-10-12 01:31:16 add wheezy deb main kfreebsd-amd64 killyourtv-keyring 2013.10.11
+2013-10-12 01:31:16 add wheezy deb main armel killyourtv-keyring 2013.10.11
+2013-10-12 01:31:16 add wheezy deb main powerpc killyourtv-keyring 2013.10.11
+2013-10-12 01:31:16 add wheezy deb main armhf killyourtv-keyring 2013.10.11
+2013-10-12 01:41:16 add wheezy deb main armel libjbigi-jni 0.9.8-2
+2013-10-12 01:41:16 add wheezy deb main armhf libjbigi-jni 0.9.8-2
+2013-10-12 01:41:17 add wheezy deb main kfreebsd-amd64 libjbigi-jni 0.9.8-2
+2013-10-12 01:41:17 add wheezy deb main kfreebsd-i386 libjbigi-jni 0.9.8-2
+2013-10-12 02:05:29 add wheezy dsc main source service-wrapper-java 3.5.22-1
+2013-10-12 02:05:29 add wheezy deb main amd64 service-wrapper 3.5.22-1
+2013-10-12 02:05:29 add wheezy deb main i386 libservice-wrapper-java 3.5.22-1
+2013-10-12 02:05:29 add wheezy deb main amd64 libservice-wrapper-java 3.5.22-1
+2013-10-12 02:05:29 add wheezy deb main kfreebsd-i386 libservice-wrapper-java 3.5.22-1
+2013-10-12 02:05:29 add wheezy deb main kfreebsd-amd64 libservice-wrapper-java 3.5.22-1
+2013-10-12 02:05:29 add wheezy deb main armel libservice-wrapper-java 3.5.22-1
+2013-10-12 02:05:29 add wheezy deb main powerpc libservice-wrapper-java 3.5.22-1
+2013-10-12 02:05:29 add wheezy deb main armhf libservice-wrapper-java 3.5.22-1
+2013-10-12 02:05:29 add wheezy deb main amd64 libservice-wrapper-jni 3.5.22-1
+2013-10-12 02:05:29 add wheezy deb main i386 libservice-wrapper-doc 3.5.22-1
+2013-10-12 02:05:29 add wheezy deb main amd64 libservice-wrapper-doc 3.5.22-1
+2013-10-12 02:05:29 add wheezy deb main kfreebsd-i386 libservice-wrapper-doc 3.5.22-1
+2013-10-12 02:05:29 add wheezy deb main kfreebsd-amd64 libservice-wrapper-doc 3.5.22-1
+2013-10-12 02:05:29 add wheezy deb main armel libservice-wrapper-doc 3.5.22-1
+2013-10-12 02:05:29 add wheezy deb main powerpc libservice-wrapper-doc 3.5.22-1
+2013-10-12 02:05:29 add wheezy deb main armhf libservice-wrapper-doc 3.5.22-1
+2013-10-12 02:06:01 add wheezy deb main i386 service-wrapper 3.5.22-1
+2013-10-12 02:06:01 add wheezy deb main i386 libservice-wrapper-jni 3.5.22-1
+2013-10-12 02:16:05 replace wheezy dsc main source killyourtv-keyring 2013.10.12 2013.10.11
+2013-10-12 02:16:05 replace wheezy deb main i386 killyourtv-keyring 2013.10.12 2013.10.11
+2013-10-12 02:16:05 replace wheezy deb main amd64 killyourtv-keyring 2013.10.12 2013.10.11
+2013-10-12 02:16:05 replace wheezy deb main kfreebsd-i386 killyourtv-keyring 2013.10.12 2013.10.11
+2013-10-12 02:16:05 replace wheezy deb main kfreebsd-amd64 killyourtv-keyring 2013.10.12 2013.10.11
+2013-10-12 02:16:05 replace wheezy deb main armel killyourtv-keyring 2013.10.12 2013.10.11
+2013-10-12 02:16:05 replace wheezy deb main powerpc killyourtv-keyring 2013.10.12 2013.10.11
+2013-10-12 02:16:05 replace wheezy deb main armhf killyourtv-keyring 2013.10.12 2013.10.11
+2013-10-12 02:35:11 remove wheezy deb main i386 libservice-wrapper-doc 3.5.22-1
+2013-10-12 02:35:11 remove wheezy deb main i386 libservice-wrapper-java 3.5.22-1
+2013-10-12 02:35:11 remove wheezy deb main i386 libservice-wrapper-jni 3.5.22-1
+2013-10-12 02:35:11 remove wheezy deb main i386 service-wrapper 3.5.22-1
+2013-10-12 02:35:11 remove wheezy deb main amd64 libservice-wrapper-doc 3.5.22-1
+2013-10-12 02:35:11 remove wheezy deb main amd64 libservice-wrapper-java 3.5.22-1
+2013-10-12 02:35:11 remove wheezy deb main amd64 libservice-wrapper-jni 3.5.22-1
+2013-10-12 02:35:11 remove wheezy deb main amd64 service-wrapper 3.5.22-1
+2013-10-12 02:35:11 remove wheezy deb main kfreebsd-i386 libservice-wrapper-doc 3.5.22-1
+2013-10-12 02:35:11 remove wheezy deb main kfreebsd-i386 libservice-wrapper-java 3.5.22-1
+2013-10-12 02:35:11 remove wheezy deb main kfreebsd-amd64 libservice-wrapper-doc 3.5.22-1
+2013-10-12 02:35:11 remove wheezy deb main kfreebsd-amd64 libservice-wrapper-java 3.5.22-1
+2013-10-12 02:35:11 remove wheezy deb main armel libservice-wrapper-doc 3.5.22-1
+2013-10-12 02:35:11 remove wheezy deb main armel libservice-wrapper-java 3.5.22-1
+2013-10-12 02:35:11 remove wheezy deb main powerpc libservice-wrapper-doc 3.5.22-1
+2013-10-12 02:35:11 remove wheezy deb main powerpc libservice-wrapper-java 3.5.22-1
+2013-10-12 02:35:11 remove wheezy deb main armhf libservice-wrapper-doc 3.5.22-1
+2013-10-12 02:35:11 remove wheezy deb main armhf libservice-wrapper-java 3.5.22-1
+2013-10-12 02:35:11 remove wheezy dsc main source service-wrapper-java 3.5.22-1
+2013-10-12 03:05:17 add wheezy dsc main source service-wrapper-java 3.5.21-1
+2013-10-12 03:05:17 add wheezy deb main amd64 service-wrapper 3.5.21-1
+2013-10-12 03:05:17 add wheezy deb main i386 libservice-wrapper-java 3.5.21-1
+2013-10-12 03:05:17 add wheezy deb main amd64 libservice-wrapper-java 3.5.21-1
+2013-10-12 03:05:17 add wheezy deb main kfreebsd-i386 libservice-wrapper-java 3.5.21-1
+2013-10-12 03:05:17 add wheezy deb main kfreebsd-amd64 libservice-wrapper-java 3.5.21-1
+2013-10-12 03:05:17 add wheezy deb main armel libservice-wrapper-java 3.5.21-1
+2013-10-12 03:05:17 add wheezy deb main powerpc libservice-wrapper-java 3.5.21-1
+2013-10-12 03:05:17 add wheezy deb main armhf libservice-wrapper-java 3.5.21-1
+2013-10-12 03:05:17 add wheezy deb main amd64 libservice-wrapper-jni 3.5.21-1
+2013-10-12 03:05:17 add wheezy deb main i386 libservice-wrapper-doc 3.5.21-1
+2013-10-12 03:05:17 add wheezy deb main amd64 libservice-wrapper-doc 3.5.21-1
+2013-10-12 03:05:17 add wheezy deb main kfreebsd-i386 libservice-wrapper-doc 3.5.21-1
+2013-10-12 03:05:17 add wheezy deb main kfreebsd-amd64 libservice-wrapper-doc 3.5.21-1
+2013-10-12 03:05:17 add wheezy deb main armel libservice-wrapper-doc 3.5.21-1
+2013-10-12 03:05:17 add wheezy deb main powerpc libservice-wrapper-doc 3.5.21-1
+2013-10-12 03:05:17 add wheezy deb main armhf libservice-wrapper-doc 3.5.21-1
+2013-10-12 03:05:23 add wheezy deb main i386 service-wrapper 3.5.21-1
+2013-10-12 03:05:23 add wheezy deb main i386 libservice-wrapper-jni 3.5.21-1
+2013-10-12 03:05:27 add wheezy deb main kfreebsd-i386 service-wrapper 3.5.21-1
+2013-10-12 03:05:27 add wheezy deb main kfreebsd-i386 libservice-wrapper-jni 3.5.21-1
+2013-10-12 03:05:30 add wheezy deb main kfreebsd-amd64 service-wrapper 3.5.21-1
+2013-10-12 03:05:30 add wheezy deb main kfreebsd-amd64 libservice-wrapper-jni 3.5.21-1
+2013-10-12 03:41:05 add wheezy deb main armhf libservice-wrapper-jni 3.5.21-1
+2013-10-12 03:41:05 add wheezy deb main armhf service-wrapper 3.5.21-1
+2013-10-12 13:25:36 add wheezy deb main armel libservice-wrapper-jni 3.5.21-1
+2013-10-12 13:25:36 add wheezy deb main armel service-wrapper 3.5.21-1
+2013-10-12 16:23:35 add wheezy dsc main source i2p-keyring 2013.10.12
+2013-10-12 16:23:35 add wheezy deb main i386 i2p-keyring 2013.10.12
+2013-10-12 16:23:35 add wheezy deb main amd64 i2p-keyring 2013.10.12
+2013-10-12 16:23:35 add wheezy deb main kfreebsd-i386 i2p-keyring 2013.10.12
+2013-10-12 16:23:35 add wheezy deb main kfreebsd-amd64 i2p-keyring 2013.10.12
+2013-10-12 16:23:35 add wheezy deb main armel i2p-keyring 2013.10.12
+2013-10-12 16:23:35 add wheezy deb main powerpc i2p-keyring 2013.10.12
+2013-10-12 16:23:35 add wheezy deb main armhf i2p-keyring 2013.10.12
+2013-10-12 16:25:42 replace wheezy dsc main source killyourtv-keyring 2013.10.12.1 2013.10.12
+2013-10-12 16:25:42 replace wheezy deb main i386 killyourtv-keyring 2013.10.12.1 2013.10.12
+2013-10-12 16:25:42 replace wheezy deb main amd64 killyourtv-keyring 2013.10.12.1 2013.10.12
+2013-10-12 16:25:42 replace wheezy deb main kfreebsd-i386 killyourtv-keyring 2013.10.12.1 2013.10.12
+2013-10-12 16:25:42 replace wheezy deb main kfreebsd-amd64 killyourtv-keyring 2013.10.12.1 2013.10.12
+2013-10-12 16:25:42 replace wheezy deb main armel killyourtv-keyring 2013.10.12.1 2013.10.12
+2013-10-12 16:25:42 replace wheezy deb main powerpc killyourtv-keyring 2013.10.12.1 2013.10.12
+2013-10-12 16:25:42 replace wheezy deb main armhf killyourtv-keyring 2013.10.12.1 2013.10.12
+2013-10-13 00:19:50 add wheezy dsc main source syndie 1.103b-4+deb7u1
+2013-10-13 00:19:50 add wheezy deb main i386 syndie 1.103b-4+deb7u1
+2013-10-13 00:19:50 add wheezy deb main amd64 syndie 1.103b-4+deb7u1
+2013-10-13 00:19:50 add wheezy deb main kfreebsd-i386 syndie 1.103b-4+deb7u1
+2013-10-13 00:19:50 add wheezy deb main kfreebsd-amd64 syndie 1.103b-4+deb7u1
+2013-10-13 00:19:50 add wheezy deb main armel syndie 1.103b-4+deb7u1
+2013-10-13 00:19:50 add wheezy deb main powerpc syndie 1.103b-4+deb7u1
+2013-10-13 00:19:50 add wheezy deb main armhf syndie 1.103b-4+deb7u1
+2013-10-13 19:07:40 add wheezy deb main powerpc service-wrapper 3.5.21-1
+2013-10-13 19:07:40 add wheezy deb main powerpc libservice-wrapper-jni 3.5.21-1
+2013-10-13 19:23:37 add wheezy deb main powerpc libjbigi-jni 0.9.8-2
+2013-11-06 01:16:48 replace wheezy dsc main source i2p 0.9.8.1-1~deb7u1 0.9.8-2
+2013-11-06 01:16:48 replace wheezy deb main amd64 libjbigi-jni 0.9.8.1-1~deb7u1 0.9.8-2
+2013-11-06 01:16:48 replace wheezy deb main i386 i2p 0.9.8.1-1~deb7u1 0.9.8-2
+2013-11-06 01:16:48 replace wheezy deb main amd64 i2p 0.9.8.1-1~deb7u1 0.9.8-2
+2013-11-06 01:16:48 replace wheezy deb main kfreebsd-i386 i2p 0.9.8.1-1~deb7u1 0.9.8-2
+2013-11-06 01:16:48 replace wheezy deb main kfreebsd-amd64 i2p 0.9.8.1-1~deb7u1 0.9.8-2
+2013-11-06 01:16:48 replace wheezy deb main armel i2p 0.9.8.1-1~deb7u1 0.9.8-2
+2013-11-06 01:16:48 replace wheezy deb main powerpc i2p 0.9.8.1-1~deb7u1 0.9.8-2
+2013-11-06 01:16:48 replace wheezy deb main armhf i2p 0.9.8.1-1~deb7u1 0.9.8-2
+2013-11-06 01:16:48 replace wheezy deb main i386 i2p-router 0.9.8.1-1~deb7u1 0.9.8-2
+2013-11-06 01:16:48 replace wheezy deb main amd64 i2p-router 0.9.8.1-1~deb7u1 0.9.8-2
+2013-11-06 01:16:48 replace wheezy deb main kfreebsd-i386 i2p-router 0.9.8.1-1~deb7u1 0.9.8-2
+2013-11-06 01:16:48 replace wheezy deb main kfreebsd-amd64 i2p-router 0.9.8.1-1~deb7u1 0.9.8-2
+2013-11-06 01:16:48 replace wheezy deb main armel i2p-router 0.9.8.1-1~deb7u1 0.9.8-2
+2013-11-06 01:16:48 replace wheezy deb main powerpc i2p-router 0.9.8.1-1~deb7u1 0.9.8-2
+2013-11-06 01:16:48 replace wheezy deb main armhf i2p-router 0.9.8.1-1~deb7u1 0.9.8-2
+2013-11-06 01:17:03 replace wheezy deb main i386 libjbigi-jni 0.9.8.1-1~deb7u1 0.9.8-2
+2013-11-06 01:17:07 replace wheezy deb main kfreebsd-amd64 libjbigi-jni 0.9.8.1-1~deb7u1 0.9.8-2
+2013-11-06 01:17:11 replace wheezy deb main kfreebsd-i386 libjbigi-jni 0.9.8.1-1~deb7u1 0.9.8-2
+2013-11-06 01:19:36 replace wheezy deb main powerpc libjbigi-jni 0.9.8.1-1~deb7u1 0.9.8-2
+2013-11-06 01:19:40 replace wheezy deb main armhf libjbigi-jni 0.9.8.1-1~deb7u1 0.9.8-2
+2013-11-06 01:28:29 replace wheezy dsc main source service-wrapper-java 3.5.22-1~deb7u1 3.5.21-1
+2013-11-06 01:28:29 replace wheezy deb main amd64 service-wrapper 3.5.22-1~deb7u1 3.5.21-1
+2013-11-06 01:28:29 replace wheezy deb main i386 libservice-wrapper-java 3.5.22-1~deb7u1 3.5.21-1
+2013-11-06 01:28:29 replace wheezy deb main amd64 libservice-wrapper-java 3.5.22-1~deb7u1 3.5.21-1
+2013-11-06 01:28:29 replace wheezy deb main kfreebsd-i386 libservice-wrapper-java 3.5.22-1~deb7u1 3.5.21-1
+2013-11-06 01:28:29 replace wheezy deb main kfreebsd-amd64 libservice-wrapper-java 3.5.22-1~deb7u1 3.5.21-1
+2013-11-06 01:28:29 replace wheezy deb main armel libservice-wrapper-java 3.5.22-1~deb7u1 3.5.21-1
+2013-11-06 01:28:29 replace wheezy deb main powerpc libservice-wrapper-java 3.5.22-1~deb7u1 3.5.21-1
+2013-11-06 01:28:29 replace wheezy deb main armhf libservice-wrapper-java 3.5.22-1~deb7u1 3.5.21-1
+2013-11-06 01:28:29 replace wheezy deb main amd64 libservice-wrapper-jni 3.5.22-1~deb7u1 3.5.21-1
+2013-11-06 01:28:29 replace wheezy deb main i386 libservice-wrapper-doc 3.5.22-1~deb7u1 3.5.21-1
+2013-11-06 01:28:29 replace wheezy deb main amd64 libservice-wrapper-doc 3.5.22-1~deb7u1 3.5.21-1
+2013-11-06 01:28:29 replace wheezy deb main kfreebsd-i386 libservice-wrapper-doc 3.5.22-1~deb7u1 3.5.21-1
+2013-11-06 01:28:29 replace wheezy deb main kfreebsd-amd64 libservice-wrapper-doc 3.5.22-1~deb7u1 3.5.21-1
+2013-11-06 01:28:29 replace wheezy deb main armel libservice-wrapper-doc 3.5.22-1~deb7u1 3.5.21-1
+2013-11-06 01:28:29 replace wheezy deb main powerpc libservice-wrapper-doc 3.5.22-1~deb7u1 3.5.21-1
+2013-11-06 01:28:29 replace wheezy deb main armhf libservice-wrapper-doc 3.5.22-1~deb7u1 3.5.21-1
+2013-11-06 01:28:36 replace wheezy deb main i386 service-wrapper 3.5.22-1~deb7u1 3.5.21-1
+2013-11-06 01:28:36 replace wheezy deb main i386 libservice-wrapper-jni 3.5.22-1~deb7u1 3.5.21-1
+2013-11-06 01:28:41 replace wheezy deb main kfreebsd-amd64 service-wrapper 3.5.22-1~deb7u1 3.5.21-1
+2013-11-06 01:28:41 replace wheezy deb main kfreebsd-amd64 libservice-wrapper-jni 3.5.22-1~deb7u1 3.5.21-1
+2013-11-06 01:28:46 replace wheezy deb main kfreebsd-i386 service-wrapper 3.5.22-1~deb7u1 3.5.21-1
+2013-11-06 01:28:46 replace wheezy deb main kfreebsd-i386 libservice-wrapper-jni 3.5.22-1~deb7u1 3.5.21-1
+2013-11-06 01:29:17 replace wheezy deb main armhf service-wrapper 3.5.22-1~deb7u1 3.5.21-1
+2013-11-06 01:29:17 replace wheezy deb main armhf libservice-wrapper-jni 3.5.22-1~deb7u1 3.5.21-1
+2013-11-06 01:29:25 replace wheezy deb main powerpc service-wrapper 3.5.22-1~deb7u1 3.5.21-1
+2013-11-06 01:29:25 replace wheezy deb main powerpc libservice-wrapper-jni 3.5.22-1~deb7u1 3.5.21-1
+2013-11-06 01:29:55 replace wheezy deb main armel service-wrapper 3.5.22-1~deb7u1 3.5.21-1
+2013-11-06 01:29:55 replace wheezy deb main armel libservice-wrapper-jni 3.5.22-1~deb7u1 3.5.21-1
+2013-11-06 01:37:36 replace wheezy deb main armel libjbigi-jni 0.9.8.1-1~deb7u1 0.9.8-2
+2013-12-07 22:16:16 replace wheezy dsc main source i2p 0.9.9-1deb7u1 0.9.8.1-1~deb7u1
+2013-12-07 22:16:17 replace wheezy deb main amd64 libjbigi-jni 0.9.9-1deb7u1 0.9.8.1-1~deb7u1
+2013-12-07 22:16:17 replace wheezy deb main i386 i2p 0.9.9-1deb7u1 0.9.8.1-1~deb7u1
+2013-12-07 22:16:17 replace wheezy deb main amd64 i2p 0.9.9-1deb7u1 0.9.8.1-1~deb7u1
+2013-12-07 22:16:17 replace wheezy deb main kfreebsd-i386 i2p 0.9.9-1deb7u1 0.9.8.1-1~deb7u1
+2013-12-07 22:16:17 replace wheezy deb main kfreebsd-amd64 i2p 0.9.9-1deb7u1 0.9.8.1-1~deb7u1
+2013-12-07 22:16:17 replace wheezy deb main armel i2p 0.9.9-1deb7u1 0.9.8.1-1~deb7u1
+2013-12-07 22:16:17 replace wheezy deb main powerpc i2p 0.9.9-1deb7u1 0.9.8.1-1~deb7u1
+2013-12-07 22:16:17 replace wheezy deb main armhf i2p 0.9.9-1deb7u1 0.9.8.1-1~deb7u1
+2013-12-07 22:16:17 replace wheezy deb main i386 i2p-router 0.9.9-1deb7u1 0.9.8.1-1~deb7u1
+2013-12-07 22:16:17 replace wheezy deb main amd64 i2p-router 0.9.9-1deb7u1 0.9.8.1-1~deb7u1
+2013-12-07 22:16:17 replace wheezy deb main kfreebsd-i386 i2p-router 0.9.9-1deb7u1 0.9.8.1-1~deb7u1
+2013-12-07 22:16:17 replace wheezy deb main kfreebsd-amd64 i2p-router 0.9.9-1deb7u1 0.9.8.1-1~deb7u1
+2013-12-07 22:16:17 replace wheezy deb main armel i2p-router 0.9.9-1deb7u1 0.9.8.1-1~deb7u1
+2013-12-07 22:16:17 replace wheezy deb main powerpc i2p-router 0.9.9-1deb7u1 0.9.8.1-1~deb7u1
+2013-12-07 22:16:17 replace wheezy deb main armhf i2p-router 0.9.9-1deb7u1 0.9.8.1-1~deb7u1
+2013-12-07 22:16:52 replace wheezy deb main i386 libjbigi-jni 0.9.9-1deb7u1 0.9.8.1-1~deb7u1
+2013-12-07 22:43:08 replace wheezy deb main armhf libjbigi-jni 0.9.9-1deb7u1 0.9.8.1-1~deb7u1
+2013-12-07 22:55:22 replace wheezy deb main powerpc libjbigi-jni 0.9.9-1deb7u1 0.9.8.1-1~deb7u1
+2013-12-07 22:55:48 replace wheezy deb main kfreebsd-amd64 libjbigi-jni 0.9.9-1deb7u1 0.9.8.1-1~deb7u1
+2013-12-07 22:56:09 replace wheezy deb main kfreebsd-i386 libjbigi-jni 0.9.9-1deb7u1 0.9.8.1-1~deb7u1
+2013-12-07 23:15:52 replace wheezy deb main armel libjbigi-jni 0.9.9-1deb7u1 0.9.8.1-1~deb7u1
+2014-01-22 20:10:33 replace wheezy deb main kfreebsd-amd64 libjbigi-jni 0.9.10-1deb7u1 0.9.9-1deb7u1
+2014-01-22 20:12:46 replace wheezy deb main kfreebsd-i386 libjbigi-jni 0.9.10-1deb7u1 0.9.9-1deb7u1
+2014-01-22 20:14:38 replace wheezy deb main armhf libjbigi-jni 0.9.10-1deb7u1 0.9.9-1deb7u1
+2014-01-22 20:15:48 replace wheezy deb main i386 libjbigi-jni 0.9.10-1deb7u1 0.9.9-1deb7u1
+2014-01-22 20:17:23 replace wheezy dsc main source i2p 0.9.10-1deb7u1 0.9.9-1deb7u1
+2014-01-22 20:17:23 replace wheezy deb main amd64 libjbigi-jni 0.9.10-1deb7u1 0.9.9-1deb7u1
+2014-01-22 20:17:23 replace wheezy deb main i386 i2p 0.9.10-1deb7u1 0.9.9-1deb7u1
+2014-01-22 20:17:23 replace wheezy deb main amd64 i2p 0.9.10-1deb7u1 0.9.9-1deb7u1
+2014-01-22 20:17:23 replace wheezy deb main kfreebsd-i386 i2p 0.9.10-1deb7u1 0.9.9-1deb7u1
+2014-01-22 20:17:23 replace wheezy deb main kfreebsd-amd64 i2p 0.9.10-1deb7u1 0.9.9-1deb7u1
+2014-01-22 20:17:23 replace wheezy deb main armel i2p 0.9.10-1deb7u1 0.9.9-1deb7u1
+2014-01-22 20:17:23 replace wheezy deb main powerpc i2p 0.9.10-1deb7u1 0.9.9-1deb7u1
+2014-01-22 20:17:23 replace wheezy deb main armhf i2p 0.9.10-1deb7u1 0.9.9-1deb7u1
+2014-01-22 20:17:23 replace wheezy deb main i386 i2p-router 0.9.10-1deb7u1 0.9.9-1deb7u1
+2014-01-22 20:17:23 replace wheezy deb main amd64 i2p-router 0.9.10-1deb7u1 0.9.9-1deb7u1
+2014-01-22 20:17:23 replace wheezy deb main kfreebsd-i386 i2p-router 0.9.10-1deb7u1 0.9.9-1deb7u1
+2014-01-22 20:17:23 replace wheezy deb main kfreebsd-amd64 i2p-router 0.9.10-1deb7u1 0.9.9-1deb7u1
+2014-01-22 20:17:23 replace wheezy deb main armel i2p-router 0.9.10-1deb7u1 0.9.9-1deb7u1
+2014-01-22 20:17:23 replace wheezy deb main powerpc i2p-router 0.9.10-1deb7u1 0.9.9-1deb7u1
+2014-01-22 20:17:23 replace wheezy deb main armhf i2p-router 0.9.10-1deb7u1 0.9.9-1deb7u1
+2014-01-22 20:18:31 replace wheezy deb main armel libjbigi-jni 0.9.10-1deb7u1 0.9.9-1deb7u1
+2014-01-23 01:32:21 replace wheezy deb main powerpc libjbigi-jni 0.9.10-1deb7u1 0.9.9-1deb7u1
+2014-02-09 01:12:03 replace wheezy dsc main source i2p 0.9.11-1deb7u1 0.9.10-1deb7u1
+2014-02-09 01:12:03 replace wheezy deb main amd64 libjbigi-jni 0.9.11-1deb7u1 0.9.10-1deb7u1
+2014-02-09 01:12:03 replace wheezy deb main i386 i2p 0.9.11-1deb7u1 0.9.10-1deb7u1
+2014-02-09 01:12:03 replace wheezy deb main amd64 i2p 0.9.11-1deb7u1 0.9.10-1deb7u1
+2014-02-09 01:12:03 replace wheezy deb main kfreebsd-i386 i2p 0.9.11-1deb7u1 0.9.10-1deb7u1
+2014-02-09 01:12:03 replace wheezy deb main kfreebsd-amd64 i2p 0.9.11-1deb7u1 0.9.10-1deb7u1
+2014-02-09 01:12:03 replace wheezy deb main armel i2p 0.9.11-1deb7u1 0.9.10-1deb7u1
+2014-02-09 01:12:03 replace wheezy deb main powerpc i2p 0.9.11-1deb7u1 0.9.10-1deb7u1
+2014-02-09 01:12:03 replace wheezy deb main armhf i2p 0.9.11-1deb7u1 0.9.10-1deb7u1
+2014-02-09 01:12:03 replace wheezy deb main i386 i2p-router 0.9.11-1deb7u1 0.9.10-1deb7u1
+2014-02-09 01:12:03 replace wheezy deb main amd64 i2p-router 0.9.11-1deb7u1 0.9.10-1deb7u1
+2014-02-09 01:12:03 replace wheezy deb main kfreebsd-i386 i2p-router 0.9.11-1deb7u1 0.9.10-1deb7u1
+2014-02-09 01:12:03 replace wheezy deb main kfreebsd-amd64 i2p-router 0.9.11-1deb7u1 0.9.10-1deb7u1
+2014-02-09 01:12:03 replace wheezy deb main armel i2p-router 0.9.11-1deb7u1 0.9.10-1deb7u1
+2014-02-09 01:12:03 replace wheezy deb main powerpc i2p-router 0.9.11-1deb7u1 0.9.10-1deb7u1
+2014-02-09 01:12:03 replace wheezy deb main armhf i2p-router 0.9.11-1deb7u1 0.9.10-1deb7u1
+2014-02-09 01:12:50 replace wheezy deb main i386 libjbigi-jni 0.9.11-1deb7u1 0.9.10-1deb7u1
+2014-02-09 01:18:00 replace wheezy deb main kfreebsd-amd64 libjbigi-jni 0.9.11-1deb7u1 0.9.10-1deb7u1
+2014-02-09 01:22:36 replace wheezy deb main kfreebsd-i386 libjbigi-jni 0.9.11-1deb7u1 0.9.10-1deb7u1
+2014-02-09 02:00:39 replace wheezy deb main armhf libjbigi-jni 0.9.11-1deb7u1 0.9.10-1deb7u1
+2014-02-09 02:01:02 replace wheezy deb main armel libjbigi-jni 0.9.11-1deb7u1 0.9.10-1deb7u1
+2014-02-09 02:11:45 replace wheezy deb main powerpc libjbigi-jni 0.9.11-1deb7u1 0.9.10-1deb7u1
+2014-02-10 23:23:28 replace wheezy dsc main source syndie 1.105b-1 1.103b-4+deb7u1
+2014-02-10 23:23:29 replace wheezy deb main i386 syndie 1.105b-1 1.103b-4+deb7u1
+2014-02-10 23:23:29 replace wheezy deb main amd64 syndie 1.105b-1 1.103b-4+deb7u1
+2014-02-10 23:23:29 replace wheezy deb main kfreebsd-i386 syndie 1.105b-1 1.103b-4+deb7u1
+2014-02-10 23:23:29 replace wheezy deb main kfreebsd-amd64 syndie 1.105b-1 1.103b-4+deb7u1
+2014-02-10 23:23:29 replace wheezy deb main armel syndie 1.105b-1 1.103b-4+deb7u1
+2014-02-10 23:23:29 replace wheezy deb main powerpc syndie 1.105b-1 1.103b-4+deb7u1
+2014-02-10 23:23:29 replace wheezy deb main armhf syndie 1.105b-1 1.103b-4+deb7u1
+2014-03-08 18:08:07 add wheezy deb main kfreebsd-amd64 anoncoind 0.8.5.6-1~deb7u1+1
+2014-03-08 18:08:07 add wheezy deb main kfreebsd-amd64 anoncoin-qt 0.8.5.6-1~deb7u1+1
+2014-03-08 18:08:47 add wheezy deb main kfreebsd-i386 anoncoind 0.8.5.6-1~deb7u1+1
+2014-03-08 18:08:47 add wheezy deb main kfreebsd-i386 anoncoin-qt 0.8.5.6-1~deb7u1+1
+2014-03-08 18:09:22 add wheezy dsc main source anoncoin 0.8.5.6-1~deb7u1+1
+2014-03-08 18:09:22 add wheezy deb main amd64 anoncoind 0.8.5.6-1~deb7u1+1
+2014-03-08 18:09:22 add wheezy deb main amd64 anoncoin-qt 0.8.5.6-1~deb7u1+1
+2014-03-08 18:11:39 add wheezy deb main i386 anoncoind 0.8.5.6-1~deb7u1+1
+2014-03-08 18:11:40 add wheezy deb main i386 anoncoin-qt 0.8.5.6-1~deb7u1+1
+2014-03-09 01:54:54 add wheezy deb main armel anoncoind 0.8.5.6-1~deb7u1+1
+2014-03-09 01:54:54 add wheezy deb main armel anoncoin-qt 0.8.5.6-1~deb7u1+1
+2014-03-09 13:44:26 add wheezy deb main powerpc anoncoind 0.8.5.6-1~deb7u1+1
+2014-03-09 13:44:36 add wheezy deb main powerpc anoncoin-qt 0.8.5.6-1~deb7u1+1
+2014-03-09 17:12:48 add wheezy deb main armhf anoncoind 0.8.5.6-1~deb7u1+1
+2014-03-09 17:12:48 add wheezy deb main armhf anoncoin-qt 0.8.5.6-1~deb7u1+1
+2014-04-01 01:23:17 replace wheezy dsc main source i2p 0.9.12-1~deb7u+1 0.9.11-1deb7u1
+2014-04-01 01:23:17 replace wheezy deb main amd64 libjbigi-jni 0.9.12-1~deb7u+1 0.9.11-1deb7u1
+2014-04-01 01:23:17 replace wheezy deb main i386 i2p 0.9.12-1~deb7u+1 0.9.11-1deb7u1
+2014-04-01 01:23:17 replace wheezy deb main amd64 i2p 0.9.12-1~deb7u+1 0.9.11-1deb7u1
+2014-04-01 01:23:17 replace wheezy deb main kfreebsd-i386 i2p 0.9.12-1~deb7u+1 0.9.11-1deb7u1
+2014-04-01 01:23:17 replace wheezy deb main kfreebsd-amd64 i2p 0.9.12-1~deb7u+1 0.9.11-1deb7u1
+2014-04-01 01:23:17 replace wheezy deb main armel i2p 0.9.12-1~deb7u+1 0.9.11-1deb7u1
+2014-04-01 01:23:17 replace wheezy deb main powerpc i2p 0.9.12-1~deb7u+1 0.9.11-1deb7u1
+2014-04-01 01:23:17 replace wheezy deb main armhf i2p 0.9.12-1~deb7u+1 0.9.11-1deb7u1
+2014-04-01 01:23:17 replace wheezy deb main i386 i2p-router 0.9.12-1~deb7u+1 0.9.11-1deb7u1
+2014-04-01 01:23:17 replace wheezy deb main amd64 i2p-router 0.9.12-1~deb7u+1 0.9.11-1deb7u1
+2014-04-01 01:23:17 replace wheezy deb main kfreebsd-i386 i2p-router 0.9.12-1~deb7u+1 0.9.11-1deb7u1
+2014-04-01 01:23:17 replace wheezy deb main kfreebsd-amd64 i2p-router 0.9.12-1~deb7u+1 0.9.11-1deb7u1
+2014-04-01 01:23:17 replace wheezy deb main armel i2p-router 0.9.12-1~deb7u+1 0.9.11-1deb7u1
+2014-04-01 01:23:17 replace wheezy deb main powerpc i2p-router 0.9.12-1~deb7u+1 0.9.11-1deb7u1
+2014-04-01 01:23:17 replace wheezy deb main armhf i2p-router 0.9.12-1~deb7u+1 0.9.11-1deb7u1
+2014-04-01 01:34:16 replace wheezy deb main armhf libjbigi-jni 0.9.12-1~deb7u+1 0.9.11-1deb7u1
+2014-04-01 01:56:16 replace wheezy deb main kfreebsd-amd64 libjbigi-jni 0.9.12-1~deb7u+1 0.9.11-1deb7u1
+2014-04-01 01:57:11 replace wheezy deb main kfreebsd-i386 libjbigi-jni 0.9.12-1~deb7u+1 0.9.11-1deb7u1
+2014-04-01 14:17:54 replace wheezy deb main powerpc libjbigi-jni 0.9.12-1~deb7u+1 0.9.11-1deb7u1
+2014-04-01 14:48:55 replace wheezy deb main i386 libjbigi-jni 0.9.12-1~deb7u+1 0.9.11-1deb7u1
+2014-04-01 18:58:55 replace wheezy deb main armel libjbigi-jni 0.9.12-1~deb7u+1 0.9.11-1deb7u1
+2014-04-07 19:44:08 replace wheezy dsc main source i2p 0.9.12-2~deb7u+1 0.9.12-1~deb7u+1
+2014-04-07 19:44:08 replace wheezy deb main amd64 libjbigi-jni 0.9.12-2~deb7u+1 0.9.12-1~deb7u+1
+2014-04-07 19:44:08 replace wheezy deb main i386 i2p 0.9.12-2~deb7u+1 0.9.12-1~deb7u+1
+2014-04-07 19:44:08 replace wheezy deb main amd64 i2p 0.9.12-2~deb7u+1 0.9.12-1~deb7u+1
+2014-04-07 19:44:08 replace wheezy deb main kfreebsd-i386 i2p 0.9.12-2~deb7u+1 0.9.12-1~deb7u+1
+2014-04-07 19:44:08 replace wheezy deb main kfreebsd-amd64 i2p 0.9.12-2~deb7u+1 0.9.12-1~deb7u+1
+2014-04-07 19:44:08 replace wheezy deb main armel i2p 0.9.12-2~deb7u+1 0.9.12-1~deb7u+1
+2014-04-07 19:44:08 replace wheezy deb main powerpc i2p 0.9.12-2~deb7u+1 0.9.12-1~deb7u+1
+2014-04-07 19:44:08 replace wheezy deb main armhf i2p 0.9.12-2~deb7u+1 0.9.12-1~deb7u+1
+2014-04-07 19:44:08 add wheezy deb main i386 i2p-doc 0.9.12-2~deb7u+1
+2014-04-07 19:44:08 add wheezy deb main amd64 i2p-doc 0.9.12-2~deb7u+1
+2014-04-07 19:44:08 add wheezy deb main kfreebsd-i386 i2p-doc 0.9.12-2~deb7u+1
+2014-04-07 19:44:08 add wheezy deb main kfreebsd-amd64 i2p-doc 0.9.12-2~deb7u+1
+2014-04-07 19:44:08 add wheezy deb main armel i2p-doc 0.9.12-2~deb7u+1
+2014-04-07 19:44:08 add wheezy deb main powerpc i2p-doc 0.9.12-2~deb7u+1
+2014-04-07 19:44:08 add wheezy deb main armhf i2p-doc 0.9.12-2~deb7u+1
+2014-04-07 19:44:08 replace wheezy deb main i386 i2p-router 0.9.12-2~deb7u+1 0.9.12-1~deb7u+1
+2014-04-07 19:44:08 replace wheezy deb main amd64 i2p-router 0.9.12-2~deb7u+1 0.9.12-1~deb7u+1
+2014-04-07 19:44:08 replace wheezy deb main kfreebsd-i386 i2p-router 0.9.12-2~deb7u+1 0.9.12-1~deb7u+1
+2014-04-07 19:44:08 replace wheezy deb main kfreebsd-amd64 i2p-router 0.9.12-2~deb7u+1 0.9.12-1~deb7u+1
+2014-04-07 19:44:08 replace wheezy deb main armel i2p-router 0.9.12-2~deb7u+1 0.9.12-1~deb7u+1
+2014-04-07 19:44:08 replace wheezy deb main powerpc i2p-router 0.9.12-2~deb7u+1 0.9.12-1~deb7u+1
+2014-04-07 19:44:08 replace wheezy deb main armhf i2p-router 0.9.12-2~deb7u+1 0.9.12-1~deb7u+1
+2014-04-07 19:44:22 replace wheezy deb main i386 libjbigi-jni 0.9.12-2~deb7u+1 0.9.12-1~deb7u+1
+2014-04-07 19:51:24 replace wheezy deb main armel libjbigi-jni 0.9.12-2~deb7u+1 0.9.12-1~deb7u+1
+2014-04-07 19:51:29 replace wheezy deb main armhf libjbigi-jni 0.9.12-2~deb7u+1 0.9.12-1~deb7u+1
+2014-05-23 00:39:59 replace wheezy dsc main source i2p 0.9.13-1~deb7u+1 0.9.12-2~deb7u+1
+2014-05-23 00:39:59 replace wheezy deb main amd64 libjbigi-jni 0.9.13-1~deb7u+1 0.9.12-2~deb7u+1
+2014-05-23 00:39:59 replace wheezy deb main i386 i2p 0.9.13-1~deb7u+1 0.9.12-2~deb7u+1
+2014-05-23 00:39:59 replace wheezy deb main amd64 i2p 0.9.13-1~deb7u+1 0.9.12-2~deb7u+1
+2014-05-23 00:39:59 replace wheezy deb main kfreebsd-i386 i2p 0.9.13-1~deb7u+1 0.9.12-2~deb7u+1
+2014-05-23 00:39:59 replace wheezy deb main kfreebsd-amd64 i2p 0.9.13-1~deb7u+1 0.9.12-2~deb7u+1
+2014-05-23 00:39:59 replace wheezy deb main armel i2p 0.9.13-1~deb7u+1 0.9.12-2~deb7u+1
+2014-05-23 00:39:59 replace wheezy deb main powerpc i2p 0.9.13-1~deb7u+1 0.9.12-2~deb7u+1
+2014-05-23 00:39:59 replace wheezy deb main armhf i2p 0.9.13-1~deb7u+1 0.9.12-2~deb7u+1
+2014-05-23 00:39:59 replace wheezy deb main i386 i2p-doc 0.9.13-1~deb7u+1 0.9.12-2~deb7u+1
+2014-05-23 00:39:59 replace wheezy deb main amd64 i2p-doc 0.9.13-1~deb7u+1 0.9.12-2~deb7u+1
+2014-05-23 00:39:59 replace wheezy deb main kfreebsd-i386 i2p-doc 0.9.13-1~deb7u+1 0.9.12-2~deb7u+1
+2014-05-23 00:39:59 replace wheezy deb main kfreebsd-amd64 i2p-doc 0.9.13-1~deb7u+1 0.9.12-2~deb7u+1
+2014-05-23 00:39:59 replace wheezy deb main armel i2p-doc 0.9.13-1~deb7u+1 0.9.12-2~deb7u+1
+2014-05-23 00:39:59 replace wheezy deb main powerpc i2p-doc 0.9.13-1~deb7u+1 0.9.12-2~deb7u+1
+2014-05-23 00:39:59 replace wheezy deb main armhf i2p-doc 0.9.13-1~deb7u+1 0.9.12-2~deb7u+1
+2014-05-23 00:39:59 replace wheezy deb main i386 i2p-router 0.9.13-1~deb7u+1 0.9.12-2~deb7u+1
+2014-05-23 00:39:59 replace wheezy deb main amd64 i2p-router 0.9.13-1~deb7u+1 0.9.12-2~deb7u+1
+2014-05-23 00:39:59 replace wheezy deb main kfreebsd-i386 i2p-router 0.9.13-1~deb7u+1 0.9.12-2~deb7u+1
+2014-05-23 00:39:59 replace wheezy deb main kfreebsd-amd64 i2p-router 0.9.13-1~deb7u+1 0.9.12-2~deb7u+1
+2014-05-23 00:39:59 replace wheezy deb main armel i2p-router 0.9.13-1~deb7u+1 0.9.12-2~deb7u+1
+2014-05-23 00:39:59 replace wheezy deb main powerpc i2p-router 0.9.13-1~deb7u+1 0.9.12-2~deb7u+1
+2014-05-23 00:39:59 replace wheezy deb main armhf i2p-router 0.9.13-1~deb7u+1 0.9.12-2~deb7u+1
+2014-05-23 00:40:19 replace wheezy deb main i386 libjbigi-jni 0.9.13-1~deb7u+1 0.9.12-2~deb7u+1
+2014-05-23 00:58:26 replace wheezy deb main armhf libjbigi-jni 0.9.13-1~deb7u+1 0.9.12-2~deb7u+1
+2014-05-23 01:28:13 replace wheezy deb main armel libjbigi-jni 0.9.13-1~deb7u+1 0.9.12-2~deb7u+1
+2014-05-23 01:44:06 replace wheezy deb main powerpc libjbigi-jni 0.9.13-1~deb7u+1 0.9.12-1~deb7u+1
+2014-07-27 01:51:58 replace wheezy dsc main source i2p 0.9.14-1~deb7u+1 0.9.13-1~deb7u+1
+2014-07-27 01:51:58 replace wheezy deb main amd64 libjbigi-jni 0.9.14-1~deb7u+1 0.9.13-1~deb7u+1
+2014-07-27 01:51:58 replace wheezy deb main i386 i2p 0.9.14-1~deb7u+1 0.9.13-1~deb7u+1
+2014-07-27 01:51:58 replace wheezy deb main amd64 i2p 0.9.14-1~deb7u+1 0.9.13-1~deb7u+1
+2014-07-27 01:51:58 replace wheezy deb main kfreebsd-i386 i2p 0.9.14-1~deb7u+1 0.9.13-1~deb7u+1
+2014-07-27 01:51:58 replace wheezy deb main kfreebsd-amd64 i2p 0.9.14-1~deb7u+1 0.9.13-1~deb7u+1
+2014-07-27 01:51:58 replace wheezy deb main armel i2p 0.9.14-1~deb7u+1 0.9.13-1~deb7u+1
+2014-07-27 01:51:58 replace wheezy deb main powerpc i2p 0.9.14-1~deb7u+1 0.9.13-1~deb7u+1
+2014-07-27 01:51:58 replace wheezy deb main armhf i2p 0.9.14-1~deb7u+1 0.9.13-1~deb7u+1
+2014-07-27 01:51:58 replace wheezy deb main i386 i2p-doc 0.9.14-1~deb7u+1 0.9.13-1~deb7u+1
+2014-07-27 01:51:58 replace wheezy deb main amd64 i2p-doc 0.9.14-1~deb7u+1 0.9.13-1~deb7u+1
+2014-07-27 01:51:58 replace wheezy deb main kfreebsd-i386 i2p-doc 0.9.14-1~deb7u+1 0.9.13-1~deb7u+1
+2014-07-27 01:51:58 replace wheezy deb main kfreebsd-amd64 i2p-doc 0.9.14-1~deb7u+1 0.9.13-1~deb7u+1
+2014-07-27 01:51:58 replace wheezy deb main armel i2p-doc 0.9.14-1~deb7u+1 0.9.13-1~deb7u+1
+2014-07-27 01:51:58 replace wheezy deb main powerpc i2p-doc 0.9.14-1~deb7u+1 0.9.13-1~deb7u+1
+2014-07-27 01:51:58 replace wheezy deb main armhf i2p-doc 0.9.14-1~deb7u+1 0.9.13-1~deb7u+1
+2014-07-27 01:51:58 replace wheezy deb main i386 i2p-router 0.9.14-1~deb7u+1 0.9.13-1~deb7u+1
+2014-07-27 01:51:58 replace wheezy deb main amd64 i2p-router 0.9.14-1~deb7u+1 0.9.13-1~deb7u+1
+2014-07-27 01:51:58 replace wheezy deb main kfreebsd-i386 i2p-router 0.9.14-1~deb7u+1 0.9.13-1~deb7u+1
+2014-07-27 01:51:58 replace wheezy deb main kfreebsd-amd64 i2p-router 0.9.14-1~deb7u+1 0.9.13-1~deb7u+1
+2014-07-27 01:51:58 replace wheezy deb main armel i2p-router 0.9.14-1~deb7u+1 0.9.13-1~deb7u+1
+2014-07-27 01:51:58 replace wheezy deb main powerpc i2p-router 0.9.14-1~deb7u+1 0.9.13-1~deb7u+1
+2014-07-27 01:51:58 replace wheezy deb main armhf i2p-router 0.9.14-1~deb7u+1 0.9.13-1~deb7u+1
+2014-07-27 01:52:58 replace wheezy dsc main source service-wrapper-java 3.5.25-1 3.5.22-1~deb7u1
+2014-07-27 01:52:58 replace wheezy deb main amd64 service-wrapper 3.5.25-1 3.5.22-1~deb7u1
+2014-07-27 01:52:58 replace wheezy deb main i386 libservice-wrapper-java 3.5.25-1 3.5.22-1~deb7u1
+2014-07-27 01:52:58 replace wheezy deb main amd64 libservice-wrapper-java 3.5.25-1 3.5.22-1~deb7u1
+2014-07-27 01:52:58 replace wheezy deb main kfreebsd-i386 libservice-wrapper-java 3.5.25-1 3.5.22-1~deb7u1
+2014-07-27 01:52:58 replace wheezy deb main kfreebsd-amd64 libservice-wrapper-java 3.5.25-1 3.5.22-1~deb7u1
+2014-07-27 01:52:58 replace wheezy deb main armel libservice-wrapper-java 3.5.25-1 3.5.22-1~deb7u1
+2014-07-27 01:52:58 replace wheezy deb main powerpc libservice-wrapper-java 3.5.25-1 3.5.22-1~deb7u1
+2014-07-27 01:52:58 replace wheezy deb main armhf libservice-wrapper-java 3.5.25-1 3.5.22-1~deb7u1
+2014-07-27 01:52:58 replace wheezy deb main amd64 libservice-wrapper-jni 3.5.25-1 3.5.22-1~deb7u1
+2014-07-27 01:52:58 replace wheezy deb main i386 libservice-wrapper-doc 3.5.25-1 3.5.22-1~deb7u1
+2014-07-27 01:52:58 replace wheezy deb main amd64 libservice-wrapper-doc 3.5.25-1 3.5.22-1~deb7u1
+2014-07-27 01:52:58 replace wheezy deb main kfreebsd-i386 libservice-wrapper-doc 3.5.25-1 3.5.22-1~deb7u1
+2014-07-27 01:52:58 replace wheezy deb main kfreebsd-amd64 libservice-wrapper-doc 3.5.25-1 3.5.22-1~deb7u1
+2014-07-27 01:52:58 replace wheezy deb main armel libservice-wrapper-doc 3.5.25-1 3.5.22-1~deb7u1
+2014-07-27 01:52:58 replace wheezy deb main powerpc libservice-wrapper-doc 3.5.25-1 3.5.22-1~deb7u1
+2014-07-27 01:52:58 replace wheezy deb main armhf libservice-wrapper-doc 3.5.25-1 3.5.22-1~deb7u1
+2014-07-27 01:53:18 replace wheezy deb main i386 service-wrapper 3.5.25-1 3.5.22-1~deb7u1
+2014-07-27 01:53:18 replace wheezy deb main i386 libservice-wrapper-jni 3.5.25-1 3.5.22-1~deb7u1
+2014-07-27 02:10:13 replace wheezy deb main armhf libjbigi-jni 0.9.14-1~deb7u+1 0.9.13-1~deb7u+1
+2014-07-27 02:38:00 replace wheezy deb main armel libjbigi-jni 0.9.14-1~deb7u+1 0.9.13-1~deb7u+1
+2014-07-27 03:00:47 replace wheezy deb main powerpc libjbigi-jni 0.9.14-1~deb7u+1 0.9.13-1~deb7u+1
+2014-07-27 03:02:33 replace wheezy deb main i386 libjbigi-jni 0.9.14-1~deb7u+1 0.9.13-1~deb7u+1
+2014-07-27 03:03:13 replace wheezy deb main i386 service-wrapper 3.5.22-1 3.5.25-1
+2014-07-27 03:03:13 replace wheezy deb main i386 libservice-wrapper-jni 3.5.22-1 3.5.25-1
+2014-07-27 03:03:13 replace wheezy deb main i386 libservice-wrapper-java 3.5.22-1 3.5.25-1
+2014-07-27 03:03:13 replace wheezy deb main i386 libservice-wrapper-doc 3.5.22-1 3.5.25-1
+2014-07-27 03:03:13 replace wheezy deb main amd64 service-wrapper 3.5.22-1 3.5.25-1
+2014-07-27 03:03:13 replace wheezy deb main amd64 libservice-wrapper-jni 3.5.22-1 3.5.25-1
+2014-07-27 03:03:13 replace wheezy deb main amd64 libservice-wrapper-java 3.5.22-1 3.5.25-1
+2014-07-27 03:03:13 replace wheezy deb main amd64 libservice-wrapper-doc 3.5.22-1 3.5.25-1
+2014-07-27 03:03:13 replace wheezy dsc main source service-wrapper-java 3.5.22-1 3.5.25-1
+2014-07-27 03:48:13 replace wheezy deb main kfreebsd-amd64 libjbigi-jni 0.9.14-1~deb7u+1 0.9.12-1~deb7u+1
+2014-07-27 03:48:26 replace wheezy deb main kfreebsd-i386 libjbigi-jni 0.9.14-1~deb7u+1 0.9.12-1~deb7u+1
+2014-07-27 12:14:03 replace wheezy deb main i386 service-wrapper 3.5.25-1~deb7u+1 3.5.22-1
+2014-07-27 12:14:03 replace wheezy deb main i386 libservice-wrapper-jni 3.5.25-1~deb7u+1 3.5.22-1
+2014-07-27 13:15:05 remove wheezy deb main i386 libservice-wrapper-doc 3.5.22-1
+2014-07-27 13:15:05 remove wheezy deb main i386 libservice-wrapper-java 3.5.22-1
+2014-07-27 13:15:05 remove wheezy deb main i386 libservice-wrapper-jni 3.5.25-1~deb7u+1
+2014-07-27 13:15:05 remove wheezy deb main i386 service-wrapper 3.5.25-1~deb7u+1
+2014-07-27 13:15:05 remove wheezy deb main amd64 libservice-wrapper-doc 3.5.22-1
+2014-07-27 13:15:05 remove wheezy deb main amd64 libservice-wrapper-java 3.5.22-1
+2014-07-27 13:15:05 remove wheezy deb main amd64 libservice-wrapper-jni 3.5.22-1
+2014-07-27 13:15:05 remove wheezy deb main amd64 service-wrapper 3.5.22-1
+2014-07-27 13:15:05 remove wheezy deb main kfreebsd-i386 libservice-wrapper-doc 3.5.25-1
+2014-07-27 13:15:05 remove wheezy deb main kfreebsd-i386 libservice-wrapper-java 3.5.25-1
+2014-07-27 13:15:05 remove wheezy deb main kfreebsd-i386 libservice-wrapper-jni 3.5.22-1~deb7u1
+2014-07-27 13:15:05 remove wheezy deb main kfreebsd-i386 service-wrapper 3.5.22-1~deb7u1
+2014-07-27 13:15:05 remove wheezy deb main kfreebsd-amd64 libservice-wrapper-doc 3.5.25-1
+2014-07-27 13:15:05 remove wheezy deb main kfreebsd-amd64 libservice-wrapper-java 3.5.25-1
+2014-07-27 13:15:05 remove wheezy deb main kfreebsd-amd64 libservice-wrapper-jni 3.5.22-1~deb7u1
+2014-07-27 13:15:05 remove wheezy deb main kfreebsd-amd64 service-wrapper 3.5.22-1~deb7u1
+2014-07-27 13:15:05 remove wheezy deb main armel libservice-wrapper-doc 3.5.25-1
+2014-07-27 13:15:05 remove wheezy deb main armel libservice-wrapper-java 3.5.25-1
+2014-07-27 13:15:05 remove wheezy deb main armel libservice-wrapper-jni 3.5.22-1~deb7u1
+2014-07-27 13:15:05 remove wheezy deb main armel service-wrapper 3.5.22-1~deb7u1
+2014-07-27 13:15:05 remove wheezy deb main powerpc libservice-wrapper-doc 3.5.25-1
+2014-07-27 13:15:05 remove wheezy deb main powerpc libservice-wrapper-java 3.5.25-1
+2014-07-27 13:15:05 remove wheezy deb main powerpc libservice-wrapper-jni 3.5.22-1~deb7u1
+2014-07-27 13:15:05 remove wheezy deb main powerpc service-wrapper 3.5.22-1~deb7u1
+2014-07-27 13:15:05 remove wheezy deb main armhf libservice-wrapper-doc 3.5.25-1
+2014-07-27 13:15:05 remove wheezy deb main armhf libservice-wrapper-java 3.5.25-1
+2014-07-27 13:15:05 remove wheezy deb main armhf libservice-wrapper-jni 3.5.22-1~deb7u1
+2014-07-27 13:15:05 remove wheezy deb main armhf service-wrapper 3.5.22-1~deb7u1
+2014-07-27 13:15:05 remove wheezy dsc main source service-wrapper-java 3.5.22-1
+2014-07-27 13:16:49 add wheezy dsc main source service-wrapper-java 3.5.25-1~deb7u+1
+2014-07-27 13:16:49 add wheezy deb main amd64 service-wrapper 3.5.25-1~deb7u+1
+2014-07-27 13:16:49 add wheezy deb main i386 libservice-wrapper-java 3.5.25-1~deb7u+1
+2014-07-27 13:16:49 add wheezy deb main amd64 libservice-wrapper-java 3.5.25-1~deb7u+1
+2014-07-27 13:16:49 add wheezy deb main kfreebsd-i386 libservice-wrapper-java 3.5.25-1~deb7u+1
+2014-07-27 13:16:49 add wheezy deb main kfreebsd-amd64 libservice-wrapper-java 3.5.25-1~deb7u+1
+2014-07-27 13:16:49 add wheezy deb main armel libservice-wrapper-java 3.5.25-1~deb7u+1
+2014-07-27 13:16:49 add wheezy deb main powerpc libservice-wrapper-java 3.5.25-1~deb7u+1
+2014-07-27 13:16:49 add wheezy deb main armhf libservice-wrapper-java 3.5.25-1~deb7u+1
+2014-07-27 13:16:49 add wheezy deb main amd64 libservice-wrapper-jni 3.5.25-1~deb7u+1
+2014-07-27 13:16:49 add wheezy deb main i386 libservice-wrapper-doc 3.5.25-1~deb7u+1
+2014-07-27 13:16:49 add wheezy deb main amd64 libservice-wrapper-doc 3.5.25-1~deb7u+1
+2014-07-27 13:16:49 add wheezy deb main kfreebsd-i386 libservice-wrapper-doc 3.5.25-1~deb7u+1
+2014-07-27 13:16:49 add wheezy deb main kfreebsd-amd64 libservice-wrapper-doc 3.5.25-1~deb7u+1
+2014-07-27 13:16:49 add wheezy deb main armel libservice-wrapper-doc 3.5.25-1~deb7u+1
+2014-07-27 13:16:49 add wheezy deb main powerpc libservice-wrapper-doc 3.5.25-1~deb7u+1
+2014-07-27 13:16:49 add wheezy deb main armhf libservice-wrapper-doc 3.5.25-1~deb7u+1
+2014-07-27 13:17:12 add wheezy deb main i386 service-wrapper 3.5.25-1~deb7u+1
+2014-07-27 13:17:12 add wheezy deb main i386 libservice-wrapper-jni 3.5.25-1~deb7u+1
+2014-07-27 13:56:07 add wheezy deb main armhf service-wrapper 3.5.25-1~deb7u+1
+2014-07-27 13:56:07 add wheezy deb main armhf libservice-wrapper-jni 3.5.25-1~deb7u+1
+2014-07-27 13:57:48 add wheezy deb main kfreebsd-i386 service-wrapper 3.5.25-1~deb7u+1
+2014-07-27 13:57:48 add wheezy deb main kfreebsd-i386 libservice-wrapper-jni 3.5.25-1~deb7u+1
+2014-07-27 13:57:53 add wheezy deb main kfreebsd-amd64 service-wrapper 3.5.25-1~deb7u+1
+2014-07-27 13:57:53 add wheezy deb main kfreebsd-amd64 libservice-wrapper-jni 3.5.25-1~deb7u+1
+2014-07-27 14:18:54 add wheezy deb main powerpc service-wrapper 3.5.25-1~deb7u+1
+2014-07-27 14:18:54 add wheezy deb main powerpc libservice-wrapper-jni 3.5.25-1~deb7u+1
+2014-07-27 15:02:21 add wheezy deb main armel service-wrapper 3.5.25-1~deb7u+1
+2014-07-27 15:02:21 add wheezy deb main armel libservice-wrapper-jni 3.5.25-1~deb7u+1
+2014-08-10 01:57:24 replace wheezy dsc main source i2p 0.9.14.1-1~deb7u+1 0.9.14-1~deb7u+1
+2014-08-10 01:57:24 replace wheezy deb main amd64 libjbigi-jni 0.9.14.1-1~deb7u+1 0.9.14-1~deb7u+1
+2014-08-10 01:57:24 replace wheezy deb main i386 i2p 0.9.14.1-1~deb7u+1 0.9.14-1~deb7u+1
+2014-08-10 01:57:24 replace wheezy deb main amd64 i2p 0.9.14.1-1~deb7u+1 0.9.14-1~deb7u+1
+2014-08-10 01:57:24 replace wheezy deb main kfreebsd-i386 i2p 0.9.14.1-1~deb7u+1 0.9.14-1~deb7u+1
+2014-08-10 01:57:24 replace wheezy deb main kfreebsd-amd64 i2p 0.9.14.1-1~deb7u+1 0.9.14-1~deb7u+1
+2014-08-10 01:57:24 replace wheezy deb main armel i2p 0.9.14.1-1~deb7u+1 0.9.14-1~deb7u+1
+2014-08-10 01:57:24 replace wheezy deb main powerpc i2p 0.9.14.1-1~deb7u+1 0.9.14-1~deb7u+1
+2014-08-10 01:57:24 replace wheezy deb main armhf i2p 0.9.14.1-1~deb7u+1 0.9.14-1~deb7u+1
+2014-08-10 01:57:24 replace wheezy deb main i386 i2p-doc 0.9.14.1-1~deb7u+1 0.9.14-1~deb7u+1
+2014-08-10 01:57:24 replace wheezy deb main amd64 i2p-doc 0.9.14.1-1~deb7u+1 0.9.14-1~deb7u+1
+2014-08-10 01:57:24 replace wheezy deb main kfreebsd-i386 i2p-doc 0.9.14.1-1~deb7u+1 0.9.14-1~deb7u+1
+2014-08-10 01:57:24 replace wheezy deb main kfreebsd-amd64 i2p-doc 0.9.14.1-1~deb7u+1 0.9.14-1~deb7u+1
+2014-08-10 01:57:24 replace wheezy deb main armel i2p-doc 0.9.14.1-1~deb7u+1 0.9.14-1~deb7u+1
+2014-08-10 01:57:24 replace wheezy deb main powerpc i2p-doc 0.9.14.1-1~deb7u+1 0.9.14-1~deb7u+1
+2014-08-10 01:57:24 replace wheezy deb main armhf i2p-doc 0.9.14.1-1~deb7u+1 0.9.14-1~deb7u+1
+2014-08-10 01:57:24 replace wheezy deb main i386 i2p-router 0.9.14.1-1~deb7u+1 0.9.14-1~deb7u+1
+2014-08-10 01:57:24 replace wheezy deb main amd64 i2p-router 0.9.14.1-1~deb7u+1 0.9.14-1~deb7u+1
+2014-08-10 01:57:24 replace wheezy deb main kfreebsd-i386 i2p-router 0.9.14.1-1~deb7u+1 0.9.14-1~deb7u+1
+2014-08-10 01:57:24 replace wheezy deb main kfreebsd-amd64 i2p-router 0.9.14.1-1~deb7u+1 0.9.14-1~deb7u+1
+2014-08-10 01:57:24 replace wheezy deb main armel i2p-router 0.9.14.1-1~deb7u+1 0.9.14-1~deb7u+1
+2014-08-10 01:57:24 replace wheezy deb main powerpc i2p-router 0.9.14.1-1~deb7u+1 0.9.14-1~deb7u+1
+2014-08-10 01:57:24 replace wheezy deb main armhf i2p-router 0.9.14.1-1~deb7u+1 0.9.14-1~deb7u+1
+2014-08-10 01:58:23 replace wheezy deb main i386 libjbigi-jni 0.9.14.1-1~deb7u+1 0.9.14-1~deb7u+1
+2014-08-10 02:31:20 replace wheezy deb main kfreebsd-i386 libjbigi-jni 0.9.14.1-1~deb7u+1 0.9.14-1~deb7u+1
+2014-08-10 02:32:38 replace wheezy deb main kfreebsd-amd64 libjbigi-jni 0.9.14.1-1~deb7u+1 0.9.14-1~deb7u+1
+2014-08-10 20:41:06 replace wheezy deb main armhf libjbigi-jni 0.9.14.1-1~deb7u+1 0.9.14-1~deb7u+1
+2014-08-10 20:55:40 replace wheezy deb main armel libjbigi-jni 0.9.14.1-1~deb7u+1 0.9.14-1~deb7u+1
+2014-08-10 21:54:16 replace wheezy deb main powerpc libjbigi-jni 0.9.14.1-1~deb7u+1 0.9.14-1~deb7u+1
+2014-09-21 03:20:48 replace wheezy dsc main source i2p 0.9.15-1~deb7u+1 0.9.14.1-1~deb7u+1
+2014-09-21 03:20:48 replace wheezy deb main amd64 libjbigi-jni 0.9.15-1~deb7u+1 0.9.14.1-1~deb7u+1
+2014-09-21 03:20:48 replace wheezy deb main i386 i2p 0.9.15-1~deb7u+1 0.9.14.1-1~deb7u+1
+2014-09-21 03:20:48 replace wheezy deb main amd64 i2p 0.9.15-1~deb7u+1 0.9.14.1-1~deb7u+1
+2014-09-21 03:20:48 replace wheezy deb main kfreebsd-i386 i2p 0.9.15-1~deb7u+1 0.9.14.1-1~deb7u+1
+2014-09-21 03:20:48 replace wheezy deb main kfreebsd-amd64 i2p 0.9.15-1~deb7u+1 0.9.14.1-1~deb7u+1
+2014-09-21 03:20:48 replace wheezy deb main armel i2p 0.9.15-1~deb7u+1 0.9.14.1-1~deb7u+1
+2014-09-21 03:20:48 replace wheezy deb main powerpc i2p 0.9.15-1~deb7u+1 0.9.14.1-1~deb7u+1
+2014-09-21 03:20:48 replace wheezy deb main armhf i2p 0.9.15-1~deb7u+1 0.9.14.1-1~deb7u+1
+2014-09-21 03:20:48 replace wheezy deb main i386 i2p-doc 0.9.15-1~deb7u+1 0.9.14.1-1~deb7u+1
+2014-09-21 03:20:48 replace wheezy deb main amd64 i2p-doc 0.9.15-1~deb7u+1 0.9.14.1-1~deb7u+1
+2014-09-21 03:20:48 replace wheezy deb main kfreebsd-i386 i2p-doc 0.9.15-1~deb7u+1 0.9.14.1-1~deb7u+1
+2014-09-21 03:20:48 replace wheezy deb main kfreebsd-amd64 i2p-doc 0.9.15-1~deb7u+1 0.9.14.1-1~deb7u+1
+2014-09-21 03:20:48 replace wheezy deb main armel i2p-doc 0.9.15-1~deb7u+1 0.9.14.1-1~deb7u+1
+2014-09-21 03:20:48 replace wheezy deb main powerpc i2p-doc 0.9.15-1~deb7u+1 0.9.14.1-1~deb7u+1
+2014-09-21 03:20:48 replace wheezy deb main armhf i2p-doc 0.9.15-1~deb7u+1 0.9.14.1-1~deb7u+1
+2014-09-21 03:20:48 replace wheezy deb main i386 i2p-router 0.9.15-1~deb7u+1 0.9.14.1-1~deb7u+1
+2014-09-21 03:20:48 replace wheezy deb main amd64 i2p-router 0.9.15-1~deb7u+1 0.9.14.1-1~deb7u+1
+2014-09-21 03:20:48 replace wheezy deb main kfreebsd-i386 i2p-router 0.9.15-1~deb7u+1 0.9.14.1-1~deb7u+1
+2014-09-21 03:20:48 replace wheezy deb main kfreebsd-amd64 i2p-router 0.9.15-1~deb7u+1 0.9.14.1-1~deb7u+1
+2014-09-21 03:20:48 replace wheezy deb main armel i2p-router 0.9.15-1~deb7u+1 0.9.14.1-1~deb7u+1
+2014-09-21 03:20:48 replace wheezy deb main powerpc i2p-router 0.9.15-1~deb7u+1 0.9.14.1-1~deb7u+1
+2014-09-21 03:20:48 replace wheezy deb main armhf i2p-router 0.9.15-1~deb7u+1 0.9.14.1-1~deb7u+1
+2014-09-21 03:22:03 replace wheezy deb main i386 libjbigi-jni 0.9.15-1~deb7u+1 0.9.14.1-1~deb7u+1
+2014-09-21 03:22:12 replace wheezy deb main kfreebsd-i386 libjbigi-jni 0.9.15-1~deb7u+1 0.9.14.1-1~deb7u+1
+2014-09-21 03:22:21 replace wheezy deb main kfreebsd-amd64 libjbigi-jni 0.9.15-1~deb7u+1 0.9.14.1-1~deb7u+1
+2014-09-21 03:38:08 replace wheezy deb main armel libjbigi-jni 0.9.15-1~deb7u+1 0.9.14.1-1~deb7u+1
+2014-09-21 03:42:03 replace wheezy deb main armhf libjbigi-jni 0.9.15-1~deb7u+1 0.9.14.1-1~deb7u+1
+2014-09-21 03:50:56 replace wheezy deb main powerpc libjbigi-jni 0.9.15-1~deb7u+1 0.9.14.1-1~deb7u+1
+2014-09-25 19:25:47 replace wheezy dsc main source i2p-keyring 2014.09.25 2013.10.12
+2014-09-25 19:25:47 replace wheezy deb main i386 i2p-keyring 2014.09.25 2013.10.12
+2014-09-25 19:25:47 replace wheezy deb main amd64 i2p-keyring 2014.09.25 2013.10.12
+2014-09-25 19:25:47 replace wheezy deb main kfreebsd-i386 i2p-keyring 2014.09.25 2013.10.12
+2014-09-25 19:25:47 replace wheezy deb main kfreebsd-amd64 i2p-keyring 2014.09.25 2013.10.12
+2014-09-25 19:25:47 replace wheezy deb main armel i2p-keyring 2014.09.25 2013.10.12
+2014-09-25 19:25:47 replace wheezy deb main powerpc i2p-keyring 2014.09.25 2013.10.12
+2014-09-25 19:25:47 replace wheezy deb main armhf i2p-keyring 2014.09.25 2013.10.12
+2014-10-17 22:10:54 add wheezy dsc main source i2pd 0.1.0-1~deb7u+1
+2014-10-17 22:10:54 add wheezy deb main amd64 i2pd 0.1.0-1~deb7u+1
+2014-10-17 22:10:54 add wheezy deb main amd64 i2pd-dbg 0.1.0-1~deb7u+1
+2014-10-17 22:11:34 add wheezy deb main i386 i2pd 0.1.0-1~deb7u+1
+2014-10-17 22:11:34 add wheezy deb main i386 i2pd-dbg 0.1.0-1~deb7u+1
+2014-10-17 22:29:40 remove wheezy deb main i386 i2pd 0.1.0-1~deb7u+1
+2014-10-17 22:29:40 remove wheezy deb main i386 i2pd-dbg 0.1.0-1~deb7u+1
+2014-10-17 22:29:40 remove wheezy deb main amd64 i2pd 0.1.0-1~deb7u+1
+2014-10-17 22:29:40 remove wheezy deb main amd64 i2pd-dbg 0.1.0-1~deb7u+1
+2014-10-17 22:29:40 remove wheezy dsc main source i2pd 0.1.0-1~deb7u+1
+2014-10-17 23:15:44 add wheezy deb main i386 i2pd 0.1.0-1~deb7u+1
+2014-10-17 23:15:44 add wheezy deb main i386 i2pd-dbg 0.1.0-1~deb7u+1
+2014-10-17 23:16:52 add wheezy deb main kfreebsd-i386 i2pd 0.1.0-1~deb7u+1
+2014-10-17 23:16:52 add wheezy deb main kfreebsd-i386 i2pd-dbg 0.1.0-1~deb7u+1
+2014-10-17 23:17:18 add wheezy deb main kfreebsd-amd64 i2pd 0.1.0-1~deb7u+1
+2014-10-17 23:17:18 add wheezy deb main kfreebsd-amd64 i2pd-dbg 0.1.0-1~deb7u+1
+2014-10-17 23:34:49 add wheezy deb main armhf i2pd 0.1.0-1~deb7u+1
+2014-10-17 23:34:49 add wheezy deb main armhf i2pd-dbg 0.1.0-1~deb7u+1
+2014-10-17 23:48:36 add wheezy deb main armel i2pd 0.1.0-1~deb7u+1
+2014-10-17 23:48:36 add wheezy deb main armel i2pd-dbg 0.1.0-1~deb7u+1
+2014-10-23 18:08:11 add wheezy deb main amd64 i2pd-dbg 0.1.0-1~deb7u+1
+2014-10-23 18:08:46 add wheezy deb main amd64 i2pd 0.1.0-1~deb7u+1
+2014-10-23 18:12:50 add wheezy dsc main source i2pd 0.1.0-1~deb7u+1
+2014-10-24 02:22:30 replace wheezy dsc main source i2pd 0.1.0-2~deb7u+1 0.1.0-1~deb7u+1
+2014-10-24 02:22:30 replace wheezy deb main amd64 i2pd 0.1.0-2~deb7u+1 0.1.0-1~deb7u+1
+2014-10-24 02:22:30 replace wheezy deb main amd64 i2pd-dbg 0.1.0-2~deb7u+1 0.1.0-1~deb7u+1
+2014-10-24 02:22:55 replace wheezy deb main i386 i2pd 0.1.0-2~deb7u+1 0.1.0-1~deb7u+1
+2014-10-24 02:22:55 replace wheezy deb main i386 i2pd-dbg 0.1.0-2~deb7u+1 0.1.0-1~deb7u+1
+2014-10-24 02:23:18 replace wheezy deb main armhf i2pd 0.1.0-2~deb7u+1 0.1.0-1~deb7u+1
+2014-10-24 02:23:18 replace wheezy deb main armhf i2pd-dbg 0.1.0-2~deb7u+1 0.1.0-1~deb7u+1
+2014-10-24 02:23:41 replace wheezy deb main armel i2pd 0.1.0-2~deb7u+1 0.1.0-1~deb7u+1
+2014-10-24 02:23:41 replace wheezy deb main armel i2pd-dbg 0.1.0-2~deb7u+1 0.1.0-1~deb7u+1
+2014-10-24 02:52:18 replace wheezy deb main kfreebsd-amd64 i2pd 0.1.0-2~deb7u+1 0.1.0-1~deb7u+1
+2014-10-24 02:52:18 replace wheezy deb main kfreebsd-amd64 i2pd-dbg 0.1.0-2~deb7u+1 0.1.0-1~deb7u+1
+2014-10-24 02:52:50 replace wheezy deb main kfreebsd-i386 i2pd 0.1.0-2~deb7u+1 0.1.0-1~deb7u+1
+2014-10-24 02:52:50 replace wheezy deb main kfreebsd-i386 i2pd-dbg 0.1.0-2~deb7u+1 0.1.0-1~deb7u+1
+2014-10-30 19:07:49 replace wheezy dsc main source i2pd 0.2.0-1~deb7u+1 0.1.0-2~deb7u+1
+2014-10-30 19:07:49 replace wheezy deb main amd64 i2pd 0.2.0-1~deb7u+1 0.1.0-2~deb7u+1
+2014-10-30 19:07:49 replace wheezy deb main amd64 i2pd-dbg 0.2.0-1~deb7u+1 0.1.0-2~deb7u+1
+2014-10-30 19:11:19 replace wheezy deb main i386 i2pd 0.2.0-1~deb7u+1 0.1.0-2~deb7u+1
+2014-10-30 19:11:19 replace wheezy deb main i386 i2pd-dbg 0.2.0-1~deb7u+1 0.1.0-2~deb7u+1
+2014-10-30 19:15:05 replace wheezy deb main armel i2pd 0.2.0-1~deb7u+1 0.1.0-2~deb7u+1
+2014-10-30 19:15:05 replace wheezy deb main armel i2pd-dbg 0.2.0-1~deb7u+1 0.1.0-2~deb7u+1
+2014-10-30 19:18:22 replace wheezy deb main kfreebsd-amd64 i2pd 0.2.0-1~deb7u+1 0.1.0-2~deb7u+1
+2014-10-30 19:18:22 replace wheezy deb main kfreebsd-amd64 i2pd-dbg 0.2.0-1~deb7u+1 0.1.0-2~deb7u+1
+2014-10-30 19:18:48 replace wheezy deb main kfreebsd-i386 i2pd 0.2.0-1~deb7u+1 0.1.0-2~deb7u+1
+2014-10-30 19:18:48 replace wheezy deb main kfreebsd-i386 i2pd-dbg 0.2.0-1~deb7u+1 0.1.0-2~deb7u+1
+2014-10-30 19:59:21 replace wheezy deb main armhf i2pd 0.2.0-1~deb7u+1 0.1.0-2~deb7u+1
+2014-10-30 19:59:21 replace wheezy deb main armhf i2pd-dbg 0.2.0-1~deb7u+1 0.1.0-2~deb7u+1
+2014-11-01 03:33:39 replace wheezy dsc main source i2pd 0.2.0-2~deb7u+1 0.2.0-1~deb7u+1
+2014-11-01 03:33:39 replace wheezy deb main amd64 i2pd 0.2.0-2~deb7u+1 0.2.0-1~deb7u+1
+2014-11-01 03:33:39 replace wheezy deb main amd64 i2pd-dbg 0.2.0-2~deb7u+1 0.2.0-1~deb7u+1
+2014-11-01 03:34:12 replace wheezy deb main i386 i2pd 0.2.0-2~deb7u+1 0.2.0-1~deb7u+1
+2014-11-01 03:34:12 replace wheezy deb main i386 i2pd-dbg 0.2.0-2~deb7u+1 0.2.0-1~deb7u+1
+2014-11-01 03:34:45 replace wheezy deb main armel i2pd 0.2.0-2~deb7u+1 0.2.0-1~deb7u+1
+2014-11-01 03:34:45 replace wheezy deb main armel i2pd-dbg 0.2.0-2~deb7u+1 0.2.0-1~deb7u+1
+2014-11-01 03:35:22 replace wheezy deb main armhf i2pd 0.2.0-2~deb7u+1 0.2.0-1~deb7u+1
+2014-11-01 03:35:22 replace wheezy deb main armhf i2pd-dbg 0.2.0-2~deb7u+1 0.2.0-1~deb7u+1
+2014-11-02 03:13:09 replace wheezy dsc main source i2p 0.9.16-1~deb7u+1 0.9.15-1~deb7u+1
+2014-11-02 03:13:09 replace wheezy deb main amd64 libjbigi-jni 0.9.16-1~deb7u+1 0.9.15-1~deb7u+1
+2014-11-02 03:13:09 replace wheezy deb main i386 i2p 0.9.16-1~deb7u+1 0.9.15-1~deb7u+1
+2014-11-02 03:13:09 replace wheezy deb main amd64 i2p 0.9.16-1~deb7u+1 0.9.15-1~deb7u+1
+2014-11-02 03:13:09 replace wheezy deb main kfreebsd-i386 i2p 0.9.16-1~deb7u+1 0.9.15-1~deb7u+1
+2014-11-02 03:13:09 replace wheezy deb main kfreebsd-amd64 i2p 0.9.16-1~deb7u+1 0.9.15-1~deb7u+1
+2014-11-02 03:13:09 replace wheezy deb main armel i2p 0.9.16-1~deb7u+1 0.9.15-1~deb7u+1
+2014-11-02 03:13:09 replace wheezy deb main powerpc i2p 0.9.16-1~deb7u+1 0.9.15-1~deb7u+1
+2014-11-02 03:13:09 replace wheezy deb main armhf i2p 0.9.16-1~deb7u+1 0.9.15-1~deb7u+1
+2014-11-02 03:13:09 replace wheezy deb main i386 i2p-doc 0.9.16-1~deb7u+1 0.9.15-1~deb7u+1
+2014-11-02 03:13:09 replace wheezy deb main amd64 i2p-doc 0.9.16-1~deb7u+1 0.9.15-1~deb7u+1
+2014-11-02 03:13:09 replace wheezy deb main kfreebsd-i386 i2p-doc 0.9.16-1~deb7u+1 0.9.15-1~deb7u+1
+2014-11-02 03:13:09 replace wheezy deb main kfreebsd-amd64 i2p-doc 0.9.16-1~deb7u+1 0.9.15-1~deb7u+1
+2014-11-02 03:13:09 replace wheezy deb main armel i2p-doc 0.9.16-1~deb7u+1 0.9.15-1~deb7u+1
+2014-11-02 03:13:09 replace wheezy deb main powerpc i2p-doc 0.9.16-1~deb7u+1 0.9.15-1~deb7u+1
+2014-11-02 03:13:09 replace wheezy deb main armhf i2p-doc 0.9.16-1~deb7u+1 0.9.15-1~deb7u+1
+2014-11-02 03:13:09 replace wheezy deb main i386 i2p-router 0.9.16-1~deb7u+1 0.9.15-1~deb7u+1
+2014-11-02 03:13:09 replace wheezy deb main amd64 i2p-router 0.9.16-1~deb7u+1 0.9.15-1~deb7u+1
+2014-11-02 03:13:09 replace wheezy deb main kfreebsd-i386 i2p-router 0.9.16-1~deb7u+1 0.9.15-1~deb7u+1
+2014-11-02 03:13:09 replace wheezy deb main kfreebsd-amd64 i2p-router 0.9.16-1~deb7u+1 0.9.15-1~deb7u+1
+2014-11-02 03:13:09 replace wheezy deb main armel i2p-router 0.9.16-1~deb7u+1 0.9.15-1~deb7u+1
+2014-11-02 03:13:09 replace wheezy deb main powerpc i2p-router 0.9.16-1~deb7u+1 0.9.15-1~deb7u+1
+2014-11-02 03:13:09 replace wheezy deb main armhf i2p-router 0.9.16-1~deb7u+1 0.9.15-1~deb7u+1
+2014-11-02 03:13:32 replace wheezy deb main i386 libjbigi-jni 0.9.16-1~deb7u+1 0.9.15-1~deb7u+1
+2014-11-02 03:25:31 replace wheezy deb main armhf libjbigi-jni 0.9.16-1~deb7u+1 0.9.15-1~deb7u+1
+2014-11-02 03:34:03 replace wheezy deb main powerpc libjbigi-jni 0.9.16-1~deb7u+1 0.9.15-1~deb7u+1
+2014-11-02 03:34:12 replace wheezy deb main armel libjbigi-jni 0.9.16-1~deb7u+1 0.9.15-1~deb7u+1
+2014-11-02 04:03:22 replace wheezy deb main kfreebsd-amd64 libjbigi-jni 0.9.16-1~deb7u+1 0.9.15-1~deb7u+1
+2014-11-02 04:03:37 replace wheezy deb main kfreebsd-i386 libjbigi-jni 0.9.16-1~deb7u+1 0.9.15-1~deb7u+1
+2014-11-07 20:53:01 replace wheezy dsc main source i2pd 0.2.1+git20141107.4b0001b-1~deb7u+1 0.2.0-2~deb7u+1
+2014-11-07 20:53:01 replace wheezy deb main amd64 i2pd 0.2.1+git20141107.4b0001b-1~deb7u+1 0.2.0-2~deb7u+1
+2014-11-07 20:53:01 replace wheezy deb main amd64 i2pd-dbg 0.2.1+git20141107.4b0001b-1~deb7u+1 0.2.0-2~deb7u+1
+2014-11-07 20:54:08 replace wheezy deb main i386 i2pd 0.2.1+git20141107.4b0001b-1~deb7u+1 0.2.0-2~deb7u+1
+2014-11-07 20:54:08 replace wheezy deb main i386 i2pd-dbg 0.2.1+git20141107.4b0001b-1~deb7u+1 0.2.0-2~deb7u+1
+2014-11-07 20:55:29 replace wheezy deb main armel i2pd 0.2.1+git20141107.4b0001b-1~deb7u+1 0.2.0-2~deb7u+1
+2014-11-07 20:55:29 replace wheezy deb main armel i2pd-dbg 0.2.1+git20141107.4b0001b-1~deb7u+1 0.2.0-2~deb7u+1
+2014-11-07 20:56:08 replace wheezy deb main armhf i2pd 0.2.1+git20141107.4b0001b-1~deb7u+1 0.2.0-2~deb7u+1
+2014-11-07 20:56:08 replace wheezy deb main armhf i2pd-dbg 0.2.1+git20141107.4b0001b-1~deb7u+1 0.2.0-2~deb7u+1
+2014-11-07 20:56:49 replace wheezy deb main kfreebsd-amd64 i2pd 0.2.1+git20141107.4b0001b-1~deb7u+1 0.2.0-1~deb7u+1
+2014-11-07 20:56:49 replace wheezy deb main kfreebsd-amd64 i2pd-dbg 0.2.1+git20141107.4b0001b-1~deb7u+1 0.2.0-1~deb7u+1
+2014-11-07 20:57:45 replace wheezy deb main kfreebsd-i386 i2pd 0.2.1+git20141107.4b0001b-1~deb7u+1 0.2.0-1~deb7u+1
+2014-11-07 20:57:45 replace wheezy deb main kfreebsd-i386 i2pd-dbg 0.2.1+git20141107.4b0001b-1~deb7u+1 0.2.0-1~deb7u+1
+2014-11-19 04:04:48 replace wheezy dsc main source i2pd 0.2.1+git20141107.4b0001b-2~deb7u+1 0.2.1+git20141107.4b0001b-1~deb7u+1
+2014-11-19 04:04:48 replace wheezy deb main amd64 i2pd 0.2.1+git20141107.4b0001b-2~deb7u+1 0.2.1+git20141107.4b0001b-1~deb7u+1
+2014-11-19 04:04:48 replace wheezy deb main amd64 i2pd-dbg 0.2.1+git20141107.4b0001b-2~deb7u+1 0.2.1+git20141107.4b0001b-1~deb7u+1
+2014-11-19 04:05:20 replace wheezy deb main i386 i2pd 0.2.1+git20141107.4b0001b-2~deb7u+1 0.2.1+git20141107.4b0001b-1~deb7u+1
+2014-11-19 04:05:20 replace wheezy deb main i386 i2pd-dbg 0.2.1+git20141107.4b0001b-2~deb7u+1 0.2.1+git20141107.4b0001b-1~deb7u+1
+2014-11-19 04:05:49 replace wheezy deb main kfreebsd-amd64 i2pd 0.2.1+git20141107.4b0001b-2~deb7u+1 0.2.1+git20141107.4b0001b-1~deb7u+1
+2014-11-19 04:05:49 replace wheezy deb main kfreebsd-amd64 i2pd-dbg 0.2.1+git20141107.4b0001b-2~deb7u+1 0.2.1+git20141107.4b0001b-1~deb7u+1
+2014-11-19 04:06:16 replace wheezy deb main kfreebsd-i386 i2pd 0.2.1+git20141107.4b0001b-2~deb7u+1 0.2.1+git20141107.4b0001b-1~deb7u+1
+2014-11-19 04:06:16 replace wheezy deb main kfreebsd-i386 i2pd-dbg 0.2.1+git20141107.4b0001b-2~deb7u+1 0.2.1+git20141107.4b0001b-1~deb7u+1
+2014-11-19 04:06:43 replace wheezy deb main armel i2pd 0.2.1+git20141107.4b0001b-2~deb7u+1 0.2.1+git20141107.4b0001b-1~deb7u+1
+2014-11-19 04:06:43 replace wheezy deb main armel i2pd-dbg 0.2.1+git20141107.4b0001b-2~deb7u+1 0.2.1+git20141107.4b0001b-1~deb7u+1
+2014-11-19 04:07:09 replace wheezy deb main armhf i2pd 0.2.1+git20141107.4b0001b-2~deb7u+1 0.2.1+git20141107.4b0001b-1~deb7u+1
+2014-11-19 04:07:09 replace wheezy deb main armhf i2pd-dbg 0.2.1+git20141107.4b0001b-2~deb7u+1 0.2.1+git20141107.4b0001b-1~deb7u+1
+2014-11-21 19:11:24 replace wheezy dsc main source i2pd 0.3.0-1~deb7u+1 0.2.1+git20141107.4b0001b-2~deb7u+1
+2014-11-21 19:11:24 replace wheezy deb main amd64 i2pd 0.3.0-1~deb7u+1 0.2.1+git20141107.4b0001b-2~deb7u+1
+2014-11-21 19:11:24 replace wheezy deb main amd64 i2pd-dbg 0.3.0-1~deb7u+1 0.2.1+git20141107.4b0001b-2~deb7u+1
+2014-11-21 19:13:04 replace wheezy deb main kfreebsd-amd64 i2pd 0.3.0-1~deb7u+1 0.2.1+git20141107.4b0001b-2~deb7u+1
+2014-11-21 19:13:04 replace wheezy deb main kfreebsd-amd64 i2pd-dbg 0.3.0-1~deb7u+1 0.2.1+git20141107.4b0001b-2~deb7u+1
+2014-11-21 19:15:06 replace wheezy deb main i386 i2pd 0.3.0-1~deb7u+1 0.2.1+git20141107.4b0001b-2~deb7u+1
+2014-11-21 19:15:06 replace wheezy deb main i386 i2pd-dbg 0.3.0-1~deb7u+1 0.2.1+git20141107.4b0001b-2~deb7u+1
+2014-11-21 19:17:00 replace wheezy deb main kfreebsd-i386 i2pd 0.3.0-1~deb7u+1 0.2.1+git20141107.4b0001b-2~deb7u+1
+2014-11-21 19:17:00 replace wheezy deb main kfreebsd-i386 i2pd-dbg 0.3.0-1~deb7u+1 0.2.1+git20141107.4b0001b-2~deb7u+1
+2014-11-21 19:18:55 replace wheezy deb main armel i2pd 0.3.0-1~deb7u+1 0.2.1+git20141107.4b0001b-2~deb7u+1
+2014-11-21 19:18:55 replace wheezy deb main armel i2pd-dbg 0.3.0-1~deb7u+1 0.2.1+git20141107.4b0001b-2~deb7u+1
+2014-11-21 19:20:32 replace wheezy deb main armhf i2pd 0.3.0-1~deb7u+1 0.2.1+git20141107.4b0001b-2~deb7u+1
+2014-11-21 19:20:32 replace wheezy deb main armhf i2pd-dbg 0.3.0-1~deb7u+1 0.2.1+git20141107.4b0001b-2~deb7u+1
+2014-11-25 22:59:09 replace wheezy dsc main source i2pd 0.4.0-1~deb7u+1 0.3.0-1~deb7u+1
+2014-11-25 22:59:09 replace wheezy deb main amd64 i2pd 0.4.0-1~deb7u+1 0.3.0-1~deb7u+1
+2014-11-25 22:59:09 replace wheezy deb main amd64 i2pd-dbg 0.4.0-1~deb7u+1 0.3.0-1~deb7u+1
+2014-11-25 22:59:59 replace wheezy deb main i386 i2pd 0.4.0-1~deb7u+1 0.3.0-1~deb7u+1
+2014-11-25 22:59:59 replace wheezy deb main i386 i2pd-dbg 0.4.0-1~deb7u+1 0.3.0-1~deb7u+1
+2014-11-25 23:01:10 replace wheezy deb main armel i2pd 0.4.0-1~deb7u+1 0.3.0-1~deb7u+1
+2014-11-25 23:01:10 replace wheezy deb main armel i2pd-dbg 0.4.0-1~deb7u+1 0.3.0-1~deb7u+1
+2014-11-25 23:02:13 replace wheezy deb main armhf i2pd 0.4.0-1~deb7u+1 0.3.0-1~deb7u+1
+2014-11-25 23:02:13 replace wheezy deb main armhf i2pd-dbg 0.4.0-1~deb7u+1 0.3.0-1~deb7u+1
+2014-11-25 23:03:28 replace wheezy deb main kfreebsd-amd64 i2pd 0.4.0-1~deb7u+1 0.3.0-1~deb7u+1
+2014-11-25 23:03:28 replace wheezy deb main kfreebsd-amd64 i2pd-dbg 0.4.0-1~deb7u+1 0.3.0-1~deb7u+1
+2014-11-25 23:04:19 replace wheezy deb main kfreebsd-i386 i2pd 0.4.0-1~deb7u+1 0.3.0-1~deb7u+1
+2014-11-25 23:04:19 replace wheezy deb main kfreebsd-i386 i2pd-dbg 0.4.0-1~deb7u+1 0.3.0-1~deb7u+1
+2014-12-01 01:07:47 replace wheezy dsc main source i2p 0.9.17-1~deb7u+1 0.9.16-1~deb7u+1
+2014-12-01 01:07:47 replace wheezy deb main amd64 libjbigi-jni 0.9.17-1~deb7u+1 0.9.16-1~deb7u+1
+2014-12-01 01:07:47 replace wheezy deb main i386 i2p 0.9.17-1~deb7u+1 0.9.16-1~deb7u+1
+2014-12-01 01:07:47 replace wheezy deb main amd64 i2p 0.9.17-1~deb7u+1 0.9.16-1~deb7u+1
+2014-12-01 01:07:47 replace wheezy deb main kfreebsd-i386 i2p 0.9.17-1~deb7u+1 0.9.16-1~deb7u+1
+2014-12-01 01:07:47 replace wheezy deb main kfreebsd-amd64 i2p 0.9.17-1~deb7u+1 0.9.16-1~deb7u+1
+2014-12-01 01:07:47 replace wheezy deb main armel i2p 0.9.17-1~deb7u+1 0.9.16-1~deb7u+1
+2014-12-01 01:07:47 replace wheezy deb main powerpc i2p 0.9.17-1~deb7u+1 0.9.16-1~deb7u+1
+2014-12-01 01:07:47 replace wheezy deb main armhf i2p 0.9.17-1~deb7u+1 0.9.16-1~deb7u+1
+2014-12-01 01:07:47 replace wheezy deb main i386 i2p-doc 0.9.17-1~deb7u+1 0.9.16-1~deb7u+1
+2014-12-01 01:07:47 replace wheezy deb main amd64 i2p-doc 0.9.17-1~deb7u+1 0.9.16-1~deb7u+1
+2014-12-01 01:07:47 replace wheezy deb main kfreebsd-i386 i2p-doc 0.9.17-1~deb7u+1 0.9.16-1~deb7u+1
+2014-12-01 01:07:47 replace wheezy deb main kfreebsd-amd64 i2p-doc 0.9.17-1~deb7u+1 0.9.16-1~deb7u+1
+2014-12-01 01:07:47 replace wheezy deb main armel i2p-doc 0.9.17-1~deb7u+1 0.9.16-1~deb7u+1
+2014-12-01 01:07:47 replace wheezy deb main powerpc i2p-doc 0.9.17-1~deb7u+1 0.9.16-1~deb7u+1
+2014-12-01 01:07:47 replace wheezy deb main armhf i2p-doc 0.9.17-1~deb7u+1 0.9.16-1~deb7u+1
+2014-12-01 01:07:47 replace wheezy deb main i386 i2p-router 0.9.17-1~deb7u+1 0.9.16-1~deb7u+1
+2014-12-01 01:07:47 replace wheezy deb main amd64 i2p-router 0.9.17-1~deb7u+1 0.9.16-1~deb7u+1
+2014-12-01 01:07:47 replace wheezy deb main kfreebsd-i386 i2p-router 0.9.17-1~deb7u+1 0.9.16-1~deb7u+1
+2014-12-01 01:07:47 replace wheezy deb main kfreebsd-amd64 i2p-router 0.9.17-1~deb7u+1 0.9.16-1~deb7u+1
+2014-12-01 01:07:47 replace wheezy deb main armel i2p-router 0.9.17-1~deb7u+1 0.9.16-1~deb7u+1
+2014-12-01 01:07:47 replace wheezy deb main powerpc i2p-router 0.9.17-1~deb7u+1 0.9.16-1~deb7u+1
+2014-12-01 01:07:47 replace wheezy deb main armhf i2p-router 0.9.17-1~deb7u+1 0.9.16-1~deb7u+1
+2014-12-01 01:08:23 replace wheezy deb main armhf libjbigi-jni 0.9.17-1~deb7u+1 0.9.16-1~deb7u+1
+2014-12-01 01:09:51 replace wheezy deb main i386 libjbigi-jni 0.9.17-1~deb7u+1 0.9.16-1~deb7u+1
+2014-12-01 01:46:22 replace wheezy deb main kfreebsd-amd64 libjbigi-jni 0.9.17-1~deb7u+1 0.9.16-1~deb7u+1
+2014-12-01 01:46:44 replace wheezy deb main kfreebsd-i386 libjbigi-jni 0.9.17-1~deb7u+1 0.9.16-1~deb7u+1
+2014-12-01 03:34:38 replace wheezy deb main armel libjbigi-jni 0.9.17-1~deb7u+1 0.9.16-1~deb7u+1
+2014-12-01 04:28:29 replace wheezy deb main powerpc libjbigi-jni 0.9.17-1~deb7u+1 0.9.16-1~deb7u+1
+2014-12-18 12:43:08 replace wheezy dsc main source i2pd 0.5.0-1~deb7u+1 0.4.0-1~deb7u+1
+2014-12-18 12:43:08 replace wheezy deb main amd64 i2pd 0.5.0-1~deb7u+1 0.4.0-1~deb7u+1
+2014-12-18 12:43:08 replace wheezy deb main amd64 i2pd-dbg 0.5.0-1~deb7u+1 0.4.0-1~deb7u+1
+2014-12-18 12:44:40 replace wheezy deb main i386 i2pd 0.5.0-1~deb7u+1 0.4.0-1~deb7u+1
+2014-12-18 12:44:40 replace wheezy deb main i386 i2pd-dbg 0.5.0-1~deb7u+1 0.4.0-1~deb7u+1
+2014-12-18 12:46:04 replace wheezy deb main armel i2pd 0.5.0-1~deb7u+1 0.4.0-1~deb7u+1
+2014-12-18 12:46:04 replace wheezy deb main armel i2pd-dbg 0.5.0-1~deb7u+1 0.4.0-1~deb7u+1
+2014-12-18 12:47:00 replace wheezy deb main armhf i2pd 0.5.0-1~deb7u+1 0.4.0-1~deb7u+1
+2014-12-18 12:47:00 replace wheezy deb main armhf i2pd-dbg 0.5.0-1~deb7u+1 0.4.0-1~deb7u+1
+2014-12-18 12:47:50 replace wheezy deb main kfreebsd-amd64 i2pd 0.5.0-1~deb7u+2 0.4.0-1~deb7u+1
+2014-12-18 12:47:50 replace wheezy deb main kfreebsd-amd64 i2pd-dbg 0.5.0-1~deb7u+2 0.4.0-1~deb7u+1
+2014-12-18 12:48:37 replace wheezy deb main kfreebsd-i386 i2pd 0.5.0-1~deb7u+2 0.4.0-1~deb7u+1
+2014-12-18 12:48:37 replace wheezy deb main kfreebsd-i386 i2pd-dbg 0.5.0-1~deb7u+2 0.4.0-1~deb7u+1
+2015-01-06 17:43:52 replace wheezy dsc main source i2pd 0.6.0-1~deb7u+1 0.5.0-1~deb7u+1
+2015-01-06 17:43:52 replace wheezy deb main amd64 i2pd 0.6.0-1~deb7u+1 0.5.0-1~deb7u+1
+2015-01-06 17:43:52 replace wheezy deb main amd64 i2pd-dbg 0.6.0-1~deb7u+1 0.5.0-1~deb7u+1
+2015-01-06 17:50:58 replace wheezy deb main i386 i2pd 0.6.0-1~deb7u+1 0.5.0-1~deb7u+1
+2015-01-06 17:50:58 replace wheezy deb main i386 i2pd-dbg 0.6.0-1~deb7u+1 0.5.0-1~deb7u+1
+2015-01-06 17:57:02 replace wheezy deb main kfreebsd-amd64 i2pd 0.6.0-1~deb7u+1 0.5.0-1~deb7u+2
+2015-01-06 17:57:02 replace wheezy deb main kfreebsd-amd64 i2pd-dbg 0.6.0-1~deb7u+1 0.5.0-1~deb7u+2
+2015-01-06 18:05:55 replace wheezy deb main kfreebsd-i386 i2pd 0.6.0-1~deb7u+1 0.5.0-1~deb7u+2
+2015-01-06 18:05:55 replace wheezy deb main kfreebsd-i386 i2pd-dbg 0.6.0-1~deb7u+1 0.5.0-1~deb7u+2
+2015-01-06 18:11:32 replace wheezy deb main armel i2pd 0.6.0-1~deb7u+1 0.5.0-1~deb7u+1
+2015-01-06 18:11:32 replace wheezy deb main armel i2pd-dbg 0.6.0-1~deb7u+1 0.5.0-1~deb7u+1
+2015-01-06 18:18:45 replace wheezy deb main armhf i2pd 0.6.0-1~deb7u+1 0.5.0-1~deb7u+1
+2015-01-06 18:18:45 replace wheezy deb main armhf i2pd-dbg 0.6.0-1~deb7u+1 0.5.0-1~deb7u+1
+2015-02-04 19:33:01 replace wheezy dsc main source i2pd 0.7.0-1~deb7u+1 0.6.0-1~deb7u+1
+2015-02-04 19:33:02 replace wheezy deb main amd64 i2pd 0.7.0-1~deb7u+1 0.6.0-1~deb7u+1
+2015-02-04 19:33:02 replace wheezy deb main amd64 i2pd-dbg 0.7.0-1~deb7u+1 0.6.0-1~deb7u+1
+2015-02-04 19:34:47 replace wheezy deb main i386 i2pd 0.7.0-1~deb7u+1 0.6.0-1~deb7u+1
+2015-02-04 19:34:47 replace wheezy deb main i386 i2pd-dbg 0.7.0-1~deb7u+1 0.6.0-1~deb7u+1
+2015-02-04 19:36:33 replace wheezy deb main kfreebsd-amd64 i2pd 0.7.0-1~deb7u+1 0.6.0-1~deb7u+1
+2015-02-04 19:36:33 replace wheezy deb main kfreebsd-amd64 i2pd-dbg 0.7.0-1~deb7u+1 0.6.0-1~deb7u+1
+2015-02-04 19:38:16 replace wheezy deb main kfreebsd-i386 i2pd 0.7.0-1~deb7u+1 0.6.0-1~deb7u+1
+2015-02-04 19:38:16 replace wheezy deb main kfreebsd-i386 i2pd-dbg 0.7.0-1~deb7u+1 0.6.0-1~deb7u+1
+2015-02-04 19:40:00 replace wheezy deb main armel i2pd 0.7.0-1~deb7u+1 0.6.0-1~deb7u+1
+2015-02-04 19:40:00 replace wheezy deb main armel i2pd-dbg 0.7.0-1~deb7u+1 0.6.0-1~deb7u+1
+2015-02-04 19:41:46 replace wheezy deb main armhf i2pd 0.7.0-1~deb7u+1 0.6.0-1~deb7u+1
+2015-02-04 19:41:46 replace wheezy deb main armhf i2pd-dbg 0.7.0-1~deb7u+1 0.6.0-1~deb7u+1
+2015-02-23 04:32:07 replace wheezy dsc main source i2p 0.9.18-1~deb7u+1 0.9.17-1~deb7u+1
+2015-02-23 04:32:07 replace wheezy deb main amd64 libjbigi-jni 0.9.18-1~deb7u+1 0.9.17-1~deb7u+1
+2015-02-23 04:32:07 replace wheezy deb main i386 i2p 0.9.18-1~deb7u+1 0.9.17-1~deb7u+1
+2015-02-23 04:32:07 replace wheezy deb main amd64 i2p 0.9.18-1~deb7u+1 0.9.17-1~deb7u+1
+2015-02-23 04:32:07 replace wheezy deb main kfreebsd-i386 i2p 0.9.18-1~deb7u+1 0.9.17-1~deb7u+1
+2015-02-23 04:32:07 replace wheezy deb main kfreebsd-amd64 i2p 0.9.18-1~deb7u+1 0.9.17-1~deb7u+1
+2015-02-23 04:32:07 replace wheezy deb main armel i2p 0.9.18-1~deb7u+1 0.9.17-1~deb7u+1
+2015-02-23 04:32:07 replace wheezy deb main powerpc i2p 0.9.18-1~deb7u+1 0.9.17-1~deb7u+1
+2015-02-23 04:32:07 replace wheezy deb main armhf i2p 0.9.18-1~deb7u+1 0.9.17-1~deb7u+1
+2015-02-23 04:32:07 replace wheezy deb main i386 i2p-doc 0.9.18-1~deb7u+1 0.9.17-1~deb7u+1
+2015-02-23 04:32:07 replace wheezy deb main amd64 i2p-doc 0.9.18-1~deb7u+1 0.9.17-1~deb7u+1
+2015-02-23 04:32:07 replace wheezy deb main kfreebsd-i386 i2p-doc 0.9.18-1~deb7u+1 0.9.17-1~deb7u+1
+2015-02-23 04:32:07 replace wheezy deb main kfreebsd-amd64 i2p-doc 0.9.18-1~deb7u+1 0.9.17-1~deb7u+1
+2015-02-23 04:32:07 replace wheezy deb main armel i2p-doc 0.9.18-1~deb7u+1 0.9.17-1~deb7u+1
+2015-02-23 04:32:07 replace wheezy deb main powerpc i2p-doc 0.9.18-1~deb7u+1 0.9.17-1~deb7u+1
+2015-02-23 04:32:07 replace wheezy deb main armhf i2p-doc 0.9.18-1~deb7u+1 0.9.17-1~deb7u+1
+2015-02-23 04:32:07 replace wheezy deb main i386 i2p-router 0.9.18-1~deb7u+1 0.9.17-1~deb7u+1
+2015-02-23 04:32:07 replace wheezy deb main amd64 i2p-router 0.9.18-1~deb7u+1 0.9.17-1~deb7u+1
+2015-02-23 04:32:07 replace wheezy deb main kfreebsd-i386 i2p-router 0.9.18-1~deb7u+1 0.9.17-1~deb7u+1
+2015-02-23 04:32:07 replace wheezy deb main kfreebsd-amd64 i2p-router 0.9.18-1~deb7u+1 0.9.17-1~deb7u+1
+2015-02-23 04:32:07 replace wheezy deb main armel i2p-router 0.9.18-1~deb7u+1 0.9.17-1~deb7u+1
+2015-02-23 04:32:07 replace wheezy deb main powerpc i2p-router 0.9.18-1~deb7u+1 0.9.17-1~deb7u+1
+2015-02-23 04:32:07 replace wheezy deb main armhf i2p-router 0.9.18-1~deb7u+1 0.9.17-1~deb7u+1
+2015-02-23 04:32:44 replace wheezy deb main i386 libjbigi-jni 0.9.18-1~deb7u+1 0.9.17-1~deb7u+1
+2015-02-23 04:32:58 replace wheezy deb main armhf libjbigi-jni 0.9.18-1~deb7u+1 0.9.17-1~deb7u+1
+2015-02-23 04:33:13 replace wheezy deb main kfreebsd-amd64 libjbigi-jni 0.9.18-1~deb7u+1 0.9.17-1~deb7u+1
+2015-02-23 04:33:27 replace wheezy deb main kfreebsd-i386 libjbigi-jni 0.9.18-1~deb7u+1 0.9.17-1~deb7u+1
+2015-02-23 14:08:06 replace wheezy dsc main source i2pd 0.8.0-1~deb7u+1 0.7.0-1~deb7u+1
+2015-02-23 14:08:06 replace wheezy deb main amd64 i2pd 0.8.0-1~deb7u+1 0.7.0-1~deb7u+1
+2015-02-23 14:08:06 replace wheezy deb main amd64 i2pd-dbg 0.8.0-1~deb7u+1 0.7.0-1~deb7u+1
+2015-02-23 14:09:04 replace wheezy deb main i386 i2pd 0.8.0-1~deb7u+1 0.7.0-1~deb7u+1
+2015-02-23 14:09:04 replace wheezy deb main i386 i2pd-dbg 0.8.0-1~deb7u+1 0.7.0-1~deb7u+1
+2015-02-23 14:10:03 replace wheezy deb main kfreebsd-amd64 i2pd 0.8.0-1~deb7u+1 0.7.0-1~deb7u+1
+2015-02-23 14:10:03 replace wheezy deb main kfreebsd-amd64 i2pd-dbg 0.8.0-1~deb7u+1 0.7.0-1~deb7u+1
+2015-02-23 14:11:00 replace wheezy deb main kfreebsd-i386 i2pd 0.8.0-1~deb7u+1 0.7.0-1~deb7u+1
+2015-02-23 14:11:01 replace wheezy deb main kfreebsd-i386 i2pd-dbg 0.8.0-1~deb7u+1 0.7.0-1~deb7u+1
+2015-02-23 14:12:12 replace wheezy deb main armhf i2pd 0.8.0-1~deb7u+1 0.7.0-1~deb7u+1
+2015-02-23 14:12:12 replace wheezy deb main armhf i2pd-dbg 0.8.0-1~deb7u+1 0.7.0-1~deb7u+1
+2015-02-23 14:13:53 replace wheezy deb main armel i2pd 0.8.0-1~deb7u+1 0.7.0-1~deb7u+1
+2015-02-23 14:13:53 replace wheezy deb main armel i2pd-dbg 0.8.0-1~deb7u+1 0.7.0-1~deb7u+1
+2015-03-27 02:54:08 replace wheezy deb main i386 killyourtv-keyring 2015.03.27 2013.10.12.1
+2015-03-27 02:54:08 replace wheezy deb main amd64 killyourtv-keyring 2015.03.27 2013.10.12.1
+2015-03-27 02:54:08 replace wheezy deb main kfreebsd-i386 killyourtv-keyring 2015.03.27 2013.10.12.1
+2015-03-27 02:54:08 replace wheezy deb main kfreebsd-amd64 killyourtv-keyring 2015.03.27 2013.10.12.1
+2015-03-27 02:54:08 replace wheezy deb main armel killyourtv-keyring 2015.03.27 2013.10.12.1
+2015-03-27 02:54:08 replace wheezy deb main powerpc killyourtv-keyring 2015.03.27 2013.10.12.1
+2015-03-27 02:54:08 replace wheezy deb main armhf killyourtv-keyring 2015.03.27 2013.10.12.1
+2015-03-27 02:54:08 replace wheezy dsc main source killyourtv-keyring 2015.03.27 2013.10.12.1
+2015-03-27 03:04:35 replace wheezy dsc main source killyourtv-keyring 2015.03.27.1 2015.03.27
+2015-03-27 03:04:35 replace wheezy deb main i386 killyourtv-keyring 2015.03.27.1 2015.03.27
+2015-03-27 03:04:35 replace wheezy deb main amd64 killyourtv-keyring 2015.03.27.1 2015.03.27
+2015-03-27 03:04:35 replace wheezy deb main kfreebsd-i386 killyourtv-keyring 2015.03.27.1 2015.03.27
+2015-03-27 03:04:35 replace wheezy deb main kfreebsd-amd64 killyourtv-keyring 2015.03.27.1 2015.03.27
+2015-03-27 03:04:35 replace wheezy deb main armel killyourtv-keyring 2015.03.27.1 2015.03.27
+2015-03-27 03:04:35 replace wheezy deb main powerpc killyourtv-keyring 2015.03.27.1 2015.03.27
+2015-03-27 03:04:35 replace wheezy deb main armhf killyourtv-keyring 2015.03.27.1 2015.03.27
+2015-04-01 19:43:59 replace wheezy dsc main source i2pd 0.9.0-1~deb7u+1 0.8.0-1~deb7u+1
+2015-04-01 19:43:59 replace wheezy deb main amd64 i2pd 0.9.0-1~deb7u+1 0.8.0-1~deb7u+1
+2015-04-01 19:43:59 replace wheezy deb main amd64 i2pd-dbg 0.9.0-1~deb7u+1 0.8.0-1~deb7u+1
+2015-04-01 19:45:00 replace wheezy deb main i386 i2pd 0.9.0-1~deb7u+1 0.8.0-1~deb7u+1
+2015-04-01 19:45:00 replace wheezy deb main i386 i2pd-dbg 0.9.0-1~deb7u+1 0.8.0-1~deb7u+1
+2015-04-01 19:45:53 replace wheezy deb main armel i2pd 0.9.0-1~deb7u+1 0.8.0-1~deb7u+1
+2015-04-01 19:45:53 replace wheezy deb main armel i2pd-dbg 0.9.0-1~deb7u+1 0.8.0-1~deb7u+1
+2015-04-01 19:47:06 replace wheezy deb main armhf i2pd 0.9.0-1~deb7u+1 0.8.0-1~deb7u+1
+2015-04-01 19:47:06 replace wheezy deb main armhf i2pd-dbg 0.9.0-1~deb7u+1 0.8.0-1~deb7u+1
+2015-04-13 19:39:27 replace wheezy dsc main source i2p 0.9.19-1~deb7u+1 0.9.18-1~deb7u+1
+2015-04-13 19:39:27 replace wheezy deb main amd64 libjbigi-jni 0.9.19-1~deb7u+1 0.9.18-1~deb7u+1
+2015-04-13 19:39:27 replace wheezy deb main i386 i2p 0.9.19-1~deb7u+1 0.9.18-1~deb7u+1
+2015-04-13 19:39:27 replace wheezy deb main amd64 i2p 0.9.19-1~deb7u+1 0.9.18-1~deb7u+1
+2015-04-13 19:39:27 replace wheezy deb main armel i2p 0.9.19-1~deb7u+1 0.9.18-1~deb7u+1
+2015-04-13 19:39:27 replace wheezy deb main powerpc i2p 0.9.19-1~deb7u+1 0.9.18-1~deb7u+1
+2015-04-13 19:39:27 replace wheezy deb main armhf i2p 0.9.19-1~deb7u+1 0.9.18-1~deb7u+1
+2015-04-13 19:39:27 replace wheezy deb main i386 i2p-doc 0.9.19-1~deb7u+1 0.9.18-1~deb7u+1
+2015-04-13 19:39:27 replace wheezy deb main amd64 i2p-doc 0.9.19-1~deb7u+1 0.9.18-1~deb7u+1
+2015-04-13 19:39:27 replace wheezy deb main armel i2p-doc 0.9.19-1~deb7u+1 0.9.18-1~deb7u+1
+2015-04-13 19:39:27 replace wheezy deb main powerpc i2p-doc 0.9.19-1~deb7u+1 0.9.18-1~deb7u+1
+2015-04-13 19:39:27 replace wheezy deb main armhf i2p-doc 0.9.19-1~deb7u+1 0.9.18-1~deb7u+1
+2015-04-13 19:39:27 replace wheezy deb main i386 i2p-router 0.9.19-1~deb7u+1 0.9.18-1~deb7u+1
+2015-04-13 19:39:27 replace wheezy deb main amd64 i2p-router 0.9.19-1~deb7u+1 0.9.18-1~deb7u+1
+2015-04-13 19:39:27 replace wheezy deb main armel i2p-router 0.9.19-1~deb7u+1 0.9.18-1~deb7u+1
+2015-04-13 19:39:27 replace wheezy deb main powerpc i2p-router 0.9.19-1~deb7u+1 0.9.18-1~deb7u+1
+2015-04-13 19:39:27 replace wheezy deb main armhf i2p-router 0.9.19-1~deb7u+1 0.9.18-1~deb7u+1
+2015-04-13 19:40:05 replace wheezy deb main i386 libjbigi-jni 0.9.19-1~deb7u+1 0.9.18-1~deb7u+1
+2015-04-13 19:40:31 replace wheezy deb main armel libjbigi-jni 0.9.19-1~deb7u+1 0.9.17-1~deb7u+1
+2015-04-13 19:41:32 replace wheezy deb main armhf libjbigi-jni 0.9.19-1~deb7u+1 0.9.18-1~deb7u+1
+2015-04-13 22:45:54 replace wheezy deb main powerpc libjbigi-jni 0.9.19-1~deb7u+1 0.9.17-1~deb7u+1
+2015-04-14 20:38:22 replace wheezy dsc main source i2p 0.9.19-2~deb7u+1 0.9.19-1~deb7u+1
+2015-04-14 20:38:22 replace wheezy deb main amd64 libjbigi-jni 0.9.19-2~deb7u+1 0.9.19-1~deb7u+1
+2015-04-14 20:38:22 replace wheezy deb main i386 i2p 0.9.19-2~deb7u+1 0.9.19-1~deb7u+1
+2015-04-14 20:38:22 replace wheezy deb main amd64 i2p 0.9.19-2~deb7u+1 0.9.19-1~deb7u+1
+2015-04-14 20:38:22 replace wheezy deb main armel i2p 0.9.19-2~deb7u+1 0.9.19-1~deb7u+1
+2015-04-14 20:38:22 replace wheezy deb main powerpc i2p 0.9.19-2~deb7u+1 0.9.19-1~deb7u+1
+2015-04-14 20:38:22 replace wheezy deb main armhf i2p 0.9.19-2~deb7u+1 0.9.19-1~deb7u+1
+2015-04-14 20:38:22 replace wheezy deb main i386 i2p-doc 0.9.19-2~deb7u+1 0.9.19-1~deb7u+1
+2015-04-14 20:38:22 replace wheezy deb main amd64 i2p-doc 0.9.19-2~deb7u+1 0.9.19-1~deb7u+1
+2015-04-14 20:38:22 replace wheezy deb main armel i2p-doc 0.9.19-2~deb7u+1 0.9.19-1~deb7u+1
+2015-04-14 20:38:22 replace wheezy deb main powerpc i2p-doc 0.9.19-2~deb7u+1 0.9.19-1~deb7u+1
+2015-04-14 20:38:22 replace wheezy deb main armhf i2p-doc 0.9.19-2~deb7u+1 0.9.19-1~deb7u+1
+2015-04-14 20:38:22 replace wheezy deb main i386 i2p-router 0.9.19-2~deb7u+1 0.9.19-1~deb7u+1
+2015-04-14 20:38:22 replace wheezy deb main amd64 i2p-router 0.9.19-2~deb7u+1 0.9.19-1~deb7u+1
+2015-04-14 20:38:22 replace wheezy deb main armel i2p-router 0.9.19-2~deb7u+1 0.9.19-1~deb7u+1
+2015-04-14 20:38:22 replace wheezy deb main powerpc i2p-router 0.9.19-2~deb7u+1 0.9.19-1~deb7u+1
+2015-04-14 20:38:22 replace wheezy deb main armhf i2p-router 0.9.19-2~deb7u+1 0.9.19-1~deb7u+1
+2015-04-14 20:38:57 replace wheezy deb main i386 libjbigi-jni 0.9.19-2~deb7u+1 0.9.19-1~deb7u+1
+2015-04-15 02:09:14 replace wheezy dsc main source i2p 0.9.19-3~deb7u+1 0.9.19-2~deb7u+1
+2015-04-15 02:09:14 replace wheezy deb main amd64 libjbigi-jni 0.9.19-3~deb7u+1 0.9.19-2~deb7u+1
+2015-04-15 02:09:14 replace wheezy deb main i386 i2p 0.9.19-3~deb7u+1 0.9.19-2~deb7u+1
+2015-04-15 02:09:14 replace wheezy deb main amd64 i2p 0.9.19-3~deb7u+1 0.9.19-2~deb7u+1
+2015-04-15 02:09:14 replace wheezy deb main armel i2p 0.9.19-3~deb7u+1 0.9.19-2~deb7u+1
+2015-04-15 02:09:14 replace wheezy deb main powerpc i2p 0.9.19-3~deb7u+1 0.9.19-2~deb7u+1
+2015-04-15 02:09:14 replace wheezy deb main armhf i2p 0.9.19-3~deb7u+1 0.9.19-2~deb7u+1
+2015-04-15 02:09:14 replace wheezy deb main i386 i2p-doc 0.9.19-3~deb7u+1 0.9.19-2~deb7u+1
+2015-04-15 02:09:14 replace wheezy deb main amd64 i2p-doc 0.9.19-3~deb7u+1 0.9.19-2~deb7u+1
+2015-04-15 02:09:14 replace wheezy deb main armel i2p-doc 0.9.19-3~deb7u+1 0.9.19-2~deb7u+1
+2015-04-15 02:09:14 replace wheezy deb main powerpc i2p-doc 0.9.19-3~deb7u+1 0.9.19-2~deb7u+1
+2015-04-15 02:09:14 replace wheezy deb main armhf i2p-doc 0.9.19-3~deb7u+1 0.9.19-2~deb7u+1
+2015-04-15 02:09:14 replace wheezy deb main i386 i2p-router 0.9.19-3~deb7u+1 0.9.19-2~deb7u+1
+2015-04-15 02:09:14 replace wheezy deb main amd64 i2p-router 0.9.19-3~deb7u+1 0.9.19-2~deb7u+1
+2015-04-15 02:09:14 replace wheezy deb main armel i2p-router 0.9.19-3~deb7u+1 0.9.19-2~deb7u+1
+2015-04-15 02:09:14 replace wheezy deb main powerpc i2p-router 0.9.19-3~deb7u+1 0.9.19-2~deb7u+1
+2015-04-15 02:09:14 replace wheezy deb main armhf i2p-router 0.9.19-3~deb7u+1 0.9.19-2~deb7u+1
+2015-04-15 02:09:44 replace wheezy deb main i386 libjbigi-jni 0.9.19-3~deb7u+1 0.9.19-2~deb7u+1
+2015-06-03 14:31:44 replace wheezy deb main i386 i2p-router 0.9.20-1~deb7u+1 0.9.19-3~deb7u+1
+2015-06-03 14:31:44 replace wheezy deb main amd64 i2p-router 0.9.20-1~deb7u+1 0.9.19-3~deb7u+1
+2015-06-03 14:31:44 replace wheezy deb main armel i2p-router 0.9.20-1~deb7u+1 0.9.19-3~deb7u+1
+2015-06-03 14:31:44 replace wheezy deb main powerpc i2p-router 0.9.20-1~deb7u+1 0.9.19-3~deb7u+1
+2015-06-03 14:31:44 replace wheezy deb main armhf i2p-router 0.9.20-1~deb7u+1 0.9.19-3~deb7u+1
+2015-06-03 14:31:44 replace wheezy deb main i386 i2p-doc 0.9.20-1~deb7u+1 0.9.19-3~deb7u+1
+2015-06-03 14:31:44 replace wheezy deb main amd64 i2p-doc 0.9.20-1~deb7u+1 0.9.19-3~deb7u+1
+2015-06-03 14:31:44 replace wheezy deb main armel i2p-doc 0.9.20-1~deb7u+1 0.9.19-3~deb7u+1
+2015-06-03 14:31:44 replace wheezy deb main powerpc i2p-doc 0.9.20-1~deb7u+1 0.9.19-3~deb7u+1
+2015-06-03 14:31:44 replace wheezy deb main armhf i2p-doc 0.9.20-1~deb7u+1 0.9.19-3~deb7u+1
+2015-06-03 14:31:44 replace wheezy deb main i386 i2p 0.9.20-1~deb7u+1 0.9.19-3~deb7u+1
+2015-06-03 14:31:44 replace wheezy deb main amd64 i2p 0.9.20-1~deb7u+1 0.9.19-3~deb7u+1
+2015-06-03 14:31:44 replace wheezy deb main armel i2p 0.9.20-1~deb7u+1 0.9.19-3~deb7u+1
+2015-06-03 14:31:44 replace wheezy deb main powerpc i2p 0.9.20-1~deb7u+1 0.9.19-3~deb7u+1
+2015-06-03 14:31:44 replace wheezy deb main armhf i2p 0.9.20-1~deb7u+1 0.9.19-3~deb7u+1
+2015-06-03 14:31:44 replace wheezy deb main amd64 libjbigi-jni 0.9.20-1~deb7u+1 0.9.19-3~deb7u+1
+2015-06-03 14:31:44 replace wheezy dsc main source i2p 0.9.20-1~deb7u+1 0.9.19-3~deb7u+1
+2015-06-06 23:23:25 replace wheezy deb main i386 libjbigi-jni 0.9.20-1~deb7u+1 0.9.19-3~deb7u+1
+2015-06-09 00:09:12 replace wheezy deb main armhf libjbigi-jni 0.9.20-1~deb7u+1 0.9.19-1~deb7u+1
+2015-06-14 22:24:19 replace wheezy dsc main source i2p 0.9.20-2~deb7u+1 0.9.20-1~deb7u+1
+2015-06-14 22:24:19 replace wheezy deb main amd64 libjbigi-jni 0.9.20-2~deb7u+1 0.9.20-1~deb7u+1
+2015-06-14 22:24:19 replace wheezy deb main i386 i2p 0.9.20-2~deb7u+1 0.9.20-1~deb7u+1
+2015-06-14 22:24:19 replace wheezy deb main amd64 i2p 0.9.20-2~deb7u+1 0.9.20-1~deb7u+1
+2015-06-14 22:24:19 replace wheezy deb main armel i2p 0.9.20-2~deb7u+1 0.9.20-1~deb7u+1
+2015-06-14 22:24:19 replace wheezy deb main powerpc i2p 0.9.20-2~deb7u+1 0.9.20-1~deb7u+1
+2015-06-14 22:24:19 replace wheezy deb main armhf i2p 0.9.20-2~deb7u+1 0.9.20-1~deb7u+1
+2015-06-14 22:24:19 replace wheezy deb main i386 i2p-doc 0.9.20-2~deb7u+1 0.9.20-1~deb7u+1
+2015-06-14 22:24:19 replace wheezy deb main amd64 i2p-doc 0.9.20-2~deb7u+1 0.9.20-1~deb7u+1
+2015-06-14 22:24:19 replace wheezy deb main armel i2p-doc 0.9.20-2~deb7u+1 0.9.20-1~deb7u+1
+2015-06-14 22:24:19 replace wheezy deb main powerpc i2p-doc 0.9.20-2~deb7u+1 0.9.20-1~deb7u+1
+2015-06-14 22:24:19 replace wheezy deb main armhf i2p-doc 0.9.20-2~deb7u+1 0.9.20-1~deb7u+1
+2015-06-14 22:24:19 replace wheezy deb main i386 i2p-router 0.9.20-2~deb7u+1 0.9.20-1~deb7u+1
+2015-06-14 22:24:19 replace wheezy deb main amd64 i2p-router 0.9.20-2~deb7u+1 0.9.20-1~deb7u+1
+2015-06-14 22:24:19 replace wheezy deb main armel i2p-router 0.9.20-2~deb7u+1 0.9.20-1~deb7u+1
+2015-06-14 22:24:19 replace wheezy deb main powerpc i2p-router 0.9.20-2~deb7u+1 0.9.20-1~deb7u+1
+2015-06-14 22:24:19 replace wheezy deb main armhf i2p-router 0.9.20-2~deb7u+1 0.9.20-1~deb7u+1
+2015-06-14 22:24:39 replace wheezy deb main i386 libjbigi-jni 0.9.20-2~deb7u+1 0.9.20-1~deb7u+1
+2015-06-14 22:24:43 replace wheezy deb main armhf libjbigi-jni 0.9.20-2~deb7u+1 0.9.20-1~deb7u+1
+2015-07-06 22:42:50 replace wheezy dsc main source i2pd 0.10.0-1~deb7u+1 0.9.0-1~deb7u+1
+2015-07-06 22:42:50 replace wheezy deb main amd64 i2pd 0.10.0-1~deb7u+1 0.9.0-1~deb7u+1
+2015-07-06 22:42:50 replace wheezy deb main amd64 i2pd-dbg 0.10.0-1~deb7u+1 0.9.0-1~deb7u+1
+2015-08-01 03:54:59 replace wheezy dsc main source i2p 0.9.21-1~deb7u+1 0.9.20-2~deb7u+1
+2015-08-01 03:54:59 replace wheezy deb main amd64 libjbigi-jni 0.9.21-1~deb7u+1 0.9.20-2~deb7u+1
+2015-08-01 03:54:59 replace wheezy deb main i386 i2p 0.9.21-1~deb7u+1 0.9.20-2~deb7u+1
+2015-08-01 03:54:59 replace wheezy deb main amd64 i2p 0.9.21-1~deb7u+1 0.9.20-2~deb7u+1
+2015-08-01 03:54:59 replace wheezy deb main armel i2p 0.9.21-1~deb7u+1 0.9.20-2~deb7u+1
+2015-08-01 03:54:59 replace wheezy deb main powerpc i2p 0.9.21-1~deb7u+1 0.9.20-2~deb7u+1
+2015-08-01 03:54:59 replace wheezy deb main armhf i2p 0.9.21-1~deb7u+1 0.9.20-2~deb7u+1
+2015-08-01 03:54:59 replace wheezy deb main i386 i2p-doc 0.9.21-1~deb7u+1 0.9.20-2~deb7u+1
+2015-08-01 03:54:59 replace wheezy deb main amd64 i2p-doc 0.9.21-1~deb7u+1 0.9.20-2~deb7u+1
+2015-08-01 03:54:59 replace wheezy deb main armel i2p-doc 0.9.21-1~deb7u+1 0.9.20-2~deb7u+1
+2015-08-01 03:54:59 replace wheezy deb main powerpc i2p-doc 0.9.21-1~deb7u+1 0.9.20-2~deb7u+1
+2015-08-01 03:54:59 replace wheezy deb main armhf i2p-doc 0.9.21-1~deb7u+1 0.9.20-2~deb7u+1
+2015-08-01 03:54:59 replace wheezy deb main i386 i2p-router 0.9.21-1~deb7u+1 0.9.20-2~deb7u+1
+2015-08-01 03:54:59 replace wheezy deb main amd64 i2p-router 0.9.21-1~deb7u+1 0.9.20-2~deb7u+1
+2015-08-01 03:54:59 replace wheezy deb main armel i2p-router 0.9.21-1~deb7u+1 0.9.20-2~deb7u+1
+2015-08-01 03:54:59 replace wheezy deb main powerpc i2p-router 0.9.21-1~deb7u+1 0.9.20-2~deb7u+1
+2015-08-01 03:54:59 replace wheezy deb main armhf i2p-router 0.9.21-1~deb7u+1 0.9.20-2~deb7u+1
+2015-08-01 03:55:24 replace wheezy deb main i386 libjbigi-jni 0.9.21-1~deb7u+1 0.9.20-2~deb7u+1
+2015-09-13 16:04:45 replace wheezy dsc main source i2p 0.9.22-1~deb7u+1 0.9.21-1~deb7u+1
+2015-09-13 16:04:45 replace wheezy deb main amd64 libjbigi-jni 0.9.22-1~deb7u+1 0.9.21-1~deb7u+1
+2015-09-13 16:04:45 replace wheezy deb main i386 i2p 0.9.22-1~deb7u+1 0.9.21-1~deb7u+1
+2015-09-13 16:04:45 replace wheezy deb main amd64 i2p 0.9.22-1~deb7u+1 0.9.21-1~deb7u+1
+2015-09-13 16:04:45 replace wheezy deb main armel i2p 0.9.22-1~deb7u+1 0.9.21-1~deb7u+1
+2015-09-13 16:04:45 replace wheezy deb main powerpc i2p 0.9.22-1~deb7u+1 0.9.21-1~deb7u+1
+2015-09-13 16:04:45 replace wheezy deb main armhf i2p 0.9.22-1~deb7u+1 0.9.21-1~deb7u+1
+2015-09-13 16:04:45 replace wheezy deb main i386 i2p-doc 0.9.22-1~deb7u+1 0.9.21-1~deb7u+1
+2015-09-13 16:04:45 replace wheezy deb main amd64 i2p-doc 0.9.22-1~deb7u+1 0.9.21-1~deb7u+1
+2015-09-13 16:04:45 replace wheezy deb main armel i2p-doc 0.9.22-1~deb7u+1 0.9.21-1~deb7u+1
+2015-09-13 16:04:45 replace wheezy deb main powerpc i2p-doc 0.9.22-1~deb7u+1 0.9.21-1~deb7u+1
+2015-09-13 16:04:45 replace wheezy deb main armhf i2p-doc 0.9.22-1~deb7u+1 0.9.21-1~deb7u+1
+2015-09-13 16:04:45 replace wheezy deb main i386 i2p-router 0.9.22-1~deb7u+1 0.9.21-1~deb7u+1
+2015-09-13 16:04:45 replace wheezy deb main amd64 i2p-router 0.9.22-1~deb7u+1 0.9.21-1~deb7u+1
+2015-09-13 16:04:45 replace wheezy deb main armel i2p-router 0.9.22-1~deb7u+1 0.9.21-1~deb7u+1
+2015-09-13 16:04:45 replace wheezy deb main powerpc i2p-router 0.9.22-1~deb7u+1 0.9.21-1~deb7u+1
+2015-09-13 16:04:45 replace wheezy deb main armhf i2p-router 0.9.22-1~deb7u+1 0.9.21-1~deb7u+1
+2015-09-13 16:05:13 replace wheezy deb main i386 libjbigi-jni 0.9.22-1~deb7u+1 0.9.21-1~deb7u+1
+2015-10-02 04:24:55 replace wheezy deb main i386 i2p-keyring 2015.10.02 2014.09.25
+2015-10-02 04:24:55 replace wheezy deb main amd64 i2p-keyring 2015.10.02 2014.09.25
+2015-10-02 04:24:55 replace wheezy deb main armel i2p-keyring 2015.10.02 2014.09.25
+2015-10-02 04:24:55 replace wheezy deb main armhf i2p-keyring 2015.10.02 2014.09.25
+2015-10-02 04:24:55 replace wheezy dsc main source i2p-keyring 2015.10.02 2014.09.25
+2015-10-02 04:38:05 replace wheezy deb main i386 i2p-keyring 2015.10.02.1 2015.10.02
+2015-10-02 04:38:05 replace wheezy deb main amd64 i2p-keyring 2015.10.02.1 2015.10.02
+2015-10-02 04:38:05 replace wheezy deb main armel i2p-keyring 2015.10.02.1 2015.10.02
+2015-10-02 04:38:05 replace wheezy deb main armhf i2p-keyring 2015.10.02.1 2015.10.02
+2015-10-02 04:38:05 replace wheezy dsc main source i2p-keyring 2015.10.02.1 2015.10.02
+2015-11-20 02:30:37 replace wheezy dsc main source i2p 0.9.23-1~deb7u+1 0.9.22-1~deb7u+1
+2015-11-20 02:30:37 replace wheezy deb main amd64 libjbigi-jni 0.9.23-1~deb7u+1 0.9.22-1~deb7u+1
+2015-11-20 02:30:37 replace wheezy deb main i386 i2p 0.9.23-1~deb7u+1 0.9.22-1~deb7u+1
+2015-11-20 02:30:37 replace wheezy deb main amd64 i2p 0.9.23-1~deb7u+1 0.9.22-1~deb7u+1
+2015-11-20 02:30:37 replace wheezy deb main armel i2p 0.9.23-1~deb7u+1 0.9.22-1~deb7u+1
+2015-11-20 02:30:37 replace wheezy deb main powerpc i2p 0.9.23-1~deb7u+1 0.9.22-1~deb7u+1
+2015-11-20 02:30:37 replace wheezy deb main armhf i2p 0.9.23-1~deb7u+1 0.9.22-1~deb7u+1
+2015-11-20 02:30:37 replace wheezy deb main i386 i2p-doc 0.9.23-1~deb7u+1 0.9.22-1~deb7u+1
+2015-11-20 02:30:37 replace wheezy deb main amd64 i2p-doc 0.9.23-1~deb7u+1 0.9.22-1~deb7u+1
+2015-11-20 02:30:37 replace wheezy deb main armel i2p-doc 0.9.23-1~deb7u+1 0.9.22-1~deb7u+1
+2015-11-20 02:30:37 replace wheezy deb main powerpc i2p-doc 0.9.23-1~deb7u+1 0.9.22-1~deb7u+1
+2015-11-20 02:30:37 replace wheezy deb main armhf i2p-doc 0.9.23-1~deb7u+1 0.9.22-1~deb7u+1
+2015-11-20 02:30:37 replace wheezy deb main i386 i2p-router 0.9.23-1~deb7u+1 0.9.22-1~deb7u+1
+2015-11-20 02:30:37 replace wheezy deb main amd64 i2p-router 0.9.23-1~deb7u+1 0.9.22-1~deb7u+1
+2015-11-20 02:30:37 replace wheezy deb main armel i2p-router 0.9.23-1~deb7u+1 0.9.22-1~deb7u+1
+2015-11-20 02:30:37 replace wheezy deb main powerpc i2p-router 0.9.23-1~deb7u+1 0.9.22-1~deb7u+1
+2015-11-20 02:30:37 replace wheezy deb main armhf i2p-router 0.9.23-1~deb7u+1 0.9.22-1~deb7u+1
+2015-11-20 02:30:53 replace wheezy deb main i386 libjbigi-jni 0.9.23-1~deb7u+1 0.9.22-1~deb7u+1
+2015-11-27 16:22:58 replace wheezy dsc main source i2pd 2.1.0+git20151126.r1995-1~deb7u+1 0.10.0-1~deb7u+1
+2015-11-27 16:22:58 replace wheezy deb main amd64 i2pd 2.1.0+git20151126.r1995-1~deb7u+1 0.10.0-1~deb7u+1
+2015-11-27 16:22:58 replace wheezy deb main amd64 i2pd-dbg 2.1.0+git20151126.r1995-1~deb7u+1 0.10.0-1~deb7u+1
+2015-12-06 18:33:59 replace wheezy dsc main source i2p 0.9.23-2~deb7u+1 0.9.23-1~deb7u+1
+2015-12-06 18:33:59 replace wheezy deb main amd64 libjbigi-jni 0.9.23-2~deb7u+1 0.9.23-1~deb7u+1
+2015-12-06 18:33:59 replace wheezy deb main i386 i2p 0.9.23-2~deb7u+1 0.9.23-1~deb7u+1
+2015-12-06 18:33:59 replace wheezy deb main amd64 i2p 0.9.23-2~deb7u+1 0.9.23-1~deb7u+1
+2015-12-06 18:33:59 replace wheezy deb main armel i2p 0.9.23-2~deb7u+1 0.9.23-1~deb7u+1
+2015-12-06 18:33:59 replace wheezy deb main powerpc i2p 0.9.23-2~deb7u+1 0.9.23-1~deb7u+1
+2015-12-06 18:33:59 replace wheezy deb main armhf i2p 0.9.23-2~deb7u+1 0.9.23-1~deb7u+1
+2015-12-06 18:33:59 replace wheezy deb main i386 i2p-doc 0.9.23-2~deb7u+1 0.9.23-1~deb7u+1
+2015-12-06 18:33:59 replace wheezy deb main amd64 i2p-doc 0.9.23-2~deb7u+1 0.9.23-1~deb7u+1
+2015-12-06 18:33:59 replace wheezy deb main armel i2p-doc 0.9.23-2~deb7u+1 0.9.23-1~deb7u+1
+2015-12-06 18:33:59 replace wheezy deb main powerpc i2p-doc 0.9.23-2~deb7u+1 0.9.23-1~deb7u+1
+2015-12-06 18:33:59 replace wheezy deb main armhf i2p-doc 0.9.23-2~deb7u+1 0.9.23-1~deb7u+1
+2015-12-06 18:33:59 replace wheezy deb main i386 i2p-router 0.9.23-2~deb7u+1 0.9.23-1~deb7u+1
+2015-12-06 18:33:59 replace wheezy deb main amd64 i2p-router 0.9.23-2~deb7u+1 0.9.23-1~deb7u+1
+2015-12-06 18:33:59 replace wheezy deb main armel i2p-router 0.9.23-2~deb7u+1 0.9.23-1~deb7u+1
+2015-12-06 18:33:59 replace wheezy deb main powerpc i2p-router 0.9.23-2~deb7u+1 0.9.23-1~deb7u+1
+2015-12-06 18:33:59 replace wheezy deb main armhf i2p-router 0.9.23-2~deb7u+1 0.9.23-1~deb7u+1
+2015-12-06 18:34:21 replace wheezy deb main i386 libjbigi-jni 0.9.23-2~deb7u+1 0.9.23-1~deb7u+1
+2015-12-07 06:24:58 replace wheezy dsc main source i2pd 2.1.0+git20151204.r2031-1~deb7u+1 2.1.0+git20151126.r1995-1~deb7u+1
+2015-12-07 06:24:58 replace wheezy deb main amd64 i2pd 2.1.0+git20151204.r2031-1~deb7u+1 2.1.0+git20151126.r1995-1~deb7u+1
+2015-12-07 06:24:58 replace wheezy deb main amd64 i2pd-dbg 2.1.0+git20151204.r2031-1~deb7u+1 2.1.0+git20151126.r1995-1~deb7u+1
+2015-12-07 06:25:15 replace wheezy deb main i386 i2pd 2.1.0+git20151204.r2031-1~deb7u+1 0.9.0-1~deb7u+1
+2015-12-07 06:25:15 replace wheezy deb main i386 i2pd-dbg 2.1.0+git20151204.r2031-1~deb7u+1 0.9.0-1~deb7u+1
+2015-12-07 06:25:29 replace wheezy deb main armel i2pd 2.1.0+git20151204.r2031-1~deb7u+1 0.9.0-1~deb7u+1
+2015-12-07 06:25:29 replace wheezy deb main armel i2pd-dbg 2.1.0+git20151204.r2031-1~deb7u+1 0.9.0-1~deb7u+1
+2015-12-07 06:25:41 replace wheezy deb main armhf i2pd 2.1.0+git20151204.r2031-1~deb7u+1 0.9.0-1~deb7u+1
+2015-12-07 06:25:41 replace wheezy deb main armhf i2pd-dbg 2.1.0+git20151204.r2031-1~deb7u+1 0.9.0-1~deb7u+1
+2015-12-19 01:12:01 remove wheezy deb main i386 i2pd 2.1.0+git20151204.r2031-1~deb7u+1
+2015-12-19 01:12:01 remove wheezy deb main i386 i2pd-dbg 2.1.0+git20151204.r2031-1~deb7u+1
+2015-12-19 01:12:01 remove wheezy deb main amd64 i2pd 2.1.0+git20151204.r2031-1~deb7u+1
+2015-12-19 01:12:01 remove wheezy deb main amd64 i2pd-dbg 2.1.0+git20151204.r2031-1~deb7u+1
+2015-12-19 01:12:01 remove wheezy deb main armel i2pd 2.1.0+git20151204.r2031-1~deb7u+1
+2015-12-19 01:12:01 remove wheezy deb main armel i2pd-dbg 2.1.0+git20151204.r2031-1~deb7u+1
+2015-12-19 01:12:01 remove wheezy deb main armhf i2pd 2.1.0+git20151204.r2031-1~deb7u+1
+2015-12-19 01:12:01 remove wheezy deb main armhf i2pd-dbg 2.1.0+git20151204.r2031-1~deb7u+1
+2015-12-19 01:12:01 remove wheezy dsc main source i2pd 2.1.0+git20151204.r2031-1~deb7u+1
+2016-04-03 17:30:05 replace wheezy deb main i386 libjbigi-jni 0.9.25-1~precise+1 0.9.23-2~deb7u+1
+2016-04-03 17:30:05 replace wheezy deb main i386 i2p-router 0.9.25-1~precise+1 0.9.23-2~deb7u+1
+2016-04-03 17:30:05 replace wheezy deb main i386 i2p-doc 0.9.25-1~precise+1 0.9.23-2~deb7u+1
+2016-04-03 17:30:05 replace wheezy deb main i386 i2p 0.9.25-1~precise+1 0.9.23-2~deb7u+1
+2016-04-03 17:30:05 replace wheezy deb main amd64 libjbigi-jni 0.9.25-1~precise+1 0.9.23-2~deb7u+1
+2016-04-03 17:30:05 replace wheezy deb main amd64 i2p-router 0.9.25-1~precise+1 0.9.23-2~deb7u+1
+2016-04-03 17:30:05 replace wheezy deb main amd64 i2p-doc 0.9.25-1~precise+1 0.9.23-2~deb7u+1
+2016-04-03 17:30:05 replace wheezy deb main amd64 i2p 0.9.25-1~precise+1 0.9.23-2~deb7u+1
+2016-04-03 17:30:05 replace wheezy dsc main source i2p 0.9.25-1~precise+1 0.9.23-2~deb7u+1
+2016-06-08 16:35:21 replace wheezy deb main i386 libjbigi-jni 0.9.26p-1~precise+1 0.9.25-1~precise+1
+2016-06-08 16:35:21 replace wheezy deb main i386 i2p-router 0.9.26p-1~precise+1 0.9.25-1~precise+1
+2016-06-08 16:35:21 replace wheezy deb main i386 i2p-doc 0.9.26p-1~precise+1 0.9.25-1~precise+1
+2016-06-08 16:35:21 replace wheezy deb main i386 i2p 0.9.26p-1~precise+1 0.9.25-1~precise+1
+2016-06-08 16:35:21 replace wheezy deb main amd64 libjbigi-jni 0.9.26p-1~precise+1 0.9.25-1~precise+1
+2016-06-08 16:35:21 replace wheezy deb main amd64 i2p-router 0.9.26p-1~precise+1 0.9.25-1~precise+1
+2016-06-08 16:35:21 replace wheezy deb main amd64 i2p-doc 0.9.26p-1~precise+1 0.9.25-1~precise+1
+2016-06-08 16:35:21 replace wheezy deb main amd64 i2p 0.9.26p-1~precise+1 0.9.25-1~precise+1
+2016-06-08 16:35:21 replace wheezy dsc main source i2p 0.9.26p-1~precise+1 0.9.25-1~precise+1
+2016-10-01 21:29:32 replace wheezy deb main i386 i2p-keyring 2016.10.01 2015.10.02.1
+2016-10-01 21:29:32 replace wheezy deb main amd64 i2p-keyring 2016.10.01 2015.10.02.1
+2016-10-01 21:29:32 replace wheezy deb main armel i2p-keyring 2016.10.01 2015.10.02.1
+2016-10-01 21:29:32 replace wheezy deb main powerpc i2p-keyring 2016.10.01 2014.09.25
+2016-10-01 21:29:32 replace wheezy deb main armhf i2p-keyring 2016.10.01 2015.10.02.1
+2016-10-01 21:33:31 replace wheezy dsc main source i2p-keyring 2016.10.01 2015.10.02.1
+2016-10-18 16:14:32 replace wheezy deb main i386 libjbigi-jni 0.9.27p-1~precise+1 0.9.26p-1~precise+1
+2016-10-18 16:14:32 replace wheezy deb main i386 i2p-router 0.9.27p-1~precise+1 0.9.26p-1~precise+1
+2016-10-18 16:14:32 replace wheezy deb main i386 i2p-doc 0.9.27p-1~precise+1 0.9.26p-1~precise+1
+2016-10-18 16:14:32 replace wheezy deb main i386 i2p 0.9.27p-1~precise+1 0.9.26p-1~precise+1
+2016-10-18 16:14:32 replace wheezy deb main amd64 libjbigi-jni 0.9.27p-1~precise+1 0.9.26p-1~precise+1
+2016-10-18 16:14:32 replace wheezy deb main amd64 i2p-router 0.9.27p-1~precise+1 0.9.26p-1~precise+1
+2016-10-18 16:14:32 replace wheezy deb main amd64 i2p-doc 0.9.27p-1~precise+1 0.9.26p-1~precise+1
+2016-10-18 16:14:32 replace wheezy deb main amd64 i2p 0.9.27p-1~precise+1 0.9.26p-1~precise+1
+2016-10-18 16:14:32 replace wheezy dsc main source i2p 0.9.27p-1~precise+1 0.9.26p-1~precise+1
+2016-12-14 16:08:27 replace wheezy deb main i386 libjbigi-jni 0.9.28p-1~precise+1 0.9.27p-1~precise+1
+2016-12-14 16:08:27 replace wheezy deb main i386 i2p-router 0.9.28p-1~precise+1 0.9.27p-1~precise+1
+2016-12-14 16:08:27 replace wheezy deb main i386 i2p-doc 0.9.28p-1~precise+1 0.9.27p-1~precise+1
+2016-12-14 16:08:27 replace wheezy deb main i386 i2p 0.9.28p-1~precise+1 0.9.27p-1~precise+1
+2016-12-14 16:08:27 replace wheezy deb main amd64 libjbigi-jni 0.9.28p-1~precise+1 0.9.27p-1~precise+1
+2016-12-14 16:08:27 replace wheezy deb main amd64 i2p-router 0.9.28p-1~precise+1 0.9.27p-1~precise+1
+2016-12-14 16:08:27 replace wheezy deb main amd64 i2p-doc 0.9.28p-1~precise+1 0.9.27p-1~precise+1
+2016-12-14 16:08:27 replace wheezy deb main amd64 i2p 0.9.28p-1~precise+1 0.9.27p-1~precise+1
+2016-12-14 16:08:27 replace wheezy dsc main source i2p 0.9.28p-1~precise+1 0.9.27p-1~precise+1
+2016-12-16 22:53:51 replace wheezy deb main armel i2p 0.9.28p-1~precise+1 0.9.23-2~deb7u+1
+2016-12-16 22:53:51 replace wheezy deb main powerpc i2p 0.9.28p-1~precise+1 0.9.23-2~deb7u+1
+2016-12-16 22:53:51 replace wheezy deb main armhf i2p 0.9.28p-1~precise+1 0.9.23-2~deb7u+1
+2016-12-16 22:54:19 replace wheezy deb main armel i2p-router 0.9.28p-1~precise+1 0.9.23-2~deb7u+1
+2016-12-16 22:54:19 replace wheezy deb main powerpc i2p-router 0.9.28p-1~precise+1 0.9.23-2~deb7u+1
+2016-12-16 22:54:19 replace wheezy deb main armhf i2p-router 0.9.28p-1~precise+1 0.9.23-2~deb7u+1
+2016-12-16 22:54:34 replace wheezy deb main armel i2p-doc 0.9.28p-1~precise+1 0.9.23-2~deb7u+1
+2016-12-16 22:54:34 replace wheezy deb main powerpc i2p-doc 0.9.28p-1~precise+1 0.9.23-2~deb7u+1
+2016-12-16 22:54:34 replace wheezy deb main armhf i2p-doc 0.9.28p-1~precise+1 0.9.23-2~deb7u+1
+2017-03-01 18:14:44 replace wheezy deb main i386 libjbigi-jni 0.9.29p-1~precise+1 0.9.28p-1~precise+1
+2017-03-01 18:14:44 replace wheezy deb main i386 i2p-router 0.9.29p-1~precise+1 0.9.28p-1~precise+1
+2017-03-01 18:14:44 replace wheezy deb main i386 i2p-doc 0.9.29p-1~precise+1 0.9.28p-1~precise+1
+2017-03-01 18:14:44 replace wheezy deb main i386 i2p 0.9.29p-1~precise+1 0.9.28p-1~precise+1
+2017-03-01 18:14:44 replace wheezy deb main amd64 libjbigi-jni 0.9.29p-1~precise+1 0.9.28p-1~precise+1
+2017-03-01 18:14:44 replace wheezy deb main amd64 i2p-router 0.9.29p-1~precise+1 0.9.28p-1~precise+1
+2017-03-01 18:14:44 replace wheezy deb main amd64 i2p-doc 0.9.29p-1~precise+1 0.9.28p-1~precise+1
+2017-03-01 18:14:44 replace wheezy deb main amd64 i2p 0.9.29p-1~precise+1 0.9.28p-1~precise+1
+2017-03-01 18:14:44 replace wheezy dsc main source i2p 0.9.29p-1~precise+1 0.9.28p-1~precise+1
+2017-03-01 18:31:38 replace wheezy deb main powerpc i2p 0.9.29-1ubuntu1 0.9.28p-1~precise+1
+2017-03-01 18:32:43 remove wheezy deb main powerpc i2p 0.9.29-1ubuntu1
+2017-03-01 18:33:27 add wheezy deb main powerpc i2p 0.9.29p-1~precise+1
+2017-03-01 18:34:14 replace wheezy deb main armel i2p 0.9.29p-1~precise+1 0.9.28p-1~precise+1
+2017-03-01 18:34:21 replace wheezy deb main armhf i2p 0.9.29p-1~precise+1 0.9.28p-1~precise+1
+2017-03-01 18:35:12 replace wheezy deb main armel i2p-router 0.9.29p-1~precise+1 0.9.28p-1~precise+1
+2017-03-01 18:35:12 replace wheezy deb main powerpc i2p-router 0.9.29p-1~precise+1 0.9.28p-1~precise+1
+2017-03-01 18:35:12 replace wheezy deb main armhf i2p-router 0.9.29p-1~precise+1 0.9.28p-1~precise+1
+2017-03-01 18:42:24 replace wheezy deb main armel i2p-doc 0.9.29p-1~precise+1 0.9.28p-1~precise+1
+2017-03-01 18:42:24 replace wheezy deb main powerpc i2p-doc 0.9.29p-1~precise+1 0.9.28p-1~precise+1
+2017-03-01 18:42:24 replace wheezy deb main armhf i2p-doc 0.9.29p-1~precise+1 0.9.28p-1~precise+1
+2017-05-04 14:42:44 replace wheezy deb main i386 libjbigi-jni 0.9.30p-1~precise+1 0.9.29p-1~precise+1
+2017-05-04 14:42:44 replace wheezy deb main i386 i2p-router 0.9.30p-1~precise+1 0.9.29p-1~precise+1
+2017-05-04 14:42:44 replace wheezy deb main i386 i2p-doc 0.9.30p-1~precise+1 0.9.29p-1~precise+1
+2017-05-04 14:42:44 replace wheezy deb main i386 i2p 0.9.30p-1~precise+1 0.9.29p-1~precise+1
+2017-05-04 14:42:44 replace wheezy deb main amd64 libjbigi-jni 0.9.30p-1~precise+1 0.9.29p-1~precise+1
+2017-05-04 14:42:44 replace wheezy deb main amd64 i2p-router 0.9.30p-1~precise+1 0.9.29p-1~precise+1
+2017-05-04 14:42:44 replace wheezy deb main amd64 i2p-doc 0.9.30p-1~precise+1 0.9.29p-1~precise+1
+2017-05-04 14:42:44 replace wheezy deb main amd64 i2p 0.9.30p-1~precise+1 0.9.29p-1~precise+1
+2017-05-04 14:42:44 replace wheezy dsc main source i2p 0.9.30p-1~precise+1 0.9.29p-1~precise+1
+2017-05-04 15:07:44 replace wheezy deb main armel i2p 0.9.30p-1~precise+1 0.9.29p-1~precise+1
+2017-05-04 15:07:44 replace wheezy deb main powerpc i2p 0.9.30p-1~precise+1 0.9.29p-1~precise+1
+2017-05-04 15:07:44 replace wheezy deb main armhf i2p 0.9.30p-1~precise+1 0.9.29p-1~precise+1
+2017-05-04 15:08:14 replace wheezy deb main armel i2p-doc 0.9.30p-1~precise+1 0.9.29p-1~precise+1
+2017-05-04 15:08:14 replace wheezy deb main powerpc i2p-doc 0.9.30p-1~precise+1 0.9.29p-1~precise+1
+2017-05-04 15:08:14 replace wheezy deb main armhf i2p-doc 0.9.30p-1~precise+1 0.9.29p-1~precise+1
+2017-05-04 15:08:37 replace wheezy deb main armel i2p-router 0.9.30p-1~precise+1 0.9.29p-1~precise+1
+2017-05-04 15:08:37 replace wheezy deb main powerpc i2p-router 0.9.30p-1~precise+1 0.9.29p-1~precise+1
+2017-05-04 15:08:37 replace wheezy deb main armhf i2p-router 0.9.30p-1~precise+1 0.9.29p-1~precise+1
+2017-08-09 21:15:58 replace wheezy deb main i386 libjbigi-jni 0.9.31p-1~precise+1 0.9.30p-1~precise+1
+2017-08-09 21:15:58 replace wheezy deb main i386 i2p-router 0.9.31p-1~precise+1 0.9.30p-1~precise+1
+2017-08-09 21:15:58 replace wheezy deb main i386 i2p-doc 0.9.31p-1~precise+1 0.9.30p-1~precise+1
+2017-08-09 21:15:58 replace wheezy deb main i386 i2p 0.9.31p-1~precise+1 0.9.30p-1~precise+1
+2017-08-09 21:15:58 replace wheezy deb main amd64 libjbigi-jni 0.9.31p-1~precise+1 0.9.30p-1~precise+1
+2017-08-09 21:15:58 replace wheezy deb main amd64 i2p-router 0.9.31p-1~precise+1 0.9.30p-1~precise+1
+2017-08-09 21:15:58 replace wheezy deb main amd64 i2p-doc 0.9.31p-1~precise+1 0.9.30p-1~precise+1
+2017-08-09 21:15:58 replace wheezy deb main amd64 i2p 0.9.31p-1~precise+1 0.9.30p-1~precise+1
+2017-08-09 21:15:58 replace wheezy dsc main source i2p 0.9.31p-1~precise+1 0.9.30p-1~precise+1
+2017-08-09 21:25:57 replace wheezy deb main armel i2p 0.9.31p-1~precise+1 0.9.30p-1~precise+1
+2017-08-09 21:25:57 replace wheezy deb main powerpc i2p 0.9.31p-1~precise+1 0.9.30p-1~precise+1
+2017-08-09 21:25:57 replace wheezy deb main armhf i2p 0.9.31p-1~precise+1 0.9.30p-1~precise+1
+2017-08-09 21:26:19 replace wheezy deb main armel i2p-doc 0.9.31p-1~precise+1 0.9.30p-1~precise+1
+2017-08-09 21:26:19 replace wheezy deb main powerpc i2p-doc 0.9.31p-1~precise+1 0.9.30p-1~precise+1
+2017-08-09 21:26:19 replace wheezy deb main armhf i2p-doc 0.9.31p-1~precise+1 0.9.30p-1~precise+1
+2017-08-09 21:26:38 replace wheezy deb main armel i2p-router 0.9.31p-1~precise+1 0.9.30p-1~precise+1
+2017-08-09 21:26:38 replace wheezy deb main powerpc i2p-router 0.9.31p-1~precise+1 0.9.30p-1~precise+1
+2017-08-09 21:26:38 replace wheezy deb main armhf i2p-router 0.9.31p-1~precise+1 0.9.30p-1~precise+1
+2017-09-18 22:00:46 replace wheezy deb main i386 i2p-keyring 2017.09.18 2016.10.01
+2017-09-18 22:00:46 replace wheezy deb main amd64 i2p-keyring 2017.09.18 2016.10.01
+2017-09-18 22:00:46 replace wheezy deb main armel i2p-keyring 2017.09.18 2016.10.01
+2017-09-18 22:00:46 replace wheezy deb main powerpc i2p-keyring 2017.09.18 2016.10.01
+2017-09-18 22:00:47 replace wheezy deb main armhf i2p-keyring 2017.09.18 2016.10.01
+2017-09-18 22:05:18 replace wheezy dsc main source i2p-keyring 2017.09.18 2016.10.01
+2017-09-20 16:29:51 replace wheezy deb main i386 i2p-keyring 2017.09.20 2017.09.18
+2017-09-20 16:29:51 replace wheezy deb main amd64 i2p-keyring 2017.09.20 2017.09.18
+2017-09-20 16:29:51 replace wheezy deb main armel i2p-keyring 2017.09.20 2017.09.18
+2017-09-20 16:29:51 replace wheezy deb main powerpc i2p-keyring 2017.09.20 2017.09.18
+2017-09-20 16:29:51 replace wheezy deb main armhf i2p-keyring 2017.09.20 2017.09.18
+2017-09-20 16:30:47 replace wheezy dsc main source i2p-keyring 2017.09.20 2017.09.18
+2017-09-21 22:36:21 replace wheezy deb main i386 i2p-keyring 2017.09.21 2017.09.20
+2017-09-21 22:36:22 replace wheezy deb main amd64 i2p-keyring 2017.09.21 2017.09.20
+2017-09-21 22:36:22 replace wheezy deb main armel i2p-keyring 2017.09.21 2017.09.20
+2017-09-21 22:36:22 replace wheezy deb main powerpc i2p-keyring 2017.09.21 2017.09.20
+2017-09-21 22:36:22 replace wheezy deb main armhf i2p-keyring 2017.09.21 2017.09.20
+2017-09-21 22:37:10 replace wheezy dsc main source i2p-keyring 2017.09.21 2017.09.20
+2017-11-08 23:32:40 replace wheezy deb main i386 libjbigi-jni 0.9.32p-1~precise+1 0.9.31p-1~precise+1
+2017-11-08 23:32:40 replace wheezy deb main i386 i2p-router 0.9.32p-1~precise+1 0.9.31p-1~precise+1
+2017-11-08 23:32:40 replace wheezy deb main i386 i2p-doc 0.9.32p-1~precise+1 0.9.31p-1~precise+1
+2017-11-08 23:32:40 replace wheezy deb main i386 i2p 0.9.32p-1~precise+1 0.9.31p-1~precise+1
+2017-11-08 23:32:40 replace wheezy deb main amd64 libjbigi-jni 0.9.32p-1~precise+1 0.9.31p-1~precise+1
+2017-11-08 23:32:40 replace wheezy deb main amd64 i2p-router 0.9.32p-1~precise+1 0.9.31p-1~precise+1
+2017-11-08 23:32:40 replace wheezy deb main amd64 i2p-doc 0.9.32p-1~precise+1 0.9.31p-1~precise+1
+2017-11-08 23:32:40 replace wheezy deb main amd64 i2p 0.9.32p-1~precise+1 0.9.31p-1~precise+1
+2017-11-08 23:32:40 replace wheezy dsc main source i2p 0.9.32p-1~precise+1 0.9.31p-1~precise+1
+2017-11-08 23:36:47 replace wheezy deb main armel i2p 0.9.32p-1~precise+1 0.9.31p-1~precise+1
+2017-11-08 23:36:47 replace wheezy deb main powerpc i2p 0.9.32p-1~precise+1 0.9.31p-1~precise+1
+2017-11-08 23:36:47 replace wheezy deb main armhf i2p 0.9.32p-1~precise+1 0.9.31p-1~precise+1
+2017-11-08 23:37:14 replace wheezy deb main armel i2p-doc 0.9.32p-1~precise+1 0.9.31p-1~precise+1
+2017-11-08 23:37:14 replace wheezy deb main powerpc i2p-doc 0.9.32p-1~precise+1 0.9.31p-1~precise+1
+2017-11-08 23:37:14 replace wheezy deb main armhf i2p-doc 0.9.32p-1~precise+1 0.9.31p-1~precise+1
+2017-11-08 23:37:38 replace wheezy deb main armel i2p-router 0.9.32p-1~precise+1 0.9.31p-1~precise+1
+2017-11-08 23:37:38 replace wheezy deb main powerpc i2p-router 0.9.32p-1~precise+1 0.9.31p-1~precise+1
+2017-11-08 23:37:38 replace wheezy deb main armhf i2p-router 0.9.32p-1~precise+1 0.9.31p-1~precise+1
+2018-01-31 14:49:38 replace wheezy deb main i386 libjbigi-jni 0.9.33p-1~precise+1 0.9.32p-1~precise+1
+2018-01-31 14:49:39 replace wheezy deb main i386 i2p-router 0.9.33p-1~precise+1 0.9.32p-1~precise+1
+2018-01-31 14:49:39 replace wheezy deb main i386 i2p-doc 0.9.33p-1~precise+1 0.9.32p-1~precise+1
+2018-01-31 14:49:39 replace wheezy deb main i386 i2p 0.9.33p-1~precise+1 0.9.32p-1~precise+1
+2018-01-31 14:49:40 replace wheezy deb main amd64 libjbigi-jni 0.9.33p-1~precise+1 0.9.32p-1~precise+1
+2018-01-31 14:49:40 replace wheezy deb main amd64 i2p-router 0.9.33p-1~precise+1 0.9.32p-1~precise+1
+2018-01-31 14:49:40 replace wheezy deb main amd64 i2p-doc 0.9.33p-1~precise+1 0.9.32p-1~precise+1
+2018-01-31 14:49:40 replace wheezy deb main amd64 i2p 0.9.33p-1~precise+1 0.9.32p-1~precise+1
+2018-01-31 14:49:41 replace wheezy dsc main source i2p 0.9.33p-1~precise+1 0.9.32p-1~precise+1
+2018-01-31 15:10:00 replace wheezy deb main armel i2p 0.9.33p-1~precise+1 0.9.32p-1~precise+1
+2018-01-31 15:10:00 replace wheezy deb main powerpc i2p 0.9.33p-1~precise+1 0.9.32p-1~precise+1
+2018-01-31 15:10:00 replace wheezy deb main armhf i2p 0.9.33p-1~precise+1 0.9.32p-1~precise+1
+2018-01-31 15:10:03 replace wheezy deb main armel i2p-doc 0.9.33p-1~precise+1 0.9.32p-1~precise+1
+2018-01-31 15:10:03 replace wheezy deb main powerpc i2p-doc 0.9.33p-1~precise+1 0.9.32p-1~precise+1
+2018-01-31 15:10:03 replace wheezy deb main armhf i2p-doc 0.9.33p-1~precise+1 0.9.32p-1~precise+1
+2018-01-31 15:10:05 replace wheezy deb main armel i2p-router 0.9.33p-1~precise+1 0.9.32p-1~precise+1
+2018-01-31 15:10:05 replace wheezy deb main powerpc i2p-router 0.9.33p-1~precise+1 0.9.32p-1~precise+1
+2018-01-31 15:10:05 replace wheezy deb main armhf i2p-router 0.9.33p-1~precise+1 0.9.32p-1~precise+1
+2018-04-11 18:30:08 replace wheezy deb main i386 libjbigi-jni 0.9.34p-1~precise+1 0.9.33p-1~precise+1
+2018-04-11 18:30:08 replace wheezy deb main i386 i2p-router 0.9.34p-1~precise+1 0.9.33p-1~precise+1
+2018-04-11 18:30:08 replace wheezy deb main i386 i2p-doc 0.9.34p-1~precise+1 0.9.33p-1~precise+1
+2018-04-11 18:30:08 replace wheezy deb main i386 i2p 0.9.34p-1~precise+1 0.9.33p-1~precise+1
+2018-04-11 18:30:08 replace wheezy deb main amd64 libjbigi-jni 0.9.34p-1~precise+1 0.9.33p-1~precise+1
+2018-04-11 18:30:08 replace wheezy deb main amd64 i2p-router 0.9.34p-1~precise+1 0.9.33p-1~precise+1
+2018-04-11 18:30:08 replace wheezy deb main amd64 i2p-doc 0.9.34p-1~precise+1 0.9.33p-1~precise+1
+2018-04-11 18:30:08 replace wheezy deb main amd64 i2p 0.9.34p-1~precise+1 0.9.33p-1~precise+1
+2018-04-11 18:30:08 replace wheezy dsc main source i2p 0.9.34p-1~precise+1 0.9.33p-1~precise+1
+2018-04-11 18:32:19 replace wheezy deb main armel i2p 0.9.34p-1~precise+1 0.9.33p-1~precise+1
+2018-04-11 18:32:19 replace wheezy deb main powerpc i2p 0.9.34p-1~precise+1 0.9.33p-1~precise+1
+2018-04-11 18:32:19 replace wheezy deb main armhf i2p 0.9.34p-1~precise+1 0.9.33p-1~precise+1
+2018-04-11 18:32:35 replace wheezy deb main armel i2p-doc 0.9.34p-1~precise+1 0.9.33p-1~precise+1
+2018-04-11 18:32:35 replace wheezy deb main powerpc i2p-doc 0.9.34p-1~precise+1 0.9.33p-1~precise+1
+2018-04-11 18:32:35 replace wheezy deb main armhf i2p-doc 0.9.34p-1~precise+1 0.9.33p-1~precise+1
+2018-04-11 18:32:37 replace wheezy deb main armel i2p-router 0.9.34p-1~precise+1 0.9.33p-1~precise+1
+2018-04-11 18:32:37 replace wheezy deb main powerpc i2p-router 0.9.34p-1~precise+1 0.9.33p-1~precise+1
+2018-04-11 18:32:37 replace wheezy deb main armhf i2p-router 0.9.34p-1~precise+1 0.9.33p-1~precise+1
+2018-06-27 19:12:33 replace wheezy deb main i386 libjbigi-jni 0.9.35p-1~precise+1 0.9.34p-1~precise+1
+2018-06-27 19:12:33 replace wheezy deb main i386 i2p-router 0.9.35p-1~precise+1 0.9.34p-1~precise+1
+2018-06-27 19:12:33 replace wheezy deb main i386 i2p-doc 0.9.35p-1~precise+1 0.9.34p-1~precise+1
+2018-06-27 19:12:33 replace wheezy deb main i386 i2p 0.9.35p-1~precise+1 0.9.34p-1~precise+1
+2018-06-27 19:12:33 replace wheezy deb main amd64 libjbigi-jni 0.9.35p-1~precise+1 0.9.34p-1~precise+1
+2018-06-27 19:12:33 replace wheezy deb main amd64 i2p-router 0.9.35p-1~precise+1 0.9.34p-1~precise+1
+2018-06-27 19:12:33 replace wheezy deb main amd64 i2p-doc 0.9.35p-1~precise+1 0.9.34p-1~precise+1
+2018-06-27 19:12:33 replace wheezy deb main amd64 i2p 0.9.35p-1~precise+1 0.9.34p-1~precise+1
+2018-06-27 19:12:33 replace wheezy dsc main source i2p 0.9.35p-1~precise+1 0.9.34p-1~precise+1
+2018-06-27 19:14:30 replace wheezy deb main armel i2p 0.9.35p-1~precise+1 0.9.34p-1~precise+1
+2018-06-27 19:14:30 replace wheezy deb main powerpc i2p 0.9.35p-1~precise+1 0.9.34p-1~precise+1
+2018-06-27 19:14:30 replace wheezy deb main armhf i2p 0.9.35p-1~precise+1 0.9.34p-1~precise+1
+2018-06-27 19:14:32 replace wheezy deb main armel i2p-doc 0.9.35p-1~precise+1 0.9.34p-1~precise+1
+2018-06-27 19:14:32 replace wheezy deb main powerpc i2p-doc 0.9.35p-1~precise+1 0.9.34p-1~precise+1
+2018-06-27 19:14:32 replace wheezy deb main armhf i2p-doc 0.9.35p-1~precise+1 0.9.34p-1~precise+1
+2018-06-27 19:14:35 replace wheezy deb main armel i2p-router 0.9.35p-1~precise+1 0.9.34p-1~precise+1
+2018-06-27 19:14:35 replace wheezy deb main powerpc i2p-router 0.9.35p-1~precise+1 0.9.34p-1~precise+1
+2018-06-27 19:14:35 replace wheezy deb main armhf i2p-router 0.9.35p-1~precise+1 0.9.34p-1~precise+1
+2018-08-24 15:13:10 replace wheezy deb main i386 libjbigi-jni 0.9.36p-1~precise+1 0.9.35p-1~precise+1
+2018-08-24 15:13:10 replace wheezy deb main i386 i2p-router 0.9.36p-1~precise+1 0.9.35p-1~precise+1
+2018-08-24 15:13:10 replace wheezy deb main i386 i2p-doc 0.9.36p-1~precise+1 0.9.35p-1~precise+1
+2018-08-24 15:13:10 replace wheezy deb main i386 i2p 0.9.36p-1~precise+1 0.9.35p-1~precise+1
+2018-08-24 15:13:10 replace wheezy deb main amd64 libjbigi-jni 0.9.36p-1~precise+1 0.9.35p-1~precise+1
+2018-08-24 15:13:10 replace wheezy deb main amd64 i2p-router 0.9.36p-1~precise+1 0.9.35p-1~precise+1
+2018-08-24 15:13:10 replace wheezy deb main amd64 i2p-doc 0.9.36p-1~precise+1 0.9.35p-1~precise+1
+2018-08-24 15:13:10 replace wheezy deb main amd64 i2p 0.9.36p-1~precise+1 0.9.35p-1~precise+1
+2018-08-24 15:13:10 replace wheezy dsc main source i2p 0.9.36p-1~precise+1 0.9.35p-1~precise+1
+2018-08-24 15:18:28 replace wheezy deb main armel i2p 0.9.36p-1~precise+1 0.9.35p-1~precise+1
+2018-08-24 15:18:28 replace wheezy deb main powerpc i2p 0.9.36p-1~precise+1 0.9.35p-1~precise+1
+2018-08-24 15:18:28 replace wheezy deb main armhf i2p 0.9.36p-1~precise+1 0.9.35p-1~precise+1
+2018-08-24 15:18:30 replace wheezy deb main armel i2p-doc 0.9.36p-1~precise+1 0.9.35p-1~precise+1
+2018-08-24 15:18:30 replace wheezy deb main powerpc i2p-doc 0.9.36p-1~precise+1 0.9.35p-1~precise+1
+2018-08-24 15:18:30 replace wheezy deb main armhf i2p-doc 0.9.36p-1~precise+1 0.9.35p-1~precise+1
+2018-08-24 15:18:32 replace wheezy deb main armel i2p-router 0.9.36p-1~precise+1 0.9.35p-1~precise+1
+2018-08-24 15:18:32 replace wheezy deb main powerpc i2p-router 0.9.36p-1~precise+1 0.9.35p-1~precise+1
+2018-08-24 15:18:32 replace wheezy deb main armhf i2p-router 0.9.36p-1~precise+1 0.9.35p-1~precise+1
+2018-09-16 23:25:59 replace wheezy deb main i386 i2p-keyring 2018.09.16 2017.09.21
+2018-09-16 23:25:59 replace wheezy deb main amd64 i2p-keyring 2018.09.16 2017.09.21
+2018-09-16 23:25:59 replace wheezy deb main armel i2p-keyring 2018.09.16 2017.09.21
+2018-09-16 23:25:59 replace wheezy deb main powerpc i2p-keyring 2018.09.16 2017.09.21
+2018-09-16 23:25:59 replace wheezy deb main armhf i2p-keyring 2018.09.16 2017.09.21
+2018-09-16 23:30:22 replace wheezy dsc main source i2p-keyring 2018.09.16 2017.09.21
+2018-10-05 20:57:20 replace wheezy deb main i386 libjbigi-jni 0.9.37p-1~precise+1 0.9.36p-1~precise+1
+2018-10-05 20:57:20 replace wheezy deb main i386 i2p-router 0.9.37p-1~precise+1 0.9.36p-1~precise+1
+2018-10-05 20:57:20 replace wheezy deb main i386 i2p-doc 0.9.37p-1~precise+1 0.9.36p-1~precise+1
+2018-10-05 20:57:20 replace wheezy deb main i386 i2p 0.9.37p-1~precise+1 0.9.36p-1~precise+1
+2018-10-05 20:57:20 replace wheezy deb main amd64 libjbigi-jni 0.9.37p-1~precise+1 0.9.36p-1~precise+1
+2018-10-05 20:57:20 replace wheezy deb main amd64 i2p-router 0.9.37p-1~precise+1 0.9.36p-1~precise+1
+2018-10-05 20:57:20 replace wheezy deb main amd64 i2p-doc 0.9.37p-1~precise+1 0.9.36p-1~precise+1
+2018-10-05 20:57:20 replace wheezy deb main amd64 i2p 0.9.37p-1~precise+1 0.9.36p-1~precise+1
+2018-10-05 20:57:20 replace wheezy dsc main source i2p 0.9.37p-1~precise+1 0.9.36p-1~precise+1
+2018-10-05 20:59:01 replace wheezy deb main armel i2p 0.9.37p-1~precise+1 0.9.36p-1~precise+1
+2018-10-05 20:59:01 replace wheezy deb main powerpc i2p 0.9.37p-1~precise+1 0.9.36p-1~precise+1
+2018-10-05 20:59:01 replace wheezy deb main armhf i2p 0.9.37p-1~precise+1 0.9.36p-1~precise+1
+2018-10-05 20:59:03 replace wheezy deb main armel i2p-doc 0.9.37p-1~precise+1 0.9.36p-1~precise+1
+2018-10-05 20:59:03 replace wheezy deb main powerpc i2p-doc 0.9.37p-1~precise+1 0.9.36p-1~precise+1
+2018-10-05 20:59:03 replace wheezy deb main armhf i2p-doc 0.9.37p-1~precise+1 0.9.36p-1~precise+1
+2018-10-05 20:59:05 replace wheezy deb main armel i2p-router 0.9.37p-1~precise+1 0.9.36p-1~precise+1
+2018-10-05 20:59:05 replace wheezy deb main powerpc i2p-router 0.9.37p-1~precise+1 0.9.36p-1~precise+1
+2018-10-05 20:59:05 replace wheezy deb main armhf i2p-router 0.9.37p-1~precise+1 0.9.36p-1~precise+1
+2019-01-23 19:58:59 replace wheezy deb main i386 libjbigi-jni 0.9.38p-1~precise+1 0.9.37p-1~precise+1
+2019-01-23 19:58:59 replace wheezy deb main i386 i2p-router 0.9.38p-1~precise+1 0.9.37p-1~precise+1
+2019-01-23 19:58:59 replace wheezy deb main i386 i2p-doc 0.9.38p-1~precise+1 0.9.37p-1~precise+1
+2019-01-23 19:58:59 replace wheezy deb main i386 i2p 0.9.38p-1~precise+1 0.9.37p-1~precise+1
+2019-01-23 19:58:59 replace wheezy deb main amd64 libjbigi-jni 0.9.38p-1~precise+1 0.9.37p-1~precise+1
+2019-01-23 19:58:59 replace wheezy deb main amd64 i2p-router 0.9.38p-1~precise+1 0.9.37p-1~precise+1
+2019-01-23 19:58:59 replace wheezy deb main amd64 i2p-doc 0.9.38p-1~precise+1 0.9.37p-1~precise+1
+2019-01-23 19:58:59 replace wheezy deb main amd64 i2p 0.9.38p-1~precise+1 0.9.37p-1~precise+1
+2019-01-23 19:58:59 replace wheezy dsc main source i2p 0.9.38p-1~precise+1 0.9.37p-1~precise+1
+2019-01-23 20:04:39 replace wheezy deb main armel i2p 0.9.38p-1~precise+1 0.9.37p-1~precise+1
+2019-01-23 20:04:39 replace wheezy deb main powerpc i2p 0.9.38p-1~precise+1 0.9.37p-1~precise+1
+2019-01-23 20:04:39 replace wheezy deb main armhf i2p 0.9.38p-1~precise+1 0.9.37p-1~precise+1
+2019-01-23 20:04:41 replace wheezy deb main armel i2p-doc 0.9.38p-1~precise+1 0.9.37p-1~precise+1
+2019-01-23 20:04:41 replace wheezy deb main powerpc i2p-doc 0.9.38p-1~precise+1 0.9.37p-1~precise+1
+2019-01-23 20:04:41 replace wheezy deb main armhf i2p-doc 0.9.38p-1~precise+1 0.9.37p-1~precise+1
+2019-01-23 20:04:42 replace wheezy deb main armel i2p-router 0.9.38p-1~precise+1 0.9.37p-1~precise+1
+2019-01-23 20:04:42 replace wheezy deb main powerpc i2p-router 0.9.38p-1~precise+1 0.9.37p-1~precise+1
+2019-01-23 20:04:42 replace wheezy deb main armhf i2p-router 0.9.38p-1~precise+1 0.9.37p-1~precise+1
+2019-01-26 14:34:03 remove wheezy deb main i386 i2p 0.9.38p-1~precise+1
+2019-01-26 14:34:03 remove wheezy deb main amd64 i2p 0.9.38p-1~precise+1
+2019-01-26 14:34:03 remove wheezy deb main armel i2p 0.9.38p-1~precise+1
+2019-01-26 14:34:03 remove wheezy deb main powerpc i2p 0.9.38p-1~precise+1
+2019-01-26 14:34:03 remove wheezy deb main armhf i2p 0.9.38p-1~precise+1
+2019-01-26 14:34:03 remove wheezy dsc main source i2p 0.9.38p-1~precise+1
+2019-01-26 14:34:46 remove wheezy deb main i386 i2p-router 0.9.38p-1~precise+1
+2019-01-26 14:34:46 remove wheezy deb main amd64 i2p-router 0.9.38p-1~precise+1
+2019-01-26 14:34:46 remove wheezy deb main armel i2p-router 0.9.38p-1~precise+1
+2019-01-26 14:34:46 remove wheezy deb main powerpc i2p-router 0.9.38p-1~precise+1
+2019-01-26 14:34:46 remove wheezy deb main armhf i2p-router 0.9.38p-1~precise+1
+2019-01-26 14:34:54 remove wheezy deb main i386 i2p-doc 0.9.38p-1~precise+1
+2019-01-26 14:34:54 remove wheezy deb main amd64 i2p-doc 0.9.38p-1~precise+1
+2019-01-26 14:34:54 remove wheezy deb main armel i2p-doc 0.9.38p-1~precise+1
+2019-01-26 14:34:54 remove wheezy deb main powerpc i2p-doc 0.9.38p-1~precise+1
+2019-01-26 14:34:54 remove wheezy deb main armhf i2p-doc 0.9.38p-1~precise+1
+2019-01-26 19:58:59 replace wheezy deb main i386 libjbigi-jni 0.9.38p-2~precise+1 0.9.38p-1~precise+1
+2019-01-26 19:58:59 add wheezy deb main i386 i2p-router 0.9.38p-2~precise+1
+2019-01-26 19:58:59 add wheezy deb main i386 i2p-doc 0.9.38p-2~precise+1
+2019-01-26 19:58:59 add wheezy deb main i386 i2p 0.9.38p-2~precise+1
+2019-01-26 19:58:59 replace wheezy deb main amd64 libjbigi-jni 0.9.38p-2~precise+1 0.9.38p-1~precise+1
+2019-01-26 19:58:59 add wheezy deb main amd64 i2p-router 0.9.38p-2~precise+1
+2019-01-26 19:58:59 add wheezy deb main amd64 i2p-doc 0.9.38p-2~precise+1
+2019-01-26 19:58:59 add wheezy deb main amd64 i2p 0.9.38p-2~precise+1
+2019-01-26 19:58:59 add wheezy dsc main source i2p 0.9.38p-2~precise+1
+2019-01-26 20:03:43 add wheezy deb main armel i2p 0.9.38p-2~precise+1
+2019-01-26 20:03:43 add wheezy deb main powerpc i2p 0.9.38p-2~precise+1
+2019-01-26 20:03:43 add wheezy deb main armhf i2p 0.9.38p-2~precise+1
+2019-01-26 20:03:44 add wheezy deb main armel i2p-doc 0.9.38p-2~precise+1
+2019-01-26 20:03:44 add wheezy deb main powerpc i2p-doc 0.9.38p-2~precise+1
+2019-01-26 20:03:44 add wheezy deb main armhf i2p-doc 0.9.38p-2~precise+1
+2019-01-26 20:03:46 add wheezy deb main armel i2p-router 0.9.38p-2~precise+1
+2019-01-26 20:03:46 add wheezy deb main powerpc i2p-router 0.9.38p-2~precise+1
+2019-01-26 20:03:46 add wheezy deb main armhf i2p-router 0.9.38p-2~precise+1
+2019-03-22 18:01:37 replace wheezy deb main armel i2p 0.9.39p-1~precise+1 0.9.38p-2~precise+1
+2019-03-22 18:01:37 replace wheezy deb main powerpc i2p 0.9.39p-1~precise+1 0.9.38p-2~precise+1
+2019-03-22 18:01:37 replace wheezy deb main armhf i2p 0.9.39p-1~precise+1 0.9.38p-2~precise+1
+2019-03-22 18:01:39 replace wheezy deb main armel i2p-doc 0.9.39p-1~precise+1 0.9.38p-2~precise+1
+2019-03-22 18:01:39 replace wheezy deb main powerpc i2p-doc 0.9.39p-1~precise+1 0.9.38p-2~precise+1
+2019-03-22 18:01:39 replace wheezy deb main armhf i2p-doc 0.9.39p-1~precise+1 0.9.38p-2~precise+1
+2019-03-22 18:01:41 replace wheezy deb main armel i2p-router 0.9.39p-1~precise+1 0.9.38p-2~precise+1
+2019-03-22 18:01:41 replace wheezy deb main powerpc i2p-router 0.9.39p-1~precise+1 0.9.38p-2~precise+1
+2019-03-22 18:01:41 replace wheezy deb main armhf i2p-router 0.9.39p-1~precise+1 0.9.38p-2~precise+1
+2019-03-22 18:02:58 replace wheezy deb main i386 libjbigi-jni 0.9.39p-1~precise+1 0.9.38p-2~precise+1
+2019-03-22 18:02:58 replace wheezy deb main i386 i2p-router 0.9.39p-1~precise+1 0.9.38p-2~precise+1
+2019-03-22 18:02:58 replace wheezy deb main i386 i2p-doc 0.9.39p-1~precise+1 0.9.38p-2~precise+1
+2019-03-22 18:02:58 replace wheezy deb main i386 i2p 0.9.39p-1~precise+1 0.9.38p-2~precise+1
+2019-03-22 18:02:58 replace wheezy deb main amd64 libjbigi-jni 0.9.39p-1~precise+1 0.9.38p-2~precise+1
+2019-03-22 18:02:58 replace wheezy deb main amd64 i2p-router 0.9.39p-1~precise+1 0.9.38p-2~precise+1
+2019-03-22 18:02:58 replace wheezy deb main amd64 i2p-doc 0.9.39p-1~precise+1 0.9.38p-2~precise+1
+2019-03-22 18:02:58 replace wheezy deb main amd64 i2p 0.9.39p-1~precise+1 0.9.38p-2~precise+1
+2019-03-22 18:02:58 replace wheezy dsc main source i2p 0.9.39p-1~precise+1 0.9.38p-2~precise+1
+2019-05-08 14:41:21 replace wheezy deb main i386 libjbigi-jni 0.9.40p-1~precise+1 0.9.39p-1~precise+1
+2019-05-08 14:41:21 replace wheezy deb main i386 i2p-router 0.9.40p-1~precise+1 0.9.39p-1~precise+1
+2019-05-08 14:41:21 replace wheezy deb main i386 i2p-doc 0.9.40p-1~precise+1 0.9.39p-1~precise+1
+2019-05-08 14:41:21 replace wheezy deb main i386 i2p 0.9.40p-1~precise+1 0.9.39p-1~precise+1
+2019-05-08 14:41:21 replace wheezy deb main amd64 libjbigi-jni 0.9.40p-1~precise+1 0.9.39p-1~precise+1
+2019-05-08 14:41:21 replace wheezy deb main amd64 i2p-router 0.9.40p-1~precise+1 0.9.39p-1~precise+1
+2019-05-08 14:41:21 replace wheezy deb main amd64 i2p-doc 0.9.40p-1~precise+1 0.9.39p-1~precise+1
+2019-05-08 14:41:21 replace wheezy deb main amd64 i2p 0.9.40p-1~precise+1 0.9.39p-1~precise+1
+2019-05-08 14:41:21 replace wheezy dsc main source i2p 0.9.40p-1~precise+1 0.9.39p-1~precise+1
+2019-05-08 14:50:48 replace wheezy deb main armel i2p 0.9.40p-1~precise+1 0.9.39p-1~precise+1
+2019-05-08 14:50:48 replace wheezy deb main powerpc i2p 0.9.40p-1~precise+1 0.9.39p-1~precise+1
+2019-05-08 14:50:48 replace wheezy deb main armhf i2p 0.9.40p-1~precise+1 0.9.39p-1~precise+1
+2019-05-08 14:50:50 replace wheezy deb main armel i2p-doc 0.9.40p-1~precise+1 0.9.39p-1~precise+1
+2019-05-08 14:50:50 replace wheezy deb main powerpc i2p-doc 0.9.40p-1~precise+1 0.9.39p-1~precise+1
+2019-05-08 14:50:50 replace wheezy deb main armhf i2p-doc 0.9.40p-1~precise+1 0.9.39p-1~precise+1
+2019-05-08 14:50:52 replace wheezy deb main armel i2p-router 0.9.40p-1~precise+1 0.9.39p-1~precise+1
+2019-05-08 14:50:52 replace wheezy deb main powerpc i2p-router 0.9.40p-1~precise+1 0.9.39p-1~precise+1
+2019-05-08 14:50:52 replace wheezy deb main armhf i2p-router 0.9.40p-1~precise+1 0.9.39p-1~precise+1
+2019-07-03 22:55:36 replace wheezy deb main i386 libjbigi-jni 0.9.41p-1~precise+1 0.9.40p-1~precise+1
+2019-07-03 22:55:36 replace wheezy deb main i386 i2p-router 0.9.41p-1~precise+1 0.9.40p-1~precise+1
+2019-07-03 22:55:36 replace wheezy deb main i386 i2p-doc 0.9.41p-1~precise+1 0.9.40p-1~precise+1
+2019-07-03 22:55:36 replace wheezy deb main i386 i2p 0.9.41p-1~precise+1 0.9.40p-1~precise+1
+2019-07-03 22:55:36 replace wheezy deb main amd64 libjbigi-jni 0.9.41p-1~precise+1 0.9.40p-1~precise+1
+2019-07-03 22:55:36 replace wheezy deb main amd64 i2p-router 0.9.41p-1~precise+1 0.9.40p-1~precise+1
+2019-07-03 22:55:36 replace wheezy deb main amd64 i2p-doc 0.9.41p-1~precise+1 0.9.40p-1~precise+1
+2019-07-03 22:55:36 replace wheezy deb main amd64 i2p 0.9.41p-1~precise+1 0.9.40p-1~precise+1
+2019-07-03 22:55:36 replace wheezy deb main armhf libjbigi-jni 0.9.41p-1~precise+1 0.9.20-2~deb7u+1
+2019-07-03 22:55:36 replace wheezy deb main armhf i2p-router 0.9.41p-1~precise+1 0.9.40p-1~precise+1
+2019-07-03 22:55:36 replace wheezy deb main armhf i2p-doc 0.9.41p-1~precise+1 0.9.40p-1~precise+1
+2019-07-03 22:55:36 replace wheezy deb main armhf i2p 0.9.41p-1~precise+1 0.9.40p-1~precise+1
+2019-07-03 22:55:36 replace wheezy dsc main source i2p 0.9.41p-1~precise+1 0.9.40p-1~precise+1
+2019-07-03 22:55:47 replace wheezy deb main i386 libjbigi-jni 0.9.41p-1~precise+1 0.9.41p-1~precise+1
+2019-07-03 22:55:47 replace wheezy deb main i386 i2p-router 0.9.41p-1~precise+1 0.9.41p-1~precise+1
+2019-07-03 22:55:47 replace wheezy deb main i386 i2p-doc 0.9.41p-1~precise+1 0.9.41p-1~precise+1
+2019-07-03 22:55:47 replace wheezy deb main i386 i2p 0.9.41p-1~precise+1 0.9.41p-1~precise+1
+2019-07-03 22:55:47 replace wheezy deb main amd64 libjbigi-jni 0.9.41p-1~precise+1 0.9.41p-1~precise+1
+2019-07-03 22:55:47 replace wheezy deb main amd64 i2p-router 0.9.41p-1~precise+1 0.9.41p-1~precise+1
+2019-07-03 22:55:47 replace wheezy deb main amd64 i2p-doc 0.9.41p-1~precise+1 0.9.41p-1~precise+1
+2019-07-03 22:55:47 replace wheezy deb main amd64 i2p 0.9.41p-1~precise+1 0.9.41p-1~precise+1
+2019-07-03 22:55:47 replace wheezy deb main armhf libjbigi-jni 0.9.41p-1~precise+1 0.9.41p-1~precise+1
+2019-07-03 22:55:47 replace wheezy deb main armhf i2p-router 0.9.41p-1~precise+1 0.9.41p-1~precise+1
+2019-07-03 22:55:47 replace wheezy deb main armhf i2p-doc 0.9.41p-1~precise+1 0.9.41p-1~precise+1
+2019-07-03 22:55:47 replace wheezy deb main armhf i2p 0.9.41p-1~precise+1 0.9.41p-1~precise+1
+2019-07-03 22:55:47 replace wheezy dsc main source i2p 0.9.41p-1~precise+1 0.9.41p-1~precise+1
+2019-07-03 23:01:26 replace wheezy deb main armel i2p 0.9.41p-1~precise+1 0.9.40p-1~precise+1
+2019-07-03 23:01:26 replace wheezy deb main powerpc i2p 0.9.41p-1~precise+1 0.9.40p-1~precise+1
+2019-07-03 23:01:28 replace wheezy deb main armel i2p-doc 0.9.41p-1~precise+1 0.9.40p-1~precise+1
+2019-07-03 23:01:28 replace wheezy deb main powerpc i2p-doc 0.9.41p-1~precise+1 0.9.40p-1~precise+1
+2019-07-03 23:01:30 replace wheezy deb main armel i2p-router 0.9.41p-1~precise+1 0.9.40p-1~precise+1
+2019-07-03 23:01:30 replace wheezy deb main powerpc i2p-router 0.9.41p-1~precise+1 0.9.40p-1~precise+1
+2019-07-03 23:16:01 replace wheezy deb main i386 libjbigi-jni 0.9.41p-1~precise+1 0.9.41p-1~precise+1
+2019-07-03 23:16:01 replace wheezy deb main i386 i2p-router 0.9.41p-1~precise+1 0.9.41p-1~precise+1
+2019-07-03 23:16:01 replace wheezy deb main i386 i2p-doc 0.9.41p-1~precise+1 0.9.41p-1~precise+1
+2019-07-03 23:16:01 replace wheezy deb main i386 i2p 0.9.41p-1~precise+1 0.9.41p-1~precise+1
+2019-07-03 23:16:01 replace wheezy deb main amd64 libjbigi-jni 0.9.41p-1~precise+1 0.9.41p-1~precise+1
+2019-07-03 23:16:01 replace wheezy deb main amd64 i2p-router 0.9.41p-1~precise+1 0.9.41p-1~precise+1
+2019-07-03 23:16:01 replace wheezy deb main amd64 i2p-doc 0.9.41p-1~precise+1 0.9.41p-1~precise+1
+2019-07-03 23:16:01 replace wheezy deb main amd64 i2p 0.9.41p-1~precise+1 0.9.41p-1~precise+1
+2019-07-03 23:16:01 replace wheezy deb main armhf libjbigi-jni 0.9.41p-1~precise+1 0.9.41p-1~precise+1
+2019-07-03 23:16:01 replace wheezy deb main armhf i2p-router 0.9.41p-1~precise+1 0.9.41p-1~precise+1
+2019-07-03 23:16:01 replace wheezy deb main armhf i2p-doc 0.9.41p-1~precise+1 0.9.41p-1~precise+1
+2019-07-03 23:16:01 replace wheezy deb main armhf i2p 0.9.41p-1~precise+1 0.9.41p-1~precise+1
+2019-07-03 23:16:01 replace wheezy deb main powerpc libjbigi-jni 0.9.41p-1~precise+1 0.9.19-1~deb7u+1
+2019-07-03 23:16:01 replace wheezy deb main powerpc i2p-router 0.9.41p-1~precise+1 0.9.41p-1~precise+1
+2019-07-03 23:16:01 replace wheezy deb main powerpc i2p-doc 0.9.41p-1~precise+1 0.9.41p-1~precise+1
+2019-07-03 23:16:01 replace wheezy deb main powerpc i2p 0.9.41p-1~precise+1 0.9.41p-1~precise+1
+2019-07-03 23:16:01 replace wheezy dsc main source i2p 0.9.41p-1~precise+1 0.9.41p-1~precise+1
+2019-08-28 20:47:13 replace stretch deb main i386 libjbigi-jni 0.9.42p-1~trusty+1 0.9.41p-1~trusty+1
+2019-08-28 20:47:14 replace stretch deb main i386 i2p-router 0.9.42p-1~trusty+1 0.9.41p-1~trusty+1
+2019-08-28 20:47:14 replace stretch deb main i386 i2p-doc 0.9.42p-1~trusty+1 0.9.41p-1~trusty+1
+2019-08-28 20:47:14 replace stretch deb main i386 i2p 0.9.42p-1~trusty+1 0.9.41p-1~trusty+1
+2019-08-28 20:47:14 replace stretch deb main amd64 libjbigi-jni 0.9.42p-1~trusty+1 0.9.41p-1~trusty+1
+2019-08-28 20:47:14 replace stretch deb main amd64 i2p-router 0.9.42p-1~trusty+1 0.9.41p-1~trusty+1
+2019-08-28 20:47:14 replace stretch deb main amd64 i2p-doc 0.9.42p-1~trusty+1 0.9.41p-1~trusty+1
+2019-08-28 20:47:14 replace stretch deb main amd64 i2p 0.9.42p-1~trusty+1 0.9.41p-1~trusty+1
+2019-08-28 20:47:14 replace stretch deb main arm64 i2p-router 0.9.42p-1~trusty+1 0.9.41p-1~trusty+1
+2019-08-28 20:47:14 replace stretch deb main arm64 i2p-doc 0.9.42p-1~trusty+1 0.9.41p-1~trusty+1
+2019-08-28 20:47:14 replace stretch deb main arm64 i2p 0.9.42p-1~trusty+1 0.9.41p-1~trusty+1
+2019-08-28 20:47:14 replace stretch deb main armhf libjbigi-jni 0.9.42p-1~trusty+1 0.9.41p-1~trusty+1
+2019-08-28 20:47:14 replace stretch deb main armhf i2p-router 0.9.42p-1~trusty+1 0.9.41p-1~trusty+1
+2019-08-28 20:47:14 replace stretch deb main armhf i2p-doc 0.9.42p-1~trusty+1 0.9.41p-1~trusty+1
+2019-08-28 20:47:14 replace stretch deb main armhf i2p 0.9.42p-1~trusty+1 0.9.41p-1~trusty+1
+2019-08-28 20:47:14 replace stretch deb main powerpc libjbigi-jni 0.9.42p-1~trusty+1 0.9.41p-1~trusty+1
+2019-08-28 20:47:14 replace stretch deb main powerpc i2p-router 0.9.42p-1~trusty+1 0.9.41p-1~trusty+1
+2019-08-28 20:47:14 replace stretch deb main powerpc i2p-doc 0.9.42p-1~trusty+1 0.9.41p-1~trusty+1
+2019-08-28 20:47:14 replace stretch deb main powerpc i2p 0.9.42p-1~trusty+1 0.9.41p-1~trusty+1
+2019-08-28 20:47:14 replace stretch deb main ppc64el i2p-router 0.9.42p-1~trusty+1 0.9.41p-1~trusty+1
+2019-08-28 20:47:14 replace stretch deb main ppc64el i2p-doc 0.9.42p-1~trusty+1 0.9.41p-1~trusty+1
+2019-08-28 20:47:14 replace stretch deb main ppc64el i2p 0.9.42p-1~trusty+1 0.9.41p-1~trusty+1
+2019-08-28 20:47:14 replace stretch dsc main source i2p 0.9.42p-1~trusty+1 0.9.41p-1~trusty+1
+2019-08-28 20:58:40 add wheezy deb main i386 libjbigi-jni 0.9.42p-1~precise+1
+2019-08-28 20:58:40 add wheezy deb main i386 i2p-router 0.9.42p-1~precise+1
+2019-08-28 20:58:40 add wheezy deb main i386 i2p-doc 0.9.42p-1~precise+1
+2019-08-28 20:58:40 add wheezy deb main i386 i2p 0.9.42p-1~precise+1
+2019-08-28 20:58:40 add wheezy deb main amd64 libjbigi-jni 0.9.42p-1~precise+1
+2019-08-28 20:58:40 add wheezy deb main amd64 i2p-router 0.9.42p-1~precise+1
+2019-08-28 20:58:40 add wheezy deb main amd64 i2p-doc 0.9.42p-1~precise+1
+2019-08-28 20:58:40 add wheezy deb main amd64 i2p 0.9.42p-1~precise+1
+2019-08-28 20:58:40 add wheezy deb main armhf libjbigi-jni 0.9.42p-1~precise+1
+2019-08-28 20:58:40 add wheezy deb main armhf i2p-router 0.9.42p-1~precise+1
+2019-08-28 20:58:40 add wheezy deb main armhf i2p-doc 0.9.42p-1~precise+1
+2019-08-28 20:58:40 add wheezy deb main armhf i2p 0.9.42p-1~precise+1
+2019-08-28 20:58:40 add wheezy deb main powerpc libjbigi-jni 0.9.42p-1~precise+1
+2019-08-28 20:58:40 add wheezy deb main powerpc i2p-router 0.9.42p-1~precise+1
+2019-08-28 20:58:40 add wheezy deb main powerpc i2p-doc 0.9.42p-1~precise+1
+2019-08-28 20:58:40 add wheezy deb main powerpc i2p 0.9.42p-1~precise+1
+2019-08-28 20:58:40 add wheezy dsc main source i2p 0.9.42p-1~precise+1
+2019-08-28 20:59:13 add wheezy deb main i386 i2p-keyring 2018.09.16
+2019-08-28 20:59:13 add wheezy deb main amd64 i2p-keyring 2018.09.16
+2019-08-28 20:59:13 add wheezy deb main armhf i2p-keyring 2018.09.16
+2019-08-28 20:59:13 add wheezy dsc main source i2p-keyring 2018.09.16
+2019-08-28 20:59:27 replace wheezy deb main i386 libjbigi-jni 0.9.42p-1~precise+1 0.9.42p-1~precise+1
+2019-08-28 20:59:27 replace wheezy deb main i386 i2p-router 0.9.42p-1~precise+1 0.9.42p-1~precise+1
+2019-08-28 20:59:27 replace wheezy deb main i386 i2p-doc 0.9.42p-1~precise+1 0.9.42p-1~precise+1
+2019-08-28 20:59:27 replace wheezy deb main i386 i2p 0.9.42p-1~precise+1 0.9.42p-1~precise+1
+2019-08-28 20:59:27 replace wheezy deb main amd64 libjbigi-jni 0.9.42p-1~precise+1 0.9.42p-1~precise+1
+2019-08-28 20:59:27 replace wheezy deb main amd64 i2p-router 0.9.42p-1~precise+1 0.9.42p-1~precise+1
+2019-08-28 20:59:27 replace wheezy deb main amd64 i2p-doc 0.9.42p-1~precise+1 0.9.42p-1~precise+1
+2019-08-28 20:59:27 replace wheezy deb main amd64 i2p 0.9.42p-1~precise+1 0.9.42p-1~precise+1
+2019-08-28 20:59:27 replace wheezy deb main armhf libjbigi-jni 0.9.42p-1~precise+1 0.9.42p-1~precise+1
+2019-08-28 20:59:27 replace wheezy deb main armhf i2p-router 0.9.42p-1~precise+1 0.9.42p-1~precise+1
+2019-08-28 20:59:27 replace wheezy deb main armhf i2p-doc 0.9.42p-1~precise+1 0.9.42p-1~precise+1
+2019-08-28 20:59:27 replace wheezy deb main armhf i2p 0.9.42p-1~precise+1 0.9.42p-1~precise+1
+2019-08-28 20:59:27 replace wheezy deb main powerpc libjbigi-jni 0.9.42p-1~precise+1 0.9.42p-1~precise+1
+2019-08-28 20:59:27 replace wheezy deb main powerpc i2p-router 0.9.42p-1~precise+1 0.9.42p-1~precise+1
+2019-08-28 20:59:27 replace wheezy deb main powerpc i2p-doc 0.9.42p-1~precise+1 0.9.42p-1~precise+1
+2019-08-28 20:59:27 replace wheezy deb main powerpc i2p 0.9.42p-1~precise+1 0.9.42p-1~precise+1
+2019-08-28 20:59:27 replace wheezy dsc main source i2p 0.9.42p-1~precise+1 0.9.42p-1~precise+1
+2019-09-21 17:03:33 replace wheezy deb main i386 i2p-keyring 2019.09.21 2018.09.16
+2019-09-21 17:03:33 replace wheezy deb main amd64 i2p-keyring 2019.09.21 2018.09.16
+2019-09-21 17:03:33 add wheezy deb main armel i2p-keyring 2019.09.21
+2019-09-21 17:03:33 add wheezy deb main powerpc i2p-keyring 2019.09.21
+2019-09-21 17:03:33 replace wheezy deb main armhf i2p-keyring 2019.09.21 2018.09.16
+2019-09-21 17:04:23 replace stretch deb main i386 i2p-keyring 2019.09.21 2018.09.16
+2019-09-21 17:04:23 replace stretch deb main amd64 i2p-keyring 2019.09.21 2018.09.16
+2019-09-21 17:04:23 replace stretch deb main armel i2p-keyring 2019.09.21 2018.09.16
+2019-09-21 17:04:23 replace stretch deb main powerpc i2p-keyring 2019.09.21 2018.09.16
+2019-09-21 17:04:23 replace stretch deb main armhf i2p-keyring 2019.09.21 2018.09.16
+2019-09-21 17:04:23 replace stretch deb main arm64 i2p-keyring 2019.09.21 2018.09.16
+2019-09-21 17:04:23 replace stretch deb main ppc64el i2p-keyring 2019.09.21 2018.09.16
+2019-09-21 17:04:23 replace stretch deb main s390x i2p-keyring 2019.09.21 2018.09.16
+2019-09-21 17:07:19 replace stretch dsc main source i2p-keyring 2019.09.21 2018.09.16
+2019-09-21 17:09:33 replace wheezy dsc main source i2p-keyring 2019.09.21 2018.09.16
+2019-10-22 17:47:17 replace wheezy deb main i386 libjbigi-jni 0.9.43p-1~precise+1 0.9.42p-1~precise+1
+2019-10-22 17:47:17 replace wheezy deb main i386 i2p-router 0.9.43p-1~precise+1 0.9.42p-1~precise+1
+2019-10-22 17:47:17 replace wheezy deb main i386 i2p-doc 0.9.43p-1~precise+1 0.9.42p-1~precise+1
+2019-10-22 17:47:17 replace wheezy deb main i386 i2p 0.9.43p-1~precise+1 0.9.42p-1~precise+1
+2019-10-22 17:47:17 replace wheezy deb main amd64 libjbigi-jni 0.9.43p-1~precise+1 0.9.42p-1~precise+1
+2019-10-22 17:47:17 replace wheezy deb main amd64 i2p-router 0.9.43p-1~precise+1 0.9.42p-1~precise+1
+2019-10-22 17:47:17 replace wheezy deb main amd64 i2p-doc 0.9.43p-1~precise+1 0.9.42p-1~precise+1
+2019-10-22 17:47:17 replace wheezy deb main amd64 i2p 0.9.43p-1~precise+1 0.9.42p-1~precise+1
+2019-10-22 17:47:17 replace wheezy deb main armhf libjbigi-jni 0.9.43p-1~precise+1 0.9.42p-1~precise+1
+2019-10-22 17:47:17 replace wheezy deb main armhf i2p-router 0.9.43p-1~precise+1 0.9.42p-1~precise+1
+2019-10-22 17:47:17 replace wheezy deb main armhf i2p-doc 0.9.43p-1~precise+1 0.9.42p-1~precise+1
+2019-10-22 17:47:17 replace wheezy deb main armhf i2p 0.9.43p-1~precise+1 0.9.42p-1~precise+1
+2019-10-22 17:47:17 replace wheezy deb main powerpc libjbigi-jni 0.9.43p-1~precise+1 0.9.42p-1~precise+1
+2019-10-22 17:47:17 replace wheezy deb main powerpc i2p-router 0.9.43p-1~precise+1 0.9.42p-1~precise+1
+2019-10-22 17:47:17 replace wheezy deb main powerpc i2p-doc 0.9.43p-1~precise+1 0.9.42p-1~precise+1
+2019-10-22 17:47:17 replace wheezy deb main powerpc i2p 0.9.43p-1~precise+1 0.9.42p-1~precise+1
+2019-10-22 17:47:17 replace wheezy dsc main source i2p 0.9.43p-1~precise+1 0.9.42p-1~precise+1
+2019-10-22 17:47:30 replace stretch deb main i386 libjbigi-jni 0.9.43p-1~trusty+1 0.9.42p-1~trusty+1
+2019-10-22 17:47:30 replace stretch deb main i386 i2p-router 0.9.43p-1~trusty+1 0.9.42p-1~trusty+1
+2019-10-22 17:47:30 replace stretch deb main i386 i2p-doc 0.9.43p-1~trusty+1 0.9.42p-1~trusty+1
+2019-10-22 17:47:30 replace stretch deb main i386 i2p 0.9.43p-1~trusty+1 0.9.42p-1~trusty+1
+2019-10-22 17:47:30 replace stretch deb main amd64 libjbigi-jni 0.9.43p-1~trusty+1 0.9.42p-1~trusty+1
+2019-10-22 17:47:30 replace stretch deb main amd64 i2p-router 0.9.43p-1~trusty+1 0.9.42p-1~trusty+1
+2019-10-22 17:47:30 replace stretch deb main amd64 i2p-doc 0.9.43p-1~trusty+1 0.9.42p-1~trusty+1
+2019-10-22 17:47:30 replace stretch deb main amd64 i2p 0.9.43p-1~trusty+1 0.9.42p-1~trusty+1
+2019-10-22 17:47:30 replace stretch deb main arm64 i2p-router 0.9.43p-1~trusty+1 0.9.42p-1~trusty+1
+2019-10-22 17:47:30 replace stretch deb main arm64 i2p-doc 0.9.43p-1~trusty+1 0.9.42p-1~trusty+1
+2019-10-22 17:47:30 replace stretch deb main arm64 i2p 0.9.43p-1~trusty+1 0.9.42p-1~trusty+1
+2019-10-22 17:47:30 replace stretch deb main armhf libjbigi-jni 0.9.43p-1~trusty+1 0.9.42p-1~trusty+1
+2019-10-22 17:47:30 replace stretch deb main armhf i2p-router 0.9.43p-1~trusty+1 0.9.42p-1~trusty+1
+2019-10-22 17:47:30 replace stretch deb main armhf i2p-doc 0.9.43p-1~trusty+1 0.9.42p-1~trusty+1
+2019-10-22 17:47:30 replace stretch deb main armhf i2p 0.9.43p-1~trusty+1 0.9.42p-1~trusty+1
+2019-10-22 17:47:30 replace stretch deb main powerpc libjbigi-jni 0.9.43p-1~trusty+1 0.9.42p-1~trusty+1
+2019-10-22 17:47:30 replace stretch deb main powerpc i2p-router 0.9.43p-1~trusty+1 0.9.42p-1~trusty+1
+2019-10-22 17:47:30 replace stretch deb main powerpc i2p-doc 0.9.43p-1~trusty+1 0.9.42p-1~trusty+1
+2019-10-22 17:47:30 replace stretch deb main powerpc i2p 0.9.43p-1~trusty+1 0.9.42p-1~trusty+1
+2019-10-22 17:47:30 replace stretch deb main ppc64el i2p-router 0.9.43p-1~trusty+1 0.9.42p-1~trusty+1
+2019-10-22 17:47:30 replace stretch deb main ppc64el i2p-doc 0.9.43p-1~trusty+1 0.9.42p-1~trusty+1
+2019-10-22 17:47:30 replace stretch deb main ppc64el i2p 0.9.43p-1~trusty+1 0.9.42p-1~trusty+1
+2019-10-22 17:47:30 replace stretch dsc main source i2p 0.9.43p-1~trusty+1 0.9.42p-1~trusty+1
+2019-12-01 23:42:36 replace wheezy deb main i386 libjbigi-jni 0.9.44p-1~precise+1 0.9.43p-1~precise+1
+2019-12-01 23:42:36 replace wheezy deb main i386 i2p-router 0.9.44p-1~precise+1 0.9.43p-1~precise+1
+2019-12-01 23:42:36 replace wheezy deb main i386 i2p-doc 0.9.44p-1~precise+1 0.9.43p-1~precise+1
+2019-12-01 23:42:36 replace wheezy deb main i386 i2p 0.9.44p-1~precise+1 0.9.43p-1~precise+1
+2019-12-01 23:42:36 replace wheezy deb main amd64 libjbigi-jni 0.9.44p-1~precise+1 0.9.43p-1~precise+1
+2019-12-01 23:42:36 replace wheezy deb main amd64 i2p-router 0.9.44p-1~precise+1 0.9.43p-1~precise+1
+2019-12-01 23:42:36 replace wheezy deb main amd64 i2p-doc 0.9.44p-1~precise+1 0.9.43p-1~precise+1
+2019-12-01 23:42:36 replace wheezy deb main amd64 i2p 0.9.44p-1~precise+1 0.9.43p-1~precise+1
+2019-12-01 23:42:36 replace wheezy deb main armhf libjbigi-jni 0.9.44p-1~precise+1 0.9.43p-1~precise+1
+2019-12-01 23:42:36 replace wheezy deb main armhf i2p-router 0.9.44p-1~precise+1 0.9.43p-1~precise+1
+2019-12-01 23:42:36 replace wheezy deb main armhf i2p-doc 0.9.44p-1~precise+1 0.9.43p-1~precise+1
+2019-12-01 23:42:36 replace wheezy deb main armhf i2p 0.9.44p-1~precise+1 0.9.43p-1~precise+1
+2019-12-01 23:42:36 replace wheezy deb main powerpc libjbigi-jni 0.9.44p-1~precise+1 0.9.43p-1~precise+1
+2019-12-01 23:42:36 replace wheezy deb main powerpc i2p-router 0.9.44p-1~precise+1 0.9.43p-1~precise+1
+2019-12-01 23:42:36 replace wheezy deb main powerpc i2p-doc 0.9.44p-1~precise+1 0.9.43p-1~precise+1
+2019-12-01 23:42:36 replace wheezy deb main powerpc i2p 0.9.44p-1~precise+1 0.9.43p-1~precise+1
+2019-12-01 23:42:36 replace wheezy dsc main source i2p 0.9.44p-1~precise+1 0.9.43p-1~precise+1
+2019-12-01 23:42:53 replace stretch deb main i386 libjbigi-jni 0.9.44p-1~trusty+1 0.9.43p-1~trusty+1
+2019-12-01 23:42:53 replace stretch deb main i386 i2p-router 0.9.44p-1~trusty+1 0.9.43p-1~trusty+1
+2019-12-01 23:42:53 replace stretch deb main i386 i2p-doc 0.9.44p-1~trusty+1 0.9.43p-1~trusty+1
+2019-12-01 23:42:53 replace stretch deb main i386 i2p 0.9.44p-1~trusty+1 0.9.43p-1~trusty+1
+2019-12-01 23:42:53 replace stretch deb main amd64 libjbigi-jni 0.9.44p-1~trusty+1 0.9.43p-1~trusty+1
+2019-12-01 23:42:53 replace stretch deb main amd64 i2p-router 0.9.44p-1~trusty+1 0.9.43p-1~trusty+1
+2019-12-01 23:42:53 replace stretch deb main amd64 i2p-doc 0.9.44p-1~trusty+1 0.9.43p-1~trusty+1
+2019-12-01 23:42:53 replace stretch deb main amd64 i2p 0.9.44p-1~trusty+1 0.9.43p-1~trusty+1
+2019-12-01 23:42:53 replace stretch deb main arm64 i2p-router 0.9.44p-1~trusty+1 0.9.43p-1~trusty+1
+2019-12-01 23:42:53 replace stretch deb main arm64 i2p-doc 0.9.44p-1~trusty+1 0.9.43p-1~trusty+1
+2019-12-01 23:42:53 replace stretch deb main arm64 i2p 0.9.44p-1~trusty+1 0.9.43p-1~trusty+1
+2019-12-01 23:42:53 replace stretch deb main armhf libjbigi-jni 0.9.44p-1~trusty+1 0.9.43p-1~trusty+1
+2019-12-01 23:42:53 replace stretch deb main armhf i2p-router 0.9.44p-1~trusty+1 0.9.43p-1~trusty+1
+2019-12-01 23:42:53 replace stretch deb main armhf i2p-doc 0.9.44p-1~trusty+1 0.9.43p-1~trusty+1
+2019-12-01 23:42:53 replace stretch deb main armhf i2p 0.9.44p-1~trusty+1 0.9.43p-1~trusty+1
+2019-12-01 23:42:53 replace stretch deb main powerpc libjbigi-jni 0.9.44p-1~trusty+1 0.9.43p-1~trusty+1
+2019-12-01 23:42:53 replace stretch deb main powerpc i2p-router 0.9.44p-1~trusty+1 0.9.43p-1~trusty+1
+2019-12-01 23:42:53 replace stretch deb main powerpc i2p-doc 0.9.44p-1~trusty+1 0.9.43p-1~trusty+1
+2019-12-01 23:42:53 replace stretch deb main powerpc i2p 0.9.44p-1~trusty+1 0.9.43p-1~trusty+1
+2019-12-01 23:42:53 replace stretch deb main ppc64el i2p-router 0.9.44p-1~trusty+1 0.9.43p-1~trusty+1
+2019-12-01 23:42:53 replace stretch deb main ppc64el i2p-doc 0.9.44p-1~trusty+1 0.9.43p-1~trusty+1
+2019-12-01 23:42:53 replace stretch deb main ppc64el i2p 0.9.44p-1~trusty+1 0.9.43p-1~trusty+1
+2019-12-01 23:42:53 replace stretch dsc main source i2p 0.9.44p-1~trusty+1 0.9.43p-1~trusty+1
+2020-02-25 17:52:16 replace wheezy deb main i386 libjbigi-jni 0.9.45p-1~precise+1 0.9.44p-1~precise+1
+2020-02-25 17:52:16 replace wheezy deb main i386 i2p-router 0.9.45p-1~precise+1 0.9.44p-1~precise+1
+2020-02-25 17:52:16 replace wheezy deb main i386 i2p-doc 0.9.45p-1~precise+1 0.9.44p-1~precise+1
+2020-02-25 17:52:16 replace wheezy deb main i386 i2p 0.9.45p-1~precise+1 0.9.44p-1~precise+1
+2020-02-25 17:52:16 replace wheezy deb main amd64 libjbigi-jni 0.9.45p-1~precise+1 0.9.44p-1~precise+1
+2020-02-25 17:52:16 replace wheezy deb main amd64 i2p-router 0.9.45p-1~precise+1 0.9.44p-1~precise+1
+2020-02-25 17:52:16 replace wheezy deb main amd64 i2p-doc 0.9.45p-1~precise+1 0.9.44p-1~precise+1
+2020-02-25 17:52:16 replace wheezy deb main amd64 i2p 0.9.45p-1~precise+1 0.9.44p-1~precise+1
+2020-02-25 17:52:16 replace wheezy deb main armhf libjbigi-jni 0.9.45p-1~precise+1 0.9.44p-1~precise+1
+2020-02-25 17:52:16 replace wheezy deb main armhf i2p-router 0.9.45p-1~precise+1 0.9.44p-1~precise+1
+2020-02-25 17:52:16 replace wheezy deb main armhf i2p-doc 0.9.45p-1~precise+1 0.9.44p-1~precise+1
+2020-02-25 17:52:16 replace wheezy deb main armhf i2p 0.9.45p-1~precise+1 0.9.44p-1~precise+1
+2020-02-25 17:52:16 replace wheezy deb main powerpc libjbigi-jni 0.9.45p-1~precise+1 0.9.44p-1~precise+1
+2020-02-25 17:52:16 replace wheezy deb main powerpc i2p-router 0.9.45p-1~precise+1 0.9.44p-1~precise+1
+2020-02-25 17:52:16 replace wheezy deb main powerpc i2p-doc 0.9.45p-1~precise+1 0.9.44p-1~precise+1
+2020-02-25 17:52:16 replace wheezy deb main powerpc i2p 0.9.45p-1~precise+1 0.9.44p-1~precise+1
+2020-02-25 17:52:16 replace wheezy dsc main source i2p 0.9.45p-1~precise+1 0.9.44p-1~precise+1
+2020-02-25 17:52:27 replace stretch deb main i386 libjbigi-jni 0.9.45p-1~trusty+1 0.9.44p-1~trusty+1
+2020-02-25 17:52:27 replace stretch deb main i386 i2p-router 0.9.45p-1~trusty+1 0.9.44p-1~trusty+1
+2020-02-25 17:52:27 replace stretch deb main i386 i2p-doc 0.9.45p-1~trusty+1 0.9.44p-1~trusty+1
+2020-02-25 17:52:27 replace stretch deb main i386 i2p 0.9.45p-1~trusty+1 0.9.44p-1~trusty+1
+2020-02-25 17:52:27 replace stretch deb main amd64 libjbigi-jni 0.9.45p-1~trusty+1 0.9.44p-1~trusty+1
+2020-02-25 17:52:27 replace stretch deb main amd64 i2p-router 0.9.45p-1~trusty+1 0.9.44p-1~trusty+1
+2020-02-25 17:52:27 replace stretch deb main amd64 i2p-doc 0.9.45p-1~trusty+1 0.9.44p-1~trusty+1
+2020-02-25 17:52:27 replace stretch deb main amd64 i2p 0.9.45p-1~trusty+1 0.9.44p-1~trusty+1
+2020-02-25 17:52:27 replace stretch deb main arm64 i2p-router 0.9.45p-1~trusty+1 0.9.44p-1~trusty+1
+2020-02-25 17:52:27 replace stretch deb main arm64 i2p-doc 0.9.45p-1~trusty+1 0.9.44p-1~trusty+1
+2020-02-25 17:52:27 replace stretch deb main arm64 i2p 0.9.45p-1~trusty+1 0.9.44p-1~trusty+1
+2020-02-25 17:52:27 replace stretch deb main armhf libjbigi-jni 0.9.45p-1~trusty+1 0.9.44p-1~trusty+1
+2020-02-25 17:52:27 replace stretch deb main armhf i2p-router 0.9.45p-1~trusty+1 0.9.44p-1~trusty+1
+2020-02-25 17:52:27 replace stretch deb main armhf i2p-doc 0.9.45p-1~trusty+1 0.9.44p-1~trusty+1
+2020-02-25 17:52:27 replace stretch deb main armhf i2p 0.9.45p-1~trusty+1 0.9.44p-1~trusty+1
+2020-02-25 17:52:27 replace stretch deb main powerpc libjbigi-jni 0.9.45p-1~trusty+1 0.9.44p-1~trusty+1
+2020-02-25 17:52:27 replace stretch deb main powerpc i2p-router 0.9.45p-1~trusty+1 0.9.44p-1~trusty+1
+2020-02-25 17:52:27 replace stretch deb main powerpc i2p-doc 0.9.45p-1~trusty+1 0.9.44p-1~trusty+1
+2020-02-25 17:52:27 replace stretch deb main powerpc i2p 0.9.45p-1~trusty+1 0.9.44p-1~trusty+1
+2020-02-25 17:52:27 replace stretch deb main ppc64el i2p-router 0.9.45p-1~trusty+1 0.9.44p-1~trusty+1
+2020-02-25 17:52:27 replace stretch deb main ppc64el i2p-doc 0.9.45p-1~trusty+1 0.9.44p-1~trusty+1
+2020-02-25 17:52:27 replace stretch deb main ppc64el i2p 0.9.45p-1~trusty+1 0.9.44p-1~trusty+1
+2020-02-25 17:52:27 replace stretch dsc main source i2p 0.9.45p-1~trusty+1 0.9.44p-1~trusty+1
+2020-02-25 17:55:46 add wheezy deb main armel i2p 0.9.45p-1~precise+1
+2020-02-25 17:55:46 add wheezy deb main armel i2p-doc 0.9.45p-1~precise+1
+2020-02-25 17:55:46 add wheezy deb main armel i2p-router 0.9.45p-1~precise+1
+2020-02-25 17:55:46 replace stretch deb main armel i2p 0.9.45-1ubuntu1 0.9.41-1ubuntu1
+2020-02-25 17:55:46 replace stretch deb main s390x i2p 0.9.45-1ubuntu1 0.9.41-1ubuntu1
+2020-02-25 17:55:46 replace stretch deb main armel i2p-doc 0.9.45-1ubuntu1 0.9.41-1ubuntu1
+2020-02-25 17:55:46 replace stretch deb main s390x i2p-doc 0.9.45-1ubuntu1 0.9.41-1ubuntu1
+2020-02-25 17:55:47 replace stretch deb main armel i2p-router 0.9.45-1ubuntu1 0.9.41-1ubuntu1
+2020-02-25 17:55:47 replace stretch deb main s390x i2p-router 0.9.45-1ubuntu1 0.9.41-1ubuntu1
+2020-02-25 18:00:16 replace stretch deb main armel i2p 0.9.45p-1~trusty+1 0.9.45-1ubuntu1
+2020-02-25 18:00:16 replace stretch deb main armel i2p-doc 0.9.45p-1~trusty+1 0.9.45-1ubuntu1
+2020-02-25 18:00:16 replace stretch deb main armel i2p-router 0.9.45p-1~trusty+1 0.9.45-1ubuntu1
+2020-02-25 18:00:16 replace stretch deb main s390x i2p 0.9.45p-1~trusty+1 0.9.45-1ubuntu1
+2020-02-25 18:00:16 replace stretch deb main s390x i2p-doc 0.9.45p-1~trusty+1 0.9.45-1ubuntu1
+2020-02-25 18:00:16 replace stretch deb main s390x i2p-router 0.9.45p-1~trusty+1 0.9.45-1ubuntu1
+2020-05-26 21:57:04 replace wheezy deb main i386 libjbigi-jni 0.9.46p-1~precise+1 0.9.45p-1~precise+1
+2020-05-26 21:57:04 replace wheezy deb main i386 i2p-router 0.9.46p-1~precise+1 0.9.45p-1~precise+1
+2020-05-26 21:57:04 replace wheezy deb main i386 i2p-doc 0.9.46p-1~precise+1 0.9.45p-1~precise+1
+2020-05-26 21:57:04 replace wheezy deb main i386 i2p 0.9.46p-1~precise+1 0.9.45p-1~precise+1
+2020-05-26 21:57:04 replace wheezy deb main amd64 libjbigi-jni 0.9.46p-1~precise+1 0.9.45p-1~precise+1
+2020-05-26 21:57:04 replace wheezy deb main amd64 i2p-router 0.9.46p-1~precise+1 0.9.45p-1~precise+1
+2020-05-26 21:57:04 replace wheezy deb main amd64 i2p-doc 0.9.46p-1~precise+1 0.9.45p-1~precise+1
+2020-05-26 21:57:04 replace wheezy deb main amd64 i2p 0.9.46p-1~precise+1 0.9.45p-1~precise+1
+2020-05-26 21:57:04 replace wheezy deb main armhf libjbigi-jni 0.9.46p-1~precise+1 0.9.45p-1~precise+1
+2020-05-26 21:57:04 replace wheezy deb main armhf i2p-router 0.9.46p-1~precise+1 0.9.45p-1~precise+1
+2020-05-26 21:57:04 replace wheezy deb main armhf i2p-doc 0.9.46p-1~precise+1 0.9.45p-1~precise+1
+2020-05-26 21:57:04 replace wheezy deb main armhf i2p 0.9.46p-1~precise+1 0.9.45p-1~precise+1
+2020-05-26 21:57:04 replace wheezy deb main powerpc libjbigi-jni 0.9.46p-1~precise+1 0.9.45p-1~precise+1
+2020-05-26 21:57:04 replace wheezy deb main powerpc i2p-router 0.9.46p-1~precise+1 0.9.45p-1~precise+1
+2020-05-26 21:57:04 replace wheezy deb main powerpc i2p-doc 0.9.46p-1~precise+1 0.9.45p-1~precise+1
+2020-05-26 21:57:04 replace wheezy deb main powerpc i2p 0.9.46p-1~precise+1 0.9.45p-1~precise+1
+2020-05-26 21:57:04 replace wheezy dsc main source i2p 0.9.46p-1~precise+1 0.9.45p-1~precise+1
+2020-05-26 21:57:36 replace stretch deb main i386 libjbigi-jni 0.9.46p-1~trusty+1 0.9.45p-1~trusty+1
+2020-05-26 21:57:36 replace stretch deb main i386 i2p-router 0.9.46p-1~trusty+1 0.9.45p-1~trusty+1
+2020-05-26 21:57:36 replace stretch deb main i386 i2p-doc 0.9.46p-1~trusty+1 0.9.45p-1~trusty+1
+2020-05-26 21:57:36 replace stretch deb main i386 i2p 0.9.46p-1~trusty+1 0.9.45p-1~trusty+1
+2020-05-26 21:57:36 replace stretch deb main amd64 libjbigi-jni 0.9.46p-1~trusty+1 0.9.45p-1~trusty+1
+2020-05-26 21:57:36 replace stretch deb main amd64 i2p-router 0.9.46p-1~trusty+1 0.9.45p-1~trusty+1
+2020-05-26 21:57:36 replace stretch deb main amd64 i2p-doc 0.9.46p-1~trusty+1 0.9.45p-1~trusty+1
+2020-05-26 21:57:36 replace stretch deb main amd64 i2p 0.9.46p-1~trusty+1 0.9.45p-1~trusty+1
+2020-05-26 21:57:36 replace stretch deb main arm64 i2p-router 0.9.46p-1~trusty+1 0.9.45p-1~trusty+1
+2020-05-26 21:57:36 replace stretch deb main arm64 i2p-doc 0.9.46p-1~trusty+1 0.9.45p-1~trusty+1
+2020-05-26 21:57:36 replace stretch deb main arm64 i2p 0.9.46p-1~trusty+1 0.9.45p-1~trusty+1
+2020-05-26 21:57:36 replace stretch deb main armhf libjbigi-jni 0.9.46p-1~trusty+1 0.9.45p-1~trusty+1
+2020-05-26 21:57:36 replace stretch deb main armhf i2p-router 0.9.46p-1~trusty+1 0.9.45p-1~trusty+1
+2020-05-26 21:57:36 replace stretch deb main armhf i2p-doc 0.9.46p-1~trusty+1 0.9.45p-1~trusty+1
+2020-05-26 21:57:36 replace stretch deb main armhf i2p 0.9.46p-1~trusty+1 0.9.45p-1~trusty+1
+2020-05-26 21:57:36 replace stretch deb main powerpc libjbigi-jni 0.9.46p-1~trusty+1 0.9.45p-1~trusty+1
+2020-05-26 21:57:36 replace stretch deb main powerpc i2p-router 0.9.46p-1~trusty+1 0.9.45p-1~trusty+1
+2020-05-26 21:57:36 replace stretch deb main powerpc i2p-doc 0.9.46p-1~trusty+1 0.9.45p-1~trusty+1
+2020-05-26 21:57:36 replace stretch deb main powerpc i2p 0.9.46p-1~trusty+1 0.9.45p-1~trusty+1
+2020-05-26 21:57:36 replace stretch deb main ppc64el i2p-router 0.9.46p-1~trusty+1 0.9.45p-1~trusty+1
+2020-05-26 21:57:36 replace stretch deb main ppc64el i2p-doc 0.9.46p-1~trusty+1 0.9.45p-1~trusty+1
+2020-05-26 21:57:36 replace stretch deb main ppc64el i2p 0.9.46p-1~trusty+1 0.9.45p-1~trusty+1
+2020-05-26 21:57:36 replace stretch deb main s390x i2p-router 0.9.46p-1~trusty+1 0.9.45p-1~trusty+1
+2020-05-26 21:57:36 replace stretch deb main s390x i2p-doc 0.9.46p-1~trusty+1 0.9.45p-1~trusty+1
+2020-05-26 21:57:36 replace stretch deb main s390x i2p 0.9.46p-1~trusty+1 0.9.45p-1~trusty+1
+2020-05-26 21:57:36 replace stretch dsc main source i2p 0.9.46p-1~trusty+1 0.9.45p-1~trusty+1
+2021-09-10 17:34:01 replace wheezy deb main i386 i2p-keyring 2021.09.10 2019.09.21
+2021-09-10 17:34:01 replace wheezy deb main amd64 i2p-keyring 2021.09.10 2019.09.21
+2021-09-10 17:34:01 replace wheezy deb main armel i2p-keyring 2021.09.10 2019.09.21
+2021-09-10 17:34:01 replace wheezy deb main powerpc i2p-keyring 2021.09.10 2019.09.21
+2021-09-10 17:34:01 replace wheezy deb main armhf i2p-keyring 2021.09.10 2019.09.21
+2021-09-10 17:34:05 replace stretch deb main i386 i2p-keyring 2021.09.10 2019.09.21
+2021-09-10 17:34:05 replace stretch deb main amd64 i2p-keyring 2021.09.10 2019.09.21
+2021-09-10 17:34:05 replace stretch deb main armel i2p-keyring 2021.09.10 2019.09.21
+2021-09-10 17:34:05 replace stretch deb main powerpc i2p-keyring 2021.09.10 2019.09.21
+2021-09-10 17:34:05 replace stretch deb main armhf i2p-keyring 2021.09.10 2019.09.21
+2021-09-10 17:34:05 replace stretch deb main arm64 i2p-keyring 2021.09.10 2019.09.21
+2021-09-10 17:34:05 replace stretch deb main ppc64el i2p-keyring 2021.09.10 2019.09.21
+2021-09-10 17:34:05 replace stretch deb main s390x i2p-keyring 2021.09.10 2019.09.21
+2021-09-10 17:35:00 replace wheezy dsc main source i2p-keyring 2021.09.10 2019.09.21
+2021-09-10 17:35:02 replace stretch dsc main source i2p-keyring 2021.09.10 2019.09.21
