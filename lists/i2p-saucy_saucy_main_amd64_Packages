@@ -1,0 +1,119 @@
+Package: service-wrapper
+Source: service-wrapper-java
+Priority: optional
+Section: java
+Installed-Size: 395
+Maintainer: Kill Your TV <killyourtv@i2pmail.org>
+Architecture: amd64
+Version: 3.5.22-1~saucy1
+Depends: libc6 (>= 2.14), libservice-wrapper-java (>= 3.5.22-1~saucy1), libservice-wrapper-jni (>= 3.5.22-1~saucy1)
+Filename: pool/main/s/service-wrapper-java/service-wrapper_3.5.22-1~saucy1_amd64.deb
+Size: 166122
+MD5sum: 6b3ab0fb475f6cec3e29f1dbb0a8a1e2
+SHA1: bafc4d6c15bdc3706a620a89fed011d2dbed78b8
+SHA256: 264f40d669af403fe543eec90ac34669b703875d682101633a30247f66ab57c9
+Description: Jar daemon wrapper
+ The Java Service Wrapper makes very easy to install a Java Application as a
+ daemon process on Unix systems. The Wrapper monitors a JVM (Java Virtual
+ Machine) process and automatically restarts it if it that the JVM has crashed
+ or hung. This process takes just a few seconds once the Wrapper has decided
+ there is a problem. It also gives the ability to handle process priority.
+
+Package: libservice-wrapper-java
+Source: service-wrapper-java
+Priority: optional
+Section: java
+Installed-Size: 259
+Maintainer: Kill Your TV <killyourtv@i2pmail.org>
+Architecture: all
+Version: 3.5.22-1~saucy1
+Depends: service-wrapper
+Filename: pool/main/s/service-wrapper-java/libservice-wrapper-java_3.5.22-1~saucy1_all.deb
+Size: 216132
+MD5sum: 2acc753f9e2c83936250a4dfc364b627
+SHA1: 79a5de9fe51264a986b46c0ea7273afd880a0b1f
+SHA256: cf2e228b59f6699d520606c73b7062d31ed4e4f2d167d05984e0021869352580
+Description: Jar daemon wrapper java libraries
+ This Package contains the Java jar libraries used by the Java Service Wrapper.
+ It can be used to handle wrapper specific attributes.
+ .
+ The Java Service Wrapper makes very easy to install a Java Application as a
+ daemon process on Unix systems. The Wrapper monitors a JVM (Java Virtual
+ Machine) process and automatically restarts it if it that the JVM has crashed
+ or hung. This process takes just a few seconds once the Wrapper has decided
+ there is a problem. It also gives the ability to handle process priority.
+
+Package: libservice-wrapper-jni
+Source: service-wrapper-java
+Priority: optional
+Section: java
+Installed-Size: 67
+Maintainer: Kill Your TV <killyourtv@i2pmail.org>
+Architecture: amd64
+Version: 3.5.22-1~saucy1
+Suggests: libservice-wrapper-doc
+Depends: libc6 (>= 2.14), service-wrapper, default-jre-headless | java5-runtime-headless | java6-runtime-headless
+Filename: pool/main/s/service-wrapper-java/libservice-wrapper-jni_3.5.22-1~saucy1_amd64.deb
+Size: 15800
+MD5sum: f3ddd4511ec2a21c9a98c0f9819b1912
+SHA1: d818c96eabddef4631b6cfd18b1cf4b74020f9c6
+SHA256: ac38121e578667a76747396a4ad804438135310b5ef2b927375fa8c81ee0dc43
+Description: Jar daemon wrapper JNI libraries
+ This Package contains the JNI libraries used by the Java Service Wrapper.
+ .
+ The Java Service Wrapper makes very easy to install a Java Application as a
+ daemon process on Unix systems. The Wrapper monitors a JVM (Java Virtual
+ Machine) process and automatically restarts it if it that the JVM has crashed
+ or hung. This process takes just a few seconds once the Wrapper has decided
+ there is a problem. It also gives the ability to handle process priority.
+
+Package: syndie
+Priority: extra
+Section: java
+Installed-Size: 5834
+Maintainer: Kill Your TV <killyourtv@i2pmail.org>
+Architecture: all
+Version: 1.105b-1ubuntu1
+Suggests: tor, freenet
+Depends: default-jre | java5-runtime | java6-runtime, libswt-cairo-gtk-3-jni, libswt-gtk-3-java, i2p-router | i2p, jarwrapper
+Enhances: i2p, i2p-router, tor
+Filename: pool/main/s/syndie/syndie_1.105b-1ubuntu1_all.deb
+Size: 5482090
+MD5sum: f419a375724ea60c96fad80ead626f42
+SHA1: 3b5a1733f091c985c457f005ba880ecc5a710613
+SHA256: 7c1ce9b59a4bb5bc8e9c25c27b5d5acdadc47b60a953a869037e89f4500bf1df
+Description: open source system for operating distributed forums
+ Syndie is java-based open source system for operating secure distributed
+ forums.
+ .
+ Some of the features include:
+ - Decentralized forums
+ - Private forums
+ - Offline browsing
+ - Secure reader
+ .
+ At its core, Syndie is a content layer with a defined file format and
+ cryptographic algorithms.
+
+Package: libservice-wrapper-doc
+Source: service-wrapper-java
+Priority: optional
+Section: doc
+Installed-Size: 1970
+Maintainer: Kill Your TV <killyourtv@i2pmail.org>
+Architecture: all
+Version: 3.5.22-1~saucy1
+Filename: pool/main/s/service-wrapper-java/libservice-wrapper-doc_3.5.22-1~saucy1_all.deb
+Size: 233902
+MD5sum: 3f0a4860f88ea2eeadc84b608e475c50
+SHA1: a8f6112b3164d4c1ea1f8640840cd6b05c3b8d53
+SHA256: cf6de039d432adaf54f286888a57a6111d4c5adeb0b8bff900a961c1784aaa9b
+Description: Jar daemon wrapper (javadoc files)
+ The Java Service Wrapper makes very easy to install a Java Application as a
+ daemon process on Unix systems. The Wrapper monitors a JVM (Java Virtual
+ Machine) process and automatically restarts it if it that the JVM has crashed
+ or hung. This process takes just a few seconds once the Wrapper has decided
+ there is a problem. It also gives the ability to handle process priority.
+ .
+ This package contains the javadoc files.
+
