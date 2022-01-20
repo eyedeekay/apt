@@ -1,0 +1,82 @@
+Package: i2p
+Binary: i2p, libjbigi-jni, i2p-doc, i2p-router
+Version: 0.9.46p-1~trusty+1
+Section: net
+Maintainer: zzz <zzz@i2pmail.org>
+Build-Depends: debhelper (>= 7.0.50~), ant (>= 1.8), debconf, openjdk-7-jdk, glassfish-javaee, dh-apparmor, dh-systemd, bash-completion, gettext, libgetopt-java, libjson-simple-java (<< 3), libgmp-dev (>= 2:5.0.2), libservice-wrapper-java, hardening-wrapper, po-debconf
+Architecture: any all
+Standards-Version: 3.9.6
+Format: 3.0 (quilt)
+Directory: pool/main/i/i2p
+Files:
+ e5690f2b51a3f1e0b6f3a4eea1817b61 10300725 i2p_0.9.46p.orig.tar.bz2
+ ab2ddf5dc12c67fe4d6e72a53cdc8c1a 52576 i2p_0.9.46p-1~trusty+1.debian.tar.xz
+ 6378202dc15a678940d414c4f5f9094f 2083 i2p_0.9.46p-1~trusty+1.dsc
+Checksums-Sha1:
+ 79ebbcd6d225253fa609c055149a93fe0b4a5306 10300725 i2p_0.9.46p.orig.tar.bz2
+ 59c8d0d66b7216f532cb6db3b4ad24abacacafdb 52576 i2p_0.9.46p-1~trusty+1.debian.tar.xz
+ ce4ecc480b596595c132a6592b27b8266b3a95e8 2083 i2p_0.9.46p-1~trusty+1.dsc
+Checksums-Sha256:
+ 95fd632f26504a8a03dfd5eecec17848bf8e9aaf9c54c0f4a331f73003f387c3 10300725 i2p_0.9.46p.orig.tar.bz2
+ d108632065eaa2f4a2341e8904c3cb3009e586ecdc887de101812058c7cdcee8 52576 i2p_0.9.46p-1~trusty+1.debian.tar.xz
+ 96a11ccf45d0363a600c13262d6a12630f39adb5b0b349d251c418dd5ac242fa 2083 i2p_0.9.46p-1~trusty+1.dsc
+Homepage: https://geti2p.net/
+Package-List: i2p deb net optional arch=all
+ i2p-doc deb doc extra arch=all
+ i2p-router deb net optional arch=all
+ libjbigi-jni deb java optional arch=any
+
+Package: service-wrapper-java
+Binary: service-wrapper, libservice-wrapper-java, libservice-wrapper-jni, libservice-wrapper-doc
+Version: 3.5.25-1ubuntu1
+Section: java
+Maintainer: Kill Your TV <killyourtv@i2pmail.org>
+Build-Depends: debhelper (>= 9), javahelper, default-jdk, ant, ant-optional, junit, junit4, libcunit1-ncurses-dev, libncurses5-dev
+Architecture: any all
+Standards-Version: 3.9.5
+Format: 3.0 (quilt)
+Directory: pool/main/s/service-wrapper-java
+Files:
+ 71e71409b4b26a4abdbab966d9921ec5 549954 service-wrapper-java_3.5.25.orig.tar.gz
+ 7143ce677915d4bf4d9bd4ed66d9447c 10636 service-wrapper-java_3.5.25-1ubuntu1.debian.tar.xz
+ 51b2d4340c480b7e280de4351d1e1103 2142 service-wrapper-java_3.5.25-1ubuntu1.dsc
+Checksums-Sha1:
+ d27dce9cd6238de128465feb6fae075126dd4504 549954 service-wrapper-java_3.5.25.orig.tar.gz
+ 675291d94db6d74434126ac36a68920b43949544 10636 service-wrapper-java_3.5.25-1ubuntu1.debian.tar.xz
+ b82fa504ff2bc66d5533e94ae0e2956234c2a803 2142 service-wrapper-java_3.5.25-1ubuntu1.dsc
+Checksums-Sha256:
+ 7d191eab33f86897ccacf653ccb52b827a336a8a620c0715db1e26f23a76e6e1 549954 service-wrapper-java_3.5.25.orig.tar.gz
+ 35a3d34f232d8f1898941f0ab1c1cc4961038cd3a630fa862c141a24f3a6c370 10636 service-wrapper-java_3.5.25-1ubuntu1.debian.tar.xz
+ 34234cabe2888e64a84073688e6f0cb1979f4e7b47d1a0cba285961ff4b22aa7 2142 service-wrapper-java_3.5.25-1ubuntu1.dsc
+Homepage: http://wrapper.tanukisoftware.com
+Package-List: libservice-wrapper-doc deb doc optional arch=all
+ libservice-wrapper-java deb java optional arch=all
+ libservice-wrapper-jni deb java optional arch=any
+ service-wrapper deb java optional arch=any
+
+Package: syndie
+Binary: syndie
+Version: 1.107b-2ubuntu1
+Section: java
+Maintainer: Kill Your TV <killyourtv@i2pmail.org>
+Build-Depends: debhelper (>= 7.0.50~)
+Build-Depends-Indep: ant, openjdk-7-jdk, libswt-gtk-3-java, libhsqldb-java, i2p-router | i2p
+Architecture: all
+Standards-Version: 3.9.3
+Format: 3.0 (quilt)
+Directory: pool/main/s/syndie
+Files:
+ 2e9a04f2c58288b652ceda8b2681bdd4 4531260 syndie_1.107b.orig.tar.bz2
+ 987f8a0685ff7b34ab4197c6ff8cbafe 4236 syndie_1.107b-2ubuntu1.debian.tar.xz
+ 77c1b19f9446e8ca304f6730c39b0c40 1800 syndie_1.107b-2ubuntu1.dsc
+Checksums-Sha1:
+ fe88ad7ed8b4849e778949441135d8d78d7495a7 4531260 syndie_1.107b.orig.tar.bz2
+ 660c50193bd4b597b39382a4a2c7c7ca1e98c928 4236 syndie_1.107b-2ubuntu1.debian.tar.xz
+ 98c71dda6d47c3b4f7040cb681d614406f1d54db 1800 syndie_1.107b-2ubuntu1.dsc
+Checksums-Sha256:
+ 88da9ece9e8b2965429a2fe4ca870e883376426194502070f23731cf586f8062 4531260 syndie_1.107b.orig.tar.bz2
+ c10b58c71049bcfb5fb795f594ae45042bbcef7558779c3cded50d723f90ee39 4236 syndie_1.107b-2ubuntu1.debian.tar.xz
+ 8e490ac2a304f7bbbcd9768424854723ac655a2341bc22f9492f78d081d65ad0 1800 syndie_1.107b-2ubuntu1.dsc
+Homepage: http://syndie.i2p2.de
+Package-List: syndie deb java extra arch=all
+
