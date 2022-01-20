@@ -1,0 +1,93 @@
+Package: i2p
+Priority: optional
+Section: net
+Installed-Size: 375
+Maintainer: zzz <zzz@i2pmail.org>
+Architecture: all
+Version: 0.9.45-1~disco+1
+Depends: debconf (>= 0.5) | debconf-2.0, i2p-router (= 0.9.45-1~disco+1), adduser, apparmor, debconf, libjbigi-jni, lsb-base, service-wrapper, ucf (>= 0.28)
+Filename: pool/main/i/i2p/i2p_0.9.45-1~disco+1_all.deb
+Size: 67672
+MD5sum: 70e840ce3a56145b180d83770d3a40f2
+SHA1: 85b0f76cf7408c5424ff831480e0798afa46bd14
+SHA256: cf207312799ba243660ed8ab199865ff74b2690609558c502c897d22e7f013fd
+Description: Invisible Internet Project (I2P) - anonymous network
+Description-md5: af30cb5729ed02b68be39b03bbe331bf
+Bugs: mailto:zzz@i2pmail.org
+
+Package: i2p-doc
+Source: i2p
+Priority: extra
+Section: doc
+Installed-Size: 80373
+Maintainer: zzz <zzz@i2pmail.org>
+Architecture: all
+Version: 0.9.45-1~disco+1
+Suggests: i2p, default-jdk-doc
+Filename: pool/main/i/i2p/i2p-doc_0.9.45-1~disco+1_all.deb
+Size: 3608616
+MD5sum: 59947f6e0b7c77bec799b44d08b02a80
+SHA1: 849b97ba6de5f2c8c1975582da5e5a9c30174827
+SHA256: 85e08728a3f7ce3fe4d8f579c2921d46475294f76c9ecc8dbc52237d52842237
+Description: Invisible Internet Project (I2P) - developer documentation
+Description-md5: a38a3343330ab23e4039d143d8b57c15
+Bugs: mailto:zzz@i2pmail.org
+
+Package: i2p-router
+Source: i2p
+Priority: optional
+Section: net
+Installed-Size: 12978
+Maintainer: zzz <zzz@i2pmail.org>
+Architecture: all
+Version: 0.9.45-1~disco+1
+Recommends: libjbigi-jni, fonts-dejavu
+Replaces: i2p (<< 0.8.6-5)
+Suggests: apparmor, privoxy, syndie
+Depends: openjdk-14-jre-headless | openjdk-13-jre-headless | openjdk-12-jre-headless | openjdk-11-jre-headless | default-jre-headless | java14-runtime-headless | java13-runtime-headless | java12-runtime-headless | java11-runtime-headless, geoip-database, gettext-base, libgetopt-java, libjson-simple-java (<< 3), libjetty9-java (>= 9.4), libtaglibs-standard-jstlel-java, libtomcat9-java, famfamfam-flag-png, sensible-utils
+Breaks: i2p (<< 0.8.6-5)
+Filename: pool/main/i/i2p/i2p-router_0.9.45-1~disco+1_all.deb
+Size: 10086152
+MD5sum: 372f6cc74fef0b75c9b24b7a42ec94a7
+SHA1: 6354f99a0e733ec920230b187e33447006d9bbc8
+SHA256: 3f037d480bba11adcd06621850bf9f1cdb3656152881b85527093c94d7706901
+Description: Invisible Internet Project (I2P) - Router
+Description-md5: 356b1a9240ca1d1db0615e292b8169e7
+Bugs: mailto:zzz@i2pmail.org
+
+Package: libjbigi-jni
+Source: i2p
+Priority: optional
+Section: java
+Installed-Size: 19
+Maintainer: zzz <zzz@i2pmail.org>
+Architecture: armhf
+Version: 0.9.45-1~disco+1
+Depends: i2p-router (= 0.9.45-1~disco+1), libc6 (>= 2.4), libgmp10 (>= 2:5.0.5)
+Filename: pool/main/i/i2p/libjbigi-jni_0.9.45-1~disco+1_armhf.deb
+Size: 3888
+MD5sum: fa275b3f65dce7c5185d29ec5437541f
+SHA1: 8b4bb59ebeaa37e9591e0958c29fe24f00a960fc
+SHA256: 947cb572213b6b844d978896d95b0916180a87fee45ae14b8ce6509aa2497c67
+Description: Invisible Internet Project (I2P) - libjbigi library
+Description-md5: 9abc006aa799702ff868098881332bad
+Bugs: mailto:zzz@i2pmail.org
+
+Package: syndie
+Priority: extra
+Section: java
+Installed-Size: 4596
+Maintainer: Kill Your TV <killyourtv@i2pmail.org>
+Architecture: all
+Version: 1.107b-2ubuntu1
+Suggests: tor, freenet
+Depends: openjdk-9-jre | openjdk-8-jre | openjdk-7-jre | default-jre | java9-runtime | java8-runtime | java7-runtime, libswt-gtk-3-java, libhsqldb-java, i2p-router | i2p
+Enhances: i2p, i2p-router, tor
+Filename: pool/main/s/syndie/syndie_1.107b-2ubuntu1_all.deb
+Size: 4220986
+MD5sum: 69056e17c771fb3c46543f8e06f26c0b
+SHA1: 70296e8d4a5fc20a2315b73947b3c2314192b176
+SHA256: ae476672797154ef6dc25137ddb81a7e45e283aa79870a41daba0e8de95b4f1e
+Description: Syndie anonymous distributed forums
+Description-md5: 6ac3d9136577e5e981c1dbb49a9f93b2
+
