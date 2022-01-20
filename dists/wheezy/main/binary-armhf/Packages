@@ -1,0 +1,95 @@
+Package: i2p
+Priority: optional
+Section: net
+Installed-Size: 627
+Maintainer: zzz <zzz@i2pmail.org>
+Architecture: all
+Version: 0.9.46p-1~precise+1
+Depends: adduser, debconf, i2p-router (>= 0.8.6-5), libjbigi-jni, lsb-base (>= 3.0-6), service-wrapper
+Filename: pool/main/i/i2p/i2p_0.9.46p-1~precise+1_all.deb
+Size: 69462
+SHA256: 942699a7791a1a37fb100a1292a4934e2e7ad62690f382bde341e146646e6e39
+SHA1: 5523876ac3fad493623a84c932fe37b6a1cd4dc5
+MD5sum: 5b9ce1f22abe6f808c8e51416f167ff4
+Description: Invisible Internet Project (I2P) - anonymous network
+Description-md5: af30cb5729ed02b68be39b03bbe331bf
+Bugs: mailto:zzz@i2pmail.org
+
+Package: i2p-doc
+Source: i2p
+Priority: extra
+Section: doc
+Installed-Size: 72409
+Maintainer: zzz <zzz@i2pmail.org>
+Architecture: all
+Version: 0.9.46p-1~precise+1
+Suggests: i2p, default-jdk-doc
+Filename: pool/main/i/i2p/i2p-doc_0.9.46p-1~precise+1_all.deb
+Size: 3057496
+SHA256: fcf29e046b180372ed1be5c91c9bdb1bfd5f58183ec7dde65d986a8e3564d3a2
+SHA1: ac22a553eb42ad9248c56bef1df937193affb8b2
+MD5sum: 4fc11a1b1448a301f6833c85b571d896
+Description: Invisible Internet Project (I2P) - developer documentation
+Description-md5: a38a3343330ab23e4039d143d8b57c15
+Bugs: mailto:zzz@i2pmail.org
+
+Package: i2p-keyring
+Version: 2021.09.10
+Architecture: all
+Maintainer: zzz on i2p <zzz@i2pmail.org>
+Installed-Size: 28
+Depends: gnupg, coreutils (>= 7.4)
+Recommends: killyourtv-keyring
+Priority: extra
+Section: misc
+Filename: pool/main/i/i2p-keyring/i2p-keyring_2021.09.10_all.deb
+Size: 15004
+SHA256: 2ad24b3f7d54fadbfb69bc5fe6f7381267a900ac7e2a3079ba2fa812915cca41
+SHA1: 494bf1b78d1b1efbc1934ff76dfbffe421de44bf
+MD5sum: 7c42bf8099cbaa9bb4134ef976d48862
+Description: GnuPG keys of the I2P package repository
+ This package provides digital keys used for signing I2P's repositories.
+ Upon installation of this package, your APT trusted keyring will updated with
+ these keys. Upon removal of this package, the keys provided by this package
+ will be removed from the APT trusted keyring.
+
+Package: i2p-router
+Source: i2p
+Priority: optional
+Section: net
+Installed-Size: 17600
+Maintainer: zzz <zzz@i2pmail.org>
+Architecture: all
+Version: 0.9.46p-1~precise+1
+Recommends: libjbigi-jni
+Replaces: i2p (<< 0.8.6-5)
+Suggests: apparmor, privoxy, syndie
+Depends: openjdk-8-jre-headless | openjdk-7-jre-headless | java8-runtime-headless | java7-runtime-headless, geoip-database, gettext-base, libgetopt-java, glassfish-javaee
+Breaks: i2p (<< 0.8.6-5)
+Filename: pool/main/i/i2p/i2p-router_0.9.46p-1~precise+1_all.deb
+Size: 14449474
+SHA256: b166b77e40fc9edc2408e766b4897c1dfbf941e93753262a2f3e4cdd932600e9
+SHA1: 04866742cea552e804f1220acbf0a77fafe99f7a
+MD5sum: 7996aa6602ce74432f6401fc42d4606f
+Description: Invisible Internet Project (I2P) - Router
+Description-md5: b09b6523ae336da4c30a1d1deee14532
+Bugs: mailto:zzz@i2pmail.org
+
+Package: libjbigi-jni
+Source: i2p
+Priority: optional
+Section: java
+Installed-Size: 38
+Maintainer: zzz <zzz@i2pmail.org>
+Architecture: armhf
+Version: 0.9.46p-1~precise+1
+Depends: libc6 (>= 2.15-0ubuntu8), libgmp10, i2p-router
+Filename: pool/main/i/i2p/libjbigi-jni_0.9.46p-1~precise+1_armhf.deb
+Size: 3630
+SHA256: 7be5b2893ee0dc19c58c030c0114762eb42b704b563816976bdcdb92c2b3880c
+SHA1: b0a47b9f9bb180cb80832f026425814ba6637789
+MD5sum: b6e3112434f84a8a14be174b09d2fe94
+Description: Invisible Internet Project (I2P) - libjbigi library
+Description-md5: 9abc006aa799702ff868098881332bad
+Bugs: mailto:zzz@i2pmail.org
+
