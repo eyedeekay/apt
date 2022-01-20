@@ -1,0 +1,303 @@
+2017-04-15 16:02:53 add stretch deb main i386 i2p-keyring 2016.10.01
+2017-04-15 16:02:53 add stretch deb main amd64 i2p-keyring 2016.10.01
+2017-04-15 16:02:53 add stretch deb main armel i2p-keyring 2016.10.01
+2017-04-15 16:02:53 add stretch deb main armhf i2p-keyring 2016.10.01
+2017-04-15 16:02:53 add stretch dsc main source i2p-keyring 2016.10.01
+2017-04-15 16:03:58 add stretch deb main i386 killyourtv-keyring 2015.03.27.1
+2017-04-15 16:03:58 add stretch deb main amd64 killyourtv-keyring 2015.03.27.1
+2017-04-15 16:03:58 add stretch deb main armel killyourtv-keyring 2015.03.27.1
+2017-04-15 16:03:58 add stretch deb main armhf killyourtv-keyring 2015.03.27.1
+2017-04-15 16:03:58 add stretch dsc main source killyourtv-keyring 2015.03.27.1
+2017-04-15 16:26:57 add stretch deb main i386 syndie 1.107b-2ubuntu1
+2017-04-15 16:26:57 add stretch deb main amd64 syndie 1.107b-2ubuntu1
+2017-04-15 16:26:57 add stretch deb main armel syndie 1.107b-2ubuntu1
+2017-04-15 16:26:57 add stretch deb main armhf syndie 1.107b-2ubuntu1
+2017-04-15 16:26:57 add stretch dsc main source syndie 1.107b-2ubuntu1
+2017-05-04 14:48:42 add stretch deb main i386 libjbigi-jni 0.9.30-3ubuntu1
+2017-05-04 14:48:42 add stretch deb main i386 i2p-router 0.9.30-3ubuntu1
+2017-05-04 14:48:42 add stretch deb main i386 i2p-doc 0.9.30-3ubuntu1
+2017-05-04 14:48:42 add stretch deb main i386 i2p 0.9.30-3ubuntu1
+2017-05-04 14:48:42 add stretch deb main amd64 libjbigi-jni 0.9.30-3ubuntu1
+2017-05-04 14:48:42 add stretch deb main amd64 i2p-router 0.9.30-3ubuntu1
+2017-05-04 14:48:42 add stretch deb main amd64 i2p-doc 0.9.30-3ubuntu1
+2017-05-04 14:48:42 add stretch deb main amd64 i2p 0.9.30-3ubuntu1
+2017-05-04 14:48:42 add stretch dsc main source i2p 0.9.30-3ubuntu1
+2017-05-04 15:12:30 add stretch deb main armel i2p 0.9.30-3ubuntu1
+2017-05-04 15:12:30 add stretch deb main armhf i2p 0.9.30-3ubuntu1
+2017-05-04 15:12:49 add stretch deb main armel i2p-doc 0.9.30-3ubuntu1
+2017-05-04 15:12:49 add stretch deb main armhf i2p-doc 0.9.30-3ubuntu1
+2017-05-04 15:13:04 add stretch deb main armel i2p-router 0.9.30-3ubuntu1
+2017-05-04 15:13:04 add stretch deb main armhf i2p-router 0.9.30-3ubuntu1
+2017-05-04 15:15:35 add stretch deb main armel libjbigi-jni 0.9.19-1~deb7u+1
+2017-05-04 15:15:35 add stretch deb main armhf libjbigi-jni 0.9.20-2~deb7u+1
+2017-08-09 21:21:08 replace stretch deb main i386 libjbigi-jni 0.9.31-1ubuntu1 0.9.30-3ubuntu1
+2017-08-09 21:21:08 replace stretch deb main i386 i2p-router 0.9.31-1ubuntu1 0.9.30-3ubuntu1
+2017-08-09 21:21:08 replace stretch deb main i386 i2p-doc 0.9.31-1ubuntu1 0.9.30-3ubuntu1
+2017-08-09 21:21:08 replace stretch deb main i386 i2p 0.9.31-1ubuntu1 0.9.30-3ubuntu1
+2017-08-09 21:21:08 replace stretch deb main amd64 libjbigi-jni 0.9.31-1ubuntu1 0.9.30-3ubuntu1
+2017-08-09 21:21:08 replace stretch deb main amd64 i2p-router 0.9.31-1ubuntu1 0.9.30-3ubuntu1
+2017-08-09 21:21:08 replace stretch deb main amd64 i2p-doc 0.9.31-1ubuntu1 0.9.30-3ubuntu1
+2017-08-09 21:21:08 replace stretch deb main amd64 i2p 0.9.31-1ubuntu1 0.9.30-3ubuntu1
+2017-08-09 21:21:08 replace stretch dsc main source i2p 0.9.31-1ubuntu1 0.9.30-3ubuntu1
+2017-08-09 21:30:49 replace stretch deb main armel i2p-router 0.9.31-1ubuntu1 0.9.30-3ubuntu1
+2017-08-09 21:30:49 replace stretch deb main armhf i2p-router 0.9.31-1ubuntu1 0.9.30-3ubuntu1
+2017-08-09 21:31:01 replace stretch deb main armel i2p-doc 0.9.31-1ubuntu1 0.9.30-3ubuntu1
+2017-08-09 21:31:01 replace stretch deb main armhf i2p-doc 0.9.31-1ubuntu1 0.9.30-3ubuntu1
+2017-08-09 21:31:18 replace stretch deb main armel i2p 0.9.31-1ubuntu1 0.9.30-3ubuntu1
+2017-08-09 21:31:18 replace stretch deb main armhf i2p 0.9.31-1ubuntu1 0.9.30-3ubuntu1
+2017-09-18 22:02:44 replace stretch deb main i386 i2p-keyring 2017.09.18 2016.10.01
+2017-09-18 22:02:44 replace stretch deb main amd64 i2p-keyring 2017.09.18 2016.10.01
+2017-09-18 22:02:44 replace stretch deb main armel i2p-keyring 2017.09.18 2016.10.01
+2017-09-18 22:02:44 replace stretch deb main armhf i2p-keyring 2017.09.18 2016.10.01
+2017-09-18 22:05:38 replace stretch dsc main source i2p-keyring 2017.09.18 2016.10.01
+2017-09-20 16:30:06 replace stretch deb main i386 i2p-keyring 2017.09.20 2017.09.18
+2017-09-20 16:30:06 replace stretch deb main amd64 i2p-keyring 2017.09.20 2017.09.18
+2017-09-20 16:30:06 replace stretch deb main armel i2p-keyring 2017.09.20 2017.09.18
+2017-09-20 16:30:06 replace stretch deb main armhf i2p-keyring 2017.09.20 2017.09.18
+2017-09-20 16:30:55 replace stretch dsc main source i2p-keyring 2017.09.20 2017.09.18
+2017-09-21 22:36:34 replace stretch deb main i386 i2p-keyring 2017.09.21 2017.09.20
+2017-09-21 22:36:34 replace stretch deb main amd64 i2p-keyring 2017.09.21 2017.09.20
+2017-09-21 22:36:34 replace stretch deb main armel i2p-keyring 2017.09.21 2017.09.20
+2017-09-21 22:36:34 replace stretch deb main armhf i2p-keyring 2017.09.21 2017.09.20
+2017-09-21 22:37:15 replace stretch dsc main source i2p-keyring 2017.09.21 2017.09.20
+2017-11-08 23:33:53 replace stretch deb main i386 libjbigi-jni 0.9.32-1ubuntu1 0.9.31-1ubuntu1
+2017-11-08 23:33:53 replace stretch deb main i386 i2p-router 0.9.32-1ubuntu1 0.9.31-1ubuntu1
+2017-11-08 23:33:53 replace stretch deb main i386 i2p-doc 0.9.32-1ubuntu1 0.9.31-1ubuntu1
+2017-11-08 23:33:53 replace stretch deb main i386 i2p 0.9.32-1ubuntu1 0.9.31-1ubuntu1
+2017-11-08 23:33:53 replace stretch deb main amd64 libjbigi-jni 0.9.32-1ubuntu1 0.9.31-1ubuntu1
+2017-11-08 23:33:53 replace stretch deb main amd64 i2p-router 0.9.32-1ubuntu1 0.9.31-1ubuntu1
+2017-11-08 23:33:53 replace stretch deb main amd64 i2p-doc 0.9.32-1ubuntu1 0.9.31-1ubuntu1
+2017-11-08 23:33:53 replace stretch deb main amd64 i2p 0.9.32-1ubuntu1 0.9.31-1ubuntu1
+2017-11-08 23:33:53 replace stretch dsc main source i2p 0.9.32-1ubuntu1 0.9.31-1ubuntu1
+2017-11-08 23:39:10 replace stretch deb main armel i2p 0.9.32-1ubuntu1 0.9.31-1ubuntu1
+2017-11-08 23:39:10 replace stretch deb main armhf i2p 0.9.32-1ubuntu1 0.9.31-1ubuntu1
+2017-11-08 23:39:44 replace stretch deb main armel i2p-doc 0.9.32-1ubuntu1 0.9.31-1ubuntu1
+2017-11-08 23:39:44 replace stretch deb main armhf i2p-doc 0.9.32-1ubuntu1 0.9.31-1ubuntu1
+2017-11-08 23:40:13 replace stretch deb main armel i2p-router 0.9.32-1ubuntu1 0.9.31-1ubuntu1
+2017-11-08 23:40:13 replace stretch deb main armhf i2p-router 0.9.32-1ubuntu1 0.9.31-1ubuntu1
+2018-01-31 14:50:41 replace stretch deb main i386 libjbigi-jni 0.9.33-1ubuntu1 0.9.32-1ubuntu1
+2018-01-31 14:50:41 replace stretch deb main i386 i2p-router 0.9.33-1ubuntu1 0.9.32-1ubuntu1
+2018-01-31 14:50:41 replace stretch deb main i386 i2p-doc 0.9.33-1ubuntu1 0.9.32-1ubuntu1
+2018-01-31 14:50:41 replace stretch deb main i386 i2p 0.9.33-1ubuntu1 0.9.32-1ubuntu1
+2018-01-31 14:50:41 replace stretch deb main amd64 libjbigi-jni 0.9.33-1ubuntu1 0.9.32-1ubuntu1
+2018-01-31 14:50:41 replace stretch deb main amd64 i2p-router 0.9.33-1ubuntu1 0.9.32-1ubuntu1
+2018-01-31 14:50:41 replace stretch deb main amd64 i2p-doc 0.9.33-1ubuntu1 0.9.32-1ubuntu1
+2018-01-31 14:50:41 replace stretch deb main amd64 i2p 0.9.33-1ubuntu1 0.9.32-1ubuntu1
+2018-01-31 14:50:41 replace stretch dsc main source i2p 0.9.33-1ubuntu1 0.9.32-1ubuntu1
+2018-01-31 15:00:06 replace stretch deb main armel i2p 0.9.33-1ubuntu1 0.9.32-1ubuntu1
+2018-01-31 15:00:07 replace stretch deb main armhf i2p 0.9.33-1ubuntu1 0.9.32-1ubuntu1
+2018-01-31 15:00:08 replace stretch deb main armel i2p-doc 0.9.33-1ubuntu1 0.9.32-1ubuntu1
+2018-01-31 15:00:08 replace stretch deb main armhf i2p-doc 0.9.33-1ubuntu1 0.9.32-1ubuntu1
+2018-01-31 15:10:13 replace stretch deb main armel i2p-router 0.9.33-1ubuntu1 0.9.32-1ubuntu1
+2018-01-31 15:10:13 replace stretch deb main armhf i2p-router 0.9.33-1ubuntu1 0.9.32-1ubuntu1
+2018-04-11 18:30:32 replace stretch deb main i386 libjbigi-jni 0.9.34-2ubuntu1 0.9.33-1ubuntu1
+2018-04-11 18:30:32 replace stretch deb main i386 i2p-router 0.9.34-2ubuntu1 0.9.33-1ubuntu1
+2018-04-11 18:30:32 replace stretch deb main i386 i2p-doc 0.9.34-2ubuntu1 0.9.33-1ubuntu1
+2018-04-11 18:30:32 replace stretch deb main i386 i2p 0.9.34-2ubuntu1 0.9.33-1ubuntu1
+2018-04-11 18:30:32 replace stretch deb main amd64 libjbigi-jni 0.9.34-2ubuntu1 0.9.33-1ubuntu1
+2018-04-11 18:30:32 replace stretch deb main amd64 i2p-router 0.9.34-2ubuntu1 0.9.33-1ubuntu1
+2018-04-11 18:30:32 replace stretch deb main amd64 i2p-doc 0.9.34-2ubuntu1 0.9.33-1ubuntu1
+2018-04-11 18:30:32 replace stretch deb main amd64 i2p 0.9.34-2ubuntu1 0.9.33-1ubuntu1
+2018-04-11 18:30:32 replace stretch dsc main source i2p 0.9.34-2ubuntu1 0.9.33-1ubuntu1
+2018-04-11 18:34:31 replace stretch deb main armel i2p 0.9.34-2ubuntu1 0.9.33-1ubuntu1
+2018-04-11 18:34:31 replace stretch deb main armhf i2p 0.9.34-2ubuntu1 0.9.33-1ubuntu1
+2018-04-11 18:34:34 replace stretch deb main armel i2p-doc 0.9.34-2ubuntu1 0.9.33-1ubuntu1
+2018-04-11 18:34:34 replace stretch deb main armhf i2p-doc 0.9.34-2ubuntu1 0.9.33-1ubuntu1
+2018-04-11 18:34:35 replace stretch deb main armel i2p-router 0.9.34-2ubuntu1 0.9.33-1ubuntu1
+2018-04-11 18:34:35 replace stretch deb main armhf i2p-router 0.9.34-2ubuntu1 0.9.33-1ubuntu1
+2018-06-27 19:12:47 replace stretch deb main i386 libjbigi-jni 0.9.35-1ubuntu1 0.9.34-2ubuntu1
+2018-06-27 19:12:47 replace stretch deb main i386 i2p-router 0.9.35-1ubuntu1 0.9.34-2ubuntu1
+2018-06-27 19:12:47 replace stretch deb main i386 i2p-doc 0.9.35-1ubuntu1 0.9.34-2ubuntu1
+2018-06-27 19:12:47 replace stretch deb main i386 i2p 0.9.35-1ubuntu1 0.9.34-2ubuntu1
+2018-06-27 19:12:47 replace stretch deb main amd64 libjbigi-jni 0.9.35-1ubuntu1 0.9.34-2ubuntu1
+2018-06-27 19:12:47 replace stretch deb main amd64 i2p-router 0.9.35-1ubuntu1 0.9.34-2ubuntu1
+2018-06-27 19:12:47 replace stretch deb main amd64 i2p-doc 0.9.35-1ubuntu1 0.9.34-2ubuntu1
+2018-06-27 19:12:47 replace stretch deb main amd64 i2p 0.9.35-1ubuntu1 0.9.34-2ubuntu1
+2018-06-27 19:12:47 replace stretch dsc main source i2p 0.9.35-1ubuntu1 0.9.34-2ubuntu1
+2018-06-27 19:14:48 replace stretch deb main armel i2p 0.9.35-1ubuntu1 0.9.34-2ubuntu1
+2018-06-27 19:14:48 replace stretch deb main armhf i2p 0.9.35-1ubuntu1 0.9.34-2ubuntu1
+2018-06-27 19:14:50 replace stretch deb main armel i2p-doc 0.9.35-1ubuntu1 0.9.34-2ubuntu1
+2018-06-27 19:14:50 replace stretch deb main armhf i2p-doc 0.9.35-1ubuntu1 0.9.34-2ubuntu1
+2018-06-27 19:14:52 replace stretch deb main armel i2p-router 0.9.35-1ubuntu1 0.9.34-2ubuntu1
+2018-06-27 19:14:52 replace stretch deb main armhf i2p-router 0.9.35-1ubuntu1 0.9.34-2ubuntu1
+2018-08-24 15:13:32 replace stretch deb main i386 libjbigi-jni 0.9.36-2ubuntu1 0.9.35-1ubuntu1
+2018-08-24 15:13:32 replace stretch deb main i386 i2p-router 0.9.36-2ubuntu1 0.9.35-1ubuntu1
+2018-08-24 15:13:32 replace stretch deb main i386 i2p-doc 0.9.36-2ubuntu1 0.9.35-1ubuntu1
+2018-08-24 15:13:32 replace stretch deb main i386 i2p 0.9.36-2ubuntu1 0.9.35-1ubuntu1
+2018-08-24 15:13:32 replace stretch deb main amd64 libjbigi-jni 0.9.36-2ubuntu1 0.9.35-1ubuntu1
+2018-08-24 15:13:32 replace stretch deb main amd64 i2p-router 0.9.36-2ubuntu1 0.9.35-1ubuntu1
+2018-08-24 15:13:32 replace stretch deb main amd64 i2p-doc 0.9.36-2ubuntu1 0.9.35-1ubuntu1
+2018-08-24 15:13:32 replace stretch deb main amd64 i2p 0.9.36-2ubuntu1 0.9.35-1ubuntu1
+2018-08-24 15:13:32 replace stretch dsc main source i2p 0.9.36-2ubuntu1 0.9.35-1ubuntu1
+2018-08-24 15:18:38 replace stretch deb main armel i2p 0.9.36-2ubuntu1 0.9.35-1ubuntu1
+2018-08-24 15:18:38 replace stretch deb main armhf i2p 0.9.36-2ubuntu1 0.9.35-1ubuntu1
+2018-08-24 15:18:39 replace stretch deb main armel i2p-doc 0.9.36-2ubuntu1 0.9.35-1ubuntu1
+2018-08-24 15:18:39 replace stretch deb main armhf i2p-doc 0.9.36-2ubuntu1 0.9.35-1ubuntu1
+2018-08-24 15:18:41 replace stretch deb main armel i2p-router 0.9.36-2ubuntu1 0.9.35-1ubuntu1
+2018-08-24 15:18:41 replace stretch deb main armhf i2p-router 0.9.36-2ubuntu1 0.9.35-1ubuntu1
+2018-09-16 23:28:41 replace stretch deb main i386 i2p-keyring 2018.09.16 2017.09.21
+2018-09-16 23:28:41 replace stretch deb main amd64 i2p-keyring 2018.09.16 2017.09.21
+2018-09-16 23:28:41 replace stretch deb main armel i2p-keyring 2018.09.16 2017.09.21
+2018-09-16 23:28:41 replace stretch deb main armhf i2p-keyring 2018.09.16 2017.09.21
+2018-09-16 23:30:25 replace stretch dsc main source i2p-keyring 2018.09.16 2017.09.21
+2018-10-05 20:57:38 replace stretch deb main i386 libjbigi-jni 0.9.37-1ubuntu1 0.9.36-2ubuntu1
+2018-10-05 20:57:38 replace stretch deb main i386 i2p-router 0.9.37-1ubuntu1 0.9.36-2ubuntu1
+2018-10-05 20:57:38 replace stretch deb main i386 i2p-doc 0.9.37-1ubuntu1 0.9.36-2ubuntu1
+2018-10-05 20:57:38 replace stretch deb main i386 i2p 0.9.37-1ubuntu1 0.9.36-2ubuntu1
+2018-10-05 20:57:38 replace stretch deb main amd64 libjbigi-jni 0.9.37-1ubuntu1 0.9.36-2ubuntu1
+2018-10-05 20:57:38 replace stretch deb main amd64 i2p-router 0.9.37-1ubuntu1 0.9.36-2ubuntu1
+2018-10-05 20:57:38 replace stretch deb main amd64 i2p-doc 0.9.37-1ubuntu1 0.9.36-2ubuntu1
+2018-10-05 20:57:38 replace stretch deb main amd64 i2p 0.9.37-1ubuntu1 0.9.36-2ubuntu1
+2018-10-05 20:57:38 replace stretch dsc main source i2p 0.9.37-1ubuntu1 0.9.36-2ubuntu1
+2018-10-05 20:59:14 replace stretch deb main armel i2p 0.9.37-1ubuntu1 0.9.36-2ubuntu1
+2018-10-05 20:59:14 replace stretch deb main armhf i2p 0.9.37-1ubuntu1 0.9.36-2ubuntu1
+2018-10-05 20:59:16 replace stretch deb main armel i2p-doc 0.9.37-1ubuntu1 0.9.36-2ubuntu1
+2018-10-05 20:59:16 replace stretch deb main armhf i2p-doc 0.9.37-1ubuntu1 0.9.36-2ubuntu1
+2018-10-05 20:59:18 replace stretch deb main armel i2p-router 0.9.37-1ubuntu1 0.9.36-2ubuntu1
+2018-10-05 20:59:18 replace stretch deb main armhf i2p-router 0.9.37-1ubuntu1 0.9.36-2ubuntu1
+2019-01-23 19:59:22 replace stretch deb main i386 libjbigi-jni 0.9.38-1ubuntu1 0.9.37-1ubuntu1
+2019-01-23 19:59:22 replace stretch deb main i386 i2p-router 0.9.38-1ubuntu1 0.9.37-1ubuntu1
+2019-01-23 19:59:22 replace stretch deb main i386 i2p-doc 0.9.38-1ubuntu1 0.9.37-1ubuntu1
+2019-01-23 19:59:22 replace stretch deb main i386 i2p 0.9.38-1ubuntu1 0.9.37-1ubuntu1
+2019-01-23 19:59:22 replace stretch deb main amd64 libjbigi-jni 0.9.38-1ubuntu1 0.9.37-1ubuntu1
+2019-01-23 19:59:22 replace stretch deb main amd64 i2p-router 0.9.38-1ubuntu1 0.9.37-1ubuntu1
+2019-01-23 19:59:22 replace stretch deb main amd64 i2p-doc 0.9.38-1ubuntu1 0.9.37-1ubuntu1
+2019-01-23 19:59:22 replace stretch deb main amd64 i2p 0.9.38-1ubuntu1 0.9.37-1ubuntu1
+2019-01-23 19:59:22 replace stretch dsc main source i2p 0.9.38-1ubuntu1 0.9.37-1ubuntu1
+2019-01-23 20:04:47 replace stretch deb main armel i2p 0.9.38-1ubuntu1 0.9.37-1ubuntu1
+2019-01-23 20:04:47 replace stretch deb main armhf i2p 0.9.38-1ubuntu1 0.9.37-1ubuntu1
+2019-01-23 20:04:48 replace stretch deb main armel i2p-doc 0.9.38-1ubuntu1 0.9.37-1ubuntu1
+2019-01-23 20:04:48 replace stretch deb main armhf i2p-doc 0.9.38-1ubuntu1 0.9.37-1ubuntu1
+2019-01-23 20:04:49 replace stretch deb main armel i2p-router 0.9.38-1ubuntu1 0.9.37-1ubuntu1
+2019-01-23 20:04:49 replace stretch deb main armhf i2p-router 0.9.38-1ubuntu1 0.9.37-1ubuntu1
+2019-03-22 18:01:47 replace stretch deb main armel i2p 0.9.39-1ubuntu1 0.9.38-1ubuntu1
+2019-03-22 18:01:47 replace stretch deb main armhf i2p 0.9.39-1ubuntu1 0.9.38-1ubuntu1
+2019-03-22 18:01:48 replace stretch deb main armel i2p-doc 0.9.39-1ubuntu1 0.9.38-1ubuntu1
+2019-03-22 18:01:48 replace stretch deb main armhf i2p-doc 0.9.39-1ubuntu1 0.9.38-1ubuntu1
+2019-03-22 18:01:49 replace stretch deb main armel i2p-router 0.9.39-1ubuntu1 0.9.38-1ubuntu1
+2019-03-22 18:01:49 replace stretch deb main armhf i2p-router 0.9.39-1ubuntu1 0.9.38-1ubuntu1
+2019-03-22 18:03:10 replace stretch deb main i386 libjbigi-jni 0.9.39-1ubuntu1 0.9.38-1ubuntu1
+2019-03-22 18:03:10 replace stretch deb main i386 i2p-router 0.9.39-1ubuntu1 0.9.38-1ubuntu1
+2019-03-22 18:03:10 replace stretch deb main i386 i2p-doc 0.9.39-1ubuntu1 0.9.38-1ubuntu1
+2019-03-22 18:03:10 replace stretch deb main i386 i2p 0.9.39-1ubuntu1 0.9.38-1ubuntu1
+2019-03-22 18:03:10 replace stretch deb main amd64 libjbigi-jni 0.9.39-1ubuntu1 0.9.38-1ubuntu1
+2019-03-22 18:03:10 replace stretch deb main amd64 i2p-router 0.9.39-1ubuntu1 0.9.38-1ubuntu1
+2019-03-22 18:03:10 replace stretch deb main amd64 i2p-doc 0.9.39-1ubuntu1 0.9.38-1ubuntu1
+2019-03-22 18:03:10 replace stretch deb main amd64 i2p 0.9.39-1ubuntu1 0.9.38-1ubuntu1
+2019-03-22 18:03:10 replace stretch dsc main source i2p 0.9.39-1ubuntu1 0.9.38-1ubuntu1
+2019-05-08 14:48:20 replace stretch deb main i386 libjbigi-jni 0.9.40x-1~xenial+1 0.9.39-1ubuntu1
+2019-05-08 14:48:20 replace stretch deb main i386 i2p-router 0.9.40x-1~xenial+1 0.9.39-1ubuntu1
+2019-05-08 14:48:20 replace stretch deb main i386 i2p-doc 0.9.40x-1~xenial+1 0.9.39-1ubuntu1
+2019-05-08 14:48:20 replace stretch deb main i386 i2p 0.9.40x-1~xenial+1 0.9.39-1ubuntu1
+2019-05-08 14:48:20 replace stretch deb main amd64 libjbigi-jni 0.9.40x-1~xenial+1 0.9.39-1ubuntu1
+2019-05-08 14:48:20 replace stretch deb main amd64 i2p-router 0.9.40x-1~xenial+1 0.9.39-1ubuntu1
+2019-05-08 14:48:20 replace stretch deb main amd64 i2p-doc 0.9.40x-1~xenial+1 0.9.39-1ubuntu1
+2019-05-08 14:48:20 replace stretch deb main amd64 i2p 0.9.40x-1~xenial+1 0.9.39-1ubuntu1
+2019-05-08 14:48:20 replace stretch dsc main source i2p 0.9.40x-1~xenial+1 0.9.39-1ubuntu1
+2019-05-08 14:50:58 replace stretch deb main armel i2p 0.9.40-1ubuntu1 0.9.39-1ubuntu1
+2019-05-08 14:50:58 replace stretch deb main armhf i2p 0.9.40-1ubuntu1 0.9.39-1ubuntu1
+2019-05-08 14:50:59 replace stretch deb main armel i2p-doc 0.9.40-1ubuntu1 0.9.39-1ubuntu1
+2019-05-08 14:50:59 replace stretch deb main armhf i2p-doc 0.9.40-1ubuntu1 0.9.39-1ubuntu1
+2019-05-08 14:51:00 replace stretch deb main armel i2p-router 0.9.40-1ubuntu1 0.9.39-1ubuntu1
+2019-05-08 14:51:00 replace stretch deb main armhf i2p-router 0.9.40-1ubuntu1 0.9.39-1ubuntu1
+2019-05-09 13:48:53 remove stretch deb main i386 i2p 0.9.40x-1~xenial+1
+2019-05-09 13:48:53 remove stretch deb main amd64 i2p 0.9.40x-1~xenial+1
+2019-05-09 13:48:53 remove stretch deb main armel i2p 0.9.40-1ubuntu1
+2019-05-09 13:48:53 remove stretch deb main armhf i2p 0.9.40-1ubuntu1
+2019-05-09 13:48:53 remove stretch dsc main source i2p 0.9.40x-1~xenial+1
+2019-05-09 13:49:23 remove stretch deb main i386 i2p-doc 0.9.40x-1~xenial+1
+2019-05-09 13:49:23 remove stretch deb main amd64 i2p-doc 0.9.40x-1~xenial+1
+2019-05-09 13:49:23 remove stretch deb main armel i2p-doc 0.9.40-1ubuntu1
+2019-05-09 13:49:23 remove stretch deb main armhf i2p-doc 0.9.40-1ubuntu1
+2019-05-09 13:49:38 remove stretch deb main i386 i2p-router 0.9.40x-1~xenial+1
+2019-05-09 13:49:38 remove stretch deb main amd64 i2p-router 0.9.40x-1~xenial+1
+2019-05-09 13:49:38 remove stretch deb main armel i2p-router 0.9.40-1ubuntu1
+2019-05-09 13:49:38 remove stretch deb main armhf i2p-router 0.9.40-1ubuntu1
+2019-05-09 13:49:48 remove stretch deb main i386 libjbigi-jni 0.9.40x-1~xenial+1
+2019-05-09 13:49:48 remove stretch deb main amd64 libjbigi-jni 0.9.40x-1~xenial+1
+2019-05-09 13:49:48 remove stretch deb main armel libjbigi-jni 0.9.19-1~deb7u+1
+2019-05-09 13:49:48 remove stretch deb main armhf libjbigi-jni 0.9.20-2~deb7u+1
+2019-05-09 13:51:58 add stretch deb main i386 libjbigi-jni 0.9.40p-1~trusty+1
+2019-05-09 13:51:58 add stretch deb main i386 i2p-router 0.9.40p-1~trusty+1
+2019-05-09 13:51:58 add stretch deb main i386 i2p-doc 0.9.40p-1~trusty+1
+2019-05-09 13:51:58 add stretch deb main i386 i2p 0.9.40p-1~trusty+1
+2019-05-09 13:51:58 add stretch deb main amd64 libjbigi-jni 0.9.40p-1~trusty+1
+2019-05-09 13:51:58 add stretch deb main amd64 i2p-router 0.9.40p-1~trusty+1
+2019-05-09 13:51:58 add stretch deb main amd64 i2p-doc 0.9.40p-1~trusty+1
+2019-05-09 13:51:58 add stretch deb main amd64 i2p 0.9.40p-1~trusty+1
+2019-05-09 13:51:58 add stretch dsc main source i2p 0.9.40p-1~trusty+1
+2019-05-19 18:29:21 add stretch deb main arm64 i2p 0.9.40p-1~trusty+1
+2019-05-19 18:29:21 add stretch deb main arm64 i2p-doc 0.9.40p-1~trusty+1
+2019-05-19 18:29:21 add stretch deb main arm64 i2p-keyring 2018.09.16
+2019-05-19 18:29:21 add stretch deb main arm64 i2p-router 0.9.40p-1~trusty+1
+2019-05-19 18:29:21 add stretch deb main arm64 killyourtv-keyring 2015.03.27.1
+2019-05-19 18:29:21 add stretch deb main arm64 syndie 1.107b-2ubuntu1
+2019-05-19 18:29:22 add stretch deb main armel i2p 0.9.40p-1~trusty+1
+2019-05-19 18:29:22 add stretch deb main armel i2p-doc 0.9.40p-1~trusty+1
+2019-05-19 18:29:22 add stretch deb main armel i2p-router 0.9.40p-1~trusty+1
+2019-05-19 18:29:23 add stretch deb main ppc64el i2p 0.9.40p-1~trusty+1
+2019-05-19 18:29:23 add stretch deb main ppc64el i2p-doc 0.9.40p-1~trusty+1
+2019-05-19 18:29:23 add stretch deb main ppc64el i2p-keyring 2018.09.16
+2019-05-19 18:29:23 add stretch deb main ppc64el i2p-router 0.9.40p-1~trusty+1
+2019-05-19 18:29:23 add stretch deb main ppc64el killyourtv-keyring 2015.03.27.1
+2019-05-19 18:29:23 add stretch deb main ppc64el syndie 1.107b-2ubuntu1
+2019-05-19 18:29:24 add stretch deb main s390x i2p 0.9.40p-1~trusty+1
+2019-05-19 18:29:24 add stretch deb main s390x i2p-doc 0.9.40p-1~trusty+1
+2019-05-19 18:29:24 add stretch deb main s390x i2p-keyring 2018.09.16
+2019-05-19 18:29:24 add stretch deb main s390x i2p-router 0.9.40p-1~trusty+1
+2019-05-19 18:29:24 add stretch deb main s390x killyourtv-keyring 2015.03.27.1
+2019-05-19 18:29:24 add stretch deb main s390x syndie 1.107b-2ubuntu1
+2019-07-03 22:56:27 replace stretch deb main i386 libjbigi-jni 0.9.41p-1~trusty+1 0.9.40p-1~trusty+1
+2019-07-03 22:56:27 replace stretch deb main i386 i2p-router 0.9.41p-1~trusty+1 0.9.40p-1~trusty+1
+2019-07-03 22:56:27 replace stretch deb main i386 i2p-doc 0.9.41p-1~trusty+1 0.9.40p-1~trusty+1
+2019-07-03 22:56:27 replace stretch deb main i386 i2p 0.9.41p-1~trusty+1 0.9.40p-1~trusty+1
+2019-07-03 22:56:27 replace stretch deb main amd64 libjbigi-jni 0.9.41p-1~trusty+1 0.9.40p-1~trusty+1
+2019-07-03 22:56:27 replace stretch deb main amd64 i2p-router 0.9.41p-1~trusty+1 0.9.40p-1~trusty+1
+2019-07-03 22:56:27 replace stretch deb main amd64 i2p-doc 0.9.41p-1~trusty+1 0.9.40p-1~trusty+1
+2019-07-03 22:56:27 replace stretch deb main amd64 i2p 0.9.41p-1~trusty+1 0.9.40p-1~trusty+1
+2019-07-03 22:56:27 replace stretch deb main arm64 i2p-router 0.9.41p-1~trusty+1 0.9.40p-1~trusty+1
+2019-07-03 22:56:27 replace stretch deb main arm64 i2p-doc 0.9.41p-1~trusty+1 0.9.40p-1~trusty+1
+2019-07-03 22:56:27 replace stretch deb main arm64 i2p 0.9.41p-1~trusty+1 0.9.40p-1~trusty+1
+2019-07-03 22:56:27 add stretch deb main armhf libjbigi-jni 0.9.41p-1~trusty+1
+2019-07-03 22:56:27 add stretch deb main armhf i2p-router 0.9.41p-1~trusty+1
+2019-07-03 22:56:27 add stretch deb main armhf i2p-doc 0.9.41p-1~trusty+1
+2019-07-03 22:56:27 add stretch deb main armhf i2p 0.9.41p-1~trusty+1
+2019-07-03 22:56:27 replace stretch deb main ppc64el i2p-router 0.9.41p-1~trusty+1 0.9.40p-1~trusty+1
+2019-07-03 22:56:27 replace stretch deb main ppc64el i2p-doc 0.9.41p-1~trusty+1 0.9.40p-1~trusty+1
+2019-07-03 22:56:27 replace stretch deb main ppc64el i2p 0.9.41p-1~trusty+1 0.9.40p-1~trusty+1
+2019-07-03 22:56:27 replace stretch dsc main source i2p 0.9.41p-1~trusty+1 0.9.40p-1~trusty+1
+2019-07-03 23:01:36 replace stretch deb main armel i2p 0.9.41-1ubuntu1 0.9.40p-1~trusty+1
+2019-07-03 23:01:36 replace stretch deb main s390x i2p 0.9.41-1ubuntu1 0.9.40p-1~trusty+1
+2019-07-03 23:01:38 replace stretch deb main armel i2p-doc 0.9.41-1ubuntu1 0.9.40p-1~trusty+1
+2019-07-03 23:01:38 replace stretch deb main s390x i2p-doc 0.9.41-1ubuntu1 0.9.40p-1~trusty+1
+2019-07-03 23:01:39 replace stretch deb main armel i2p-router 0.9.41-1ubuntu1 0.9.40p-1~trusty+1
+2019-07-03 23:01:39 replace stretch deb main s390x i2p-router 0.9.41-1ubuntu1 0.9.40p-1~trusty+1
+2019-07-03 23:21:18 add stretch deb main powerpc i2p 0.9.41p-1~trusty+1
+2019-07-03 23:21:18 add stretch deb main powerpc i2p-doc 0.9.41p-1~trusty+1
+2019-07-03 23:21:18 add stretch deb main powerpc i2p-keyring 2018.09.16
+2019-07-03 23:21:18 add stretch deb main powerpc i2p-router 0.9.41p-1~trusty+1
+2019-07-03 23:21:18 add stretch deb main powerpc killyourtv-keyring 2015.03.27.1
+2019-07-03 23:21:18 add stretch deb main powerpc syndie 1.107b-2ubuntu1
+2019-07-03 23:23:30 replace stretch deb main i386 libjbigi-jni 0.9.41p-1~trusty+1 0.9.41p-1~trusty+1
+2019-07-03 23:23:30 replace stretch deb main i386 i2p-router 0.9.41p-1~trusty+1 0.9.41p-1~trusty+1
+2019-07-03 23:23:30 replace stretch deb main i386 i2p-doc 0.9.41p-1~trusty+1 0.9.41p-1~trusty+1
+2019-07-03 23:23:30 replace stretch deb main i386 i2p 0.9.41p-1~trusty+1 0.9.41p-1~trusty+1
+2019-07-03 23:23:30 replace stretch deb main amd64 libjbigi-jni 0.9.41p-1~trusty+1 0.9.41p-1~trusty+1
+2019-07-03 23:23:30 replace stretch deb main amd64 i2p-router 0.9.41p-1~trusty+1 0.9.41p-1~trusty+1
+2019-07-03 23:23:30 replace stretch deb main amd64 i2p-doc 0.9.41p-1~trusty+1 0.9.41p-1~trusty+1
+2019-07-03 23:23:30 replace stretch deb main amd64 i2p 0.9.41p-1~trusty+1 0.9.41p-1~trusty+1
+2019-07-03 23:23:30 replace stretch deb main arm64 i2p-router 0.9.41p-1~trusty+1 0.9.41p-1~trusty+1
+2019-07-03 23:23:30 replace stretch deb main arm64 i2p-doc 0.9.41p-1~trusty+1 0.9.41p-1~trusty+1
+2019-07-03 23:23:30 replace stretch deb main arm64 i2p 0.9.41p-1~trusty+1 0.9.41p-1~trusty+1
+2019-07-03 23:23:30 replace stretch deb main armhf libjbigi-jni 0.9.41p-1~trusty+1 0.9.41p-1~trusty+1
+2019-07-03 23:23:30 replace stretch deb main armhf i2p-router 0.9.41p-1~trusty+1 0.9.41p-1~trusty+1
+2019-07-03 23:23:30 replace stretch deb main armhf i2p-doc 0.9.41p-1~trusty+1 0.9.41p-1~trusty+1
+2019-07-03 23:23:30 replace stretch deb main armhf i2p 0.9.41p-1~trusty+1 0.9.41p-1~trusty+1
+2019-07-03 23:23:30 add stretch deb main powerpc libjbigi-jni 0.9.41p-1~trusty+1
+2019-07-03 23:23:30 replace stretch deb main powerpc i2p-router 0.9.41p-1~trusty+1 0.9.41p-1~trusty+1
+2019-07-03 23:23:30 replace stretch deb main powerpc i2p-doc 0.9.41p-1~trusty+1 0.9.41p-1~trusty+1
+2019-07-03 23:23:30 replace stretch deb main powerpc i2p 0.9.41p-1~trusty+1 0.9.41p-1~trusty+1
+2019-07-03 23:23:30 replace stretch deb main ppc64el i2p-router 0.9.41p-1~trusty+1 0.9.41p-1~trusty+1
+2019-07-03 23:23:30 replace stretch deb main ppc64el i2p-doc 0.9.41p-1~trusty+1 0.9.41p-1~trusty+1
+2019-07-03 23:23:30 replace stretch deb main ppc64el i2p 0.9.41p-1~trusty+1 0.9.41p-1~trusty+1
+2019-07-03 23:23:30 replace stretch dsc main source i2p 0.9.41p-1~trusty+1 0.9.41p-1~trusty+1
