@@ -1,0 +1,28 @@
+Package: anoncoin
+Binary: anoncoind, anoncoin-qt
+Version: 0.8.5.6-1ubuntu1~saucy1
+Section: utils
+Maintainer: Kill Your TV <killyourtv@i2pmail.org>
+Build-Depends: debhelper (>= 9), imagemagick, bash-completion, devscripts, libfile-desktopentry-perl, libboost-all-dev, libdb++-dev, libleveldb-dev (>= 1.10.0), libminiupnpc-dev [!hurd-any], libqrencode-dev, libqt4-dev, libssl-dev, qt4-qmake
+Architecture: any
+Standards-Version: 3.9.5
+Format: 3.0 (quilt)
+Directory: pool/main/a/anoncoin
+Files:
+ 1448315fc6885967511e015aa0d25805 3236457 anoncoin_0.8.5.6.orig.tar.gz
+ 24a28911a99cfb2348c6cbc341c5cbae 15632 anoncoin_0.8.5.6-1ubuntu1~saucy1.debian.tar.xz
+ 52b08cfecfcb453bd4b50aa6fec63304 1764 anoncoin_0.8.5.6-1ubuntu1~saucy1.dsc
+Checksums-Sha1:
+ f0e435198da644dbcec70f2e710ff48956c385d2 3236457 anoncoin_0.8.5.6.orig.tar.gz
+ be434807cc93b737ec86be9cadda7199bdfab49e 15632 anoncoin_0.8.5.6-1ubuntu1~saucy1.debian.tar.xz
+ d14e2746d948e1c95742a7fe09151d146cfb7012 1764 anoncoin_0.8.5.6-1ubuntu1~saucy1.dsc
+Checksums-Sha256:
+ 71dbfecc2c182a4415fa450c2e1a5f256bb833b0424aea084edc821f9065433c 3236457 anoncoin_0.8.5.6.orig.tar.gz
+ 36ef7e2bc7a1ac92a97fb89618b93a8ad7076360ce20ad284e9276a6404bacc6 15632 anoncoin_0.8.5.6-1ubuntu1~saucy1.debian.tar.xz
+ 49c5a5de00f10cabc6a27e6bf8bc9d3ea27d96d5a85d13b61244456dd0e052f7 1764 anoncoin_0.8.5.6-1ubuntu1~saucy1.dsc
+Homepage: https://anoncoin.net/
+Package-List: anoncoin-qt deb utils optional
+ anoncoind deb utils optional
+Vcs-Git: git://github.com/Anoncoin/anoncoin.git
+Vcs-Browser: https://github.com/Anoncoin/anoncoin
+
