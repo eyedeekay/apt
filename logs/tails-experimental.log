@@ -1,0 +1,85 @@
+2013-11-05 01:22:56 add tails-experimental dsc main source i2p 0.9.8.1-1+deb6u1
+2013-11-05 01:22:56 add tails-experimental deb main i386 libjbigi-jni 0.9.8.1-1+deb6u1
+2013-11-05 01:22:56 add tails-experimental deb main i386 i2p 0.9.8.1-1+deb6u1
+2013-11-05 01:22:56 add tails-experimental deb main i386 i2p-router 0.9.8.1-1+deb6u1
+2013-11-05 01:36:13 add tails-experimental deb main i386 service-wrapper 3.5.21-1+deb6u1
+2013-11-05 01:36:13 add tails-experimental deb main i386 libservice-wrapper-jni 3.5.21-1+deb6u1
+2013-11-05 01:36:13 add tails-experimental deb main i386 libservice-wrapper-java 3.5.21-1+deb6u1
+2013-11-05 01:36:13 add tails-experimental deb main i386 libservice-wrapper-doc 3.5.21-1+deb6u1
+2013-11-05 01:36:13 add tails-experimental dsc main source service-wrapper-java 3.5.21-1+deb6u1
+2013-11-05 02:32:25 remove tails-experimental deb main i386 i2p 0.9.8.1-1+deb6u1
+2013-11-05 02:32:25 remove tails-experimental deb main i386 i2p-router 0.9.8.1-1+deb6u1
+2013-11-05 02:32:25 remove tails-experimental deb main i386 libjbigi-jni 0.9.8.1-1+deb6u1
+2013-11-05 02:32:25 remove tails-experimental dsc main source i2p 0.9.8.1-1+deb6u1
+2013-11-05 11:14:19 add tails-experimental dsc main source i2p 0.9.8.1-1+deb6u1
+2013-11-05 11:14:19 add tails-experimental deb main i386 libjbigi-jni 0.9.8.1-1+deb6u1
+2013-11-05 11:14:19 add tails-experimental deb main i386 i2p 0.9.8.1-1+deb6u1
+2013-11-05 11:14:19 add tails-experimental deb main i386 i2p-router 0.9.8.1-1+deb6u1
+2013-11-05 13:46:09 remove tails-experimental deb main i386 i2p 0.9.8.1-1+deb6u1
+2013-11-05 13:46:09 remove tails-experimental deb main i386 i2p-router 0.9.8.1-1+deb6u1
+2013-11-05 13:46:09 remove tails-experimental deb main i386 libjbigi-jni 0.9.8.1-1+deb6u1
+2013-11-05 13:46:09 remove tails-experimental dsc main source i2p 0.9.8.1-1+deb6u1
+2013-11-05 14:00:21 add tails-experimental dsc main source i2p 0.9.8.1-1+deb6u1
+2013-11-05 14:00:21 add tails-experimental deb main i386 libjbigi-jni 0.9.8.1-1+deb6u1
+2013-11-05 14:00:21 add tails-experimental deb main i386 i2p 0.9.8.1-1+deb6u1
+2013-11-05 14:00:21 add tails-experimental deb main i386 i2p-router 0.9.8.1-1+deb6u1
+2013-11-05 20:11:15 remove tails-experimental deb main i386 i2p 0.9.8.1-1+deb6u1
+2013-11-05 20:11:15 remove tails-experimental deb main i386 i2p-router 0.9.8.1-1+deb6u1
+2013-11-05 20:11:15 remove tails-experimental deb main i386 libjbigi-jni 0.9.8.1-1+deb6u1
+2013-11-05 20:11:15 remove tails-experimental dsc main source i2p 0.9.8.1-1+deb6u1
+2013-11-06 01:37:58 add tails-experimental deb main i386 libjbigi-jni 0.9.8.1-1~deb6u1
+2013-11-06 01:37:58 add tails-experimental deb main i386 i2p-router 0.9.8.1-1~deb6u1
+2013-11-06 01:37:58 add tails-experimental deb main i386 i2p 0.9.8.1-1~deb6u1
+2013-11-06 01:37:58 add tails-experimental dsc main source i2p 0.9.8.1-1~deb6u1
+2013-11-06 01:38:08 replace tails-experimental deb main i386 service-wrapper 3.5.22-1~deb6u1 3.5.21-1+deb6u1
+2013-11-06 01:38:08 replace tails-experimental deb main i386 libservice-wrapper-jni 3.5.22-1~deb6u1 3.5.21-1+deb6u1
+2013-11-06 01:38:08 replace tails-experimental deb main i386 libservice-wrapper-java 3.5.22-1~deb6u1 3.5.21-1+deb6u1
+2013-11-06 01:38:08 replace tails-experimental deb main i386 libservice-wrapper-doc 3.5.22-1~deb6u1 3.5.21-1+deb6u1
+2013-11-06 01:38:08 replace tails-experimental dsc main source service-wrapper-java 3.5.22-1~deb6u1 3.5.21-1+deb6u1
+2013-11-07 02:52:48 replace tails-experimental deb main i386 i2p-router 0.9.8.1-deb6u1 0.9.8.1-1~deb6u1
+2013-11-07 02:52:48 replace tails-experimental deb main i386 i2p 0.9.8.1-deb6u1 0.9.8.1-1~deb6u1
+2013-11-07 02:52:48 replace tails-experimental deb main i386 libjbigi-jni 0.9.8.1-deb6u1 0.9.8.1-1~deb6u1
+2013-11-07 02:52:48 replace tails-experimental dsc main source i2p 0.9.8.1-deb6u1 0.9.8.1-1~deb6u1
+2014-01-24 00:41:22 replace tails-experimental deb main i386 libjbigi-jni 0.9.10-1squeeze1 0.9.8.1-deb6u1
+2014-01-24 00:41:22 replace tails-experimental deb main i386 i2p-router 0.9.10-1squeeze1 0.9.8.1-deb6u1
+2014-01-24 00:41:22 replace tails-experimental deb main i386 i2p 0.9.10-1squeeze1 0.9.8.1-deb6u1
+2014-01-24 00:41:22 replace tails-experimental dsc main source i2p 0.9.10-1squeeze1 0.9.8.1-deb6u1
+2014-02-09 04:22:34 replace tails-experimental deb main i386 libjbigi-jni 0.9.11-1deb6u1 0.9.10-1squeeze1
+2014-02-09 04:22:34 replace tails-experimental deb main i386 i2p-router 0.9.11-1deb6u1 0.9.10-1squeeze1
+2014-02-09 04:22:34 replace tails-experimental deb main i386 i2p 0.9.11-1deb6u1 0.9.10-1squeeze1
+2014-02-09 04:22:34 replace tails-experimental dsc main source i2p 0.9.11-1deb6u1 0.9.10-1squeeze1
+2014-04-01 19:00:10 replace tails-experimental deb main i386 libjbigi-jni 0.9.12-1~deb7u+1 0.9.11-1deb6u1
+2014-04-01 19:00:10 replace tails-experimental deb main i386 i2p-router 0.9.12-1~deb7u+1 0.9.11-1deb6u1
+2014-04-01 19:00:10 replace tails-experimental deb main i386 i2p 0.9.12-1~deb7u+1 0.9.11-1deb6u1
+2014-04-01 19:00:10 replace tails-experimental dsc main source i2p 0.9.12-1~deb7u+1 0.9.11-1deb6u1
+2014-04-01 19:00:26 replace tails-experimental deb main i386 libjbigi-jni 0.9.12-1~deb6u+1 0.9.12-1~deb7u+1
+2014-04-01 19:00:26 replace tails-experimental deb main i386 i2p-router 0.9.12-1~deb6u+1 0.9.12-1~deb7u+1
+2014-04-01 19:00:26 replace tails-experimental deb main i386 i2p 0.9.12-1~deb6u+1 0.9.12-1~deb7u+1
+2014-04-01 19:00:26 replace tails-experimental dsc main source i2p 0.9.12-1~deb6u+1 0.9.12-1~deb7u+1
+2014-05-23 01:01:34 replace tails-experimental deb main i386 libjbigi-jni 0.9.13-1~deb6u+1 0.9.12-1~deb6u+1
+2014-05-23 01:01:34 replace tails-experimental deb main i386 i2p-router 0.9.13-1~deb6u+1 0.9.12-1~deb6u+1
+2014-05-23 01:01:34 add tails-experimental deb main i386 i2p-doc 0.9.13-1~deb6u+1
+2014-05-23 01:01:34 replace tails-experimental deb main i386 i2p 0.9.13-1~deb6u+1 0.9.12-1~deb6u+1
+2014-05-23 01:01:34 replace tails-experimental dsc main source i2p 0.9.13-1~deb6u+1 0.9.12-1~deb6u+1
+2014-07-27 03:44:17 remove tails-experimental deb main i386 libservice-wrapper-doc 3.5.22-1~deb6u1
+2014-07-27 03:44:17 remove tails-experimental deb main i386 libservice-wrapper-java 3.5.22-1~deb6u1
+2014-07-27 03:44:17 remove tails-experimental deb main i386 libservice-wrapper-jni 3.5.22-1~deb6u1
+2014-07-27 03:44:17 remove tails-experimental deb main i386 service-wrapper 3.5.22-1~deb6u1
+2014-07-27 03:44:17 remove tails-experimental dsc main source service-wrapper-java 3.5.22-1~deb6u1
+2014-07-27 03:49:15 replace tails-experimental deb main i386 libjbigi-jni 0.9.14-1~deb6u+1 0.9.13-1~deb6u+1
+2014-07-27 03:49:15 replace tails-experimental deb main i386 i2p-router 0.9.14-1~deb6u+1 0.9.13-1~deb6u+1
+2014-07-27 03:49:15 replace tails-experimental deb main i386 i2p-doc 0.9.14-1~deb6u+1 0.9.13-1~deb6u+1
+2014-07-27 03:49:15 replace tails-experimental deb main i386 i2p 0.9.14-1~deb6u+1 0.9.13-1~deb6u+1
+2014-07-27 03:49:15 replace tails-experimental dsc main source i2p 0.9.14-1~deb6u+1 0.9.13-1~deb6u+1
+2014-11-02 04:05:40 replace tails-experimental deb main i386 libjbigi-jni 0.9.16-1~deb6u+1 0.9.14-1~deb6u+1
+2014-11-02 04:05:40 replace tails-experimental deb main i386 i2p-router 0.9.16-1~deb6u+1 0.9.14-1~deb6u+1
+2014-11-02 04:05:40 replace tails-experimental deb main i386 i2p-doc 0.9.16-1~deb6u+1 0.9.14-1~deb6u+1
+2014-11-02 04:05:40 replace tails-experimental deb main i386 i2p 0.9.16-1~deb6u+1 0.9.14-1~deb6u+1
+2014-11-02 04:05:40 replace tails-experimental dsc main source i2p 0.9.16-1~deb6u+1 0.9.14-1~deb6u+1
+2015-09-13 20:45:30 replace tails-experimental deb main i386 libjbigi-jni 0.9.22-1~deb7u+1 0.9.16-1~deb6u+1
+2015-09-13 20:45:30 replace tails-experimental deb main i386 i2p-router 0.9.22-1~deb7u+1 0.9.16-1~deb6u+1
+2015-09-13 20:45:30 replace tails-experimental deb main i386 i2p-doc 0.9.22-1~deb7u+1 0.9.16-1~deb6u+1
+2015-09-13 20:45:30 replace tails-experimental deb main i386 i2p 0.9.22-1~deb7u+1 0.9.16-1~deb6u+1
+2015-09-13 20:45:30 replace tails-experimental dsc main source i2p 0.9.22-1~deb7u+1 0.9.16-1~deb6u+1
+2021-08-30 15:06:17 add tails-experimental deb main i386 i2p-keyring 2015.10.02.1
+2021-08-30 15:06:17 add tails-experimental dsc main source i2p-keyring 2015.10.02.1
