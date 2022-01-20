@@ -1,0 +1,506 @@
+2019-08-28 20:47:40 replace buster deb main i386 libjbigi-jni 0.9.42-1~disco+1 0.9.41-1~disco+1
+2019-08-28 20:47:40 replace buster deb main i386 i2p-router 0.9.42-1~disco+1 0.9.41-1~disco+1
+2019-08-28 20:47:40 replace buster deb main i386 i2p-doc 0.9.42-1~disco+1 0.9.41-1~disco+1
+2019-08-28 20:47:40 replace buster deb main i386 i2p 0.9.42-1~disco+1 0.9.41-1~disco+1
+2019-08-28 20:47:40 replace buster deb main amd64 libjbigi-jni 0.9.42-1~disco+1 0.9.41-1~disco+1
+2019-08-28 20:47:40 replace buster deb main amd64 i2p-router 0.9.42-1~disco+1 0.9.41-1~disco+1
+2019-08-28 20:47:40 replace buster deb main amd64 i2p-doc 0.9.42-1~disco+1 0.9.41-1~disco+1
+2019-08-28 20:47:40 replace buster deb main amd64 i2p 0.9.42-1~disco+1 0.9.41-1~disco+1
+2019-08-28 20:47:40 replace buster deb main arm64 libjbigi-jni 0.9.42-1~disco+1 0.9.41-1~disco+1
+2019-08-28 20:47:40 replace buster deb main arm64 i2p-router 0.9.42-1~disco+1 0.9.41-1~disco+1
+2019-08-28 20:47:40 replace buster deb main arm64 i2p-doc 0.9.42-1~disco+1 0.9.41-1~disco+1
+2019-08-28 20:47:40 replace buster deb main arm64 i2p 0.9.42-1~disco+1 0.9.41-1~disco+1
+2019-08-28 20:47:40 replace buster deb main armhf libjbigi-jni 0.9.42-1~disco+1 0.9.41-1~disco+1
+2019-08-28 20:47:40 replace buster deb main armhf i2p-router 0.9.42-1~disco+1 0.9.41-1~disco+1
+2019-08-28 20:47:40 replace buster deb main armhf i2p-doc 0.9.42-1~disco+1 0.9.41-1~disco+1
+2019-08-28 20:47:40 replace buster deb main armhf i2p 0.9.42-1~disco+1 0.9.41-1~disco+1
+2019-08-28 20:47:40 replace buster deb main ppc64el libjbigi-jni 0.9.42-1~disco+1 0.9.41-1~disco+1
+2019-08-28 20:47:40 replace buster deb main ppc64el i2p-router 0.9.42-1~disco+1 0.9.41-1~disco+1
+2019-08-28 20:47:40 replace buster deb main ppc64el i2p-doc 0.9.42-1~disco+1 0.9.41-1~disco+1
+2019-08-28 20:47:40 replace buster deb main ppc64el i2p 0.9.42-1~disco+1 0.9.41-1~disco+1
+2019-08-28 20:47:40 replace buster deb main s390x libjbigi-jni 0.9.42-1~disco+1 0.9.41-1~disco+1
+2019-08-28 20:47:40 replace buster deb main s390x i2p-router 0.9.42-1~disco+1 0.9.41-1~disco+1
+2019-08-28 20:47:40 replace buster deb main s390x i2p-doc 0.9.42-1~disco+1 0.9.41-1~disco+1
+2019-08-28 20:47:40 replace buster deb main s390x i2p 0.9.42-1~disco+1 0.9.41-1~disco+1
+2019-08-28 20:47:40 replace buster dsc main source i2p 0.9.42-1~disco+1 0.9.41-1~disco+1
+2019-09-21 17:04:26 replace buster deb main i386 i2p-keyring 2019.09.21 2018.09.16
+2019-09-21 17:04:26 replace buster deb main amd64 i2p-keyring 2019.09.21 2018.09.16
+2019-09-21 17:04:26 replace buster deb main armhf i2p-keyring 2019.09.21 2018.09.16
+2019-09-21 17:04:26 replace buster deb main arm64 i2p-keyring 2019.09.21 2018.09.16
+2019-09-21 17:04:26 replace buster deb main ppc64el i2p-keyring 2019.09.21 2018.09.16
+2019-09-21 17:04:26 replace buster deb main s390x i2p-keyring 2019.09.21 2018.09.16
+2019-09-21 17:07:19 replace buster dsc main source i2p-keyring 2019.09.21 2018.09.16
+2019-10-22 17:49:12 replace buster deb main i386 libjbigi-jni 0.9.43-1~disco+1 0.9.42-1~disco+1
+2019-10-22 17:49:12 replace buster deb main i386 i2p-router 0.9.43-1~disco+1 0.9.42-1~disco+1
+2019-10-22 17:49:12 replace buster deb main i386 i2p-doc 0.9.43-1~disco+1 0.9.42-1~disco+1
+2019-10-22 17:49:12 replace buster deb main i386 i2p 0.9.43-1~disco+1 0.9.42-1~disco+1
+2019-10-22 17:49:12 replace buster deb main amd64 libjbigi-jni 0.9.43-1~disco+1 0.9.42-1~disco+1
+2019-10-22 17:49:12 replace buster deb main amd64 i2p-router 0.9.43-1~disco+1 0.9.42-1~disco+1
+2019-10-22 17:49:12 replace buster deb main amd64 i2p-doc 0.9.43-1~disco+1 0.9.42-1~disco+1
+2019-10-22 17:49:12 replace buster deb main amd64 i2p 0.9.43-1~disco+1 0.9.42-1~disco+1
+2019-10-22 17:49:12 replace buster deb main arm64 libjbigi-jni 0.9.43-1~disco+1 0.9.42-1~disco+1
+2019-10-22 17:49:12 replace buster deb main arm64 i2p-router 0.9.43-1~disco+1 0.9.42-1~disco+1
+2019-10-22 17:49:12 replace buster deb main arm64 i2p-doc 0.9.43-1~disco+1 0.9.42-1~disco+1
+2019-10-22 17:49:12 replace buster deb main arm64 i2p 0.9.43-1~disco+1 0.9.42-1~disco+1
+2019-10-22 17:49:12 replace buster deb main armhf libjbigi-jni 0.9.43-1~disco+1 0.9.42-1~disco+1
+2019-10-22 17:49:12 replace buster deb main armhf i2p-router 0.9.43-1~disco+1 0.9.42-1~disco+1
+2019-10-22 17:49:12 replace buster deb main armhf i2p-doc 0.9.43-1~disco+1 0.9.42-1~disco+1
+2019-10-22 17:49:12 replace buster deb main armhf i2p 0.9.43-1~disco+1 0.9.42-1~disco+1
+2019-10-22 17:49:12 replace buster deb main ppc64el libjbigi-jni 0.9.43-1~disco+1 0.9.42-1~disco+1
+2019-10-22 17:49:12 replace buster deb main ppc64el i2p-router 0.9.43-1~disco+1 0.9.42-1~disco+1
+2019-10-22 17:49:12 replace buster deb main ppc64el i2p-doc 0.9.43-1~disco+1 0.9.42-1~disco+1
+2019-10-22 17:49:12 replace buster deb main ppc64el i2p 0.9.43-1~disco+1 0.9.42-1~disco+1
+2019-10-22 17:49:12 replace buster deb main s390x libjbigi-jni 0.9.43-1~disco+1 0.9.42-1~disco+1
+2019-10-22 17:49:12 replace buster deb main s390x i2p-router 0.9.43-1~disco+1 0.9.42-1~disco+1
+2019-10-22 17:49:12 replace buster deb main s390x i2p-doc 0.9.43-1~disco+1 0.9.42-1~disco+1
+2019-10-22 17:49:12 replace buster deb main s390x i2p 0.9.43-1~disco+1 0.9.42-1~disco+1
+2019-10-22 17:49:12 replace buster dsc main source i2p 0.9.43-1~disco+1 0.9.42-1~disco+1
+2019-10-22 18:32:26 add buster deb main i386 syndie 1.107b-2ubuntu1
+2019-10-22 18:32:26 add buster deb main amd64 syndie 1.107b-2ubuntu1
+2019-10-22 18:32:26 add buster deb main arm64 syndie 1.107b-2ubuntu1
+2019-10-22 18:32:26 add buster deb main armhf syndie 1.107b-2ubuntu1
+2019-10-22 18:32:26 add buster deb main ppc64el syndie 1.107b-2ubuntu1
+2019-10-22 18:32:26 add buster deb main s390x syndie 1.107b-2ubuntu1
+2019-10-22 18:32:26 add buster dsc main source syndie 1.107b-2ubuntu1
+2019-11-03 20:01:03 replace buster deb main i386 i2p-keyring 2019.09.21 2019.09.21
+2019-11-03 20:01:03 replace buster deb main amd64 i2p-keyring 2019.09.21 2019.09.21
+2019-11-03 20:01:03 replace buster deb main arm64 i2p-keyring 2019.09.21 2019.09.21
+2019-11-03 20:01:03 replace buster deb main armhf i2p-keyring 2019.09.21 2019.09.21
+2019-11-03 20:01:03 replace buster deb main ppc64el i2p-keyring 2019.09.21 2019.09.21
+2019-11-03 20:01:03 replace buster deb main s390x i2p-keyring 2019.09.21 2019.09.21
+2019-11-03 20:01:03 replace buster dsc main source i2p-keyring 2019.09.21 2019.09.21
+2019-12-01 23:43:07 replace buster deb main i386 libjbigi-jni 0.9.44-1~disco+1 0.9.43-1~disco+1
+2019-12-01 23:43:07 replace buster deb main i386 i2p-router 0.9.44-1~disco+1 0.9.43-1~disco+1
+2019-12-01 23:43:07 replace buster deb main i386 i2p-doc 0.9.44-1~disco+1 0.9.43-1~disco+1
+2019-12-01 23:43:07 replace buster deb main i386 i2p 0.9.44-1~disco+1 0.9.43-1~disco+1
+2019-12-01 23:43:07 replace buster deb main amd64 libjbigi-jni 0.9.44-1~disco+1 0.9.43-1~disco+1
+2019-12-01 23:43:07 replace buster deb main amd64 i2p-router 0.9.44-1~disco+1 0.9.43-1~disco+1
+2019-12-01 23:43:07 replace buster deb main amd64 i2p-doc 0.9.44-1~disco+1 0.9.43-1~disco+1
+2019-12-01 23:43:07 replace buster deb main amd64 i2p 0.9.44-1~disco+1 0.9.43-1~disco+1
+2019-12-01 23:43:07 replace buster deb main arm64 libjbigi-jni 0.9.44-1~disco+1 0.9.43-1~disco+1
+2019-12-01 23:43:07 replace buster deb main arm64 i2p-router 0.9.44-1~disco+1 0.9.43-1~disco+1
+2019-12-01 23:43:07 replace buster deb main arm64 i2p-doc 0.9.44-1~disco+1 0.9.43-1~disco+1
+2019-12-01 23:43:07 replace buster deb main arm64 i2p 0.9.44-1~disco+1 0.9.43-1~disco+1
+2019-12-01 23:43:07 replace buster deb main armhf libjbigi-jni 0.9.44-1~disco+1 0.9.43-1~disco+1
+2019-12-01 23:43:07 replace buster deb main armhf i2p-router 0.9.44-1~disco+1 0.9.43-1~disco+1
+2019-12-01 23:43:07 replace buster deb main armhf i2p-doc 0.9.44-1~disco+1 0.9.43-1~disco+1
+2019-12-01 23:43:07 replace buster deb main armhf i2p 0.9.44-1~disco+1 0.9.43-1~disco+1
+2019-12-01 23:43:07 replace buster deb main ppc64el libjbigi-jni 0.9.44-1~disco+1 0.9.43-1~disco+1
+2019-12-01 23:43:07 replace buster deb main ppc64el i2p-router 0.9.44-1~disco+1 0.9.43-1~disco+1
+2019-12-01 23:43:07 replace buster deb main ppc64el i2p-doc 0.9.44-1~disco+1 0.9.43-1~disco+1
+2019-12-01 23:43:07 replace buster deb main ppc64el i2p 0.9.44-1~disco+1 0.9.43-1~disco+1
+2019-12-01 23:43:07 replace buster deb main s390x libjbigi-jni 0.9.44-1~disco+1 0.9.43-1~disco+1
+2019-12-01 23:43:07 replace buster deb main s390x i2p-router 0.9.44-1~disco+1 0.9.43-1~disco+1
+2019-12-01 23:43:07 replace buster deb main s390x i2p-doc 0.9.44-1~disco+1 0.9.43-1~disco+1
+2019-12-01 23:43:07 replace buster deb main s390x i2p 0.9.44-1~disco+1 0.9.43-1~disco+1
+2019-12-01 23:43:07 replace buster dsc main source i2p 0.9.44-1~disco+1 0.9.43-1~disco+1
+2020-02-25 17:52:42 replace buster deb main i386 libjbigi-jni 0.9.45-1~disco+1 0.9.44-1~disco+1
+2020-02-25 17:52:42 replace buster deb main i386 i2p-router 0.9.45-1~disco+1 0.9.44-1~disco+1
+2020-02-25 17:52:42 replace buster deb main i386 i2p-doc 0.9.45-1~disco+1 0.9.44-1~disco+1
+2020-02-25 17:52:42 replace buster deb main i386 i2p 0.9.45-1~disco+1 0.9.44-1~disco+1
+2020-02-25 17:52:42 replace buster deb main amd64 libjbigi-jni 0.9.45-1~disco+1 0.9.44-1~disco+1
+2020-02-25 17:52:42 replace buster deb main amd64 i2p-router 0.9.45-1~disco+1 0.9.44-1~disco+1
+2020-02-25 17:52:42 replace buster deb main amd64 i2p-doc 0.9.45-1~disco+1 0.9.44-1~disco+1
+2020-02-25 17:52:42 replace buster deb main amd64 i2p 0.9.45-1~disco+1 0.9.44-1~disco+1
+2020-02-25 17:52:42 replace buster deb main arm64 libjbigi-jni 0.9.45-1~disco+1 0.9.44-1~disco+1
+2020-02-25 17:52:42 replace buster deb main arm64 i2p-router 0.9.45-1~disco+1 0.9.44-1~disco+1
+2020-02-25 17:52:42 replace buster deb main arm64 i2p-doc 0.9.45-1~disco+1 0.9.44-1~disco+1
+2020-02-25 17:52:42 replace buster deb main arm64 i2p 0.9.45-1~disco+1 0.9.44-1~disco+1
+2020-02-25 17:52:42 replace buster deb main armhf libjbigi-jni 0.9.45-1~disco+1 0.9.44-1~disco+1
+2020-02-25 17:52:42 replace buster deb main armhf i2p-router 0.9.45-1~disco+1 0.9.44-1~disco+1
+2020-02-25 17:52:42 replace buster deb main armhf i2p-doc 0.9.45-1~disco+1 0.9.44-1~disco+1
+2020-02-25 17:52:42 replace buster deb main armhf i2p 0.9.45-1~disco+1 0.9.44-1~disco+1
+2020-02-25 17:52:42 replace buster deb main ppc64el libjbigi-jni 0.9.45-1~disco+1 0.9.44-1~disco+1
+2020-02-25 17:52:42 replace buster deb main ppc64el i2p-router 0.9.45-1~disco+1 0.9.44-1~disco+1
+2020-02-25 17:52:42 replace buster deb main ppc64el i2p-doc 0.9.45-1~disco+1 0.9.44-1~disco+1
+2020-02-25 17:52:42 replace buster deb main ppc64el i2p 0.9.45-1~disco+1 0.9.44-1~disco+1
+2020-02-25 17:52:42 replace buster deb main s390x libjbigi-jni 0.9.45-1~disco+1 0.9.44-1~disco+1
+2020-02-25 17:52:42 replace buster deb main s390x i2p-router 0.9.45-1~disco+1 0.9.44-1~disco+1
+2020-02-25 17:52:42 replace buster deb main s390x i2p-doc 0.9.45-1~disco+1 0.9.44-1~disco+1
+2020-02-25 17:52:42 replace buster deb main s390x i2p 0.9.45-1~disco+1 0.9.44-1~disco+1
+2020-02-25 17:52:42 replace buster dsc main source i2p 0.9.45-1~disco+1 0.9.44-1~disco+1
+2020-05-26 21:58:41 replace buster deb main i386 libjbigi-jni 0.9.46-1ubuntu1 0.9.45-1~disco+1
+2020-05-26 21:58:41 replace buster deb main i386 i2p-router 0.9.46-1ubuntu1 0.9.45-1~disco+1
+2020-05-26 21:58:41 replace buster deb main i386 i2p-doc 0.9.46-1ubuntu1 0.9.45-1~disco+1
+2020-05-26 21:58:41 replace buster deb main i386 i2p 0.9.46-1ubuntu1 0.9.45-1~disco+1
+2020-05-26 21:58:41 replace buster deb main amd64 libjbigi-jni 0.9.46-1ubuntu1 0.9.45-1~disco+1
+2020-05-26 21:58:41 replace buster deb main amd64 i2p-router 0.9.46-1ubuntu1 0.9.45-1~disco+1
+2020-05-26 21:58:41 replace buster deb main amd64 i2p-doc 0.9.46-1ubuntu1 0.9.45-1~disco+1
+2020-05-26 21:58:41 replace buster deb main amd64 i2p 0.9.46-1ubuntu1 0.9.45-1~disco+1
+2020-05-26 21:58:41 replace buster deb main arm64 libjbigi-jni 0.9.46-1ubuntu1 0.9.45-1~disco+1
+2020-05-26 21:58:41 replace buster deb main arm64 i2p-router 0.9.46-1ubuntu1 0.9.45-1~disco+1
+2020-05-26 21:58:41 replace buster deb main arm64 i2p-doc 0.9.46-1ubuntu1 0.9.45-1~disco+1
+2020-05-26 21:58:41 replace buster deb main arm64 i2p 0.9.46-1ubuntu1 0.9.45-1~disco+1
+2020-05-26 21:58:41 replace buster deb main armhf libjbigi-jni 0.9.46-1ubuntu1 0.9.45-1~disco+1
+2020-05-26 21:58:41 replace buster deb main armhf i2p-router 0.9.46-1ubuntu1 0.9.45-1~disco+1
+2020-05-26 21:58:41 replace buster deb main armhf i2p-doc 0.9.46-1ubuntu1 0.9.45-1~disco+1
+2020-05-26 21:58:41 replace buster deb main armhf i2p 0.9.46-1ubuntu1 0.9.45-1~disco+1
+2020-05-26 21:58:41 replace buster deb main ppc64el libjbigi-jni 0.9.46-1ubuntu1 0.9.45-1~disco+1
+2020-05-26 21:58:41 replace buster deb main ppc64el i2p-router 0.9.46-1ubuntu1 0.9.45-1~disco+1
+2020-05-26 21:58:41 replace buster deb main ppc64el i2p-doc 0.9.46-1ubuntu1 0.9.45-1~disco+1
+2020-05-26 21:58:41 replace buster deb main ppc64el i2p 0.9.46-1ubuntu1 0.9.45-1~disco+1
+2020-05-26 21:58:41 replace buster deb main s390x libjbigi-jni 0.9.46-1ubuntu1 0.9.45-1~disco+1
+2020-05-26 21:58:41 replace buster deb main s390x i2p-router 0.9.46-1ubuntu1 0.9.45-1~disco+1
+2020-05-26 21:58:41 replace buster deb main s390x i2p-doc 0.9.46-1ubuntu1 0.9.45-1~disco+1
+2020-05-26 21:58:41 replace buster deb main s390x i2p 0.9.46-1ubuntu1 0.9.45-1~disco+1
+2020-05-26 21:58:41 replace buster dsc main source i2p 0.9.46-1ubuntu1 0.9.45-1~disco+1
+2020-08-25 21:25:12 replace buster deb main i386 libjbigi-jni 0.9.46-1ubuntu1 0.9.46-1ubuntu1
+2020-08-25 21:25:12 replace buster deb main i386 i2p-router 0.9.47-1ubuntu1 0.9.46-1ubuntu1
+2020-08-25 21:25:12 replace buster deb main i386 i2p-doc 0.9.47-1ubuntu1 0.9.46-1ubuntu1
+2020-08-25 21:25:12 replace buster deb main i386 i2p 0.9.47-1ubuntu1 0.9.46-1ubuntu1
+2020-08-25 21:25:12 replace buster deb main amd64 libjbigi-jni 0.9.47-1ubuntu1 0.9.46-1ubuntu1
+2020-08-25 21:25:12 replace buster deb main amd64 i2p-router 0.9.47-1ubuntu1 0.9.46-1ubuntu1
+2020-08-25 21:25:12 replace buster deb main amd64 i2p-doc 0.9.47-1ubuntu1 0.9.46-1ubuntu1
+2020-08-25 21:25:12 replace buster deb main amd64 i2p 0.9.47-1ubuntu1 0.9.46-1ubuntu1
+2020-08-25 21:25:12 replace buster deb main arm64 libjbigi-jni 0.9.47-1ubuntu1 0.9.46-1ubuntu1
+2020-08-25 21:25:12 replace buster deb main arm64 i2p-router 0.9.47-1ubuntu1 0.9.46-1ubuntu1
+2020-08-25 21:25:12 replace buster deb main arm64 i2p-doc 0.9.47-1ubuntu1 0.9.46-1ubuntu1
+2020-08-25 21:25:12 replace buster deb main arm64 i2p 0.9.47-1ubuntu1 0.9.46-1ubuntu1
+2020-08-25 21:25:12 replace buster deb main armhf libjbigi-jni 0.9.47-1ubuntu1 0.9.46-1ubuntu1
+2020-08-25 21:25:12 replace buster deb main armhf i2p-router 0.9.47-1ubuntu1 0.9.46-1ubuntu1
+2020-08-25 21:25:12 replace buster deb main armhf i2p-doc 0.9.47-1ubuntu1 0.9.46-1ubuntu1
+2020-08-25 21:25:12 replace buster deb main armhf i2p 0.9.47-1ubuntu1 0.9.46-1ubuntu1
+2020-08-25 21:25:12 replace buster deb main ppc64el libjbigi-jni 0.9.47-1ubuntu1 0.9.46-1ubuntu1
+2020-08-25 21:25:12 replace buster deb main ppc64el i2p-router 0.9.47-1ubuntu1 0.9.46-1ubuntu1
+2020-08-25 21:25:12 replace buster deb main ppc64el i2p-doc 0.9.47-1ubuntu1 0.9.46-1ubuntu1
+2020-08-25 21:25:12 replace buster deb main ppc64el i2p 0.9.47-1ubuntu1 0.9.46-1ubuntu1
+2020-08-25 21:25:12 replace buster deb main s390x libjbigi-jni 0.9.47-1ubuntu1 0.9.46-1ubuntu1
+2020-08-25 21:25:12 replace buster deb main s390x i2p-router 0.9.47-1ubuntu1 0.9.46-1ubuntu1
+2020-08-25 21:25:12 replace buster deb main s390x i2p-doc 0.9.47-1ubuntu1 0.9.46-1ubuntu1
+2020-08-25 21:25:12 replace buster deb main s390x i2p 0.9.47-1ubuntu1 0.9.46-1ubuntu1
+2020-08-25 21:25:12 replace buster dsc main source i2p 0.9.47-1ubuntu1 0.9.46-1ubuntu1
+2020-12-02 17:39:48 replace buster deb main i386 libjbigi-jni 0.9.46-1ubuntu1 0.9.46-1ubuntu1
+2020-12-02 17:39:48 replace buster deb main i386 i2p-router 0.9.48-1ubuntu1 0.9.47-1ubuntu1
+2020-12-02 17:39:48 replace buster deb main i386 i2p-doc 0.9.48-1ubuntu1 0.9.47-1ubuntu1
+2020-12-02 17:39:48 replace buster deb main i386 i2p 0.9.48-1ubuntu1 0.9.47-1ubuntu1
+2020-12-02 17:39:48 replace buster deb main amd64 libjbigi-jni 0.9.48-1ubuntu1 0.9.47-1ubuntu1
+2020-12-02 17:39:48 replace buster deb main amd64 i2p-router 0.9.48-1ubuntu1 0.9.47-1ubuntu1
+2020-12-02 17:39:48 replace buster deb main amd64 i2p-doc 0.9.48-1ubuntu1 0.9.47-1ubuntu1
+2020-12-02 17:39:48 replace buster deb main amd64 i2p 0.9.48-1ubuntu1 0.9.47-1ubuntu1
+2020-12-02 17:39:48 replace buster deb main arm64 libjbigi-jni 0.9.48-1ubuntu1 0.9.47-1ubuntu1
+2020-12-02 17:39:48 replace buster deb main arm64 i2p-router 0.9.48-1ubuntu1 0.9.47-1ubuntu1
+2020-12-02 17:39:48 replace buster deb main arm64 i2p-doc 0.9.48-1ubuntu1 0.9.47-1ubuntu1
+2020-12-02 17:39:48 replace buster deb main arm64 i2p 0.9.48-1ubuntu1 0.9.47-1ubuntu1
+2020-12-02 17:39:48 replace buster deb main armhf libjbigi-jni 0.9.48-1ubuntu1 0.9.47-1ubuntu1
+2020-12-02 17:39:48 replace buster deb main armhf i2p-router 0.9.48-1ubuntu1 0.9.47-1ubuntu1
+2020-12-02 17:39:48 replace buster deb main armhf i2p-doc 0.9.48-1ubuntu1 0.9.47-1ubuntu1
+2020-12-02 17:39:48 replace buster deb main armhf i2p 0.9.48-1ubuntu1 0.9.47-1ubuntu1
+2020-12-02 17:39:48 replace buster deb main ppc64el libjbigi-jni 0.9.48-1ubuntu1 0.9.47-1ubuntu1
+2020-12-02 17:39:48 replace buster deb main ppc64el i2p-router 0.9.48-1ubuntu1 0.9.47-1ubuntu1
+2020-12-02 17:39:48 replace buster deb main ppc64el i2p-doc 0.9.48-1ubuntu1 0.9.47-1ubuntu1
+2020-12-02 17:39:48 replace buster deb main ppc64el i2p 0.9.48-1ubuntu1 0.9.47-1ubuntu1
+2020-12-02 17:39:48 replace buster deb main s390x libjbigi-jni 0.9.48-1ubuntu1 0.9.47-1ubuntu1
+2020-12-02 17:39:48 replace buster deb main s390x i2p-router 0.9.48-1ubuntu1 0.9.47-1ubuntu1
+2020-12-02 17:39:48 replace buster deb main s390x i2p-doc 0.9.48-1ubuntu1 0.9.47-1ubuntu1
+2020-12-02 17:39:48 replace buster deb main s390x i2p 0.9.48-1ubuntu1 0.9.47-1ubuntu1
+2020-12-02 17:39:48 replace buster dsc main source i2p 0.9.48-1ubuntu1 0.9.47-1ubuntu1
+2021-02-18 01:56:20 replace buster deb main i386 libjbigi-jni 0.9.46-1ubuntu1 0.9.46-1ubuntu1
+2021-02-18 01:56:20 replace buster deb main i386 i2p-router 0.9.49-1ubuntu1 0.9.48-1ubuntu1
+2021-02-18 01:56:20 replace buster deb main i386 i2p-doc 0.9.49-1ubuntu1 0.9.48-1ubuntu1
+2021-02-18 01:56:20 replace buster deb main i386 i2p 0.9.49-1ubuntu1 0.9.48-1ubuntu1
+2021-02-18 01:56:20 replace buster deb main amd64 libjbigi-jni 0.9.49-1ubuntu1 0.9.48-1ubuntu1
+2021-02-18 01:56:20 replace buster deb main amd64 i2p-router 0.9.49-1ubuntu1 0.9.48-1ubuntu1
+2021-02-18 01:56:20 replace buster deb main amd64 i2p-doc 0.9.49-1ubuntu1 0.9.48-1ubuntu1
+2021-02-18 01:56:20 replace buster deb main amd64 i2p 0.9.49-1ubuntu1 0.9.48-1ubuntu1
+2021-02-18 01:56:21 replace buster deb main arm64 libjbigi-jni 0.9.49-1ubuntu1 0.9.48-1ubuntu1
+2021-02-18 01:56:21 replace buster deb main arm64 i2p-router 0.9.49-1ubuntu1 0.9.48-1ubuntu1
+2021-02-18 01:56:21 replace buster deb main arm64 i2p-doc 0.9.49-1ubuntu1 0.9.48-1ubuntu1
+2021-02-18 01:56:21 replace buster deb main arm64 i2p 0.9.49-1ubuntu1 0.9.48-1ubuntu1
+2021-02-18 01:56:21 replace buster deb main armhf libjbigi-jni 0.9.49-1ubuntu1 0.9.48-1ubuntu1
+2021-02-18 01:56:21 replace buster deb main armhf i2p-router 0.9.49-1ubuntu1 0.9.48-1ubuntu1
+2021-02-18 01:56:21 replace buster deb main armhf i2p-doc 0.9.49-1ubuntu1 0.9.48-1ubuntu1
+2021-02-18 01:56:21 replace buster deb main armhf i2p 0.9.49-1ubuntu1 0.9.48-1ubuntu1
+2021-02-18 01:56:21 replace buster deb main ppc64el libjbigi-jni 0.9.49-1ubuntu1 0.9.48-1ubuntu1
+2021-02-18 01:56:21 replace buster deb main ppc64el i2p-router 0.9.49-1ubuntu1 0.9.48-1ubuntu1
+2021-02-18 01:56:21 replace buster deb main ppc64el i2p-doc 0.9.49-1ubuntu1 0.9.48-1ubuntu1
+2021-02-18 01:56:21 replace buster deb main ppc64el i2p 0.9.49-1ubuntu1 0.9.48-1ubuntu1
+2021-02-18 01:56:21 replace buster deb main s390x libjbigi-jni 0.9.49-1ubuntu1 0.9.48-1ubuntu1
+2021-02-18 01:56:21 replace buster deb main s390x i2p-router 0.9.49-1ubuntu1 0.9.48-1ubuntu1
+2021-02-18 01:56:21 replace buster deb main s390x i2p-doc 0.9.49-1ubuntu1 0.9.48-1ubuntu1
+2021-02-18 01:56:21 replace buster deb main s390x i2p 0.9.49-1ubuntu1 0.9.48-1ubuntu1
+2021-02-18 01:56:21 replace buster dsc main source i2p 0.9.49-1ubuntu1 0.9.48-1ubuntu1
+2021-05-16 16:48:38 add bullseye deb main i386 i2p-keyring 2019.09.21
+2021-05-16 16:48:38 add bullseye deb main amd64 i2p-keyring 2019.09.21
+2021-05-16 16:48:38 add bullseye deb main armhf i2p-keyring 2019.09.21
+2021-05-16 16:48:38 add bullseye deb main arm64 i2p-keyring 2019.09.21
+2021-05-16 16:48:38 add bullseye deb main ppc64el i2p-keyring 2019.09.21
+2021-05-16 16:48:38 add bullseye deb main s390x i2p-keyring 2019.09.21
+2021-05-16 16:48:38 add bullseye dsc main source i2p-keyring 2019.09.21
+2021-05-16 16:49:00 add bullseye deb main i386 libjbigi-jni 0.9.46-1ubuntu1
+2021-05-16 16:49:00 add bullseye deb main i386 i2p-router 0.9.49-1ubuntu1
+2021-05-16 16:49:00 add bullseye deb main i386 i2p-doc 0.9.49-1ubuntu1
+2021-05-16 16:49:00 add bullseye deb main i386 i2p 0.9.49-1ubuntu1
+2021-05-16 16:49:00 add bullseye deb main amd64 libjbigi-jni 0.9.49-1ubuntu1
+2021-05-16 16:49:00 add bullseye deb main amd64 i2p-router 0.9.49-1ubuntu1
+2021-05-16 16:49:00 add bullseye deb main amd64 i2p-doc 0.9.49-1ubuntu1
+2021-05-16 16:49:00 add bullseye deb main amd64 i2p 0.9.49-1ubuntu1
+2021-05-16 16:49:00 add bullseye deb main armhf libjbigi-jni 0.9.49-1ubuntu1
+2021-05-16 16:49:00 add bullseye deb main armhf i2p-router 0.9.49-1ubuntu1
+2021-05-16 16:49:00 add bullseye deb main armhf i2p-doc 0.9.49-1ubuntu1
+2021-05-16 16:49:00 add bullseye deb main armhf i2p 0.9.49-1ubuntu1
+2021-05-16 16:49:00 add bullseye deb main arm64 libjbigi-jni 0.9.49-1ubuntu1
+2021-05-16 16:49:00 add bullseye deb main arm64 i2p-router 0.9.49-1ubuntu1
+2021-05-16 16:49:00 add bullseye deb main arm64 i2p-doc 0.9.49-1ubuntu1
+2021-05-16 16:49:00 add bullseye deb main arm64 i2p 0.9.49-1ubuntu1
+2021-05-16 16:49:00 add bullseye deb main ppc64el libjbigi-jni 0.9.49-1ubuntu1
+2021-05-16 16:49:00 add bullseye deb main ppc64el i2p-router 0.9.49-1ubuntu1
+2021-05-16 16:49:00 add bullseye deb main ppc64el i2p-doc 0.9.49-1ubuntu1
+2021-05-16 16:49:00 add bullseye deb main ppc64el i2p 0.9.49-1ubuntu1
+2021-05-16 16:49:00 add bullseye deb main s390x libjbigi-jni 0.9.49-1ubuntu1
+2021-05-16 16:49:00 add bullseye deb main s390x i2p-router 0.9.49-1ubuntu1
+2021-05-16 16:49:00 add bullseye deb main s390x i2p-doc 0.9.49-1ubuntu1
+2021-05-16 16:49:00 add bullseye deb main s390x i2p 0.9.49-1ubuntu1
+2021-05-16 16:49:00 add bullseye dsc main source i2p 0.9.49-1ubuntu1
+2021-05-19 18:12:05 replace buster deb main i386 libjbigi-jni 0.9.46-1ubuntu1 0.9.46-1ubuntu1
+2021-05-19 18:12:05 replace buster deb main i386 i2p-router 0.9.50-1ubuntu1 0.9.49-1ubuntu1
+2021-05-19 18:12:05 replace buster deb main i386 i2p-doc 0.9.50-1ubuntu1 0.9.49-1ubuntu1
+2021-05-19 18:12:05 replace buster deb main i386 i2p 0.9.50-1ubuntu1 0.9.49-1ubuntu1
+2021-05-19 18:12:05 replace buster deb main amd64 libjbigi-jni 0.9.50-1ubuntu1 0.9.49-1ubuntu1
+2021-05-19 18:12:05 replace buster deb main amd64 i2p-router 0.9.50-1ubuntu1 0.9.49-1ubuntu1
+2021-05-19 18:12:05 replace buster deb main amd64 i2p-doc 0.9.50-1ubuntu1 0.9.49-1ubuntu1
+2021-05-19 18:12:05 replace buster deb main amd64 i2p 0.9.50-1ubuntu1 0.9.49-1ubuntu1
+2021-05-19 18:12:05 replace buster deb main arm64 libjbigi-jni 0.9.50-1ubuntu1 0.9.49-1ubuntu1
+2021-05-19 18:12:05 replace buster deb main arm64 i2p-router 0.9.50-1ubuntu1 0.9.49-1ubuntu1
+2021-05-19 18:12:05 replace buster deb main arm64 i2p-doc 0.9.50-1ubuntu1 0.9.49-1ubuntu1
+2021-05-19 18:12:05 replace buster deb main arm64 i2p 0.9.50-1ubuntu1 0.9.49-1ubuntu1
+2021-05-19 18:12:05 replace buster deb main armhf libjbigi-jni 0.9.50-1ubuntu1 0.9.49-1ubuntu1
+2021-05-19 18:12:05 replace buster deb main armhf i2p-router 0.9.50-1ubuntu1 0.9.49-1ubuntu1
+2021-05-19 18:12:05 replace buster deb main armhf i2p-doc 0.9.50-1ubuntu1 0.9.49-1ubuntu1
+2021-05-19 18:12:05 replace buster deb main armhf i2p 0.9.50-1ubuntu1 0.9.49-1ubuntu1
+2021-05-19 18:12:05 replace buster deb main ppc64el libjbigi-jni 0.9.50-1ubuntu1 0.9.49-1ubuntu1
+2021-05-19 18:12:05 replace buster deb main ppc64el i2p-router 0.9.50-1ubuntu1 0.9.49-1ubuntu1
+2021-05-19 18:12:05 replace buster deb main ppc64el i2p-doc 0.9.50-1ubuntu1 0.9.49-1ubuntu1
+2021-05-19 18:12:05 replace buster deb main ppc64el i2p 0.9.50-1ubuntu1 0.9.49-1ubuntu1
+2021-05-19 18:12:05 replace buster deb main s390x libjbigi-jni 0.9.50-1ubuntu1 0.9.49-1ubuntu1
+2021-05-19 18:12:05 replace buster deb main s390x i2p-router 0.9.50-1ubuntu1 0.9.49-1ubuntu1
+2021-05-19 18:12:05 replace buster deb main s390x i2p-doc 0.9.50-1ubuntu1 0.9.49-1ubuntu1
+2021-05-19 18:12:05 replace buster deb main s390x i2p 0.9.50-1ubuntu1 0.9.49-1ubuntu1
+2021-05-19 18:12:05 replace buster dsc main source i2p 0.9.50-1ubuntu1 0.9.49-1ubuntu1
+2021-05-19 18:12:57 replace bullseye deb main i386 libjbigi-jni 0.9.46-1ubuntu1 0.9.46-1ubuntu1
+2021-05-19 18:12:57 replace bullseye deb main i386 i2p-router 0.9.50-1ubuntu1 0.9.49-1ubuntu1
+2021-05-19 18:12:57 replace bullseye deb main i386 i2p-doc 0.9.50-1ubuntu1 0.9.49-1ubuntu1
+2021-05-19 18:12:57 replace bullseye deb main i386 i2p 0.9.50-1ubuntu1 0.9.49-1ubuntu1
+2021-05-19 18:12:57 replace bullseye deb main amd64 libjbigi-jni 0.9.50-1ubuntu1 0.9.49-1ubuntu1
+2021-05-19 18:12:57 replace bullseye deb main amd64 i2p-router 0.9.50-1ubuntu1 0.9.49-1ubuntu1
+2021-05-19 18:12:57 replace bullseye deb main amd64 i2p-doc 0.9.50-1ubuntu1 0.9.49-1ubuntu1
+2021-05-19 18:12:57 replace bullseye deb main amd64 i2p 0.9.50-1ubuntu1 0.9.49-1ubuntu1
+2021-05-19 18:12:57 replace bullseye deb main arm64 libjbigi-jni 0.9.50-1ubuntu1 0.9.49-1ubuntu1
+2021-05-19 18:12:57 replace bullseye deb main arm64 i2p-router 0.9.50-1ubuntu1 0.9.49-1ubuntu1
+2021-05-19 18:12:57 replace bullseye deb main arm64 i2p-doc 0.9.50-1ubuntu1 0.9.49-1ubuntu1
+2021-05-19 18:12:57 replace bullseye deb main arm64 i2p 0.9.50-1ubuntu1 0.9.49-1ubuntu1
+2021-05-19 18:12:57 replace bullseye deb main armhf libjbigi-jni 0.9.50-1ubuntu1 0.9.49-1ubuntu1
+2021-05-19 18:12:57 replace bullseye deb main armhf i2p-router 0.9.50-1ubuntu1 0.9.49-1ubuntu1
+2021-05-19 18:12:57 replace bullseye deb main armhf i2p-doc 0.9.50-1ubuntu1 0.9.49-1ubuntu1
+2021-05-19 18:12:57 replace bullseye deb main armhf i2p 0.9.50-1ubuntu1 0.9.49-1ubuntu1
+2021-05-19 18:12:57 replace bullseye deb main ppc64el libjbigi-jni 0.9.50-1ubuntu1 0.9.49-1ubuntu1
+2021-05-19 18:12:57 replace bullseye deb main ppc64el i2p-router 0.9.50-1ubuntu1 0.9.49-1ubuntu1
+2021-05-19 18:12:57 replace bullseye deb main ppc64el i2p-doc 0.9.50-1ubuntu1 0.9.49-1ubuntu1
+2021-05-19 18:12:57 replace bullseye deb main ppc64el i2p 0.9.50-1ubuntu1 0.9.49-1ubuntu1
+2021-05-19 18:12:57 replace bullseye deb main s390x libjbigi-jni 0.9.50-1ubuntu1 0.9.49-1ubuntu1
+2021-05-19 18:12:57 replace bullseye deb main s390x i2p-router 0.9.50-1ubuntu1 0.9.49-1ubuntu1
+2021-05-19 18:12:57 replace bullseye deb main s390x i2p-doc 0.9.50-1ubuntu1 0.9.49-1ubuntu1
+2021-05-19 18:12:57 replace bullseye deb main s390x i2p 0.9.50-1ubuntu1 0.9.49-1ubuntu1
+2021-05-19 18:12:57 replace bullseye dsc main source i2p 0.9.50-1ubuntu1 0.9.49-1ubuntu1
+2021-05-19 19:33:30 replace bullseye deb main i386 libjbigi-jni 0.9.46-1ubuntu1 0.9.46-1ubuntu1
+2021-05-19 19:33:30 replace bullseye deb main i386 i2p-router 0.9.50-1ubuntu1 0.9.50-1ubuntu1
+2021-05-19 19:33:30 replace bullseye deb main i386 i2p-doc 0.9.50-1ubuntu1 0.9.50-1ubuntu1
+2021-05-19 19:33:30 replace bullseye deb main i386 i2p 0.9.50-1ubuntu1 0.9.50-1ubuntu1
+2021-05-19 19:33:30 replace bullseye deb main amd64 libjbigi-jni 0.9.50-1ubuntu1 0.9.50-1ubuntu1
+2021-05-19 19:33:30 replace bullseye deb main amd64 i2p-router 0.9.50-1ubuntu1 0.9.50-1ubuntu1
+2021-05-19 19:33:30 replace bullseye deb main amd64 i2p-doc 0.9.50-1ubuntu1 0.9.50-1ubuntu1
+2021-05-19 19:33:30 replace bullseye deb main amd64 i2p 0.9.50-1ubuntu1 0.9.50-1ubuntu1
+2021-05-19 19:33:30 replace bullseye deb main arm64 libjbigi-jni 0.9.50-1ubuntu1 0.9.50-1ubuntu1
+2021-05-19 19:33:30 replace bullseye deb main arm64 i2p-router 0.9.50-1ubuntu1 0.9.50-1ubuntu1
+2021-05-19 19:33:30 replace bullseye deb main arm64 i2p-doc 0.9.50-1ubuntu1 0.9.50-1ubuntu1
+2021-05-19 19:33:30 replace bullseye deb main arm64 i2p 0.9.50-1ubuntu1 0.9.50-1ubuntu1
+2021-05-19 19:33:30 replace bullseye deb main armhf libjbigi-jni 0.9.50-1ubuntu1 0.9.50-1ubuntu1
+2021-05-19 19:33:30 replace bullseye deb main armhf i2p-router 0.9.50-1ubuntu1 0.9.50-1ubuntu1
+2021-05-19 19:33:30 replace bullseye deb main armhf i2p-doc 0.9.50-1ubuntu1 0.9.50-1ubuntu1
+2021-05-19 19:33:30 replace bullseye deb main armhf i2p 0.9.50-1ubuntu1 0.9.50-1ubuntu1
+2021-05-19 19:33:30 replace bullseye deb main ppc64el libjbigi-jni 0.9.50-1ubuntu1 0.9.50-1ubuntu1
+2021-05-19 19:33:30 replace bullseye deb main ppc64el i2p-router 0.9.50-1ubuntu1 0.9.50-1ubuntu1
+2021-05-19 19:33:30 replace bullseye deb main ppc64el i2p-doc 0.9.50-1ubuntu1 0.9.50-1ubuntu1
+2021-05-19 19:33:30 replace bullseye deb main ppc64el i2p 0.9.50-1ubuntu1 0.9.50-1ubuntu1
+2021-05-19 19:33:30 replace bullseye deb main s390x libjbigi-jni 0.9.50-1ubuntu1 0.9.50-1ubuntu1
+2021-05-19 19:33:30 replace bullseye deb main s390x i2p-router 0.9.50-1ubuntu1 0.9.50-1ubuntu1
+2021-05-19 19:33:30 replace bullseye deb main s390x i2p-doc 0.9.50-1ubuntu1 0.9.50-1ubuntu1
+2021-05-19 19:33:30 replace bullseye deb main s390x i2p 0.9.50-1ubuntu1 0.9.50-1ubuntu1
+2021-05-19 19:33:30 replace bullseye dsc main source i2p 0.9.50-1ubuntu1 0.9.50-1ubuntu1
+2021-05-19 19:33:43 replace bullseye deb main i386 i2p-keyring 2019.09.21 2019.09.21
+2021-05-19 19:33:43 replace bullseye deb main amd64 i2p-keyring 2019.09.21 2019.09.21
+2021-05-19 19:33:43 replace bullseye deb main arm64 i2p-keyring 2019.09.21 2019.09.21
+2021-05-19 19:33:43 replace bullseye deb main armhf i2p-keyring 2019.09.21 2019.09.21
+2021-05-19 19:33:43 replace bullseye deb main ppc64el i2p-keyring 2019.09.21 2019.09.21
+2021-05-19 19:33:43 replace bullseye deb main s390x i2p-keyring 2019.09.21 2019.09.21
+2021-05-19 19:33:43 replace bullseye dsc main source i2p-keyring 2019.09.21 2019.09.21
+2021-08-30 15:26:07 replace bullseye deb main i386 libjbigi-jni 0.9.46-1ubuntu1 0.9.46-1ubuntu1
+2021-08-30 15:26:07 replace bullseye deb main i386 i2p-router 1.5.0-2ubuntu1 0.9.50-1ubuntu1
+2021-08-30 15:26:07 replace bullseye deb main i386 i2p-doc 1.5.0-2ubuntu1 0.9.50-1ubuntu1
+2021-08-30 15:26:07 replace bullseye deb main i386 i2p 1.5.0-2ubuntu1 0.9.50-1ubuntu1
+2021-08-30 15:26:07 replace bullseye deb main amd64 libjbigi-jni 1.5.0-2ubuntu1 0.9.50-1ubuntu1
+2021-08-30 15:26:07 replace bullseye deb main amd64 i2p-router 1.5.0-2ubuntu1 0.9.50-1ubuntu1
+2021-08-30 15:26:07 replace bullseye deb main amd64 i2p-doc 1.5.0-2ubuntu1 0.9.50-1ubuntu1
+2021-08-30 15:26:07 replace bullseye deb main amd64 i2p 1.5.0-2ubuntu1 0.9.50-1ubuntu1
+2021-08-30 15:26:07 replace bullseye deb main arm64 libjbigi-jni 1.5.0-2ubuntu1 0.9.50-1ubuntu1
+2021-08-30 15:26:07 replace bullseye deb main arm64 i2p-router 1.5.0-2ubuntu1 0.9.50-1ubuntu1
+2021-08-30 15:26:07 replace bullseye deb main arm64 i2p-doc 1.5.0-2ubuntu1 0.9.50-1ubuntu1
+2021-08-30 15:26:07 replace bullseye deb main arm64 i2p 1.5.0-2ubuntu1 0.9.50-1ubuntu1
+2021-08-30 15:26:07 replace bullseye deb main armhf libjbigi-jni 1.5.0-2ubuntu1 0.9.50-1ubuntu1
+2021-08-30 15:26:07 replace bullseye deb main armhf i2p-router 1.5.0-2ubuntu1 0.9.50-1ubuntu1
+2021-08-30 15:26:07 replace bullseye deb main armhf i2p-doc 1.5.0-2ubuntu1 0.9.50-1ubuntu1
+2021-08-30 15:26:07 replace bullseye deb main armhf i2p 1.5.0-2ubuntu1 0.9.50-1ubuntu1
+2021-08-30 15:26:07 replace bullseye deb main ppc64el libjbigi-jni 1.5.0-2ubuntu1 0.9.50-1ubuntu1
+2021-08-30 15:26:07 replace bullseye deb main ppc64el i2p-router 1.5.0-2ubuntu1 0.9.50-1ubuntu1
+2021-08-30 15:26:07 replace bullseye deb main ppc64el i2p-doc 1.5.0-2ubuntu1 0.9.50-1ubuntu1
+2021-08-30 15:26:07 replace bullseye deb main ppc64el i2p 1.5.0-2ubuntu1 0.9.50-1ubuntu1
+2021-08-30 15:26:07 replace bullseye deb main s390x libjbigi-jni 1.5.0-2ubuntu1 0.9.50-1ubuntu1
+2021-08-30 15:26:07 replace bullseye deb main s390x i2p-router 1.5.0-2ubuntu1 0.9.50-1ubuntu1
+2021-08-30 15:26:07 replace bullseye deb main s390x i2p-doc 1.5.0-2ubuntu1 0.9.50-1ubuntu1
+2021-08-30 15:26:07 replace bullseye deb main s390x i2p 1.5.0-2ubuntu1 0.9.50-1ubuntu1
+2021-08-30 15:26:07 replace bullseye dsc main source i2p 1.5.0-2ubuntu1 0.9.50-1ubuntu1
+2021-08-30 15:26:09 replace buster deb main i386 libjbigi-jni 0.9.46-1ubuntu1 0.9.46-1ubuntu1
+2021-08-30 15:26:09 replace buster deb main i386 i2p-router 1.5.0-2ubuntu1 0.9.50-1ubuntu1
+2021-08-30 15:26:09 replace buster deb main i386 i2p-doc 1.5.0-2ubuntu1 0.9.50-1ubuntu1
+2021-08-30 15:26:09 replace buster deb main i386 i2p 1.5.0-2ubuntu1 0.9.50-1ubuntu1
+2021-08-30 15:26:09 replace buster deb main amd64 libjbigi-jni 1.5.0-2ubuntu1 0.9.50-1ubuntu1
+2021-08-30 15:26:09 replace buster deb main amd64 i2p-router 1.5.0-2ubuntu1 0.9.50-1ubuntu1
+2021-08-30 15:26:09 replace buster deb main amd64 i2p-doc 1.5.0-2ubuntu1 0.9.50-1ubuntu1
+2021-08-30 15:26:09 replace buster deb main amd64 i2p 1.5.0-2ubuntu1 0.9.50-1ubuntu1
+2021-08-30 15:26:09 replace buster deb main arm64 libjbigi-jni 1.5.0-2ubuntu1 0.9.50-1ubuntu1
+2021-08-30 15:26:09 replace buster deb main arm64 i2p-router 1.5.0-2ubuntu1 0.9.50-1ubuntu1
+2021-08-30 15:26:09 replace buster deb main arm64 i2p-doc 1.5.0-2ubuntu1 0.9.50-1ubuntu1
+2021-08-30 15:26:09 replace buster deb main arm64 i2p 1.5.0-2ubuntu1 0.9.50-1ubuntu1
+2021-08-30 15:26:09 replace buster deb main armhf libjbigi-jni 1.5.0-2ubuntu1 0.9.50-1ubuntu1
+2021-08-30 15:26:09 replace buster deb main armhf i2p-router 1.5.0-2ubuntu1 0.9.50-1ubuntu1
+2021-08-30 15:26:09 replace buster deb main armhf i2p-doc 1.5.0-2ubuntu1 0.9.50-1ubuntu1
+2021-08-30 15:26:09 replace buster deb main armhf i2p 1.5.0-2ubuntu1 0.9.50-1ubuntu1
+2021-08-30 15:26:09 replace buster deb main ppc64el libjbigi-jni 1.5.0-2ubuntu1 0.9.50-1ubuntu1
+2021-08-30 15:26:09 replace buster deb main ppc64el i2p-router 1.5.0-2ubuntu1 0.9.50-1ubuntu1
+2021-08-30 15:26:09 replace buster deb main ppc64el i2p-doc 1.5.0-2ubuntu1 0.9.50-1ubuntu1
+2021-08-30 15:26:09 replace buster deb main ppc64el i2p 1.5.0-2ubuntu1 0.9.50-1ubuntu1
+2021-08-30 15:26:09 replace buster deb main s390x libjbigi-jni 1.5.0-2ubuntu1 0.9.50-1ubuntu1
+2021-08-30 15:26:09 replace buster deb main s390x i2p-router 1.5.0-2ubuntu1 0.9.50-1ubuntu1
+2021-08-30 15:26:09 replace buster deb main s390x i2p-doc 1.5.0-2ubuntu1 0.9.50-1ubuntu1
+2021-08-30 15:26:09 replace buster deb main s390x i2p 1.5.0-2ubuntu1 0.9.50-1ubuntu1
+2021-08-30 15:26:09 replace buster dsc main source i2p 1.5.0-2ubuntu1 0.9.50-1ubuntu1
+2021-09-10 17:34:07 replace buster deb main i386 i2p-keyring 2021.09.10 2019.09.21
+2021-09-10 17:34:07 replace buster deb main amd64 i2p-keyring 2021.09.10 2019.09.21
+2021-09-10 17:34:07 replace buster deb main armhf i2p-keyring 2021.09.10 2019.09.21
+2021-09-10 17:34:07 replace buster deb main arm64 i2p-keyring 2021.09.10 2019.09.21
+2021-09-10 17:34:07 replace buster deb main ppc64el i2p-keyring 2021.09.10 2019.09.21
+2021-09-10 17:34:07 replace buster deb main s390x i2p-keyring 2021.09.10 2019.09.21
+2021-09-10 17:34:09 replace bullseye deb main i386 i2p-keyring 2021.09.10 2019.09.21
+2021-09-10 17:34:09 replace bullseye deb main amd64 i2p-keyring 2021.09.10 2019.09.21
+2021-09-10 17:34:09 replace bullseye deb main armhf i2p-keyring 2021.09.10 2019.09.21
+2021-09-10 17:34:09 replace bullseye deb main arm64 i2p-keyring 2021.09.10 2019.09.21
+2021-09-10 17:34:09 replace bullseye deb main ppc64el i2p-keyring 2021.09.10 2019.09.21
+2021-09-10 17:34:09 replace bullseye deb main s390x i2p-keyring 2021.09.10 2019.09.21
+2021-09-10 17:35:02 replace buster dsc main source i2p-keyring 2021.09.10 2019.09.21
+2021-09-10 17:35:03 replace bullseye dsc main source i2p-keyring 2021.09.10 2019.09.21
+2021-09-10 17:43:41 add bookworm deb main i386 i2p-keyring 2021.09.10
+2021-09-10 17:43:41 add bookworm deb main amd64 i2p-keyring 2021.09.10
+2021-09-10 17:43:41 add bookworm deb main armhf i2p-keyring 2021.09.10
+2021-09-10 17:43:41 add bookworm deb main arm64 i2p-keyring 2021.09.10
+2021-09-10 17:43:41 add bookworm deb main ppc64el i2p-keyring 2021.09.10
+2021-09-10 17:43:41 add bookworm deb main s390x i2p-keyring 2021.09.10
+2021-09-10 17:43:41 add bookworm dsc main source i2p-keyring 2021.09.10
+2021-09-10 17:43:47 add bookworm deb main i386 libjbigi-jni 0.9.46-1ubuntu1
+2021-09-10 17:43:47 add bookworm deb main i386 i2p-router 1.5.0-2ubuntu1
+2021-09-10 17:43:47 add bookworm deb main i386 i2p-doc 1.5.0-2ubuntu1
+2021-09-10 17:43:47 add bookworm deb main i386 i2p 1.5.0-2ubuntu1
+2021-09-10 17:43:47 add bookworm deb main amd64 libjbigi-jni 1.5.0-2ubuntu1
+2021-09-10 17:43:47 add bookworm deb main amd64 i2p-router 1.5.0-2ubuntu1
+2021-09-10 17:43:47 add bookworm deb main amd64 i2p-doc 1.5.0-2ubuntu1
+2021-09-10 17:43:47 add bookworm deb main amd64 i2p 1.5.0-2ubuntu1
+2021-09-10 17:43:47 add bookworm deb main armhf libjbigi-jni 1.5.0-2ubuntu1
+2021-09-10 17:43:47 add bookworm deb main armhf i2p-router 1.5.0-2ubuntu1
+2021-09-10 17:43:47 add bookworm deb main armhf i2p-doc 1.5.0-2ubuntu1
+2021-09-10 17:43:47 add bookworm deb main armhf i2p 1.5.0-2ubuntu1
+2021-09-10 17:43:47 add bookworm deb main arm64 libjbigi-jni 1.5.0-2ubuntu1
+2021-09-10 17:43:47 add bookworm deb main arm64 i2p-router 1.5.0-2ubuntu1
+2021-09-10 17:43:47 add bookworm deb main arm64 i2p-doc 1.5.0-2ubuntu1
+2021-09-10 17:43:47 add bookworm deb main arm64 i2p 1.5.0-2ubuntu1
+2021-09-10 17:43:47 add bookworm deb main ppc64el libjbigi-jni 1.5.0-2ubuntu1
+2021-09-10 17:43:47 add bookworm deb main ppc64el i2p-router 1.5.0-2ubuntu1
+2021-09-10 17:43:47 add bookworm deb main ppc64el i2p-doc 1.5.0-2ubuntu1
+2021-09-10 17:43:47 add bookworm deb main ppc64el i2p 1.5.0-2ubuntu1
+2021-09-10 17:43:47 add bookworm deb main s390x libjbigi-jni 1.5.0-2ubuntu1
+2021-09-10 17:43:47 add bookworm deb main s390x i2p-router 1.5.0-2ubuntu1
+2021-09-10 17:43:47 add bookworm deb main s390x i2p-doc 1.5.0-2ubuntu1
+2021-09-10 17:43:47 add bookworm deb main s390x i2p 1.5.0-2ubuntu1
+2021-09-10 17:43:47 add bookworm dsc main source i2p 1.5.0-2ubuntu1
+2021-11-30 16:39:33 replace bookworm deb main i386 libjbigi-jni 0.9.46-1ubuntu1 0.9.46-1ubuntu1
+2021-11-30 16:39:33 replace bookworm deb main i386 i2p-router 1.6.1-1ubuntu1 1.5.0-2ubuntu1
+2021-11-30 16:39:33 replace bookworm deb main i386 i2p-doc 1.6.1-1ubuntu1 1.5.0-2ubuntu1
+2021-11-30 16:39:33 replace bookworm deb main i386 i2p 1.6.1-1ubuntu1 1.5.0-2ubuntu1
+2021-11-30 16:39:33 replace bookworm deb main amd64 libjbigi-jni 1.6.1-1ubuntu1 1.5.0-2ubuntu1
+2021-11-30 16:39:33 replace bookworm deb main amd64 i2p-router 1.6.1-1ubuntu1 1.5.0-2ubuntu1
+2021-11-30 16:39:33 replace bookworm deb main amd64 i2p-doc 1.6.1-1ubuntu1 1.5.0-2ubuntu1
+2021-11-30 16:39:33 replace bookworm deb main amd64 i2p 1.6.1-1ubuntu1 1.5.0-2ubuntu1
+2021-11-30 16:39:33 replace bookworm deb main arm64 libjbigi-jni 1.6.1-1ubuntu1 1.5.0-2ubuntu1
+2021-11-30 16:39:33 replace bookworm deb main arm64 i2p-router 1.6.1-1ubuntu1 1.5.0-2ubuntu1
+2021-11-30 16:39:33 replace bookworm deb main arm64 i2p-doc 1.6.1-1ubuntu1 1.5.0-2ubuntu1
+2021-11-30 16:39:33 replace bookworm deb main arm64 i2p 1.6.1-1ubuntu1 1.5.0-2ubuntu1
+2021-11-30 16:39:33 replace bookworm deb main armhf libjbigi-jni 1.6.1-1ubuntu1 1.5.0-2ubuntu1
+2021-11-30 16:39:33 replace bookworm deb main armhf i2p-router 1.6.1-1ubuntu1 1.5.0-2ubuntu1
+2021-11-30 16:39:33 replace bookworm deb main armhf i2p-doc 1.6.1-1ubuntu1 1.5.0-2ubuntu1
+2021-11-30 16:39:33 replace bookworm deb main armhf i2p 1.6.1-1ubuntu1 1.5.0-2ubuntu1
+2021-11-30 16:39:33 replace bookworm deb main ppc64el libjbigi-jni 1.6.1-1ubuntu1 1.5.0-2ubuntu1
+2021-11-30 16:39:33 replace bookworm deb main ppc64el i2p-router 1.6.1-1ubuntu1 1.5.0-2ubuntu1
+2021-11-30 16:39:33 replace bookworm deb main ppc64el i2p-doc 1.6.1-1ubuntu1 1.5.0-2ubuntu1
+2021-11-30 16:39:33 replace bookworm deb main ppc64el i2p 1.6.1-1ubuntu1 1.5.0-2ubuntu1
+2021-11-30 16:39:33 replace bookworm deb main s390x libjbigi-jni 1.6.1-1ubuntu1 1.5.0-2ubuntu1
+2021-11-30 16:39:33 replace bookworm deb main s390x i2p-router 1.6.1-1ubuntu1 1.5.0-2ubuntu1
+2021-11-30 16:39:33 replace bookworm deb main s390x i2p-doc 1.6.1-1ubuntu1 1.5.0-2ubuntu1
+2021-11-30 16:39:33 replace bookworm deb main s390x i2p 1.6.1-1ubuntu1 1.5.0-2ubuntu1
+2021-11-30 16:39:33 replace bookworm dsc main source i2p 1.6.1-1ubuntu1 1.5.0-2ubuntu1
+2021-11-30 16:39:39 replace bullseye deb main i386 libjbigi-jni 0.9.46-1ubuntu1 0.9.46-1ubuntu1
+2021-11-30 16:39:39 replace bullseye deb main i386 i2p-router 1.6.1-1ubuntu1 1.5.0-2ubuntu1
+2021-11-30 16:39:39 replace bullseye deb main i386 i2p-doc 1.6.1-1ubuntu1 1.5.0-2ubuntu1
+2021-11-30 16:39:39 replace bullseye deb main i386 i2p 1.6.1-1ubuntu1 1.5.0-2ubuntu1
+2021-11-30 16:39:39 replace bullseye deb main amd64 libjbigi-jni 1.6.1-1ubuntu1 1.5.0-2ubuntu1
+2021-11-30 16:39:39 replace bullseye deb main amd64 i2p-router 1.6.1-1ubuntu1 1.5.0-2ubuntu1
+2021-11-30 16:39:39 replace bullseye deb main amd64 i2p-doc 1.6.1-1ubuntu1 1.5.0-2ubuntu1
+2021-11-30 16:39:39 replace bullseye deb main amd64 i2p 1.6.1-1ubuntu1 1.5.0-2ubuntu1
+2021-11-30 16:39:39 replace bullseye deb main arm64 libjbigi-jni 1.6.1-1ubuntu1 1.5.0-2ubuntu1
+2021-11-30 16:39:39 replace bullseye deb main arm64 i2p-router 1.6.1-1ubuntu1 1.5.0-2ubuntu1
+2021-11-30 16:39:39 replace bullseye deb main arm64 i2p-doc 1.6.1-1ubuntu1 1.5.0-2ubuntu1
+2021-11-30 16:39:39 replace bullseye deb main arm64 i2p 1.6.1-1ubuntu1 1.5.0-2ubuntu1
+2021-11-30 16:39:39 replace bullseye deb main armhf libjbigi-jni 1.6.1-1ubuntu1 1.5.0-2ubuntu1
+2021-11-30 16:39:39 replace bullseye deb main armhf i2p-router 1.6.1-1ubuntu1 1.5.0-2ubuntu1
+2021-11-30 16:39:39 replace bullseye deb main armhf i2p-doc 1.6.1-1ubuntu1 1.5.0-2ubuntu1
+2021-11-30 16:39:39 replace bullseye deb main armhf i2p 1.6.1-1ubuntu1 1.5.0-2ubuntu1
+2021-11-30 16:39:39 replace bullseye deb main ppc64el libjbigi-jni 1.6.1-1ubuntu1 1.5.0-2ubuntu1
+2021-11-30 16:39:39 replace bullseye deb main ppc64el i2p-router 1.6.1-1ubuntu1 1.5.0-2ubuntu1
+2021-11-30 16:39:39 replace bullseye deb main ppc64el i2p-doc 1.6.1-1ubuntu1 1.5.0-2ubuntu1
+2021-11-30 16:39:39 replace bullseye deb main ppc64el i2p 1.6.1-1ubuntu1 1.5.0-2ubuntu1
+2021-11-30 16:39:39 replace bullseye deb main s390x libjbigi-jni 1.6.1-1ubuntu1 1.5.0-2ubuntu1
+2021-11-30 16:39:39 replace bullseye deb main s390x i2p-router 1.6.1-1ubuntu1 1.5.0-2ubuntu1
+2021-11-30 16:39:39 replace bullseye deb main s390x i2p-doc 1.6.1-1ubuntu1 1.5.0-2ubuntu1
+2021-11-30 16:39:39 replace bullseye deb main s390x i2p 1.6.1-1ubuntu1 1.5.0-2ubuntu1
+2021-11-30 16:39:39 replace bullseye dsc main source i2p 1.6.1-1ubuntu1 1.5.0-2ubuntu1
+2021-11-30 16:39:44 replace buster deb main i386 libjbigi-jni 0.9.46-1ubuntu1 0.9.46-1ubuntu1
+2021-11-30 16:39:44 replace buster deb main i386 i2p-router 1.6.1-1ubuntu1 1.5.0-2ubuntu1
+2021-11-30 16:39:44 replace buster deb main i386 i2p-doc 1.6.1-1ubuntu1 1.5.0-2ubuntu1
+2021-11-30 16:39:44 replace buster deb main i386 i2p 1.6.1-1ubuntu1 1.5.0-2ubuntu1
+2021-11-30 16:39:44 replace buster deb main amd64 libjbigi-jni 1.6.1-1ubuntu1 1.5.0-2ubuntu1
+2021-11-30 16:39:44 replace buster deb main amd64 i2p-router 1.6.1-1ubuntu1 1.5.0-2ubuntu1
+2021-11-30 16:39:44 replace buster deb main amd64 i2p-doc 1.6.1-1ubuntu1 1.5.0-2ubuntu1
+2021-11-30 16:39:44 replace buster deb main amd64 i2p 1.6.1-1ubuntu1 1.5.0-2ubuntu1
+2021-11-30 16:39:44 replace buster deb main arm64 libjbigi-jni 1.6.1-1ubuntu1 1.5.0-2ubuntu1
+2021-11-30 16:39:44 replace buster deb main arm64 i2p-router 1.6.1-1ubuntu1 1.5.0-2ubuntu1
+2021-11-30 16:39:44 replace buster deb main arm64 i2p-doc 1.6.1-1ubuntu1 1.5.0-2ubuntu1
+2021-11-30 16:39:44 replace buster deb main arm64 i2p 1.6.1-1ubuntu1 1.5.0-2ubuntu1
+2021-11-30 16:39:44 replace buster deb main armhf libjbigi-jni 1.6.1-1ubuntu1 1.5.0-2ubuntu1
+2021-11-30 16:39:44 replace buster deb main armhf i2p-router 1.6.1-1ubuntu1 1.5.0-2ubuntu1
+2021-11-30 16:39:44 replace buster deb main armhf i2p-doc 1.6.1-1ubuntu1 1.5.0-2ubuntu1
+2021-11-30 16:39:44 replace buster deb main armhf i2p 1.6.1-1ubuntu1 1.5.0-2ubuntu1
+2021-11-30 16:39:44 replace buster deb main ppc64el libjbigi-jni 1.6.1-1ubuntu1 1.5.0-2ubuntu1
+2021-11-30 16:39:44 replace buster deb main ppc64el i2p-router 1.6.1-1ubuntu1 1.5.0-2ubuntu1
+2021-11-30 16:39:44 replace buster deb main ppc64el i2p-doc 1.6.1-1ubuntu1 1.5.0-2ubuntu1
+2021-11-30 16:39:44 replace buster deb main ppc64el i2p 1.6.1-1ubuntu1 1.5.0-2ubuntu1
+2021-11-30 16:39:44 replace buster deb main s390x libjbigi-jni 1.6.1-1ubuntu1 1.5.0-2ubuntu1
+2021-11-30 16:39:44 replace buster deb main s390x i2p-router 1.6.1-1ubuntu1 1.5.0-2ubuntu1
+2021-11-30 16:39:44 replace buster deb main s390x i2p-doc 1.6.1-1ubuntu1 1.5.0-2ubuntu1
+2021-11-30 16:39:44 replace buster deb main s390x i2p 1.6.1-1ubuntu1 1.5.0-2ubuntu1
+2021-11-30 16:39:44 replace buster dsc main source i2p 1.6.1-1ubuntu1 1.5.0-2ubuntu1
