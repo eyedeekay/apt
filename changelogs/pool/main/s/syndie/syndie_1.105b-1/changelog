@@ -1,0 +1,72 @@
+syndie (1.105b-1) unstable; urgency=medium
+
+  * New upstream release
+
+ -- Kill Your TV <killyourtv@i2pmail.org>  Mon, 10 Feb 2014 00:00:59 +0000
+
+syndie (1.103b-4) unstable; urgency=low
+
+  * French, Spanish, and Swedish translation updates
+
+ -- Kill Your TV <killyourtv@i2pmail.org>  Sat, 12 Oct 2013 21:46:06 +0000
+
+syndie (1.103b-3) unstable; urgency=low
+
+  * Bump dependencies on hsqldb in Saucy and Sid. Fixes #1006
+
+ -- Kill Your TV <killyourtv@i2pmail.org>  Sun, 25 Aug 2013 21:41:50 +0000
+
+syndie (1.103b-2) unstable; urgency=low
+
+  * Add dependecy on libswt-cairo-gtk-3-jni
+
+ -- Kill Your TV <killyourtv@i2pmail.org>  Wed, 22 May 2013 23:54:34 +0000
+
+syndie (1.103b-1) unstable; urgency=low
+
+  * New upstream release
+
+ -- Kill Your TV <killyourtv@i2pmail.org>  Sun, 03 Feb 2013 19:16:09 +0000
+
+syndie (1.101~b8-3) unstable; urgency=low
+
+  * Don't include swt.jar in syndie.jar.
+
+ -- Kill Your TV <killyourtv@i2pmail.org>  Wed, 30 May 2012 16:04:40 +0000
+
+syndie (1.101~b8-2) unstable; urgency=low
+
+  * Add libswt-gtk-3-java as a valid swt alternate
+  * Bump standards version (no source changes needed)
+
+ -- Kill Your TV <killyourtv@i2pmail.org>  Wed, 23 May 2012 13:37:25 +0000
+
+syndie (1.101~b8-1) unstable; urgency=low
+
+  * New upstream beta
+    - add web server support for HEAD, for shared files only
+
+ -- Kill Your TV <killyourtv@i2pmail.org>  Sat, 28 May 2011 23:43:41 +0000
+
+syndie (1.101~b7-3) unstable; urgency=low
+
+  * Change dependencies to i2p-router | i2p
+  * Remove newly deprecated build-dep on default-jdk-builddep
+
+ -- Kill Your TV <killyourtv@i2pmail.org>  Fri, 27 May 2011 01:51:01 +0000
+
+syndie (1.101~b7-2) unstable; urgency=low
+
+  * Explicitly set Djava.library.path in startup script (thanks for your help
+    A.D.)
+
+ -- Kill Your TV <killyourtv@i2pmail.org>  Fri, 29 Apr 2011 09:21:49 +0000
+
+syndie (1.101~b7-1) unstable; urgency=low
+
+  * Initial packaging
+  * Removing defunct Syndie archives from Welcome screen
+  * Set classpath in syndie start-up script with the contents of the message at
+    urn:syndie:channel:d7:channel44:mRUEvztbna1ed978nlQh-A44rK8XwXs~dNj8YPFn6Fc=9:messageIdi1172093191594ee
+
+ -- Kill Your TV <killyourtv@i2pmail.org>  Mon, 25 Apr 2011 23:41:26 +0000
