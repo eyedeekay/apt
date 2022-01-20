@@ -1,0 +1,97 @@
+Package: i2p
+Version: 0.9.45p-1~precise+1
+Architecture: all
+Bugs: mailto:zzz@i2pmail.org
+Maintainer: zzz <zzz@i2pmail.org>
+Installed-Size: 627
+Depends: adduser, debconf, i2p-router (>= 0.8.6-5), libjbigi-jni, lsb-base (>= 3.0-6), service-wrapper
+Homepage: https://geti2p.net/
+Priority: optional
+Section: net
+Filename: pool/main/i/i2p/i2p_0.9.45p-1~precise+1_all.deb
+Size: 70006
+SHA256: 8629199578a8fd599d21d8182c3296a3bb7faf8be8cfcff3c3259e75261d20a3
+SHA1: cce19122b0f7bebab5e8cb5fd408da3a0d607210
+MD5sum: 3aff30076e837691be1d024ef7856d97
+Description: Invisible Internet Project (I2P) - anonymous network
+ I2P is an anonymizing network, offering a simple layer that identity-sensitive
+ applications can use to securely communicate. All data is wrapped with several
+ layers of encryption, and the network is both distributed and dynamic, with no
+ trusted parties.
+ .
+ This package depends on the router, jbigi, the java service wrapper, and
+ includes support to run I2P as a daemon.
+
+Package: i2p-doc
+Source: i2p
+Version: 0.9.45p-1~precise+1
+Architecture: all
+Bugs: mailto:zzz@i2pmail.org
+Maintainer: zzz <zzz@i2pmail.org>
+Installed-Size: 71048
+Suggests: i2p, default-jdk-doc
+Homepage: https://geti2p.net/
+Priority: extra
+Section: doc
+Filename: pool/main/i/i2p/i2p-doc_0.9.45p-1~precise+1_all.deb
+Size: 2983272
+SHA256: 773db9e296217e93dd35f56460cf6d83f717c0ac1de2a249206c997943dba430
+SHA1: 1b085d8b76e1caee9b696e5a344d7e87daab44aa
+MD5sum: 3314d0b8517a69452aac5a9c37e3e0c2
+Description: Invisible Internet Project (I2P) - developer documentation
+ I2P is an anonymizing network, offering a simple layer that identity-sensitive
+ applications can use to securely communicate. All data is wrapped with several
+ layers of encryption, and the network is both distributed and dynamic, with no
+ trusted parties.
+ .
+ This package contains the Javadoc files.
+
+Package: i2p-keyring
+Version: 2021.09.10
+Architecture: all
+Maintainer: zzz on i2p <zzz@i2pmail.org>
+Installed-Size: 28
+Depends: gnupg, coreutils (>= 7.4)
+Recommends: killyourtv-keyring
+Priority: extra
+Section: misc
+Filename: pool/main/i/i2p-keyring/i2p-keyring_2021.09.10_all.deb
+Size: 15004
+SHA256: 2ad24b3f7d54fadbfb69bc5fe6f7381267a900ac7e2a3079ba2fa812915cca41
+SHA1: 494bf1b78d1b1efbc1934ff76dfbffe421de44bf
+MD5sum: 7c42bf8099cbaa9bb4134ef976d48862
+Description: GnuPG keys of the I2P package repository
+ This package provides digital keys used for signing I2P's repositories.
+ Upon installation of this package, your APT trusted keyring will updated with
+ these keys. Upon removal of this package, the keys provided by this package
+ will be removed from the APT trusted keyring.
+
+Package: i2p-router
+Source: i2p
+Version: 0.9.45p-1~precise+1
+Architecture: all
+Bugs: mailto:zzz@i2pmail.org
+Maintainer: zzz <zzz@i2pmail.org>
+Installed-Size: 16517
+Depends: openjdk-8-jre-headless | openjdk-7-jre-headless | java8-runtime-headless | java7-runtime-headless, geoip-database, gettext-base, libgetopt-java, glassfish-javaee
+Recommends: libjbigi-jni, fonts-dejavu
+Suggests: apparmor, privoxy, syndie
+Breaks: i2p (<< 0.8.6-5)
+Replaces: i2p (<< 0.8.6-5)
+Homepage: https://geti2p.net/
+Priority: optional
+Section: net
+Filename: pool/main/i/i2p/i2p-router_0.9.45p-1~precise+1_all.deb
+Size: 13572750
+SHA256: 2344bf66dbb17bb88b7715219804cdca9d3acb4fa4f821b44d90a06aeb46bcc8
+SHA1: 49b3d8570c809e3e6bb425747c695304405ada7e
+MD5sum: dbf200dc0a9559c429aa4ce93b8d1243
+Description: Invisible Internet Project (I2P) - Router
+ I2P is an anonymizing network, offering a simple layer that identity-sensitive
+ applications can use to securely communicate. All data is wrapped with several
+ layers of encryption, and the network is both distributed and dynamic, with no
+ trusted parties.
+ .
+ TrueType fonts (such as those provided in the package fonts-dejavu) are required
+ in order to generate graphs.
+
