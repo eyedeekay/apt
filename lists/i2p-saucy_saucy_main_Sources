@@ -1,0 +1,54 @@
+Package: service-wrapper-java
+Binary: service-wrapper, libservice-wrapper-java, libservice-wrapper-jni, libservice-wrapper-doc
+Version: 3.5.22-1~saucy1
+Section: java
+Maintainer: Kill Your TV <killyourtv@i2pmail.org>
+Build-Depends: debhelper (>= 9), javahelper, default-jdk, ant, ant-optional, junit, junit4, hardening-wrapper
+Architecture: any all
+Standards-Version: 3.9.4
+Format: 3.0 (quilt)
+Directory: pool/main/s/service-wrapper-java
+Files:
+ ce3251032fbca93be49d82f043d662ec 542341 service-wrapper-java_3.5.22.orig.tar.gz
+ 36d36439551c2bdbe45be82071354860 10674 service-wrapper-java_3.5.22-1~saucy1.debian.tar.gz
+ 2f887e94af7332a832e61f0be158a163 1778 service-wrapper-java_3.5.22-1~saucy1.dsc
+Checksums-Sha1:
+ 871dd0fce10399d89d35364f7f8dae81ceb93e05 542341 service-wrapper-java_3.5.22.orig.tar.gz
+ 81c67bd3e8dcb98e267cca60fe1b1f244581a38b 10674 service-wrapper-java_3.5.22-1~saucy1.debian.tar.gz
+ f3eebc67a239fbf1143417d449f9e55daa323944 1778 service-wrapper-java_3.5.22-1~saucy1.dsc
+Checksums-Sha256:
+ d8c927dff2f129009130f68b2ce4dea9522ba70748d4794fe31a2ee870cebc88 542341 service-wrapper-java_3.5.22.orig.tar.gz
+ dfcb083ea4c6f16beee3c0eb30a577bb2adf107ae6e0d65de42ae7dbe7b3bff5 10674 service-wrapper-java_3.5.22-1~saucy1.debian.tar.gz
+ fd0d21e4b3c096179bf2a81d2d40e1c3e56de2d9a1e914576f261c41ba9f082b 1778 service-wrapper-java_3.5.22-1~saucy1.dsc
+Homepage: http://wrapper.tanukisoftware.com
+Package-List: libservice-wrapper-doc deb doc optional
+ libservice-wrapper-java deb java optional
+ libservice-wrapper-jni deb java optional
+ service-wrapper deb java optional
+
+Package: syndie
+Binary: syndie
+Version: 1.105b-1ubuntu1
+Section: java
+Maintainer: Kill Your TV <killyourtv@i2pmail.org>
+Build-Depends: debhelper (>= 7.0.50~)
+Build-Depends-Indep: ant, default-jdk, libswt-gtk-3-java, libswt-cairo-gtk-3-jni, i2p-router | i2p
+Architecture: all
+Standards-Version: 3.9.5
+Format: 3.0 (quilt)
+Directory: pool/main/s/syndie
+Files:
+ 68534ec0d380d52e8d2a78b06384c1c2 5832466 syndie_1.105b.orig.tar.bz2
+ 826eb21ea7c7134ba44b1994510b4d0b 47044 syndie_1.105b-1ubuntu1.debian.tar.xz
+ fd321dc5f59115ea0fffe18f061e9cc5 1455 syndie_1.105b-1ubuntu1.dsc
+Checksums-Sha1:
+ 57dd5dab4359348abe54e7af9418ede7f8a7bb3c 5832466 syndie_1.105b.orig.tar.bz2
+ 9ff3cf13f8e0a7816f6ae2f422908e9cfb789c05 47044 syndie_1.105b-1ubuntu1.debian.tar.xz
+ 6df0cf8cb0c59f9ba4d67ae9dc8126633afe6638 1455 syndie_1.105b-1ubuntu1.dsc
+Checksums-Sha256:
+ f6bd632b0264016fb57255e8c3db1bea8d1d1004e163c10cd7c1d44c980f36bb 5832466 syndie_1.105b.orig.tar.bz2
+ 017b5875ecdeee7cdd179eafc0b724e60fd58fbc09c3e158d0894f02a3b0d99f 47044 syndie_1.105b-1ubuntu1.debian.tar.xz
+ 3c3c3c62ac83a51ee299bc79761ef734ff8f763f5c269fa994aa10d4dedd6abb 1455 syndie_1.105b-1ubuntu1.dsc
+Homepage: http://syndie.de
+Package-List: syndie deb java extra
+
