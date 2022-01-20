@@ -1,0 +1,93 @@
+Package: i2p
+Priority: optional
+Section: net
+Installed-Size: 389
+Maintainer: zzz <zzz@i2pmail.org>
+Architecture: all
+Version: 0.9.27-1-1ubuntu1
+Depends: adduser, debconf, i2p-router (>= 0.8.6-5), libjbigi-jni, lsb-base, service-wrapper
+Filename: pool/main/i/i2p/i2p_0.9.27-1-1ubuntu1_all.deb
+Size: 47226
+MD5sum: 5536df20a48a876449063f5b0f3f266a
+SHA1: 3a0355c66af6b2b95e97b1e2a84f3d27a8509216
+SHA256: fd286d02bd38356be801da819e7064bbd65063cb6497b24c654970190ed403b0
+Description: Load-balanced unspoofable packet switching network
+Description-md5: 07d374457990b0a573824682708d0849
+Bugs: mailto:zzz@i2pmail.org
+
+Package: i2p-doc
+Source: i2p
+Priority: optional
+Section: doc
+Installed-Size: 55233
+Maintainer: zzz <zzz@i2pmail.org>
+Architecture: all
+Version: 0.9.27-1-1ubuntu1
+Suggests: i2p, default-jdk-doc
+Filename: pool/main/i/i2p/i2p-doc_0.9.27-1-1ubuntu1_all.deb
+Size: 2344468
+MD5sum: 66b53e235f8284cbc5cd43b9b402cd0a
+SHA1: 0dcbfe29ac7f9df09156331d639359af9366f697
+SHA256: ba59d4030718ec662d2f4f0aaccc899702d3f7752f4c34272f75b8ad9038e7d5
+Description: Documentation for I2P
+Description-md5: bb6b5a0f608c3d0ed86fb5920cdb0614
+Bugs: mailto:zzz@i2pmail.org
+
+Package: libjbigi-jni
+Source: i2p
+Priority: optional
+Section: java
+Installed-Size: 44
+Maintainer: zzz <zzz@i2pmail.org>
+Architecture: amd64
+Version: 0.9.27-1-1ubuntu1
+Depends: libc6 (>= 2.2.5), libgmp10, i2p-router
+Filename: pool/main/i/i2p/libjbigi-jni_0.9.27-1-1ubuntu1_amd64.deb
+Size: 4856
+MD5sum: 5408a128da51b3cb2a01389355c68d24
+SHA1: 63a3f5549b9173844d65a545c50c03f521acc0da
+SHA256: ba2ff48ac52fd7185fbb7132683ec7354656de41c1793d6c3c98685032ae4488
+Description: Java Big Integer library
+Description-md5: e84af55979a932bf73ddaf4b614c1a2d
+Bugs: mailto:zzz@i2pmail.org
+
+Package: syndie
+Priority: extra
+Section: java
+Installed-Size: 4596
+Maintainer: Kill Your TV <killyourtv@i2pmail.org>
+Architecture: all
+Version: 1.107b-2ubuntu1
+Suggests: tor, freenet
+Depends: openjdk-9-jre | openjdk-8-jre | openjdk-7-jre | default-jre | java9-runtime | java8-runtime | java7-runtime, libswt-gtk-3-java, libhsqldb-java, i2p-router | i2p
+Enhances: i2p, i2p-router, tor
+Filename: pool/main/s/syndie/syndie_1.107b-2ubuntu1_all.deb
+Size: 4220986
+MD5sum: 69056e17c771fb3c46543f8e06f26c0b
+SHA1: 70296e8d4a5fc20a2315b73947b3c2314192b176
+SHA256: ae476672797154ef6dc25137ddb81a7e45e283aa79870a41daba0e8de95b4f1e
+Description: Syndie anonymous distributed forums
+Description-md5: 6ac3d9136577e5e981c1dbb49a9f93b2
+
+Package: i2p-router
+Source: i2p
+Priority: optional
+Section: net
+Installed-Size: 10471
+Maintainer: zzz <zzz@i2pmail.org>
+Architecture: all
+Version: 0.9.27-1-1ubuntu1
+Recommends: libjbigi-jni, ttf-dejavu
+Replaces: i2p (<< 0.8.6-5)
+Suggests: tor, apparmor, i2p-messenger, i2phex, i2p-tahoe-lafs, imule, irc-client, itoopie, mail-client, mail-reader, news-reader, polipo, privoxy, robert, syndie, www-browser, xul-ext-torbutton
+Depends: openjdk-8-jre-headless | openjdk-7-jre-headless | default-jre-headless | java8-runtime-headless | java7-runtime-headless, libecj-java, geoip-database, gettext-base, libgetopt-java, libjetty8-java, libservlet3.0-java, glassfish-javaee
+Breaks: i2p (<< 0.8.6-5)
+Filename: pool/main/i/i2p/i2p-router_0.9.27-1-1ubuntu1_all.deb
+Size: 8812532
+MD5sum: 4bd0d9a8619c651c15af94330b7ccb39
+SHA1: baa37a9a1a8ec108ebd87607d4c5ac62b1d35ef1
+SHA256: 2ddded8d99d7fbb8cbbbac87a347f451e93f6f12a9ab9b763c1f53e60ef8c70b
+Description: Load-balanced unspoofable packet switching network
+Description-md5: 7bfa015ed4f1a91b82c0cdbe1003f1ba
+Bugs: mailto:zzz@i2pmail.org
+
