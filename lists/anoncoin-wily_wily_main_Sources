@@ -1,0 +1,28 @@
+Package: i2p
+Binary: i2p, libjbigi-jni, i2p-doc, i2p-router
+Version: 0.9.23-2ubuntu1
+Section: net
+Maintainer: Kill Your TV <killyourtv@i2pmail.org>
+Build-Depends: debhelper (>= 7.0.50~), ant (>= 1.8), ant-optional, debconf, default-jdk | openjdk-7-jdk | openjdk-6-jdk, gettext, dh-apparmor, libgmp3-dev, libservice-wrapper-java, libcommons-logging-java, po-debconf, dh-systemd
+Architecture: any all
+Standards-Version: 3.9.6
+Format: 3.0 (quilt)
+Directory: pool/main/i/i2p
+Files:
+ ae7a5285ff13d02c60781c94b4786e27 9181790 i2p_0.9.23.orig.tar.bz2
+ 83d68e46739a8261df026a54c8d0add8 50548 i2p_0.9.23-2ubuntu1.debian.tar.xz
+ 248993b9cdefe3d8eaae954238d59ee6 2010 i2p_0.9.23-2ubuntu1.dsc
+Checksums-Sha1:
+ f24bdfaab8d36c19e3df440a8f27a8a1fde609c7 9181790 i2p_0.9.23.orig.tar.bz2
+ 31bc66b2854c388fd8a6b0050b229195afe4fa23 50548 i2p_0.9.23-2ubuntu1.debian.tar.xz
+ 0dbeb47024c9916b983e9edb860fcdeb4b192218 2010 i2p_0.9.23-2ubuntu1.dsc
+Checksums-Sha256:
+ a8ce045f82a020163e5cd319e6301eec6100a58e6037be9faa7d64db6c72f908 9181790 i2p_0.9.23.orig.tar.bz2
+ be878cc83b90900291ead8eddaa7a5d3bc2be4a1755d5a1b8c41b10aeac9df25 50548 i2p_0.9.23-2ubuntu1.debian.tar.xz
+ 15dcf446c9e2320d46469c8f2daa1d187465a0eedbf65ed948df178bd6179a1f 2010 i2p_0.9.23-2ubuntu1.dsc
+Homepage: https://geti2p.net
+Package-List: i2p deb net optional arch=all
+ i2p-doc deb doc optional arch=all
+ i2p-router deb net optional arch=all
+ libjbigi-jni deb java optional arch=any
+
