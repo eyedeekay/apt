@@ -1,0 +1,10 @@
+Updates already processed for artful:
+Target artful|main|source
+Delete
+Index i2p-artful_artful_main_Sources :1:9987bb715ab893a743a44a45cfdee31cf4e0dfcf :2:30aa749ec94611ddcd45301b06a219b7dc8584b811a1847dcaaf543954f6516e 34b149b46563f069ce0d83966540076a 1444
+Target artful|main|amd64
+Delete
+Index i2p-artful_artful_main_amd64_Packages :1:fc8730eb9093b9573cc33d4127162c30362b03b8 :2:616c22a0e4d1e675785af8c3452fd15e3bd27bdfab112454f38c43affedcfabe a052e2bb80b8a3d0e3c0b31c9b6a6c4e 2746
+Target artful|main|i386
+Delete
+Index i2p-artful_artful_main_i386_Packages :1:756f94fe9dc69762bedd3ccb1977e0f8ad984e91 :2:72a8914bb37f63bace6e6c33fb55aeeedd8de4e6954481aee9a987dd18275782 63bd85e4b6d7a0c12a0ddf69c57b6d25 2744
