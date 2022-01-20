@@ -1,0 +1,10 @@
+Updates already processed for vivid:
+Target vivid|main|source
+Delete
+Index i2p-vivid_vivid_main_Sources :1:50a040a0fe6e39cc3aeacacee48aba72f1f4b125 :2:15e29eefafa7c7043141166700efd315c1107ba45f86984624ae4adde9b7a933 27a9ed307a7144ef6f2b53bc6674ba7b 2679
+Target vivid|main|amd64
+Delete
+Index i2p-vivid_vivid_main_amd64_Packages :1:a49f7a459f3518e6381c2ed45a252a4a1e983f6e :2:2b28625e2f8bdbe4bd702a5d060ae1480ae0cdffc3587eea73d95005aa88c2bf 41e40f82ff34ba036d2205d502afc52e 3401
+Target vivid|main|i386
+Delete
+Index i2p-vivid_vivid_main_i386_Packages :1:ece30ace6f963983dc82f511336edcc5bdca80f5 :2:fdc4eeed3682551ce44328976c06a02523b04a1b577bb52724aea75086ca6300 16f4c255a69648721af2fb53e05cadd9 3399
