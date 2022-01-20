@@ -1,0 +1,217 @@
+Package: i2p
+Priority: optional
+Section: net
+Installed-Size: 175
+Maintainer: Kill Your TV <killyourtv@i2pmail.org>
+Architecture: all
+Version: 0.9.23-2~precise+1
+Depends: adduser, debconf, i2p-router (>= 0.8.6-5), libjbigi-jni, lsb-base, service-wrapper
+Filename: pool/main/i/i2p/i2p_0.9.23-2~precise+1_all.deb
+Size: 34574
+MD5sum: 27cf5da2480c1eb3d4905ef7a81318ca
+SHA1: 5a5cc9276858239213f2116234d08916189fc029
+SHA256: 1f5df7ec82012384be89317962d389f0075e49abfface4e00af899d3d68212c9
+Description: Load-balanced unspoofable packet switching network
+Description-md5: 07d374457990b0a573824682708d0849
+Bugs: mailto:killyourtv@i2pmail.org
+
+Package: service-wrapper
+Source: service-wrapper-java
+Priority: optional
+Section: java
+Installed-Size: 412
+Maintainer: Kill Your TV <killyourtv@i2pmail.org>
+Architecture: i386
+Version: 3.5.25-1~precise1
+Depends: libc6 (>= 2.4), libservice-wrapper-java (>= 3.5.25-1~precise1), libservice-wrapper-jni (>= 3.5.25-1~precise1)
+Filename: pool/main/s/service-wrapper-java/service-wrapper_3.5.25-1~precise1_i386.deb
+Size: 171002
+MD5sum: fd23ac2e56d78cb9e6bf073fb6b55be2
+SHA1: ad661a498371776bba909eb0be5e9d67d8acdf01
+SHA256: 7d3f3273c62c3a9966d331dbc644b25ef17bbee333b0a052f8217f2ff994b8c6
+Description: Jar daemon wrapper
+Description-md5: 55c730f30d08582a332d56d0b541cfcf
+
+Package: libservice-wrapper-java
+Source: service-wrapper-java
+Priority: optional
+Section: java
+Installed-Size: 274
+Maintainer: Kill Your TV <killyourtv@i2pmail.org>
+Architecture: all
+Version: 3.5.25-1~precise1
+Depends: service-wrapper
+Filename: pool/main/s/service-wrapper-java/libservice-wrapper-java_3.5.25-1~precise1_all.deb
+Size: 231100
+MD5sum: 82b9f1bf6c7b0329114352d95577ca0e
+SHA1: 3b50136d6dad4d4d8170866a8c7b83f5ef1c4f39
+SHA256: 07c98987113c352de92bec2da2aa9d0674f08ed1ba00c86b06a002fdd9cccb5f
+Description: Jar daemon wrapper java libraries
+Description-md5: 609e3c08b9f3180259a3f02706b9e374
+
+Package: libservice-wrapper-jni
+Source: service-wrapper-java
+Priority: optional
+Section: java
+Installed-Size: 66
+Maintainer: Kill Your TV <killyourtv@i2pmail.org>
+Architecture: i386
+Version: 3.5.25-1~precise1
+Suggests: libservice-wrapper-doc
+Depends: libc6 (>= 2.4), service-wrapper, default-jre-headless | java5-runtime-headless | java6-runtime-headless
+Filename: pool/main/s/service-wrapper-java/libservice-wrapper-jni_3.5.25-1~precise1_i386.deb
+Size: 16634
+MD5sum: 7acbfc3ffca4ddfd44118d0605b0dfe5
+SHA1: dab6f214f4b1027bc8dea0ffb64992631b7ae9ba
+SHA256: 92b42a012ba57667ae73be639ad8976e11a25b39de66c46683817fc929954f6c
+Description: Jar daemon wrapper JNI libraries
+Description-md5: 2487638ce372a9da038a5f06eb17f25a
+
+Package: i2p-doc
+Source: i2p
+Priority: optional
+Section: doc
+Installed-Size: 51956
+Maintainer: Kill Your TV <killyourtv@i2pmail.org>
+Architecture: all
+Version: 0.9.23-2~precise+1
+Suggests: i2p, default-jdk-doc
+Filename: pool/main/i/i2p/i2p-doc_0.9.23-2~precise+1_all.deb
+Size: 2183080
+MD5sum: 9892fa8ba9302d3136cd2fe3cd80d663
+SHA1: b2601c4c5db39472254152aaa747ce6e2fd9f832
+SHA256: d67154810f45d534b5805d7dc53acbf615a671b459ac6cf18235ef57f9bcb9c0
+Description: Documentation for I2P
+Description-md5: bb6b5a0f608c3d0ed86fb5920cdb0614
+Bugs: mailto:killyourtv@i2pmail.org
+
+Package: libjbigi-jni
+Source: i2p
+Priority: optional
+Section: java
+Installed-Size: 39
+Maintainer: Kill Your TV <killyourtv@i2pmail.org>
+Architecture: i386
+Version: 0.9.23-2~precise+1
+Depends: libc6 (>= 2.1.3), libgmp10, i2p-router
+Filename: pool/main/i/i2p/libjbigi-jni_0.9.23-2~precise+1_i386.deb
+Size: 3750
+MD5sum: 4e8b4255f1ee5b9e6a18d00c39bbe3cb
+SHA1: 03b9fdd8fab10cad3a77ebf125601e9a0936c57a
+SHA256: 2b6ce4fb6cde9d764fa270103120ded22244f6814155c280fe59489431f19140
+Description: Java Big Integer library
+Description-md5: e84af55979a932bf73ddaf4b614c1a2d
+Bugs: mailto:killyourtv@i2pmail.org
+
+Package: i2p-router
+Source: i2p
+Priority: optional
+Section: net
+Installed-Size: 14961
+Maintainer: Kill Your TV <killyourtv@i2pmail.org>
+Architecture: all
+Version: 0.9.23-2~precise+1
+Recommends: libjbigi-jni, ttf-dejavu
+Replaces: i2p (<< 0.8.6-5)
+Suggests: tor, apparmor, i2p-messenger, i2phex, i2p-tahoe-lafs, imule, irc-client, itoopie, mail-client, mail-reader, news-reader, polipo, privoxy, robert, syndie, www-browser, xul-ext-torbutton
+Depends: openjdk-8-jre-headless | openjdk-7-jre-headless | openjdk-6-jre-headless | default-jre-headless | java8-runtime-headless | java7-runtime-headless | java6-runtime-headless, libecj-java
+Breaks: i2p (<< 0.8.6-5)
+Filename: pool/main/i/i2p/i2p-router_0.9.23-2~precise+1_all.deb
+Size: 10936982
+MD5sum: 564574a834e19bf294e6778b0f7d0c9e
+SHA1: ebdceb2f3890d5aee945b77080cbf13de5753483
+SHA256: 05a12d30e03b47721a90aa46c573e4e0f91be832b34087373a5625a56225c060
+Description: Load-balanced unspoofable packet switching network
+Description-md5: 7bfa015ed4f1a91b82c0cdbe1003f1ba
+Bugs: mailto:killyourtv@i2pmail.org
+
+Package: libservice-wrapper-doc
+Source: service-wrapper-java
+Priority: optional
+Section: doc
+Installed-Size: 1976
+Maintainer: Kill Your TV <killyourtv@i2pmail.org>
+Architecture: all
+Version: 3.5.25-1~precise1
+Filename: pool/main/s/service-wrapper-java/libservice-wrapper-doc_3.5.25-1~precise1_all.deb
+Size: 222032
+MD5sum: bd06634c2343e0d84f1d0e3e85bc95b2
+SHA1: 83f2eb85c9c6fc35338501e61a6498d867463e87
+SHA256: 3d2fafb4b5d6a4bed484859a8a6a894fb3b25316978f17e95358999d8457abf6
+Description: Jar daemon wrapper (javadoc files)
+Description-md5: 75a2fd80382d103fe1e27d263f169c94
+
+Package: anoncoind
+Source: anoncoin
+Priority: optional
+Section: utils
+Installed-Size: 3011
+Maintainer: Kill Your TV <killyourtv@i2pmail.org>
+Architecture: i386
+Version: 0.8.5.6-1ubuntu1~precise1
+Recommends: i2p | i2p-router, tor
+Suggests: db-util
+Depends: libboost-filesystem1.46.1 (>= 1.46.1-1), libboost-program-options1.46.1 (>= 1.46.1-1), libboost-system1.46.1 (>= 1.46.1-1), libboost-thread1.46.1 (>= 1.46.1-1), libc6 (>= 2.15), libdb5.1++, libgcc1 (>= 1:4.1.1), libminiupnpc8 (>= 1.6), libssl1.0.0 (>= 1.0.0), libstdc++6 (>= 4.6)
+Filename: pool/main/a/anoncoin/anoncoind_0.8.5.6-1ubuntu1~precise1_i386.deb
+Size: 817024
+MD5sum: cdca06e0a57ef2da9ad7bf588be7c479
+SHA1: b2c130e558dfe732ef4d1dbfb02745270bc41cc6
+SHA256: cf755d4458baf6f732cc799fc5737cd0078fa5c0172f9ef230567d184e872fc2
+Description: peer-to-peer network based digital currency - daemon
+Description-md5: 7628bd21922c7145335ae4aa479fb2ba
+
+Package: anoncoin-qt
+Source: anoncoin
+Priority: optional
+Section: utils
+Installed-Size: 6175
+Maintainer: Kill Your TV <killyourtv@i2pmail.org>
+Architecture: i386
+Version: 0.8.5.6-1ubuntu1~precise1
+Recommends: i2p | i2p-router, tor
+Suggests: db-util
+Depends: libboost-filesystem1.46.1 (>= 1.46.1-1), libboost-program-options1.46.1 (>= 1.46.1-1), libboost-system1.46.1 (>= 1.46.1-1), libboost-thread1.46.1 (>= 1.46.1-1), libc6 (>= 2.15), libdb5.1++, libgcc1 (>= 1:4.1.1), libminiupnpc8 (>= 1.6), libqrencode3 (>= 3.1.1), libqt4-dbus (>= 4:4.5.3), libqt4-network (>= 4:4.5.3), libqtcore4 (>= 4:4.8.0), libqtgui4 (>= 4:4.8.0), libssl1.0.0 (>= 1.0.0), libstdc++6 (>= 4.6)
+Filename: pool/main/a/anoncoin/anoncoin-qt_0.8.5.6-1ubuntu1~precise1_i386.deb
+Size: 1940378
+MD5sum: 2cee1053855f1372f027ea6c5f1bea97
+SHA1: 7ffdcdb0689028c92138b54d78b676f894710afe
+SHA256: 3ec81dbd378dc8396498c62836ad73dfdb1f59fd4d7530f35f93ff2694887326
+Description: peer-to-peer network based digital currency - Qt GUI
+Description-md5: a7487b3e1601093416d611fcab50743f
+
+Package: i2pd
+Priority: optional
+Section: net
+Installed-Size: 2627
+Maintainer: Kill Your TV <killyourtv@i2pmail.org>
+Architecture: i386
+Version: 0.10.0-1~precise+1
+Recommends: privoxy
+Suggests: tor
+Depends: libboost-date-time1.46.1 (>= 1.46.1-1), libboost-filesystem1.46.1 (>= 1.46.1-1), libboost-program-options1.46.1 (>= 1.46.1-1), libboost-regex1.46.1 (>= 1.46.1-1), libboost-system1.46.1 (>= 1.46.1-1), libc6 (>= 2.8), libcrypto++9, libgcc1 (>= 1:4.1.1), libstdc++6 (>= 4.6)
+Pre-Depends: adduser
+Filename: pool/main/i/i2pd/i2pd_0.10.0-1~precise+1_i386.deb
+Size: 1081100
+MD5sum: 22cf9b122eab46cc043640fd3b0fbf3a
+SHA1: 32349b303ee077b00f8be7302bca913b9d1fce7a
+SHA256: 5ede0b590c1e13be9c4a986d26781eccb058becb070432ce47d78479a8b2168e
+Description: load-balanced unspoofable packet switching network - C++ port
+Description-md5: 33f1f7208e6a90024258737c78ec01d9
+
+Package: i2pd-dbg
+Source: i2pd
+Priority: extra
+Section: debug
+Installed-Size: 16355
+Maintainer: Kill Your TV <killyourtv@i2pmail.org>
+Architecture: i386
+Version: 0.10.0-1~precise+1
+Depends: i2pd (= 0.10.0-1~precise+1)
+Filename: pool/main/i/i2pd/i2pd-dbg_0.10.0-1~precise+1_i386.deb
+Size: 15702364
+MD5sum: 91f91d820830dde956835b09b8152c17
+SHA1: 8ba4ff846c846e441e6c54451d4bad233a28beff
+SHA256: 13d66dc3a65d749d6de4713d5a489e7a95f401e1acba9d5f81c280fa12ac7e0d
+Description: i2pd debugging symbols
+Description-md5: 481c656c1e0d409ef85570cddd3821cd
+
