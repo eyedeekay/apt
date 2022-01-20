@@ -1,0 +1,37 @@
+2017-04-15 16:12:57 add stretch-testing deb main i386 killyourtv-keyring 2015.03.27.1
+2017-04-15 16:12:57 add stretch-testing deb main amd64 killyourtv-keyring 2015.03.27.1
+2017-04-15 16:12:57 add stretch-testing deb main armel killyourtv-keyring 2015.03.27.1
+2017-04-15 16:12:57 add stretch-testing deb main armhf killyourtv-keyring 2015.03.27.1
+2017-04-15 16:12:57 add stretch-testing dsc main source killyourtv-keyring 2015.03.27.1
+2017-04-15 16:13:10 add stretch-testing deb main i386 i2p-keyring 2016.10.01
+2017-04-15 16:13:10 add stretch-testing deb main amd64 i2p-keyring 2016.10.01
+2017-04-15 16:13:10 add stretch-testing deb main armel i2p-keyring 2016.10.01
+2017-04-15 16:13:10 add stretch-testing deb main armhf i2p-keyring 2016.10.01
+2017-04-15 16:13:10 add stretch-testing dsc main source i2p-keyring 2016.10.01
+2017-04-15 16:15:29 add stretch-testing deb main i386 syndie 1.107b-2ubuntu1
+2017-04-15 16:15:29 add stretch-testing deb main amd64 syndie 1.107b-2ubuntu1
+2017-04-15 16:15:29 add stretch-testing deb main armel syndie 1.107b-2ubuntu1
+2017-04-15 16:15:29 add stretch-testing deb main armhf syndie 1.107b-2ubuntu1
+2017-04-15 16:15:29 add stretch-testing dsc main source syndie 1.107b-2ubuntu1
+2017-04-15 18:23:59 add stretch-testing deb main amd64 libjbigi-jni 0.9.29-17-rc-2ac5993f-1
+2017-04-15 18:24:18 add stretch-testing deb main i386 i2p-doc 0.9.29-17-rc-2ac5993f-1
+2017-04-15 18:24:18 add stretch-testing deb main amd64 i2p-doc 0.9.29-17-rc-2ac5993f-1
+2017-04-15 18:24:18 add stretch-testing deb main armel i2p-doc 0.9.29-17-rc-2ac5993f-1
+2017-04-15 18:24:18 add stretch-testing deb main armhf i2p-doc 0.9.29-17-rc-2ac5993f-1
+2017-04-15 18:24:29 add stretch-testing deb main i386 i2p 0.9.29-17-rc-2ac5993f-1
+2017-04-15 18:24:29 add stretch-testing deb main amd64 i2p 0.9.29-17-rc-2ac5993f-1
+2017-04-15 18:24:29 add stretch-testing deb main armel i2p 0.9.29-17-rc-2ac5993f-1
+2017-04-15 18:24:29 add stretch-testing deb main armhf i2p 0.9.29-17-rc-2ac5993f-1
+2017-04-15 18:24:41 add stretch-testing deb main i386 i2p-router 0.9.29-17-rc-2ac5993f-1
+2017-04-15 18:24:41 add stretch-testing deb main amd64 i2p-router 0.9.29-17-rc-2ac5993f-1
+2017-04-15 18:24:41 add stretch-testing deb main armel i2p-router 0.9.29-17-rc-2ac5993f-1
+2017-04-15 18:24:41 add stretch-testing deb main armhf i2p-router 0.9.29-17-rc-2ac5993f-1
+2017-04-15 18:26:46 add stretch-testing deb main i386 libjbigi-jni 0.9.29-1ubuntu1
+2017-04-15 18:26:46 replace stretch-testing deb main amd64 libjbigi-jni 0.9.29-1ubuntu1 0.9.29-17-rc-2ac5993f-1
+2017-04-15 18:26:46 add stretch-testing deb main armel libjbigi-jni 0.9.19-1~deb7u+1
+2017-04-15 18:26:46 add stretch-testing deb main armhf libjbigi-jni 0.9.20-2~deb7u+1
+2017-04-15 18:27:05 replace stretch-testing deb main amd64 libjbigi-jni 0.9.29-17-rc-2ac5993f-1 0.9.29-1ubuntu1
+2021-09-10 17:30:43 replace stretch-testing deb main i386 i2p-keyring 2021.09.10 2016.10.01
+2021-09-10 17:30:43 replace stretch-testing deb main amd64 i2p-keyring 2021.09.10 2016.10.01
+2021-09-10 17:30:43 replace stretch-testing deb main armel i2p-keyring 2021.09.10 2016.10.01
+2021-09-10 17:30:43 replace stretch-testing deb main armhf i2p-keyring 2021.09.10 2016.10.01
