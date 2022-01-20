@@ -1,0 +1,1165 @@
+2013-10-11 01:15:37 add sid dsc main source service-wrapper-java 3.5.20-1
+2013-10-11 01:15:37 add sid deb main amd64 service-wrapper 3.5.20-1
+2013-10-11 01:15:37 add sid deb main i386 libservice-wrapper-java 3.5.20-1
+2013-10-11 01:15:37 add sid deb main amd64 libservice-wrapper-java 3.5.20-1
+2013-10-11 01:15:37 add sid deb main amd64 libservice-wrapper-jni 3.5.20-1
+2013-10-11 01:15:37 add sid deb main i386 libservice-wrapper-doc 3.5.20-1
+2013-10-11 01:15:37 add sid deb main amd64 libservice-wrapper-doc 3.5.20-1
+2013-10-12 01:16:36 remove sid dsc main source service-wrapper-java 3.5.20-1
+2013-10-12 01:17:22 remove sid deb main i386 libservice-wrapper-doc 3.5.20-1
+2013-10-12 01:17:22 remove sid deb main i386 libservice-wrapper-java 3.5.20-1
+2013-10-12 01:17:22 remove sid deb main amd64 libservice-wrapper-doc 3.5.20-1
+2013-10-12 01:17:22 remove sid deb main amd64 libservice-wrapper-java 3.5.20-1
+2013-10-12 01:17:22 remove sid deb main amd64 libservice-wrapper-jni 3.5.20-1
+2013-10-12 01:17:22 remove sid deb main amd64 service-wrapper 3.5.20-1
+2013-10-12 01:34:40 add sid deb main i386 killyourtv-keyring 2013.10.11
+2013-10-12 01:34:40 add sid deb main amd64 killyourtv-keyring 2013.10.11
+2013-10-12 01:34:40 add sid dsc main source killyourtv-keyring 2013.10.11
+2013-10-12 01:40:03 add sid deb main i386 i2p-router 0.9.8-2
+2013-10-12 01:40:03 add sid deb main amd64 i2p-router 0.9.8-2
+2013-10-12 01:41:28 add sid deb main amd64 libjbigi-jni 0.9.8-2
+2013-10-12 01:41:28 add sid deb main i386 libjbigi-jni 0.9.8-2
+2013-10-12 02:16:32 replace sid deb main i386 killyourtv-keyring 2013.10.12 2013.10.11
+2013-10-12 02:16:32 replace sid deb main amd64 killyourtv-keyring 2013.10.12 2013.10.11
+2013-10-12 02:16:32 replace sid dsc main source killyourtv-keyring 2013.10.12 2013.10.11
+2013-10-12 13:27:15 add sid deb main i386 service-wrapper 3.5.21-1
+2013-10-12 13:27:15 add sid deb main i386 libservice-wrapper-jni 3.5.21-1
+2013-10-12 13:27:15 add sid deb main i386 libservice-wrapper-java 3.5.21-1
+2013-10-12 13:27:15 add sid deb main i386 libservice-wrapper-doc 3.5.21-1
+2013-10-12 13:27:15 add sid deb main amd64 service-wrapper 3.5.21-1
+2013-10-12 13:27:15 add sid deb main amd64 libservice-wrapper-jni 3.5.21-1
+2013-10-12 13:27:15 add sid deb main amd64 libservice-wrapper-java 3.5.21-1
+2013-10-12 13:27:15 add sid deb main amd64 libservice-wrapper-doc 3.5.21-1
+2013-10-12 13:27:15 add sid dsc main source service-wrapper-java 3.5.21-1
+2013-10-12 16:26:12 add sid deb main i386 i2p-keyring 2013.10.12
+2013-10-12 16:26:12 add sid deb main amd64 i2p-keyring 2013.10.12
+2013-10-12 16:26:12 add sid dsc main source i2p-keyring 2013.10.12
+2013-10-12 16:26:56 replace sid deb main i386 killyourtv-keyring 2013.10.12.1 2013.10.12
+2013-10-12 16:26:56 replace sid deb main amd64 killyourtv-keyring 2013.10.12.1 2013.10.12
+2013-10-12 16:26:56 replace sid dsc main source killyourtv-keyring 2013.10.12.1 2013.10.12
+2013-10-12 16:44:53 replace sid deb main i386 libjbigi-jni 0.9.8-2 0.9.8-2
+2013-10-12 16:44:53 replace sid deb main i386 i2p-router 0.9.8-2 0.9.8-2
+2013-10-12 16:44:53 add sid deb main i386 i2p 0.9.8-2
+2013-10-12 16:44:53 replace sid deb main amd64 libjbigi-jni 0.9.8-2 0.9.8-2
+2013-10-12 16:44:53 replace sid deb main amd64 i2p-router 0.9.8-2 0.9.8-2
+2013-10-12 16:44:53 add sid deb main amd64 i2p 0.9.8-2
+2013-10-12 16:44:53 add sid dsc main source i2p 0.9.8-2
+2013-10-13 01:44:45 add sid dsc main source syndie 1.103b-4
+2013-10-13 01:44:45 add sid deb main i386 syndie 1.103b-4
+2013-10-13 01:44:45 add sid deb main amd64 syndie 1.103b-4
+2013-11-06 01:15:59 replace sid dsc main source i2p 0.9.8.1-1deb1 0.9.8-2
+2013-11-06 01:15:59 replace sid deb main amd64 libjbigi-jni 0.9.8.1-1deb1 0.9.8-2
+2013-11-06 01:15:59 replace sid deb main i386 i2p 0.9.8.1-1deb1 0.9.8-2
+2013-11-06 01:15:59 replace sid deb main amd64 i2p 0.9.8.1-1deb1 0.9.8-2
+2013-11-06 01:15:59 replace sid deb main i386 i2p-router 0.9.8.1-1deb1 0.9.8-2
+2013-11-06 01:16:00 replace sid deb main amd64 i2p-router 0.9.8.1-1deb1 0.9.8-2
+2013-11-06 01:16:19 replace sid deb main i386 libjbigi-jni 0.9.8.1-1deb1 0.9.8-2
+2013-11-06 01:28:13 replace sid dsc main source service-wrapper-java 3.5.22-1 3.5.21-1
+2013-11-06 01:28:13 replace sid deb main amd64 service-wrapper 3.5.22-1 3.5.21-1
+2013-11-06 01:28:13 replace sid deb main i386 libservice-wrapper-java 3.5.22-1 3.5.21-1
+2013-11-06 01:28:13 replace sid deb main amd64 libservice-wrapper-java 3.5.22-1 3.5.21-1
+2013-11-06 01:28:13 replace sid deb main amd64 libservice-wrapper-jni 3.5.22-1 3.5.21-1
+2013-11-06 01:28:13 replace sid deb main i386 libservice-wrapper-doc 3.5.22-1 3.5.21-1
+2013-11-06 01:28:13 replace sid deb main amd64 libservice-wrapper-doc 3.5.22-1 3.5.21-1
+2013-11-06 01:28:21 replace sid deb main i386 service-wrapper 3.5.22-1 3.5.21-1
+2013-11-06 01:28:21 replace sid deb main i386 libservice-wrapper-jni 3.5.22-1 3.5.21-1
+2013-11-07 02:34:20 remove sid deb main i386 libservice-wrapper-doc 3.5.22-1
+2013-11-07 02:34:20 remove sid deb main i386 libservice-wrapper-java 3.5.22-1
+2013-11-07 02:34:20 remove sid deb main i386 libservice-wrapper-jni 3.5.22-1
+2013-11-07 02:34:20 remove sid deb main i386 service-wrapper 3.5.22-1
+2013-11-07 02:34:20 remove sid deb main amd64 libservice-wrapper-doc 3.5.22-1
+2013-11-07 02:34:20 remove sid deb main amd64 libservice-wrapper-java 3.5.22-1
+2013-11-07 02:34:20 remove sid deb main amd64 libservice-wrapper-jni 3.5.22-1
+2013-11-07 02:34:20 remove sid deb main amd64 service-wrapper 3.5.22-1
+2013-11-07 02:34:20 remove sid dsc main source service-wrapper-java 3.5.22-1
+2013-11-07 02:34:41 add sid dsc main source service-wrapper-java 3.5.22-1
+2013-11-07 02:34:41 add sid deb main amd64 service-wrapper 3.5.22-1
+2013-11-07 02:34:41 add sid deb main i386 libservice-wrapper-java 3.5.22-1
+2013-11-07 02:34:41 add sid deb main amd64 libservice-wrapper-java 3.5.22-1
+2013-11-07 02:34:41 add sid deb main amd64 libservice-wrapper-jni 3.5.22-1
+2013-11-07 02:34:41 add sid deb main i386 libservice-wrapper-doc 3.5.22-1
+2013-11-07 02:34:41 add sid deb main amd64 libservice-wrapper-doc 3.5.22-1
+2013-11-07 02:34:57 add sid deb main i386 service-wrapper 3.5.22-1
+2013-11-07 02:34:57 add sid deb main i386 libservice-wrapper-jni 3.5.22-1
+2013-12-07 22:13:15 replace sid dsc main source i2p 0.9.9-1deb8u1 0.9.8.1-1deb1
+2013-12-07 22:13:15 replace sid deb main amd64 libjbigi-jni 0.9.9-1deb8u1 0.9.8.1-1deb1
+2013-12-07 22:13:15 replace sid deb main i386 i2p 0.9.9-1deb8u1 0.9.8.1-1deb1
+2013-12-07 22:13:15 replace sid deb main amd64 i2p 0.9.9-1deb8u1 0.9.8.1-1deb1
+2013-12-07 22:13:15 replace sid deb main i386 i2p-router 0.9.9-1deb8u1 0.9.8.1-1deb1
+2013-12-07 22:13:15 replace sid deb main amd64 i2p-router 0.9.9-1deb8u1 0.9.8.1-1deb1
+2013-12-07 22:13:57 replace sid deb main i386 libjbigi-jni 0.9.9-1deb8u1 0.9.8.1-1deb1
+2014-01-22 20:09:04 replace sid dsc main source i2p 0.9.10-1 0.9.9-1deb8u1
+2014-01-22 20:09:04 replace sid deb main amd64 libjbigi-jni 0.9.10-1 0.9.9-1deb8u1
+2014-01-22 20:09:04 replace sid deb main i386 i2p 0.9.10-1 0.9.9-1deb8u1
+2014-01-22 20:09:04 replace sid deb main amd64 i2p 0.9.10-1 0.9.9-1deb8u1
+2014-01-22 20:09:04 replace sid deb main i386 i2p-router 0.9.10-1 0.9.9-1deb8u1
+2014-01-22 20:09:04 replace sid deb main amd64 i2p-router 0.9.10-1 0.9.9-1deb8u1
+2014-01-22 20:11:38 replace sid deb main i386 libjbigi-jni 0.9.10-1 0.9.9-1deb8u1
+2014-02-09 01:09:30 replace sid dsc main source i2p 0.9.11-1 0.9.10-1
+2014-02-09 01:09:30 replace sid deb main amd64 libjbigi-jni 0.9.11-1 0.9.10-1
+2014-02-09 01:09:30 replace sid deb main i386 i2p 0.9.11-1 0.9.10-1
+2014-02-09 01:09:30 replace sid deb main amd64 i2p 0.9.11-1 0.9.10-1
+2014-02-09 01:09:30 replace sid deb main i386 i2p-router 0.9.11-1 0.9.10-1
+2014-02-09 01:09:30 replace sid deb main amd64 i2p-router 0.9.11-1 0.9.10-1
+2014-02-09 01:10:10 replace sid deb main i386 libjbigi-jni 0.9.11-1 0.9.10-1
+2014-02-10 23:24:02 replace sid deb main i386 syndie 1.105b-1 1.103b-4
+2014-02-10 23:24:02 replace sid deb main amd64 syndie 1.105b-1 1.103b-4
+2014-02-10 23:24:02 replace sid dsc main source syndie 1.105b-1 1.103b-4
+2014-03-08 15:42:36 add sid dsc main source anoncoin 0.8.5.6-1
+2014-03-08 15:42:36 add sid deb main amd64 anoncoind 0.8.5.6-1
+2014-03-08 15:42:36 add sid deb main amd64 anoncoin-qt 0.8.5.6-1
+2014-03-08 15:43:30 add sid deb main i386 anoncoind 0.8.5.6-1
+2014-03-08 15:43:30 add sid deb main i386 anoncoin-qt 0.8.5.6-1
+2014-04-01 00:51:26 replace sid dsc main source i2p 0.9.12-1 0.9.11-1
+2014-04-01 00:51:26 replace sid deb main amd64 libjbigi-jni 0.9.12-1 0.9.11-1
+2014-04-01 00:51:26 replace sid deb main i386 i2p 0.9.12-1 0.9.11-1
+2014-04-01 00:51:26 replace sid deb main amd64 i2p 0.9.12-1 0.9.11-1
+2014-04-01 00:51:26 replace sid deb main i386 i2p-router 0.9.12-1 0.9.11-1
+2014-04-01 00:51:26 replace sid deb main amd64 i2p-router 0.9.12-1 0.9.11-1
+2014-04-01 00:52:06 replace sid deb main i386 libjbigi-jni 0.9.12-1 0.9.11-1
+2014-04-01 00:53:26 remove sid deb main i386 i2p 0.9.12-1
+2014-04-01 00:53:26 remove sid deb main i386 i2p-router 0.9.12-1
+2014-04-01 00:53:26 remove sid deb main i386 libjbigi-jni 0.9.12-1
+2014-04-01 00:53:26 remove sid deb main amd64 i2p 0.9.12-1
+2014-04-01 00:53:26 remove sid deb main amd64 i2p-router 0.9.12-1
+2014-04-01 00:53:26 remove sid deb main amd64 libjbigi-jni 0.9.12-1
+2014-04-01 00:53:26 remove sid dsc main source i2p 0.9.12-1
+2014-04-01 00:54:53 add sid dsc main source i2p 0.9.12-1
+2014-04-01 00:54:53 add sid deb main amd64 libjbigi-jni 0.9.12-1
+2014-04-01 00:54:53 add sid deb main i386 i2p 0.9.12-1
+2014-04-01 00:54:53 add sid deb main amd64 i2p 0.9.12-1
+2014-04-01 00:54:53 add sid deb main i386 i2p-router 0.9.12-1
+2014-04-01 00:54:53 add sid deb main amd64 i2p-router 0.9.12-1
+2014-04-01 00:55:09 add sid deb main i386 libjbigi-jni 0.9.12-1
+2014-04-07 19:37:49 replace sid dsc main source i2p 0.9.12-2 0.9.12-1
+2014-04-07 19:37:49 replace sid deb main amd64 libjbigi-jni 0.9.12-2 0.9.12-1
+2014-04-07 19:37:49 replace sid deb main i386 i2p 0.9.12-2 0.9.12-1
+2014-04-07 19:37:49 replace sid deb main amd64 i2p 0.9.12-2 0.9.12-1
+2014-04-07 19:37:49 add sid deb main i386 i2p-doc 0.9.12-2
+2014-04-07 19:37:49 add sid deb main amd64 i2p-doc 0.9.12-2
+2014-04-07 19:37:49 replace sid deb main i386 i2p-router 0.9.12-2 0.9.12-1
+2014-04-07 19:37:49 replace sid deb main amd64 i2p-router 0.9.12-2 0.9.12-1
+2014-04-07 19:38:02 replace sid deb main i386 libjbigi-jni 0.9.12-2 0.9.12-1
+2014-04-07 22:14:21 replace sid dsc main source i2p 0.9.12-3 0.9.12-2
+2014-04-07 22:14:21 replace sid deb main amd64 libjbigi-jni 0.9.12-3 0.9.12-2
+2014-04-07 22:14:21 replace sid deb main i386 i2p 0.9.12-3 0.9.12-2
+2014-04-07 22:14:21 replace sid deb main amd64 i2p 0.9.12-3 0.9.12-2
+2014-04-07 22:14:21 replace sid deb main i386 i2p-doc 0.9.12-3 0.9.12-2
+2014-04-07 22:14:21 replace sid deb main amd64 i2p-doc 0.9.12-3 0.9.12-2
+2014-04-07 22:14:21 replace sid deb main i386 i2p-router 0.9.12-3 0.9.12-2
+2014-04-07 22:14:21 replace sid deb main amd64 i2p-router 0.9.12-3 0.9.12-2
+2014-05-23 00:38:40 replace sid deb main amd64 libjbigi-jni 0.9.13-1 0.9.12-3
+2014-05-23 00:38:40 replace sid deb main i386 i2p 0.9.13-1 0.9.12-3
+2014-05-23 00:38:40 replace sid deb main amd64 i2p 0.9.13-1 0.9.12-3
+2014-05-23 00:38:40 replace sid deb main i386 i2p-doc 0.9.13-1 0.9.12-3
+2014-05-23 00:38:40 replace sid deb main amd64 i2p-doc 0.9.13-1 0.9.12-3
+2014-05-23 00:38:40 replace sid deb main i386 i2p-router 0.9.13-1 0.9.12-3
+2014-05-23 00:38:40 replace sid deb main amd64 i2p-router 0.9.13-1 0.9.12-3
+2014-05-23 00:38:40 replace sid dsc main source i2p 0.9.13-1 0.9.12-3
+2014-05-23 00:39:00 replace sid deb main i386 libjbigi-jni 0.9.13-1 0.9.12-2
+2014-07-27 01:48:17 replace sid deb main amd64 libjbigi-jni 0.9.14-1 0.9.13-1
+2014-07-27 01:48:17 replace sid deb main i386 i2p 0.9.14-1 0.9.13-1
+2014-07-27 01:48:17 replace sid deb main amd64 i2p 0.9.14-1 0.9.13-1
+2014-07-27 01:48:17 replace sid deb main i386 i2p-doc 0.9.14-1 0.9.13-1
+2014-07-27 01:48:17 replace sid deb main amd64 i2p-doc 0.9.14-1 0.9.13-1
+2014-07-27 01:48:17 replace sid deb main i386 i2p-router 0.9.14-1 0.9.13-1
+2014-07-27 01:48:17 replace sid deb main amd64 i2p-router 0.9.14-1 0.9.13-1
+2014-07-27 01:48:17 replace sid dsc main source i2p 0.9.14-1 0.9.13-1
+2014-07-27 01:48:49 replace sid deb main i386 libjbigi-jni 0.9.14-1 0.9.13-1
+2014-07-27 13:13:22 remove sid deb main i386 libservice-wrapper-doc 3.5.22-1
+2014-07-27 13:13:23 remove sid deb main i386 libservice-wrapper-java 3.5.22-1
+2014-07-27 13:13:23 remove sid deb main i386 libservice-wrapper-jni 3.5.22-1
+2014-07-27 13:13:23 remove sid deb main i386 service-wrapper 3.5.22-1
+2014-07-27 13:13:23 remove sid deb main amd64 libservice-wrapper-doc 3.5.22-1
+2014-07-27 13:13:23 remove sid deb main amd64 libservice-wrapper-java 3.5.22-1
+2014-07-27 13:13:23 remove sid deb main amd64 libservice-wrapper-jni 3.5.22-1
+2014-07-27 13:13:23 remove sid deb main amd64 service-wrapper 3.5.22-1
+2014-07-27 13:13:23 remove sid dsc main source service-wrapper-java 3.5.22-1
+2014-07-27 13:15:29 add sid deb main amd64 service-wrapper 3.5.25-1
+2014-07-27 13:15:29 add sid deb main i386 libservice-wrapper-java 3.5.25-1
+2014-07-27 13:15:29 add sid deb main amd64 libservice-wrapper-java 3.5.25-1
+2014-07-27 13:15:29 add sid deb main amd64 libservice-wrapper-jni 3.5.25-1
+2014-07-27 13:15:29 add sid deb main i386 libservice-wrapper-doc 3.5.25-1
+2014-07-27 13:15:29 add sid deb main amd64 libservice-wrapper-doc 3.5.25-1
+2014-07-27 13:15:29 add sid dsc main source service-wrapper-java 3.5.25-1
+2014-07-27 13:16:15 add sid deb main i386 service-wrapper 3.5.25-1
+2014-07-27 13:16:15 add sid deb main i386 libservice-wrapper-jni 3.5.25-1
+2014-08-10 01:57:18 replace sid deb main amd64 libjbigi-jni 0.9.14.1-1 0.9.14-1
+2014-08-10 01:57:18 replace sid deb main i386 i2p 0.9.14.1-1 0.9.14-1
+2014-08-10 01:57:18 replace sid deb main amd64 i2p 0.9.14.1-1 0.9.14-1
+2014-08-10 01:57:18 replace sid deb main i386 i2p-doc 0.9.14.1-1 0.9.14-1
+2014-08-10 01:57:18 replace sid deb main amd64 i2p-doc 0.9.14.1-1 0.9.14-1
+2014-08-10 01:57:18 replace sid deb main i386 i2p-router 0.9.14.1-1 0.9.14-1
+2014-08-10 01:57:18 replace sid deb main amd64 i2p-router 0.9.14.1-1 0.9.14-1
+2014-08-10 01:57:18 replace sid dsc main source i2p 0.9.14.1-1 0.9.14-1
+2014-08-10 01:59:05 replace sid deb main i386 libjbigi-jni 0.9.14.1-1 0.9.14-1
+2014-09-16 01:22:17 replace sid deb main amd64 anoncoind 0.8.5.6-1+b1 0.8.5.6-1
+2014-09-16 01:22:17 replace sid deb main amd64 anoncoin-qt 0.8.5.6-1+b1 0.8.5.6-1
+2014-09-16 01:34:56 replace sid deb main i386 anoncoind 0.8.5.6-1+b1 0.8.5.6-1
+2014-09-16 01:34:56 replace sid deb main i386 anoncoin-qt 0.8.5.6-1+b1 0.8.5.6-1
+2014-09-21 03:17:22 replace sid deb main amd64 libjbigi-jni 0.9.15-1 0.9.14.1-1
+2014-09-21 03:17:22 replace sid deb main i386 i2p 0.9.15-1 0.9.14.1-1
+2014-09-21 03:17:22 replace sid deb main amd64 i2p 0.9.15-1 0.9.14.1-1
+2014-09-21 03:17:22 replace sid deb main i386 i2p-doc 0.9.15-1 0.9.14.1-1
+2014-09-21 03:17:22 replace sid deb main amd64 i2p-doc 0.9.15-1 0.9.14.1-1
+2014-09-21 03:17:22 replace sid deb main i386 i2p-router 0.9.15-1 0.9.14.1-1
+2014-09-21 03:17:22 replace sid deb main amd64 i2p-router 0.9.15-1 0.9.14.1-1
+2014-09-21 03:17:22 replace sid dsc main source i2p 0.9.15-1 0.9.14.1-1
+2014-09-21 03:20:52 replace sid deb main i386 libjbigi-jni 0.9.15-1 0.9.14.1-1
+2014-09-25 19:26:02 replace sid deb main i386 i2p-keyring 2014.09.25 2013.10.12
+2014-09-25 19:26:02 replace sid deb main amd64 i2p-keyring 2014.09.25 2013.10.12
+2014-09-25 19:26:02 replace sid dsc main source i2p-keyring 2014.09.25 2013.10.12
+2014-10-17 22:09:29 add sid dsc main source i2pd 0.1.0-1
+2014-10-17 22:09:29 add sid deb main amd64 i2pd 0.1.0-1
+2014-10-17 22:09:29 add sid deb main amd64 i2pd-dbg 0.1.0-1
+2014-10-17 22:10:11 add sid deb main i386 i2pd 0.1.0-1
+2014-10-17 22:10:11 add sid deb main i386 i2pd-dbg 0.1.0-1
+2014-10-24 02:21:40 replace sid dsc main source i2pd 0.1.0-2 0.1.0-1
+2014-10-24 02:21:40 replace sid deb main amd64 i2pd 0.1.0-2 0.1.0-1
+2014-10-24 02:21:40 replace sid deb main amd64 i2pd-dbg 0.1.0-2 0.1.0-1
+2014-10-24 02:22:06 replace sid deb main i386 i2pd 0.1.0-2 0.1.0-1
+2014-10-24 02:22:06 replace sid deb main i386 i2pd-dbg 0.1.0-2 0.1.0-1
+2014-10-30 18:54:21 replace sid dsc main source i2pd 0.2.0-1 0.1.0-2
+2014-10-30 18:54:21 replace sid deb main amd64 i2pd 0.2.0-1 0.1.0-2
+2014-10-30 18:54:21 replace sid deb main amd64 i2pd-dbg 0.2.0-1 0.1.0-2
+2014-10-30 18:57:20 replace sid deb main i386 i2pd 0.2.0-1 0.1.0-2
+2014-10-30 18:57:20 replace sid deb main i386 i2pd-dbg 0.2.0-1 0.1.0-2
+2014-11-01 03:32:26 replace sid dsc main source i2pd 0.2.0-2 0.2.0-1
+2014-11-01 03:32:26 replace sid deb main amd64 i2pd 0.2.0-2 0.2.0-1
+2014-11-01 03:32:26 replace sid deb main amd64 i2pd-dbg 0.2.0-2 0.2.0-1
+2014-11-01 03:33:02 replace sid deb main i386 i2pd 0.2.0-2 0.2.0-1
+2014-11-01 03:33:02 replace sid deb main i386 i2pd-dbg 0.2.0-2 0.2.0-1
+2014-11-02 02:37:57 replace sid dsc main source i2p 0.9.16-1 0.9.15-1
+2014-11-02 02:37:57 replace sid deb main amd64 libjbigi-jni 0.9.16-1 0.9.15-1
+2014-11-02 02:37:57 replace sid deb main i386 i2p 0.9.16-1 0.9.15-1
+2014-11-02 02:37:57 replace sid deb main amd64 i2p 0.9.16-1 0.9.15-1
+2014-11-02 02:37:57 replace sid deb main i386 i2p-doc 0.9.16-1 0.9.15-1
+2014-11-02 02:37:57 replace sid deb main amd64 i2p-doc 0.9.16-1 0.9.15-1
+2014-11-02 02:37:57 replace sid deb main i386 i2p-router 0.9.16-1 0.9.15-1
+2014-11-02 02:37:57 replace sid deb main amd64 i2p-router 0.9.16-1 0.9.15-1
+2014-11-02 02:38:25 replace sid deb main i386 libjbigi-jni 0.9.16-1 0.9.15-1
+2014-11-07 20:51:34 replace sid dsc main source i2pd 0.2.1+git20141107.4b0001b-1 0.2.0-2
+2014-11-07 20:51:34 replace sid deb main amd64 i2pd 0.2.1+git20141107.4b0001b-1 0.2.0-2
+2014-11-07 20:51:34 replace sid deb main amd64 i2pd-dbg 0.2.1+git20141107.4b0001b-1 0.2.0-2
+2014-11-07 20:52:15 replace sid deb main i386 i2pd 0.2.1+git20141107.4b0001b-1 0.2.0-2
+2014-11-07 20:52:15 replace sid deb main i386 i2pd-dbg 0.2.1+git20141107.4b0001b-1 0.2.0-2
+2014-11-19 04:03:49 replace sid dsc main source i2pd 0.2.1+git20141107.4b0001b-2 0.2.1+git20141107.4b0001b-1
+2014-11-19 04:03:49 replace sid deb main amd64 i2pd 0.2.1+git20141107.4b0001b-2 0.2.1+git20141107.4b0001b-1
+2014-11-19 04:03:49 replace sid deb main amd64 i2pd-dbg 0.2.1+git20141107.4b0001b-2 0.2.1+git20141107.4b0001b-1
+2014-11-19 04:04:16 replace sid deb main i386 i2pd 0.2.1+git20141107.4b0001b-2 0.2.1+git20141107.4b0001b-1
+2014-11-19 04:04:16 replace sid deb main i386 i2pd-dbg 0.2.1+git20141107.4b0001b-2 0.2.1+git20141107.4b0001b-1
+2014-11-21 19:05:54 replace sid dsc main source i2pd 0.3.0-1 0.2.1+git20141107.4b0001b-2
+2014-11-21 19:05:54 replace sid deb main amd64 i2pd 0.3.0-1 0.2.1+git20141107.4b0001b-2
+2014-11-21 19:05:54 replace sid deb main amd64 i2pd-dbg 0.3.0-1 0.2.1+git20141107.4b0001b-2
+2014-11-21 19:08:18 replace sid deb main i386 i2pd 0.3.0-1 0.2.1+git20141107.4b0001b-2
+2014-11-21 19:08:18 replace sid deb main i386 i2pd-dbg 0.3.0-1 0.2.1+git20141107.4b0001b-2
+2014-11-25 22:57:52 replace sid dsc main source i2pd 0.4.0-1 0.3.0-1
+2014-11-25 22:57:52 replace sid deb main amd64 i2pd 0.4.0-1 0.3.0-1
+2014-11-25 22:57:52 replace sid deb main amd64 i2pd-dbg 0.4.0-1 0.3.0-1
+2014-11-25 22:58:25 replace sid deb main i386 i2pd 0.4.0-1 0.3.0-1
+2014-11-25 22:58:25 replace sid deb main i386 i2pd-dbg 0.4.0-1 0.3.0-1
+2014-12-01 00:53:11 replace sid dsc main source i2p 0.9.17-1 0.9.16-1
+2014-12-01 00:53:11 replace sid deb main amd64 libjbigi-jni 0.9.17-1 0.9.16-1
+2014-12-01 00:53:11 replace sid deb main i386 i2p 0.9.17-1 0.9.16-1
+2014-12-01 00:53:11 replace sid deb main amd64 i2p 0.9.17-1 0.9.16-1
+2014-12-01 00:53:11 replace sid deb main i386 i2p-doc 0.9.17-1 0.9.16-1
+2014-12-01 00:53:11 replace sid deb main amd64 i2p-doc 0.9.17-1 0.9.16-1
+2014-12-01 00:53:11 replace sid deb main i386 i2p-router 0.9.17-1 0.9.16-1
+2014-12-01 00:53:11 replace sid deb main amd64 i2p-router 0.9.17-1 0.9.16-1
+2014-12-01 01:10:14 replace sid deb main i386 libjbigi-jni 0.9.17-1 0.9.16-1
+2014-12-18 12:41:34 replace sid dsc main source i2pd 0.5.0-1 0.4.0-1
+2014-12-18 12:41:34 replace sid deb main amd64 i2pd 0.5.0-1 0.4.0-1
+2014-12-18 12:41:34 replace sid deb main amd64 i2pd-dbg 0.5.0-1 0.4.0-1
+2014-12-18 12:42:16 replace sid deb main i386 i2pd 0.5.0-1 0.4.0-1
+2014-12-18 12:42:16 replace sid deb main i386 i2pd-dbg 0.5.0-1 0.4.0-1
+2015-01-06 17:30:32 replace sid dsc main source i2pd 0.6.0-1 0.5.0-1
+2015-01-06 17:30:32 replace sid deb main amd64 i2pd 0.6.0-1 0.5.0-1
+2015-01-06 17:30:32 replace sid deb main amd64 i2pd-dbg 0.6.0-1 0.5.0-1
+2015-01-06 17:35:38 replace sid deb main i386 i2pd 0.6.0-1 0.5.0-1
+2015-01-06 17:35:38 replace sid deb main i386 i2pd-dbg 0.6.0-1 0.5.0-1
+2015-02-04 19:29:33 replace sid dsc main source i2pd 0.7.0-1 0.6.0-1
+2015-02-04 19:29:33 replace sid deb main amd64 i2pd 0.7.0-1 0.6.0-1
+2015-02-04 19:29:33 replace sid deb main amd64 i2pd-dbg 0.7.0-1 0.6.0-1
+2015-02-04 19:31:11 replace sid deb main i386 i2pd 0.7.0-1 0.6.0-1
+2015-02-04 19:31:11 replace sid deb main i386 i2pd-dbg 0.7.0-1 0.6.0-1
+2015-02-23 04:30:31 replace sid dsc main source i2p 0.9.18-1 0.9.17-1
+2015-02-23 04:30:32 replace sid deb main amd64 libjbigi-jni 0.9.18-1 0.9.17-1
+2015-02-23 04:30:32 replace sid deb main i386 i2p 0.9.18-1 0.9.17-1
+2015-02-23 04:30:32 replace sid deb main amd64 i2p 0.9.18-1 0.9.17-1
+2015-02-23 04:30:32 replace sid deb main i386 i2p-doc 0.9.18-1 0.9.17-1
+2015-02-23 04:30:32 replace sid deb main amd64 i2p-doc 0.9.18-1 0.9.17-1
+2015-02-23 04:30:32 replace sid deb main i386 i2p-router 0.9.18-1 0.9.17-1
+2015-02-23 04:30:32 replace sid deb main amd64 i2p-router 0.9.18-1 0.9.17-1
+2015-02-23 04:31:09 replace sid deb main i386 libjbigi-jni 0.9.18-1 0.9.17-1
+2015-02-23 14:05:49 replace sid dsc main source i2pd 0.8.0-1 0.7.0-1
+2015-02-23 14:05:49 replace sid deb main amd64 i2pd 0.8.0-1 0.7.0-1
+2015-02-23 14:05:49 replace sid deb main amd64 i2pd-dbg 0.8.0-1 0.7.0-1
+2015-02-23 14:06:59 replace sid deb main i386 i2pd 0.8.0-1 0.7.0-1
+2015-02-23 14:06:59 replace sid deb main i386 i2pd-dbg 0.8.0-1 0.7.0-1
+2015-03-27 02:52:11 replace sid deb main i386 killyourtv-keyring 2013.10.12.1 2013.10.12.1
+2015-03-27 02:52:11 replace sid deb main amd64 killyourtv-keyring 2013.10.12.1 2013.10.12.1
+2015-03-27 02:52:11 replace sid dsc main source killyourtv-keyring 2013.10.12.1 2013.10.12.1
+2015-03-27 02:54:49 replace sid deb main i386 killyourtv-keyring 2015.03.27 2013.10.12.1
+2015-03-27 02:54:49 replace sid deb main amd64 killyourtv-keyring 2015.03.27 2013.10.12.1
+2015-03-27 02:54:49 replace sid dsc main source killyourtv-keyring 2015.03.27 2013.10.12.1
+2015-03-27 03:04:59 replace sid deb main i386 killyourtv-keyring 2015.03.27.1 2015.03.27
+2015-03-27 03:04:59 replace sid deb main amd64 killyourtv-keyring 2015.03.27.1 2015.03.27
+2015-03-27 03:04:59 replace sid dsc main source killyourtv-keyring 2015.03.27.1 2015.03.27
+2015-04-01 19:42:14 replace sid dsc main source i2pd 0.9.0-1 0.8.0-1
+2015-04-01 19:42:15 replace sid deb main amd64 i2pd 0.9.0-1 0.8.0-1
+2015-04-01 19:42:15 replace sid deb main amd64 i2pd-dbg 0.9.0-1 0.8.0-1
+2015-04-01 19:43:07 replace sid deb main i386 i2pd 0.9.0-1 0.8.0-1
+2015-04-01 19:43:07 replace sid deb main i386 i2pd-dbg 0.9.0-1 0.8.0-1
+2015-04-13 19:37:12 replace sid dsc main source i2p 0.9.19-1 0.9.18-1
+2015-04-13 19:37:12 replace sid deb main amd64 libjbigi-jni 0.9.19-1 0.9.18-1
+2015-04-13 19:37:12 replace sid deb main i386 i2p 0.9.19-1 0.9.18-1
+2015-04-13 19:37:12 replace sid deb main amd64 i2p 0.9.19-1 0.9.18-1
+2015-04-13 19:37:12 replace sid deb main i386 i2p-doc 0.9.19-1 0.9.18-1
+2015-04-13 19:37:12 replace sid deb main amd64 i2p-doc 0.9.19-1 0.9.18-1
+2015-04-13 19:37:12 replace sid deb main i386 i2p-router 0.9.19-1 0.9.18-1
+2015-04-13 19:37:12 replace sid deb main amd64 i2p-router 0.9.19-1 0.9.18-1
+2015-04-13 19:37:49 replace sid deb main i386 libjbigi-jni 0.9.19-1 0.9.18-1
+2015-04-14 16:33:24 replace sid dsc main source i2p 0.9.19-2 0.9.19-1
+2015-04-14 16:33:24 replace sid deb main amd64 libjbigi-jni 0.9.19-2 0.9.19-1
+2015-04-14 16:33:24 replace sid deb main i386 i2p 0.9.19-2 0.9.19-1
+2015-04-14 16:33:24 replace sid deb main amd64 i2p 0.9.19-2 0.9.19-1
+2015-04-14 16:33:24 replace sid deb main i386 i2p-doc 0.9.19-2 0.9.19-1
+2015-04-14 16:33:24 replace sid deb main amd64 i2p-doc 0.9.19-2 0.9.19-1
+2015-04-14 16:33:24 replace sid deb main i386 i2p-router 0.9.19-2 0.9.19-1
+2015-04-14 16:33:24 replace sid deb main amd64 i2p-router 0.9.19-2 0.9.19-1
+2015-04-14 16:33:55 replace sid deb main i386 libjbigi-jni 0.9.19-2 0.9.19-1
+2015-04-15 02:08:15 replace sid dsc main source i2p 0.9.19-3 0.9.19-2
+2015-04-15 02:08:15 replace sid deb main amd64 libjbigi-jni 0.9.19-3 0.9.19-2
+2015-04-15 02:08:15 replace sid deb main i386 i2p 0.9.19-3 0.9.19-2
+2015-04-15 02:08:15 replace sid deb main amd64 i2p 0.9.19-3 0.9.19-2
+2015-04-15 02:08:15 replace sid deb main i386 i2p-doc 0.9.19-3 0.9.19-2
+2015-04-15 02:08:15 replace sid deb main amd64 i2p-doc 0.9.19-3 0.9.19-2
+2015-04-15 02:08:15 replace sid deb main i386 i2p-router 0.9.19-3 0.9.19-2
+2015-04-15 02:08:15 replace sid deb main amd64 i2p-router 0.9.19-3 0.9.19-2
+2015-04-15 02:08:43 replace sid deb main i386 libjbigi-jni 0.9.19-3 0.9.19-2
+2015-06-03 13:31:58 replace sid dsc main source i2p 0.9.20-1 0.9.19-3
+2015-06-03 13:31:58 replace sid deb main i386 i2p-doc 0.9.20-1 0.9.19-3
+2015-06-03 13:31:58 replace sid deb main amd64 i2p-doc 0.9.20-1 0.9.19-3
+2015-06-03 13:31:58 replace sid deb main i386 i2p-router 0.9.20-1 0.9.19-3
+2015-06-03 13:31:58 replace sid deb main amd64 i2p-router 0.9.20-1 0.9.19-3
+2015-06-03 13:31:58 replace sid deb main i386 i2p 0.9.20-1 0.9.19-3
+2015-06-03 13:31:58 replace sid deb main amd64 i2p 0.9.20-1 0.9.19-3
+2015-06-03 13:31:58 replace sid deb main amd64 libjbigi-jni 0.9.20-1 0.9.19-3
+2015-06-03 13:32:19 replace sid deb main i386 libjbigi-jni 0.9.20-1 0.9.19-3
+2015-06-14 22:22:52 replace sid dsc main source i2p 0.9.20-2 0.9.20-1
+2015-06-14 22:22:52 replace sid deb main i386 i2p-doc 0.9.20-2 0.9.20-1
+2015-06-14 22:22:52 replace sid deb main amd64 i2p-doc 0.9.20-2 0.9.20-1
+2015-06-14 22:22:52 replace sid deb main i386 i2p-router 0.9.20-2 0.9.20-1
+2015-06-14 22:22:52 replace sid deb main amd64 i2p-router 0.9.20-2 0.9.20-1
+2015-06-14 22:22:52 replace sid deb main i386 i2p 0.9.20-2 0.9.20-1
+2015-06-14 22:22:52 replace sid deb main amd64 i2p 0.9.20-2 0.9.20-1
+2015-06-14 22:22:52 replace sid deb main amd64 libjbigi-jni 0.9.20-2 0.9.20-1
+2015-06-14 22:23:12 replace sid deb main i386 libjbigi-jni 0.9.20-2 0.9.20-1
+2015-07-06 22:39:14 replace sid dsc main source i2pd 0.10.0-1 0.9.0-1
+2015-07-06 22:39:14 replace sid deb main amd64 i2pd-dbg 0.10.0-1 0.9.0-1
+2015-07-06 22:39:14 replace sid deb main amd64 i2pd 0.10.0-1 0.9.0-1
+2015-07-06 22:40:04 replace sid deb main i386 i2pd-dbg 0.10.0-1 0.9.0-1
+2015-07-06 22:40:04 replace sid deb main i386 i2pd 0.10.0-1 0.9.0-1
+2015-07-07 01:55:20 add sid deb main armel i2pd-dbg 0.10.0-1
+2015-07-07 01:55:20 add sid deb main armel i2pd 0.10.0-1
+2015-07-07 01:58:12 add sid deb main armhf i2pd-dbg 0.10.0-1
+2015-07-07 01:58:12 add sid deb main armhf i2pd 0.10.0-1
+2015-08-01 03:52:29 replace sid dsc main source i2p 0.9.21-1 0.9.20-2
+2015-08-01 03:52:29 replace sid deb main i386 i2p-doc 0.9.21-1 0.9.20-2
+2015-08-01 03:52:29 replace sid deb main amd64 i2p-doc 0.9.21-1 0.9.20-2
+2015-08-01 03:52:29 add sid deb main armel i2p-doc 0.9.21-1
+2015-08-01 03:52:29 add sid deb main armhf i2p-doc 0.9.21-1
+2015-08-01 03:52:29 replace sid deb main i386 i2p-router 0.9.21-1 0.9.20-2
+2015-08-01 03:52:29 replace sid deb main amd64 i2p-router 0.9.21-1 0.9.20-2
+2015-08-01 03:52:29 add sid deb main armel i2p-router 0.9.21-1
+2015-08-01 03:52:29 add sid deb main armhf i2p-router 0.9.21-1
+2015-08-01 03:52:29 replace sid deb main i386 i2p 0.9.21-1 0.9.20-2
+2015-08-01 03:52:29 replace sid deb main amd64 i2p 0.9.21-1 0.9.20-2
+2015-08-01 03:52:29 add sid deb main armel i2p 0.9.21-1
+2015-08-01 03:52:29 add sid deb main armhf i2p 0.9.21-1
+2015-08-01 03:52:29 replace sid deb main amd64 libjbigi-jni 0.9.21-1 0.9.20-2
+2015-08-01 03:52:53 replace sid deb main i386 libjbigi-jni 0.9.21-1 0.9.20-2
+2015-09-13 16:00:39 replace sid dsc main source i2p 0.9.22-1 0.9.21-1
+2015-09-13 16:00:39 replace sid deb main i386 i2p-doc 0.9.22-1 0.9.21-1
+2015-09-13 16:00:39 replace sid deb main amd64 i2p-doc 0.9.22-1 0.9.21-1
+2015-09-13 16:00:39 replace sid deb main armel i2p-doc 0.9.22-1 0.9.21-1
+2015-09-13 16:00:39 replace sid deb main armhf i2p-doc 0.9.22-1 0.9.21-1
+2015-09-13 16:00:39 replace sid deb main i386 i2p-router 0.9.22-1 0.9.21-1
+2015-09-13 16:00:39 replace sid deb main amd64 i2p-router 0.9.22-1 0.9.21-1
+2015-09-13 16:00:39 replace sid deb main armel i2p-router 0.9.22-1 0.9.21-1
+2015-09-13 16:00:39 replace sid deb main armhf i2p-router 0.9.22-1 0.9.21-1
+2015-09-13 16:00:39 replace sid deb main i386 i2p 0.9.22-1 0.9.21-1
+2015-09-13 16:00:39 replace sid deb main amd64 i2p 0.9.22-1 0.9.21-1
+2015-09-13 16:00:39 replace sid deb main armel i2p 0.9.22-1 0.9.21-1
+2015-09-13 16:00:39 replace sid deb main armhf i2p 0.9.22-1 0.9.21-1
+2015-09-13 16:00:39 replace sid deb main amd64 libjbigi-jni 0.9.22-1 0.9.21-1
+2015-09-13 16:01:08 replace sid deb main i386 libjbigi-jni 0.9.22-1 0.9.21-1
+2015-09-22 02:33:43 replace sid deb main amd64 i2pd-dbg 0.10.0-1+b1 0.10.0-1
+2015-09-22 02:33:43 replace sid deb main amd64 i2pd 0.10.0-1+b1 0.10.0-1
+2015-09-22 02:34:46 replace sid deb main i386 i2pd-dbg 0.10.0-1+b1 0.10.0-1
+2015-09-22 02:34:46 replace sid deb main i386 i2pd 0.10.0-1+b1 0.10.0-1
+2015-09-22 08:49:46 replace sid deb main armhf i2pd-dbg 0.10.0-1+b1 0.10.0-1
+2015-09-22 08:49:46 replace sid deb main armhf i2pd 0.10.0-1+b1 0.10.0-1
+2015-09-22 08:50:37 replace sid deb main armel i2pd-dbg 0.10.0-1+b1 0.10.0-1
+2015-09-22 08:50:37 replace sid deb main armel i2pd 0.10.0-1+b1 0.10.0-1
+2015-09-22 09:18:20 remove sid deb main i386 anoncoin-qt 0.8.5.6-1+b1
+2015-09-22 09:18:20 remove sid deb main i386 anoncoind 0.8.5.6-1+b1
+2015-09-22 09:18:20 remove sid deb main amd64 anoncoin-qt 0.8.5.6-1+b1
+2015-09-22 09:18:20 remove sid deb main amd64 anoncoind 0.8.5.6-1+b1
+2015-09-22 09:18:20 remove sid dsc main source anoncoin 0.8.5.6-1
+2015-10-02 04:24:13 replace sid dsc main source i2p-keyring 2015.10.02 2014.09.25
+2015-10-02 04:24:13 replace sid deb main i386 i2p-keyring 2015.10.02 2014.09.25
+2015-10-02 04:24:13 replace sid deb main amd64 i2p-keyring 2015.10.02 2014.09.25
+2015-10-02 04:24:13 add sid deb main armel i2p-keyring 2015.10.02
+2015-10-02 04:24:13 add sid deb main armhf i2p-keyring 2015.10.02
+2015-10-02 04:36:55 replace sid dsc main source i2p-keyring 2015.10.02.1 2015.10.02
+2015-10-02 04:36:55 replace sid deb main i386 i2p-keyring 2015.10.02.1 2015.10.02
+2015-10-02 04:36:55 replace sid deb main amd64 i2p-keyring 2015.10.02.1 2015.10.02
+2015-10-02 04:36:55 replace sid deb main armel i2p-keyring 2015.10.02.1 2015.10.02
+2015-10-02 04:36:55 replace sid deb main armhf i2p-keyring 2015.10.02.1 2015.10.02
+2015-11-20 02:29:04 replace sid dsc main source i2p 0.9.23-1 0.9.22-1
+2015-11-20 02:29:04 replace sid deb main i386 i2p-doc 0.9.23-1 0.9.22-1
+2015-11-20 02:29:04 replace sid deb main amd64 i2p-doc 0.9.23-1 0.9.22-1
+2015-11-20 02:29:04 replace sid deb main armel i2p-doc 0.9.23-1 0.9.22-1
+2015-11-20 02:29:04 replace sid deb main armhf i2p-doc 0.9.23-1 0.9.22-1
+2015-11-20 02:29:04 replace sid deb main i386 i2p-router 0.9.23-1 0.9.22-1
+2015-11-20 02:29:04 replace sid deb main amd64 i2p-router 0.9.23-1 0.9.22-1
+2015-11-20 02:29:04 replace sid deb main armel i2p-router 0.9.23-1 0.9.22-1
+2015-11-20 02:29:04 replace sid deb main armhf i2p-router 0.9.23-1 0.9.22-1
+2015-11-20 02:29:04 replace sid deb main i386 i2p 0.9.23-1 0.9.22-1
+2015-11-20 02:29:04 replace sid deb main amd64 i2p 0.9.23-1 0.9.22-1
+2015-11-20 02:29:04 replace sid deb main armel i2p 0.9.23-1 0.9.22-1
+2015-11-20 02:29:04 replace sid deb main armhf i2p 0.9.23-1 0.9.22-1
+2015-11-20 02:29:04 replace sid deb main amd64 libjbigi-jni 0.9.23-1 0.9.22-1
+2015-11-20 02:29:31 replace sid deb main i386 libjbigi-jni 0.9.23-1 0.9.22-1
+2015-11-26 12:21:54 replace sid dsc main source i2pd 2.1.0+git20151124-1 0.10.0-1
+2015-11-26 12:21:54 replace sid deb main amd64 i2pd-dbg 2.1.0+git20151124-1 0.10.0-1+b1
+2015-11-26 12:21:54 replace sid deb main amd64 i2pd 2.1.0+git20151124-1 0.10.0-1+b1
+2015-11-26 12:22:21 replace sid deb main i386 i2pd-dbg 2.1.0+git20151124-1 0.10.0-1+b1
+2015-11-26 12:22:21 replace sid deb main i386 i2pd 2.1.0+git20151124-1 0.10.0-1+b1
+2015-11-26 12:22:41 replace sid deb main armel i2pd-dbg 2.1.0+git20151124-1 0.10.0-1+b1
+2015-11-26 12:22:41 replace sid deb main armel i2pd 2.1.0+git20151124-1 0.10.0-1+b1
+2015-11-26 12:22:59 replace sid deb main armhf i2pd-dbg 2.1.0+git20151124-1 0.10.0-1+b1
+2015-11-26 12:22:59 replace sid deb main armhf i2pd 2.1.0+git20151124-1 0.10.0-1+b1
+2015-11-27 16:21:52 replace sid dsc main source i2pd 2.1.0+git20151126.r1995-1 2.1.0+git20151124-1
+2015-11-27 16:21:52 replace sid deb main amd64 i2pd-dbg 2.1.0+git20151126.r1995-1 2.1.0+git20151124-1
+2015-11-27 16:21:52 replace sid deb main amd64 i2pd 2.1.0+git20151126.r1995-1 2.1.0+git20151124-1
+2015-11-27 16:22:18 replace sid deb main i386 i2pd-dbg 2.1.0+git20151126.r1995-1 2.1.0+git20151124-1
+2015-11-27 16:22:18 replace sid deb main i386 i2pd 2.1.0+git20151126.r1995-1 2.1.0+git20151124-1
+2015-11-27 16:22:37 replace sid deb main armel i2pd-dbg 2.1.0+git20151126.r1995-1 2.1.0+git20151124-1
+2015-11-27 16:22:37 replace sid deb main armel i2pd 2.1.0+git20151126.r1995-1 2.1.0+git20151124-1
+2015-11-27 20:17:41 replace sid deb main armhf i2pd-dbg 2.1.0+git20151126.r1995-1 2.1.0+git20151124-1
+2015-11-27 20:17:41 replace sid deb main armhf i2pd 2.1.0+git20151126.r1995-1 2.1.0+git20151124-1
+2015-12-06 18:31:25 replace sid dsc main source i2p 0.9.23-2 0.9.23-1
+2015-12-06 18:31:25 replace sid deb main i386 i2p-doc 0.9.23-2 0.9.23-1
+2015-12-06 18:31:25 replace sid deb main amd64 i2p-doc 0.9.23-2 0.9.23-1
+2015-12-06 18:31:25 replace sid deb main armel i2p-doc 0.9.23-2 0.9.23-1
+2015-12-06 18:31:25 replace sid deb main armhf i2p-doc 0.9.23-2 0.9.23-1
+2015-12-06 18:31:25 replace sid deb main i386 i2p-router 0.9.23-2 0.9.23-1
+2015-12-06 18:31:25 replace sid deb main amd64 i2p-router 0.9.23-2 0.9.23-1
+2015-12-06 18:31:25 replace sid deb main armel i2p-router 0.9.23-2 0.9.23-1
+2015-12-06 18:31:25 replace sid deb main armhf i2p-router 0.9.23-2 0.9.23-1
+2015-12-06 18:31:25 replace sid deb main i386 i2p 0.9.23-2 0.9.23-1
+2015-12-06 18:31:25 replace sid deb main amd64 i2p 0.9.23-2 0.9.23-1
+2015-12-06 18:31:25 replace sid deb main armel i2p 0.9.23-2 0.9.23-1
+2015-12-06 18:31:25 replace sid deb main armhf i2p 0.9.23-2 0.9.23-1
+2015-12-06 18:31:25 replace sid deb main amd64 libjbigi-jni 0.9.23-2 0.9.23-1
+2015-12-06 18:31:45 replace sid deb main i386 libjbigi-jni 0.9.23-2 0.9.23-1
+2015-12-07 06:23:05 replace sid dsc main source i2pd 2.1.0+git20151204.r2031-1 2.1.0+git20151126.r1995-1
+2015-12-07 06:23:05 replace sid deb main amd64 i2pd-dbg 2.1.0+git20151204.r2031-1 2.1.0+git20151126.r1995-1
+2015-12-07 06:23:05 replace sid deb main amd64 i2pd 2.1.0+git20151204.r2031-1 2.1.0+git20151126.r1995-1
+2015-12-07 06:23:24 replace sid deb main i386 i2pd-dbg 2.1.0+git20151204.r2031-1 2.1.0+git20151126.r1995-1
+2015-12-07 06:23:24 replace sid deb main i386 i2pd 2.1.0+git20151204.r2031-1 2.1.0+git20151126.r1995-1
+2015-12-07 06:23:36 replace sid deb main armel i2pd-dbg 2.1.0+git20151204.r2031-1 2.1.0+git20151126.r1995-1
+2015-12-07 06:23:36 replace sid deb main armel i2pd 2.1.0+git20151204.r2031-1 2.1.0+git20151126.r1995-1
+2015-12-07 06:23:49 replace sid deb main armhf i2pd-dbg 2.1.0+git20151204.r2031-1 2.1.0+git20151126.r1995-1
+2015-12-07 06:23:49 replace sid deb main armhf i2pd 2.1.0+git20151204.r2031-1 2.1.0+git20151126.r1995-1
+2015-12-19 01:11:39 remove sid deb main i386 i2pd 2.1.0+git20151204.r2031-1
+2015-12-19 01:11:39 remove sid deb main i386 i2pd-dbg 2.1.0+git20151204.r2031-1
+2015-12-19 01:11:39 remove sid deb main amd64 i2pd 2.1.0+git20151204.r2031-1
+2015-12-19 01:11:39 remove sid deb main amd64 i2pd-dbg 2.1.0+git20151204.r2031-1
+2015-12-19 01:11:39 remove sid deb main armel i2pd 2.1.0+git20151204.r2031-1
+2015-12-19 01:11:39 remove sid deb main armel i2pd-dbg 2.1.0+git20151204.r2031-1
+2015-12-19 01:11:39 remove sid deb main armhf i2pd 2.1.0+git20151204.r2031-1
+2015-12-19 01:11:39 remove sid deb main armhf i2pd-dbg 2.1.0+git20151204.r2031-1
+2015-12-19 01:11:39 remove sid dsc main source i2pd 2.1.0+git20151204.r2031-1
+2016-01-30 19:40:13 replace sid dsc main source i2p 0.9.24-1 0.9.23-2
+2016-01-30 19:40:13 replace sid deb main i386 i2p-doc 0.9.24-1 0.9.23-2
+2016-01-30 19:40:13 replace sid deb main amd64 i2p-doc 0.9.24-1 0.9.23-2
+2016-01-30 19:40:13 replace sid deb main armel i2p-doc 0.9.24-1 0.9.23-2
+2016-01-30 19:40:13 replace sid deb main armhf i2p-doc 0.9.24-1 0.9.23-2
+2016-01-30 19:40:13 replace sid deb main i386 i2p-router 0.9.24-1 0.9.23-2
+2016-01-30 19:40:13 replace sid deb main amd64 i2p-router 0.9.24-1 0.9.23-2
+2016-01-30 19:40:13 replace sid deb main armel i2p-router 0.9.24-1 0.9.23-2
+2016-01-30 19:40:13 replace sid deb main armhf i2p-router 0.9.24-1 0.9.23-2
+2016-01-30 19:40:13 replace sid deb main i386 i2p 0.9.24-1 0.9.23-2
+2016-01-30 19:40:13 replace sid deb main amd64 i2p 0.9.24-1 0.9.23-2
+2016-01-30 19:40:13 replace sid deb main armel i2p 0.9.24-1 0.9.23-2
+2016-01-30 19:40:13 replace sid deb main armhf i2p 0.9.24-1 0.9.23-2
+2016-01-30 19:40:13 replace sid deb main amd64 libjbigi-jni 0.9.24-1 0.9.23-2
+2016-01-30 19:40:57 replace sid deb main i386 libjbigi-jni 0.9.24-1 0.9.23-2
+2016-03-31 18:53:43 replace sid deb main i386 i2p-doc 0.9.25-1 0.9.24-1
+2016-03-31 18:53:43 replace sid deb main amd64 i2p-doc 0.9.25-1 0.9.24-1
+2016-03-31 18:53:43 replace sid deb main armel i2p-doc 0.9.25-1 0.9.24-1
+2016-03-31 18:53:43 replace sid deb main armhf i2p-doc 0.9.25-1 0.9.24-1
+2016-03-31 18:54:30 replace sid deb main i386 i2p-router 0.9.25-1 0.9.24-1
+2016-03-31 18:54:30 replace sid deb main amd64 i2p-router 0.9.25-1 0.9.24-1
+2016-03-31 18:54:30 replace sid deb main armel i2p-router 0.9.25-1 0.9.24-1
+2016-03-31 18:54:30 replace sid deb main armhf i2p-router 0.9.25-1 0.9.24-1
+2016-03-31 18:55:51 replace sid deb main amd64 libjbigi-jni 0.9.25-1 0.9.24-1
+2016-03-31 18:56:17 replace sid deb main i386 i2p 0.9.25-1 0.9.24-1
+2016-03-31 18:56:17 replace sid deb main amd64 i2p 0.9.25-1 0.9.24-1
+2016-03-31 18:56:17 replace sid deb main armel i2p 0.9.25-1 0.9.24-1
+2016-03-31 18:56:17 replace sid deb main armhf i2p 0.9.25-1 0.9.24-1
+2016-03-31 18:59:45 replace sid dsc main source i2p 0.9.25-1 0.9.24-1
+2016-04-30 17:50:42 add sid deb main armel libjbigi-jni 0.9.19-1~deb7u+1
+2016-04-30 17:51:10 replace sid deb main armel libjbigi-jni 0.9.19-1~deb7u+1 0.9.19-1~deb7u+1
+2016-04-30 17:51:43 add sid deb main armhf libjbigi-jni 0.9.20-2~deb7u+1
+2016-06-08 18:28:33 replace sid deb main i386 libjbigi-jni 0.9.24-1~deb8u+1 0.9.24-1
+2016-06-08 18:28:33 replace sid deb main i386 i2p-router 0.9.26-1~deb8u+1 0.9.25-1
+2016-06-08 18:28:33 replace sid deb main i386 i2p-doc 0.9.26-1~deb8u+1 0.9.25-1
+2016-06-08 18:28:33 replace sid deb main i386 i2p 0.9.26-1~deb8u+1 0.9.25-1
+2016-06-08 18:28:33 replace sid deb main amd64 libjbigi-jni 0.9.26-1~deb8u+1 0.9.25-1
+2016-06-08 18:28:33 replace sid deb main amd64 i2p-router 0.9.26-1~deb8u+1 0.9.25-1
+2016-06-08 18:28:33 replace sid deb main amd64 i2p-doc 0.9.26-1~deb8u+1 0.9.25-1
+2016-06-08 18:28:33 replace sid deb main amd64 i2p 0.9.26-1~deb8u+1 0.9.25-1
+2016-06-08 18:28:33 replace sid deb main armel libjbigi-jni 0.9.19-1~deb7u+1 0.9.19-1~deb7u+1
+2016-06-08 18:28:33 replace sid deb main armel i2p-router 0.9.26-1~deb8u+1 0.9.25-1
+2016-06-08 18:28:33 replace sid deb main armel i2p-doc 0.9.26-1~deb8u+1 0.9.25-1
+2016-06-08 18:28:33 replace sid deb main armel i2p 0.9.26-1~deb8u+1 0.9.25-1
+2016-06-08 18:28:33 replace sid deb main armhf libjbigi-jni 0.9.20-2~deb7u+1 0.9.20-2~deb7u+1
+2016-06-08 18:28:33 replace sid deb main armhf i2p-router 0.9.26-1~deb8u+1 0.9.25-1
+2016-06-08 18:28:33 replace sid deb main armhf i2p-doc 0.9.26-1~deb8u+1 0.9.25-1
+2016-06-08 18:28:33 replace sid deb main armhf i2p 0.9.26-1~deb8u+1 0.9.25-1
+2016-06-08 18:28:33 replace sid dsc main source i2p 0.9.25-1~deb8u+1 0.9.25-1
+2016-10-01 21:30:49 replace sid deb main i386 i2p-keyring 2016.10.01 2015.10.02.1
+2016-10-01 21:30:49 replace sid deb main amd64 i2p-keyring 2016.10.01 2015.10.02.1
+2016-10-01 21:30:49 replace sid deb main armel i2p-keyring 2016.10.01 2015.10.02.1
+2016-10-01 21:30:49 replace sid deb main armhf i2p-keyring 2016.10.01 2015.10.02.1
+2016-10-01 21:33:41 replace sid dsc main source i2p-keyring 2016.10.01 2015.10.02.1
+2016-10-18 16:22:22 replace sid deb main i386 libjbigi-jni 0.9.27-1-1ubuntu1 0.9.24-1~deb8u+1
+2016-10-18 16:22:22 replace sid deb main i386 i2p-router 0.9.27-1~deb8u+1 0.9.26-1~deb8u+1
+2016-10-18 16:22:22 replace sid deb main i386 i2p-doc 0.9.27-1~deb8u+1 0.9.26-1~deb8u+1
+2016-10-18 16:22:22 replace sid deb main i386 i2p 0.9.27-1~deb8u+1 0.9.26-1~deb8u+1
+2016-10-18 16:22:22 replace sid deb main amd64 libjbigi-jni 0.9.27-1~deb8u+1 0.9.26-1~deb8u+1
+2016-10-18 16:22:22 replace sid deb main amd64 i2p-router 0.9.27-1~deb8u+1 0.9.26-1~deb8u+1
+2016-10-18 16:22:22 replace sid deb main amd64 i2p-doc 0.9.27-1~deb8u+1 0.9.26-1~deb8u+1
+2016-10-18 16:22:22 replace sid deb main amd64 i2p 0.9.27-1~deb8u+1 0.9.26-1~deb8u+1
+2016-10-18 16:22:22 replace sid deb main armel libjbigi-jni 0.9.19-1~deb7u+1 0.9.19-1~deb7u+1
+2016-10-18 16:22:22 replace sid deb main armel i2p-router 0.9.27-1~deb8u+1 0.9.26-1~deb8u+1
+2016-10-18 16:22:22 replace sid deb main armel i2p-doc 0.9.27-1~deb8u+1 0.9.26-1~deb8u+1
+2016-10-18 16:22:22 replace sid deb main armel i2p 0.9.27-1~deb8u+1 0.9.26-1~deb8u+1
+2016-10-18 16:22:22 replace sid deb main armhf libjbigi-jni 0.9.20-2~deb7u+1 0.9.20-2~deb7u+1
+2016-10-18 16:22:22 replace sid deb main armhf i2p-router 0.9.27-1~deb8u+1 0.9.26-1~deb8u+1
+2016-10-18 16:22:22 replace sid deb main armhf i2p-doc 0.9.27-1~deb8u+1 0.9.26-1~deb8u+1
+2016-10-18 16:22:22 replace sid deb main armhf i2p 0.9.27-1~deb8u+1 0.9.26-1~deb8u+1
+2016-10-18 16:22:22 replace sid dsc main source i2p 0.9.27-1~deb8u+1 0.9.25-1~deb8u+1
+2016-10-19 23:16:40 replace sid deb main i386 syndie 1.107b-2ubuntu1 1.105b-1
+2016-10-19 23:16:40 replace sid deb main amd64 syndie 1.107b-2ubuntu1 1.105b-1
+2016-10-19 23:16:40 replace sid dsc main source syndie 1.107b-2ubuntu1 1.105b-1
+2016-10-19 23:27:18 add sid deb main armel killyourtv-keyring 2015.03.27.1
+2016-10-19 23:27:18 add sid deb main armel libservice-wrapper-doc 3.5.25-1
+2016-10-19 23:27:18 add sid deb main armel libservice-wrapper-java 3.5.25-1
+2016-10-19 23:27:18 add sid deb main armel syndie 1.107b-2ubuntu1
+2016-10-19 23:28:48 add sid deb main armhf killyourtv-keyring 2015.03.27.1
+2016-10-19 23:28:48 add sid deb main armhf libservice-wrapper-doc 3.5.25-1
+2016-10-19 23:28:48 add sid deb main armhf libservice-wrapper-java 3.5.25-1
+2016-10-19 23:28:48 add sid deb main armhf syndie 1.107b-2ubuntu1
+2016-10-31 15:10:55 add sid deb main armhf libservice-wrapper-jni 3.5.25-1~deb7u+1
+2016-10-31 15:11:03 add sid deb main armel libservice-wrapper-jni 3.5.25-1~deb7u+1
+2016-10-31 15:21:25 add sid deb main armel service-wrapper 3.5.25-1~deb7u+1
+2016-10-31 15:21:33 add sid deb main armhf service-wrapper 3.5.25-1~deb7u+1
+2016-12-14 17:48:47 replace sid deb main i386 libjbigi-jni 0.9.28-1ubuntu1 0.9.27-1-1ubuntu1
+2016-12-14 17:48:47 replace sid deb main i386 i2p-router 0.9.28-1ubuntu1 0.9.27-1~deb8u+1
+2016-12-14 17:48:47 replace sid deb main i386 i2p-doc 0.9.28-1ubuntu1 0.9.27-1~deb8u+1
+2016-12-14 17:48:47 replace sid deb main i386 i2p 0.9.28-1ubuntu1 0.9.27-1~deb8u+1
+2016-12-14 17:48:47 replace sid deb main amd64 libjbigi-jni 0.9.28-1ubuntu1 0.9.27-1~deb8u+1
+2016-12-14 17:48:47 replace sid deb main amd64 i2p-router 0.9.28-1ubuntu1 0.9.27-1~deb8u+1
+2016-12-14 17:48:47 replace sid deb main amd64 i2p-doc 0.9.28-1ubuntu1 0.9.27-1~deb8u+1
+2016-12-14 17:48:47 replace sid deb main amd64 i2p 0.9.28-1ubuntu1 0.9.27-1~deb8u+1
+2016-12-14 17:48:47 replace sid deb main armel libjbigi-jni 0.9.19-1~deb7u+1 0.9.19-1~deb7u+1
+2016-12-14 17:48:47 replace sid deb main armel i2p-router 0.9.27-1~deb8u+1 0.9.27-1~deb8u+1
+2016-12-14 17:48:47 replace sid deb main armel i2p-doc 0.9.27-1~deb8u+1 0.9.27-1~deb8u+1
+2016-12-14 17:48:47 replace sid deb main armel i2p 0.9.27-1~deb8u+1 0.9.27-1~deb8u+1
+2016-12-14 17:48:47 replace sid deb main armhf libjbigi-jni 0.9.20-2~deb7u+1 0.9.20-2~deb7u+1
+2016-12-14 17:48:47 replace sid deb main armhf i2p-router 0.9.27-1~deb8u+1 0.9.27-1~deb8u+1
+2016-12-14 17:48:47 replace sid deb main armhf i2p-doc 0.9.27-1~deb8u+1 0.9.27-1~deb8u+1
+2016-12-14 17:48:47 replace sid deb main armhf i2p 0.9.27-1~deb8u+1 0.9.27-1~deb8u+1
+2016-12-14 17:48:47 replace sid dsc main source i2p 0.9.28-1ubuntu1 0.9.27-1~deb8u+1
+2016-12-16 22:42:28 replace sid deb main armel i2p 0.9.28-1ubuntu1 0.9.27-1~deb8u+1
+2016-12-16 22:42:28 replace sid deb main armhf i2p 0.9.28-1ubuntu1 0.9.27-1~deb8u+1
+2016-12-16 22:42:35 replace sid deb main armel i2p-doc 0.9.28-1ubuntu1 0.9.27-1~deb8u+1
+2016-12-16 22:42:35 replace sid deb main armhf i2p-doc 0.9.28-1ubuntu1 0.9.27-1~deb8u+1
+2016-12-16 22:42:43 replace sid deb main armel i2p-router 0.9.28-1ubuntu1 0.9.27-1~deb8u+1
+2016-12-16 22:42:44 replace sid deb main armhf i2p-router 0.9.28-1ubuntu1 0.9.27-1~deb8u+1
+2017-03-01 18:16:03 replace sid deb main i386 libjbigi-jni 0.9.29-1ubuntu1 0.9.28-1ubuntu1
+2017-03-01 18:16:03 replace sid deb main i386 i2p-router 0.9.29-1ubuntu1 0.9.28-1ubuntu1
+2017-03-01 18:16:03 replace sid deb main i386 i2p-doc 0.9.29-1ubuntu1 0.9.28-1ubuntu1
+2017-03-01 18:16:03 replace sid deb main i386 i2p 0.9.29-1ubuntu1 0.9.28-1ubuntu1
+2017-03-01 18:16:03 replace sid deb main amd64 libjbigi-jni 0.9.29-1ubuntu1 0.9.28-1ubuntu1
+2017-03-01 18:16:03 replace sid deb main amd64 i2p-router 0.9.29-1ubuntu1 0.9.28-1ubuntu1
+2017-03-01 18:16:03 replace sid deb main amd64 i2p-doc 0.9.29-1ubuntu1 0.9.28-1ubuntu1
+2017-03-01 18:16:03 replace sid deb main amd64 i2p 0.9.29-1ubuntu1 0.9.28-1ubuntu1
+2017-03-01 18:16:03 replace sid deb main armel libjbigi-jni 0.9.19-1~deb7u+1 0.9.19-1~deb7u+1
+2017-03-01 18:16:03 replace sid deb main armel i2p-router 0.9.28-1ubuntu1 0.9.28-1ubuntu1
+2017-03-01 18:16:03 replace sid deb main armel i2p-doc 0.9.28-1ubuntu1 0.9.28-1ubuntu1
+2017-03-01 18:16:03 replace sid deb main armel i2p 0.9.28-1ubuntu1 0.9.28-1ubuntu1
+2017-03-01 18:16:03 replace sid deb main armhf libjbigi-jni 0.9.20-2~deb7u+1 0.9.20-2~deb7u+1
+2017-03-01 18:16:03 replace sid deb main armhf i2p-router 0.9.28-1ubuntu1 0.9.28-1ubuntu1
+2017-03-01 18:16:03 replace sid deb main armhf i2p-doc 0.9.28-1ubuntu1 0.9.28-1ubuntu1
+2017-03-01 18:16:03 replace sid deb main armhf i2p 0.9.28-1ubuntu1 0.9.28-1ubuntu1
+2017-03-01 18:16:03 replace sid dsc main source i2p 0.9.29-1ubuntu1 0.9.28-1ubuntu1
+2017-03-01 18:39:56 replace sid deb main armel i2p 0.9.29-1ubuntu1 0.9.28-1ubuntu1
+2017-03-01 18:39:56 replace sid deb main armhf i2p 0.9.29-1ubuntu1 0.9.28-1ubuntu1
+2017-03-01 18:40:19 replace sid deb main armel i2p-router 0.9.29-1ubuntu1 0.9.28-1ubuntu1
+2017-03-01 18:40:19 replace sid deb main armhf i2p-router 0.9.29-1ubuntu1 0.9.28-1ubuntu1
+2017-03-01 18:41:43 replace sid deb main armel i2p-doc 0.9.29-1ubuntu1 0.9.28-1ubuntu1
+2017-03-01 18:41:43 replace sid deb main armhf i2p-doc 0.9.29-1ubuntu1 0.9.28-1ubuntu1
+2017-05-04 14:50:15 replace sid deb main i386 libjbigi-jni 0.9.30-3ubuntu1 0.9.29-1ubuntu1
+2017-05-04 14:50:15 replace sid deb main i386 i2p-router 0.9.30-3ubuntu1 0.9.29-1ubuntu1
+2017-05-04 14:50:15 replace sid deb main i386 i2p-doc 0.9.30-3ubuntu1 0.9.29-1ubuntu1
+2017-05-04 14:50:15 replace sid deb main i386 i2p 0.9.30-3ubuntu1 0.9.29-1ubuntu1
+2017-05-04 14:50:15 replace sid deb main amd64 libjbigi-jni 0.9.30-3ubuntu1 0.9.29-1ubuntu1
+2017-05-04 14:50:15 replace sid deb main amd64 i2p-router 0.9.30-3ubuntu1 0.9.29-1ubuntu1
+2017-05-04 14:50:15 replace sid deb main amd64 i2p-doc 0.9.30-3ubuntu1 0.9.29-1ubuntu1
+2017-05-04 14:50:15 replace sid deb main amd64 i2p 0.9.30-3ubuntu1 0.9.29-1ubuntu1
+2017-05-04 14:50:15 replace sid dsc main source i2p 0.9.30-3ubuntu1 0.9.29-1ubuntu1
+2017-05-04 15:10:24 replace sid deb main armel i2p 0.9.30-3ubuntu1 0.9.29-1ubuntu1
+2017-05-04 15:10:24 replace sid deb main armhf i2p 0.9.30-3ubuntu1 0.9.29-1ubuntu1
+2017-05-04 15:10:41 replace sid deb main armel i2p-doc 0.9.30-3ubuntu1 0.9.29-1ubuntu1
+2017-05-04 15:10:41 replace sid deb main armhf i2p-doc 0.9.30-3ubuntu1 0.9.29-1ubuntu1
+2017-05-04 15:10:54 replace sid deb main armel i2p-router 0.9.30-3ubuntu1 0.9.29-1ubuntu1
+2017-05-04 15:10:55 replace sid deb main armhf i2p-router 0.9.30-3ubuntu1 0.9.29-1ubuntu1
+2017-08-09 21:22:20 replace sid deb main i386 libjbigi-jni 0.9.31-1ubuntu1 0.9.30-3ubuntu1
+2017-08-09 21:22:20 replace sid deb main i386 i2p-router 0.9.31-1ubuntu1 0.9.30-3ubuntu1
+2017-08-09 21:22:20 replace sid deb main i386 i2p-doc 0.9.31-1ubuntu1 0.9.30-3ubuntu1
+2017-08-09 21:22:20 replace sid deb main i386 i2p 0.9.31-1ubuntu1 0.9.30-3ubuntu1
+2017-08-09 21:22:20 replace sid deb main amd64 libjbigi-jni 0.9.31-1ubuntu1 0.9.30-3ubuntu1
+2017-08-09 21:22:20 replace sid deb main amd64 i2p-router 0.9.31-1ubuntu1 0.9.30-3ubuntu1
+2017-08-09 21:22:20 replace sid deb main amd64 i2p-doc 0.9.31-1ubuntu1 0.9.30-3ubuntu1
+2017-08-09 21:22:20 replace sid deb main amd64 i2p 0.9.31-1ubuntu1 0.9.30-3ubuntu1
+2017-08-09 21:22:20 replace sid dsc main source i2p 0.9.31-1ubuntu1 0.9.30-3ubuntu1
+2017-08-09 21:31:59 replace sid deb main armel i2p 0.9.31-1ubuntu1 0.9.30-3ubuntu1
+2017-08-09 21:31:59 replace sid deb main armhf i2p 0.9.31-1ubuntu1 0.9.30-3ubuntu1
+2017-08-09 21:32:17 replace sid deb main armel i2p-doc 0.9.31-1ubuntu1 0.9.30-3ubuntu1
+2017-08-09 21:32:17 replace sid deb main armhf i2p-doc 0.9.31-1ubuntu1 0.9.30-3ubuntu1
+2017-08-09 21:32:35 replace sid deb main armel i2p-router 0.9.31-1ubuntu1 0.9.30-3ubuntu1
+2017-08-09 21:32:35 replace sid deb main armhf i2p-router 0.9.31-1ubuntu1 0.9.30-3ubuntu1
+2017-11-08 23:35:12 replace sid deb main i386 libjbigi-jni 0.9.32-1ubuntu1 0.9.31-1ubuntu1
+2017-11-08 23:35:12 replace sid deb main i386 i2p-router 0.9.32-1ubuntu1 0.9.31-1ubuntu1
+2017-11-08 23:35:12 replace sid deb main i386 i2p-doc 0.9.32-1ubuntu1 0.9.31-1ubuntu1
+2017-11-08 23:35:12 replace sid deb main i386 i2p 0.9.32-1ubuntu1 0.9.31-1ubuntu1
+2017-11-08 23:35:12 replace sid deb main amd64 libjbigi-jni 0.9.32-1ubuntu1 0.9.31-1ubuntu1
+2017-11-08 23:35:12 replace sid deb main amd64 i2p-router 0.9.32-1ubuntu1 0.9.31-1ubuntu1
+2017-11-08 23:35:12 replace sid deb main amd64 i2p-doc 0.9.32-1ubuntu1 0.9.31-1ubuntu1
+2017-11-08 23:35:12 replace sid deb main amd64 i2p 0.9.32-1ubuntu1 0.9.31-1ubuntu1
+2017-11-08 23:35:12 replace sid dsc main source i2p 0.9.32-1ubuntu1 0.9.31-1ubuntu1
+2017-11-08 23:39:27 replace sid deb main armel i2p 0.9.32-1ubuntu1 0.9.31-1ubuntu1
+2017-11-08 23:39:27 replace sid deb main armhf i2p 0.9.32-1ubuntu1 0.9.31-1ubuntu1
+2017-11-08 23:39:53 replace sid deb main armel i2p-doc 0.9.32-1ubuntu1 0.9.31-1ubuntu1
+2017-11-08 23:39:53 replace sid deb main armhf i2p-doc 0.9.32-1ubuntu1 0.9.31-1ubuntu1
+2017-11-08 23:40:26 replace sid deb main armel i2p-router 0.9.32-1ubuntu1 0.9.31-1ubuntu1
+2017-11-08 23:40:26 replace sid deb main armhf i2p-router 0.9.32-1ubuntu1 0.9.31-1ubuntu1
+2018-01-31 14:57:44 replace sid deb main i386 libjbigi-jni 0.9.33-1ubuntu1 0.9.32-1ubuntu1
+2018-01-31 14:57:45 replace sid deb main i386 i2p-router 0.9.33-1ubuntu1 0.9.32-1ubuntu1
+2018-01-31 14:57:45 replace sid deb main i386 i2p-doc 0.9.33-1ubuntu1 0.9.32-1ubuntu1
+2018-01-31 14:57:45 replace sid deb main i386 i2p 0.9.33-1ubuntu1 0.9.32-1ubuntu1
+2018-01-31 14:57:45 replace sid deb main amd64 libjbigi-jni 0.9.33-1ubuntu1 0.9.32-1ubuntu1
+2018-01-31 14:57:45 replace sid deb main amd64 i2p-router 0.9.33-1ubuntu1 0.9.32-1ubuntu1
+2018-01-31 14:57:45 replace sid deb main amd64 i2p-doc 0.9.33-1ubuntu1 0.9.32-1ubuntu1
+2018-01-31 14:57:45 replace sid deb main amd64 i2p 0.9.33-1ubuntu1 0.9.32-1ubuntu1
+2018-01-31 14:57:45 replace sid dsc main source i2p 0.9.33-1ubuntu1 0.9.32-1ubuntu1
+2018-01-31 15:10:14 replace sid deb main armel i2p 0.9.33-1ubuntu1 0.9.32-1ubuntu1
+2018-01-31 15:10:14 replace sid deb main armhf i2p 0.9.33-1ubuntu1 0.9.32-1ubuntu1
+2018-01-31 15:10:16 replace sid deb main armel i2p-doc 0.9.33-1ubuntu1 0.9.32-1ubuntu1
+2018-01-31 15:10:16 replace sid deb main armhf i2p-doc 0.9.33-1ubuntu1 0.9.32-1ubuntu1
+2018-01-31 15:10:18 replace sid deb main armel i2p-router 0.9.33-1ubuntu1 0.9.32-1ubuntu1
+2018-01-31 15:10:18 replace sid deb main armhf i2p-router 0.9.33-1ubuntu1 0.9.32-1ubuntu1
+2018-04-11 18:30:39 replace sid deb main i386 libjbigi-jni 0.9.34-2ubuntu1 0.9.33-1ubuntu1
+2018-04-11 18:30:39 replace sid deb main i386 i2p-router 0.9.34-2ubuntu1 0.9.33-1ubuntu1
+2018-04-11 18:30:39 replace sid deb main i386 i2p-doc 0.9.34-2ubuntu1 0.9.33-1ubuntu1
+2018-04-11 18:30:39 replace sid deb main i386 i2p 0.9.34-2ubuntu1 0.9.33-1ubuntu1
+2018-04-11 18:30:39 replace sid deb main amd64 libjbigi-jni 0.9.34-2ubuntu1 0.9.33-1ubuntu1
+2018-04-11 18:30:39 replace sid deb main amd64 i2p-router 0.9.34-2ubuntu1 0.9.33-1ubuntu1
+2018-04-11 18:30:39 replace sid deb main amd64 i2p-doc 0.9.34-2ubuntu1 0.9.33-1ubuntu1
+2018-04-11 18:30:39 replace sid deb main amd64 i2p 0.9.34-2ubuntu1 0.9.33-1ubuntu1
+2018-04-11 18:30:39 replace sid dsc main source i2p 0.9.34-2ubuntu1 0.9.33-1ubuntu1
+2018-04-11 18:34:36 replace sid deb main armel i2p 0.9.34-2ubuntu1 0.9.33-1ubuntu1
+2018-04-11 18:34:36 replace sid deb main armhf i2p 0.9.34-2ubuntu1 0.9.33-1ubuntu1
+2018-04-11 18:34:39 replace sid deb main armel i2p-doc 0.9.34-2ubuntu1 0.9.33-1ubuntu1
+2018-04-11 18:34:39 replace sid deb main armhf i2p-doc 0.9.34-2ubuntu1 0.9.33-1ubuntu1
+2018-04-11 18:34:40 replace sid deb main armel i2p-router 0.9.34-2ubuntu1 0.9.33-1ubuntu1
+2018-04-11 18:34:40 replace sid deb main armhf i2p-router 0.9.34-2ubuntu1 0.9.33-1ubuntu1
+2018-06-27 19:12:52 replace sid deb main i386 libjbigi-jni 0.9.35-1ubuntu1 0.9.34-2ubuntu1
+2018-06-27 19:12:52 replace sid deb main i386 i2p-router 0.9.35-1ubuntu1 0.9.34-2ubuntu1
+2018-06-27 19:12:52 replace sid deb main i386 i2p-doc 0.9.35-1ubuntu1 0.9.34-2ubuntu1
+2018-06-27 19:12:52 replace sid deb main i386 i2p 0.9.35-1ubuntu1 0.9.34-2ubuntu1
+2018-06-27 19:12:52 replace sid deb main amd64 libjbigi-jni 0.9.35-1ubuntu1 0.9.34-2ubuntu1
+2018-06-27 19:12:52 replace sid deb main amd64 i2p-router 0.9.35-1ubuntu1 0.9.34-2ubuntu1
+2018-06-27 19:12:52 replace sid deb main amd64 i2p-doc 0.9.35-1ubuntu1 0.9.34-2ubuntu1
+2018-06-27 19:12:52 replace sid deb main amd64 i2p 0.9.35-1ubuntu1 0.9.34-2ubuntu1
+2018-06-27 19:12:52 replace sid dsc main source i2p 0.9.35-1ubuntu1 0.9.34-2ubuntu1
+2018-06-27 19:14:54 replace sid deb main armel i2p 0.9.35-1ubuntu1 0.9.34-2ubuntu1
+2018-06-27 19:14:54 replace sid deb main armhf i2p 0.9.35-1ubuntu1 0.9.34-2ubuntu1
+2018-06-27 19:14:56 replace sid deb main armel i2p-doc 0.9.35-1ubuntu1 0.9.34-2ubuntu1
+2018-06-27 19:14:56 replace sid deb main armhf i2p-doc 0.9.35-1ubuntu1 0.9.34-2ubuntu1
+2018-06-27 19:14:59 replace sid deb main armel i2p-router 0.9.35-1ubuntu1 0.9.34-2ubuntu1
+2018-06-27 19:14:59 replace sid deb main armhf i2p-router 0.9.35-1ubuntu1 0.9.34-2ubuntu1
+2018-08-24 15:13:38 replace sid deb main i386 libjbigi-jni 0.9.36-2ubuntu1 0.9.35-1ubuntu1
+2018-08-24 15:13:38 replace sid deb main i386 i2p-router 0.9.36-2ubuntu1 0.9.35-1ubuntu1
+2018-08-24 15:13:38 replace sid deb main i386 i2p-doc 0.9.36-2ubuntu1 0.9.35-1ubuntu1
+2018-08-24 15:13:38 replace sid deb main i386 i2p 0.9.36-2ubuntu1 0.9.35-1ubuntu1
+2018-08-24 15:13:38 replace sid deb main amd64 libjbigi-jni 0.9.36-2ubuntu1 0.9.35-1ubuntu1
+2018-08-24 15:13:38 replace sid deb main amd64 i2p-router 0.9.36-2ubuntu1 0.9.35-1ubuntu1
+2018-08-24 15:13:38 replace sid deb main amd64 i2p-doc 0.9.36-2ubuntu1 0.9.35-1ubuntu1
+2018-08-24 15:13:38 replace sid deb main amd64 i2p 0.9.36-2ubuntu1 0.9.35-1ubuntu1
+2018-08-24 15:13:38 replace sid dsc main source i2p 0.9.36-2ubuntu1 0.9.35-1ubuntu1
+2018-08-24 15:18:41 replace sid deb main armel i2p 0.9.36-2ubuntu1 0.9.35-1ubuntu1
+2018-08-24 15:18:41 replace sid deb main armhf i2p 0.9.36-2ubuntu1 0.9.35-1ubuntu1
+2018-08-24 15:18:43 replace sid deb main armel i2p-doc 0.9.36-2ubuntu1 0.9.35-1ubuntu1
+2018-08-24 15:18:43 replace sid deb main armhf i2p-doc 0.9.36-2ubuntu1 0.9.35-1ubuntu1
+2018-08-24 15:18:44 replace sid deb main armel i2p-router 0.9.36-2ubuntu1 0.9.35-1ubuntu1
+2018-08-24 15:18:44 replace sid deb main armhf i2p-router 0.9.36-2ubuntu1 0.9.35-1ubuntu1
+2018-09-16 23:28:44 replace sid deb main i386 i2p-keyring 2018.09.16 2016.10.01
+2018-09-16 23:28:44 replace sid deb main amd64 i2p-keyring 2018.09.16 2016.10.01
+2018-09-16 23:28:44 replace sid deb main armel i2p-keyring 2018.09.16 2016.10.01
+2018-09-16 23:28:44 replace sid deb main armhf i2p-keyring 2018.09.16 2016.10.01
+2018-09-16 23:30:25 replace sid dsc main source i2p-keyring 2018.09.16 2016.10.01
+2018-10-05 20:57:44 replace sid deb main i386 libjbigi-jni 0.9.37-1ubuntu1 0.9.36-2ubuntu1
+2018-10-05 20:57:44 replace sid deb main i386 i2p-router 0.9.37-1ubuntu1 0.9.36-2ubuntu1
+2018-10-05 20:57:44 replace sid deb main i386 i2p-doc 0.9.37-1ubuntu1 0.9.36-2ubuntu1
+2018-10-05 20:57:44 replace sid deb main i386 i2p 0.9.37-1ubuntu1 0.9.36-2ubuntu1
+2018-10-05 20:57:44 replace sid deb main amd64 libjbigi-jni 0.9.37-1ubuntu1 0.9.36-2ubuntu1
+2018-10-05 20:57:44 replace sid deb main amd64 i2p-router 0.9.37-1ubuntu1 0.9.36-2ubuntu1
+2018-10-05 20:57:44 replace sid deb main amd64 i2p-doc 0.9.37-1ubuntu1 0.9.36-2ubuntu1
+2018-10-05 20:57:44 replace sid deb main amd64 i2p 0.9.37-1ubuntu1 0.9.36-2ubuntu1
+2018-10-05 20:57:44 replace sid dsc main source i2p 0.9.37-1ubuntu1 0.9.36-2ubuntu1
+2018-10-05 20:59:19 replace sid deb main armel i2p 0.9.37-1ubuntu1 0.9.36-2ubuntu1
+2018-10-05 20:59:19 replace sid deb main armhf i2p 0.9.37-1ubuntu1 0.9.36-2ubuntu1
+2018-10-05 20:59:21 replace sid deb main armel i2p-doc 0.9.37-1ubuntu1 0.9.36-2ubuntu1
+2018-10-05 20:59:21 replace sid deb main armhf i2p-doc 0.9.37-1ubuntu1 0.9.36-2ubuntu1
+2018-10-05 20:59:22 replace sid deb main armel i2p-router 0.9.37-1ubuntu1 0.9.36-2ubuntu1
+2018-10-05 20:59:22 replace sid deb main armhf i2p-router 0.9.37-1ubuntu1 0.9.36-2ubuntu1
+2019-01-23 19:59:29 replace sid deb main i386 libjbigi-jni 0.9.38-1~disco+1 0.9.37-1ubuntu1
+2019-01-23 19:59:29 replace sid deb main i386 i2p-router 0.9.38-1~disco+1 0.9.37-1ubuntu1
+2019-01-23 19:59:29 replace sid deb main i386 i2p-doc 0.9.38-1~disco+1 0.9.37-1ubuntu1
+2019-01-23 19:59:29 replace sid deb main i386 i2p 0.9.38-1~disco+1 0.9.37-1ubuntu1
+2019-01-23 19:59:29 replace sid deb main amd64 libjbigi-jni 0.9.38-1~disco+1 0.9.37-1ubuntu1
+2019-01-23 19:59:29 replace sid deb main amd64 i2p-router 0.9.38-1~disco+1 0.9.37-1ubuntu1
+2019-01-23 19:59:29 replace sid deb main amd64 i2p-doc 0.9.38-1~disco+1 0.9.37-1ubuntu1
+2019-01-23 19:59:29 replace sid deb main amd64 i2p 0.9.38-1~disco+1 0.9.37-1ubuntu1
+2019-01-23 19:59:29 replace sid dsc main source i2p 0.9.38-1~disco+1 0.9.37-1ubuntu1
+2019-01-23 20:04:50 replace sid deb main armel i2p 0.9.38-1~disco+1 0.9.37-1ubuntu1
+2019-01-23 20:04:50 replace sid deb main armhf i2p 0.9.38-1~disco+1 0.9.37-1ubuntu1
+2019-01-23 20:04:51 replace sid deb main armel i2p-doc 0.9.38-1~disco+1 0.9.37-1ubuntu1
+2019-01-23 20:04:51 replace sid deb main armhf i2p-doc 0.9.38-1~disco+1 0.9.37-1ubuntu1
+2019-01-23 20:04:53 replace sid deb main armel i2p-router 0.9.38-1~disco+1 0.9.37-1ubuntu1
+2019-01-23 20:04:53 replace sid deb main armhf i2p-router 0.9.38-1~disco+1 0.9.37-1ubuntu1
+2019-03-22 18:01:50 replace sid deb main armel i2p 0.9.39-1~disco+1 0.9.38-1~disco+1
+2019-03-22 18:01:50 replace sid deb main armhf i2p 0.9.39-1~disco+1 0.9.38-1~disco+1
+2019-03-22 18:01:51 replace sid deb main armel i2p-doc 0.9.39-1~disco+1 0.9.38-1~disco+1
+2019-03-22 18:01:51 replace sid deb main armhf i2p-doc 0.9.39-1~disco+1 0.9.38-1~disco+1
+2019-03-22 18:01:53 replace sid deb main armel i2p-router 0.9.39-1~disco+1 0.9.38-1~disco+1
+2019-03-22 18:01:53 replace sid deb main armhf i2p-router 0.9.39-1~disco+1 0.9.38-1~disco+1
+2019-03-22 18:03:16 replace sid deb main i386 libjbigi-jni 0.9.39-1~disco+1 0.9.38-1~disco+1
+2019-03-22 18:03:16 replace sid deb main i386 i2p-router 0.9.39-1~disco+1 0.9.38-1~disco+1
+2019-03-22 18:03:16 replace sid deb main i386 i2p-doc 0.9.39-1~disco+1 0.9.38-1~disco+1
+2019-03-22 18:03:16 replace sid deb main i386 i2p 0.9.39-1~disco+1 0.9.38-1~disco+1
+2019-03-22 18:03:16 replace sid deb main amd64 libjbigi-jni 0.9.39-1~disco+1 0.9.38-1~disco+1
+2019-03-22 18:03:16 replace sid deb main amd64 i2p-router 0.9.39-1~disco+1 0.9.38-1~disco+1
+2019-03-22 18:03:16 replace sid deb main amd64 i2p-doc 0.9.39-1~disco+1 0.9.38-1~disco+1
+2019-03-22 18:03:16 replace sid deb main amd64 i2p 0.9.39-1~disco+1 0.9.38-1~disco+1
+2019-03-22 18:03:16 replace sid dsc main source i2p 0.9.39-1~disco+1 0.9.38-1~disco+1
+2019-05-08 14:41:38 replace sid deb main i386 libjbigi-jni 0.9.40-1~disco+1 0.9.39-1~disco+1
+2019-05-08 14:41:38 replace sid deb main i386 i2p-router 0.9.40-1~disco+1 0.9.39-1~disco+1
+2019-05-08 14:41:38 replace sid deb main i386 i2p-doc 0.9.40-1~disco+1 0.9.39-1~disco+1
+2019-05-08 14:41:38 replace sid deb main i386 i2p 0.9.40-1~disco+1 0.9.39-1~disco+1
+2019-05-08 14:41:38 replace sid deb main amd64 libjbigi-jni 0.9.40-1~disco+1 0.9.39-1~disco+1
+2019-05-08 14:41:38 replace sid deb main amd64 i2p-router 0.9.40-1~disco+1 0.9.39-1~disco+1
+2019-05-08 14:41:38 replace sid deb main amd64 i2p-doc 0.9.40-1~disco+1 0.9.39-1~disco+1
+2019-05-08 14:41:38 replace sid deb main amd64 i2p 0.9.40-1~disco+1 0.9.39-1~disco+1
+2019-05-08 14:41:38 replace sid dsc main source i2p 0.9.40-1~disco+1 0.9.39-1~disco+1
+2019-05-08 14:51:01 replace sid deb main armel i2p 0.9.40-1~disco+1 0.9.39-1~disco+1
+2019-05-08 14:51:01 replace sid deb main armhf i2p 0.9.40-1~disco+1 0.9.39-1~disco+1
+2019-05-08 14:51:03 replace sid deb main armel i2p-doc 0.9.40-1~disco+1 0.9.39-1~disco+1
+2019-05-08 14:51:03 replace sid deb main armhf i2p-doc 0.9.40-1~disco+1 0.9.39-1~disco+1
+2019-05-08 14:51:04 replace sid deb main armel i2p-router 0.9.40-1~disco+1 0.9.39-1~disco+1
+2019-05-08 14:51:04 replace sid deb main armhf i2p-router 0.9.40-1~disco+1 0.9.39-1~disco+1
+2019-05-19 18:29:27 add sid deb main arm64 i2p 0.9.40-1~disco+1
+2019-05-19 18:29:27 add sid deb main arm64 i2p-doc 0.9.40-1~disco+1
+2019-05-19 18:29:27 add sid deb main arm64 i2p-keyring 2018.09.16
+2019-05-19 18:29:27 add sid deb main arm64 i2p-router 0.9.40-1~disco+1
+2019-05-19 18:29:27 add sid deb main arm64 killyourtv-keyring 2015.03.27.1
+2019-05-19 18:29:27 add sid deb main arm64 libservice-wrapper-doc 3.5.25-1
+2019-05-19 18:29:27 add sid deb main arm64 libservice-wrapper-java 3.5.25-1
+2019-05-19 18:29:27 add sid deb main arm64 syndie 1.107b-2ubuntu1
+2019-05-19 18:29:28 add sid deb main ppc64el i2p 0.9.40-1~disco+1
+2019-05-19 18:29:28 add sid deb main ppc64el i2p-doc 0.9.40-1~disco+1
+2019-05-19 18:29:28 add sid deb main ppc64el i2p-keyring 2018.09.16
+2019-05-19 18:29:28 add sid deb main ppc64el i2p-router 0.9.40-1~disco+1
+2019-05-19 18:29:28 add sid deb main ppc64el killyourtv-keyring 2015.03.27.1
+2019-05-19 18:29:28 add sid deb main ppc64el libservice-wrapper-doc 3.5.25-1
+2019-05-19 18:29:28 add sid deb main ppc64el libservice-wrapper-java 3.5.25-1
+2019-05-19 18:29:28 add sid deb main ppc64el syndie 1.107b-2ubuntu1
+2019-05-19 18:29:29 add sid deb main s390x i2p 0.9.40-1~disco+1
+2019-05-19 18:29:29 add sid deb main s390x i2p-doc 0.9.40-1~disco+1
+2019-05-19 18:29:29 add sid deb main s390x i2p-keyring 2018.09.16
+2019-05-19 18:29:29 add sid deb main s390x i2p-router 0.9.40-1~disco+1
+2019-05-19 18:29:29 add sid deb main s390x killyourtv-keyring 2015.03.27.1
+2019-05-19 18:29:29 add sid deb main s390x libservice-wrapper-doc 3.5.25-1
+2019-05-19 18:29:29 add sid deb main s390x libservice-wrapper-java 3.5.25-1
+2019-05-19 18:29:29 add sid deb main s390x syndie 1.107b-2ubuntu1
+2019-07-03 22:56:42 replace sid deb main i386 libjbigi-jni 0.9.41-1~disco+1 0.9.40-1~disco+1
+2019-07-03 22:56:42 replace sid deb main i386 i2p-router 0.9.41-1~disco+1 0.9.40-1~disco+1
+2019-07-03 22:56:42 replace sid deb main i386 i2p-doc 0.9.41-1~disco+1 0.9.40-1~disco+1
+2019-07-03 22:56:42 replace sid deb main i386 i2p 0.9.41-1~disco+1 0.9.40-1~disco+1
+2019-07-03 22:56:42 replace sid deb main amd64 libjbigi-jni 0.9.41-1~disco+1 0.9.40-1~disco+1
+2019-07-03 22:56:42 replace sid deb main amd64 i2p-router 0.9.41-1~disco+1 0.9.40-1~disco+1
+2019-07-03 22:56:42 replace sid deb main amd64 i2p-doc 0.9.41-1~disco+1 0.9.40-1~disco+1
+2019-07-03 22:56:42 replace sid deb main amd64 i2p 0.9.41-1~disco+1 0.9.40-1~disco+1
+2019-07-03 22:56:42 add sid deb main arm64 libjbigi-jni 0.9.41-1~disco+1
+2019-07-03 22:56:42 replace sid deb main arm64 i2p-router 0.9.41-1~disco+1 0.9.40-1~disco+1
+2019-07-03 22:56:42 replace sid deb main arm64 i2p-doc 0.9.41-1~disco+1 0.9.40-1~disco+1
+2019-07-03 22:56:42 replace sid deb main arm64 i2p 0.9.41-1~disco+1 0.9.40-1~disco+1
+2019-07-03 22:56:42 replace sid deb main armhf libjbigi-jni 0.9.41-1~disco+1 0.9.20-2~deb7u+1
+2019-07-03 22:56:42 replace sid deb main armhf i2p-router 0.9.41-1~disco+1 0.9.40-1~disco+1
+2019-07-03 22:56:42 replace sid deb main armhf i2p-doc 0.9.41-1~disco+1 0.9.40-1~disco+1
+2019-07-03 22:56:42 replace sid deb main armhf i2p 0.9.41-1~disco+1 0.9.40-1~disco+1
+2019-07-03 22:56:42 add sid deb main ppc64el libjbigi-jni 0.9.41-1~disco+1
+2019-07-03 22:56:42 replace sid deb main ppc64el i2p-router 0.9.41-1~disco+1 0.9.40-1~disco+1
+2019-07-03 22:56:42 replace sid deb main ppc64el i2p-doc 0.9.41-1~disco+1 0.9.40-1~disco+1
+2019-07-03 22:56:42 replace sid deb main ppc64el i2p 0.9.41-1~disco+1 0.9.40-1~disco+1
+2019-07-03 22:56:42 add sid deb main s390x libjbigi-jni 0.9.41-1~disco+1
+2019-07-03 22:56:42 replace sid deb main s390x i2p-router 0.9.41-1~disco+1 0.9.40-1~disco+1
+2019-07-03 22:56:42 replace sid deb main s390x i2p-doc 0.9.41-1~disco+1 0.9.40-1~disco+1
+2019-07-03 22:56:42 replace sid deb main s390x i2p 0.9.41-1~disco+1 0.9.40-1~disco+1
+2019-07-03 22:56:42 replace sid dsc main source i2p 0.9.41-1~disco+1 0.9.40-1~disco+1
+2019-07-03 23:01:40 replace sid deb main armel i2p 0.9.41-1~disco+1 0.9.40-1~disco+1
+2019-07-03 23:01:41 replace sid deb main armel i2p-doc 0.9.41-1~disco+1 0.9.40-1~disco+1
+2019-07-03 23:01:42 replace sid deb main armel i2p-router 0.9.41-1~disco+1 0.9.40-1~disco+1
+2019-08-28 20:51:31 replace sid deb main i386 libjbigi-jni 0.9.42-1~disco+1 0.9.41-1~disco+1
+2019-08-28 20:51:31 replace sid deb main i386 i2p-router 0.9.42-1~disco+1 0.9.41-1~disco+1
+2019-08-28 20:51:31 replace sid deb main i386 i2p-doc 0.9.42-1~disco+1 0.9.41-1~disco+1
+2019-08-28 20:51:31 replace sid deb main i386 i2p 0.9.42-1~disco+1 0.9.41-1~disco+1
+2019-08-28 20:51:31 replace sid deb main amd64 libjbigi-jni 0.9.42-1~disco+1 0.9.41-1~disco+1
+2019-08-28 20:51:31 replace sid deb main amd64 i2p-router 0.9.42-1~disco+1 0.9.41-1~disco+1
+2019-08-28 20:51:31 replace sid deb main amd64 i2p-doc 0.9.42-1~disco+1 0.9.41-1~disco+1
+2019-08-28 20:51:31 replace sid deb main amd64 i2p 0.9.42-1~disco+1 0.9.41-1~disco+1
+2019-08-28 20:51:31 replace sid deb main arm64 libjbigi-jni 0.9.42-1~disco+1 0.9.41-1~disco+1
+2019-08-28 20:51:31 replace sid deb main arm64 i2p-router 0.9.42-1~disco+1 0.9.41-1~disco+1
+2019-08-28 20:51:31 replace sid deb main arm64 i2p-doc 0.9.42-1~disco+1 0.9.41-1~disco+1
+2019-08-28 20:51:31 replace sid deb main arm64 i2p 0.9.42-1~disco+1 0.9.41-1~disco+1
+2019-08-28 20:51:31 replace sid deb main armhf libjbigi-jni 0.9.42-1~disco+1 0.9.41-1~disco+1
+2019-08-28 20:51:31 replace sid deb main armhf i2p-router 0.9.42-1~disco+1 0.9.41-1~disco+1
+2019-08-28 20:51:31 replace sid deb main armhf i2p-doc 0.9.42-1~disco+1 0.9.41-1~disco+1
+2019-08-28 20:51:31 replace sid deb main armhf i2p 0.9.42-1~disco+1 0.9.41-1~disco+1
+2019-08-28 20:51:31 replace sid deb main ppc64el libjbigi-jni 0.9.42-1~disco+1 0.9.41-1~disco+1
+2019-08-28 20:51:31 replace sid deb main ppc64el i2p-router 0.9.42-1~disco+1 0.9.41-1~disco+1
+2019-08-28 20:51:31 replace sid deb main ppc64el i2p-doc 0.9.42-1~disco+1 0.9.41-1~disco+1
+2019-08-28 20:51:31 replace sid deb main ppc64el i2p 0.9.42-1~disco+1 0.9.41-1~disco+1
+2019-08-28 20:51:31 replace sid deb main s390x libjbigi-jni 0.9.42-1~disco+1 0.9.41-1~disco+1
+2019-08-28 20:51:31 replace sid deb main s390x i2p-router 0.9.42-1~disco+1 0.9.41-1~disco+1
+2019-08-28 20:51:31 replace sid deb main s390x i2p-doc 0.9.42-1~disco+1 0.9.41-1~disco+1
+2019-08-28 20:51:31 replace sid deb main s390x i2p 0.9.42-1~disco+1 0.9.41-1~disco+1
+2019-08-28 20:51:31 replace sid dsc main source i2p 0.9.42-1~disco+1 0.9.41-1~disco+1
+2019-09-21 17:04:29 replace sid deb main i386 i2p-keyring 2019.09.21 2018.09.16
+2019-09-21 17:04:29 replace sid deb main amd64 i2p-keyring 2019.09.21 2018.09.16
+2019-09-21 17:04:29 replace sid deb main armel i2p-keyring 2019.09.21 2018.09.16
+2019-09-21 17:04:29 replace sid deb main armhf i2p-keyring 2019.09.21 2018.09.16
+2019-09-21 17:04:29 replace sid deb main arm64 i2p-keyring 2019.09.21 2018.09.16
+2019-09-21 17:04:29 replace sid deb main ppc64el i2p-keyring 2019.09.21 2018.09.16
+2019-09-21 17:04:29 replace sid deb main s390x i2p-keyring 2019.09.21 2018.09.16
+2019-09-21 17:07:20 replace sid dsc main source i2p-keyring 2019.09.21 2018.09.16
+2019-10-22 17:49:05 replace sid deb main i386 libjbigi-jni 0.9.43-1~disco+1 0.9.42-1~disco+1
+2019-10-22 17:49:05 replace sid deb main i386 i2p-router 0.9.43-1~disco+1 0.9.42-1~disco+1
+2019-10-22 17:49:05 replace sid deb main i386 i2p-doc 0.9.43-1~disco+1 0.9.42-1~disco+1
+2019-10-22 17:49:05 replace sid deb main i386 i2p 0.9.43-1~disco+1 0.9.42-1~disco+1
+2019-10-22 17:49:05 replace sid deb main amd64 libjbigi-jni 0.9.43-1~disco+1 0.9.42-1~disco+1
+2019-10-22 17:49:05 replace sid deb main amd64 i2p-router 0.9.43-1~disco+1 0.9.42-1~disco+1
+2019-10-22 17:49:05 replace sid deb main amd64 i2p-doc 0.9.43-1~disco+1 0.9.42-1~disco+1
+2019-10-22 17:49:05 replace sid deb main amd64 i2p 0.9.43-1~disco+1 0.9.42-1~disco+1
+2019-10-22 17:49:05 replace sid deb main arm64 libjbigi-jni 0.9.43-1~disco+1 0.9.42-1~disco+1
+2019-10-22 17:49:05 replace sid deb main arm64 i2p-router 0.9.43-1~disco+1 0.9.42-1~disco+1
+2019-10-22 17:49:05 replace sid deb main arm64 i2p-doc 0.9.43-1~disco+1 0.9.42-1~disco+1
+2019-10-22 17:49:05 replace sid deb main arm64 i2p 0.9.43-1~disco+1 0.9.42-1~disco+1
+2019-10-22 17:49:05 replace sid deb main armhf libjbigi-jni 0.9.43-1~disco+1 0.9.42-1~disco+1
+2019-10-22 17:49:05 replace sid deb main armhf i2p-router 0.9.43-1~disco+1 0.9.42-1~disco+1
+2019-10-22 17:49:05 replace sid deb main armhf i2p-doc 0.9.43-1~disco+1 0.9.42-1~disco+1
+2019-10-22 17:49:05 replace sid deb main armhf i2p 0.9.43-1~disco+1 0.9.42-1~disco+1
+2019-10-22 17:49:05 replace sid deb main ppc64el libjbigi-jni 0.9.43-1~disco+1 0.9.42-1~disco+1
+2019-10-22 17:49:05 replace sid deb main ppc64el i2p-router 0.9.43-1~disco+1 0.9.42-1~disco+1
+2019-10-22 17:49:05 replace sid deb main ppc64el i2p-doc 0.9.43-1~disco+1 0.9.42-1~disco+1
+2019-10-22 17:49:05 replace sid deb main ppc64el i2p 0.9.43-1~disco+1 0.9.42-1~disco+1
+2019-10-22 17:49:05 replace sid deb main s390x libjbigi-jni 0.9.43-1~disco+1 0.9.42-1~disco+1
+2019-10-22 17:49:05 replace sid deb main s390x i2p-router 0.9.43-1~disco+1 0.9.42-1~disco+1
+2019-10-22 17:49:05 replace sid deb main s390x i2p-doc 0.9.43-1~disco+1 0.9.42-1~disco+1
+2019-10-22 17:49:05 replace sid deb main s390x i2p 0.9.43-1~disco+1 0.9.42-1~disco+1
+2019-10-22 17:49:05 replace sid dsc main source i2p 0.9.43-1~disco+1 0.9.42-1~disco+1
+2019-12-01 23:43:01 replace sid deb main i386 libjbigi-jni 0.9.44-1~disco+1 0.9.43-1~disco+1
+2019-12-01 23:43:01 replace sid deb main i386 i2p-router 0.9.44-1~disco+1 0.9.43-1~disco+1
+2019-12-01 23:43:01 replace sid deb main i386 i2p-doc 0.9.44-1~disco+1 0.9.43-1~disco+1
+2019-12-01 23:43:01 replace sid deb main i386 i2p 0.9.44-1~disco+1 0.9.43-1~disco+1
+2019-12-01 23:43:01 replace sid deb main amd64 libjbigi-jni 0.9.44-1~disco+1 0.9.43-1~disco+1
+2019-12-01 23:43:01 replace sid deb main amd64 i2p-router 0.9.44-1~disco+1 0.9.43-1~disco+1
+2019-12-01 23:43:01 replace sid deb main amd64 i2p-doc 0.9.44-1~disco+1 0.9.43-1~disco+1
+2019-12-01 23:43:01 replace sid deb main amd64 i2p 0.9.44-1~disco+1 0.9.43-1~disco+1
+2019-12-01 23:43:01 replace sid deb main arm64 libjbigi-jni 0.9.44-1~disco+1 0.9.43-1~disco+1
+2019-12-01 23:43:01 replace sid deb main arm64 i2p-router 0.9.44-1~disco+1 0.9.43-1~disco+1
+2019-12-01 23:43:01 replace sid deb main arm64 i2p-doc 0.9.44-1~disco+1 0.9.43-1~disco+1
+2019-12-01 23:43:01 replace sid deb main arm64 i2p 0.9.44-1~disco+1 0.9.43-1~disco+1
+2019-12-01 23:43:01 replace sid deb main armhf libjbigi-jni 0.9.44-1~disco+1 0.9.43-1~disco+1
+2019-12-01 23:43:01 replace sid deb main armhf i2p-router 0.9.44-1~disco+1 0.9.43-1~disco+1
+2019-12-01 23:43:01 replace sid deb main armhf i2p-doc 0.9.44-1~disco+1 0.9.43-1~disco+1
+2019-12-01 23:43:01 replace sid deb main armhf i2p 0.9.44-1~disco+1 0.9.43-1~disco+1
+2019-12-01 23:43:01 replace sid deb main ppc64el libjbigi-jni 0.9.44-1~disco+1 0.9.43-1~disco+1
+2019-12-01 23:43:01 replace sid deb main ppc64el i2p-router 0.9.44-1~disco+1 0.9.43-1~disco+1
+2019-12-01 23:43:01 replace sid deb main ppc64el i2p-doc 0.9.44-1~disco+1 0.9.43-1~disco+1
+2019-12-01 23:43:01 replace sid deb main ppc64el i2p 0.9.44-1~disco+1 0.9.43-1~disco+1
+2019-12-01 23:43:01 replace sid deb main s390x libjbigi-jni 0.9.44-1~disco+1 0.9.43-1~disco+1
+2019-12-01 23:43:01 replace sid deb main s390x i2p-router 0.9.44-1~disco+1 0.9.43-1~disco+1
+2019-12-01 23:43:01 replace sid deb main s390x i2p-doc 0.9.44-1~disco+1 0.9.43-1~disco+1
+2019-12-01 23:43:01 replace sid deb main s390x i2p 0.9.44-1~disco+1 0.9.43-1~disco+1
+2019-12-01 23:43:01 replace sid dsc main source i2p 0.9.44-1~disco+1 0.9.43-1~disco+1
+2020-02-25 17:52:35 replace sid deb main i386 libjbigi-jni 0.9.45-1~disco+1 0.9.44-1~disco+1
+2020-02-25 17:52:35 replace sid deb main i386 i2p-router 0.9.45-1~disco+1 0.9.44-1~disco+1
+2020-02-25 17:52:35 replace sid deb main i386 i2p-doc 0.9.45-1~disco+1 0.9.44-1~disco+1
+2020-02-25 17:52:35 replace sid deb main i386 i2p 0.9.45-1~disco+1 0.9.44-1~disco+1
+2020-02-25 17:52:35 replace sid deb main amd64 libjbigi-jni 0.9.45-1~disco+1 0.9.44-1~disco+1
+2020-02-25 17:52:35 replace sid deb main amd64 i2p-router 0.9.45-1~disco+1 0.9.44-1~disco+1
+2020-02-25 17:52:35 replace sid deb main amd64 i2p-doc 0.9.45-1~disco+1 0.9.44-1~disco+1
+2020-02-25 17:52:35 replace sid deb main amd64 i2p 0.9.45-1~disco+1 0.9.44-1~disco+1
+2020-02-25 17:52:35 replace sid deb main arm64 libjbigi-jni 0.9.45-1~disco+1 0.9.44-1~disco+1
+2020-02-25 17:52:35 replace sid deb main arm64 i2p-router 0.9.45-1~disco+1 0.9.44-1~disco+1
+2020-02-25 17:52:35 replace sid deb main arm64 i2p-doc 0.9.45-1~disco+1 0.9.44-1~disco+1
+2020-02-25 17:52:35 replace sid deb main arm64 i2p 0.9.45-1~disco+1 0.9.44-1~disco+1
+2020-02-25 17:52:35 replace sid deb main armhf libjbigi-jni 0.9.45-1~disco+1 0.9.44-1~disco+1
+2020-02-25 17:52:35 replace sid deb main armhf i2p-router 0.9.45-1~disco+1 0.9.44-1~disco+1
+2020-02-25 17:52:35 replace sid deb main armhf i2p-doc 0.9.45-1~disco+1 0.9.44-1~disco+1
+2020-02-25 17:52:35 replace sid deb main armhf i2p 0.9.45-1~disco+1 0.9.44-1~disco+1
+2020-02-25 17:52:35 replace sid deb main ppc64el libjbigi-jni 0.9.45-1~disco+1 0.9.44-1~disco+1
+2020-02-25 17:52:35 replace sid deb main ppc64el i2p-router 0.9.45-1~disco+1 0.9.44-1~disco+1
+2020-02-25 17:52:35 replace sid deb main ppc64el i2p-doc 0.9.45-1~disco+1 0.9.44-1~disco+1
+2020-02-25 17:52:35 replace sid deb main ppc64el i2p 0.9.45-1~disco+1 0.9.44-1~disco+1
+2020-02-25 17:52:35 replace sid deb main s390x libjbigi-jni 0.9.45-1~disco+1 0.9.44-1~disco+1
+2020-02-25 17:52:35 replace sid deb main s390x i2p-router 0.9.45-1~disco+1 0.9.44-1~disco+1
+2020-02-25 17:52:35 replace sid deb main s390x i2p-doc 0.9.45-1~disco+1 0.9.44-1~disco+1
+2020-02-25 17:52:35 replace sid deb main s390x i2p 0.9.45-1~disco+1 0.9.44-1~disco+1
+2020-02-25 17:52:35 replace sid dsc main source i2p 0.9.45-1~disco+1 0.9.44-1~disco+1
+2020-02-25 17:55:47 replace sid deb main armel i2p 0.9.45-1~disco+1 0.9.41-1~disco+1
+2020-02-25 17:55:47 replace sid deb main armel i2p-doc 0.9.45-1~disco+1 0.9.41-1~disco+1
+2020-02-25 17:55:47 replace sid deb main armel i2p-router 0.9.45-1~disco+1 0.9.41-1~disco+1
+2020-05-26 21:58:24 replace sid deb main i386 libjbigi-jni 0.9.46-1ubuntu1 0.9.45-1~disco+1
+2020-05-26 21:58:24 replace sid deb main i386 i2p-router 0.9.46-1ubuntu1 0.9.45-1~disco+1
+2020-05-26 21:58:24 replace sid deb main i386 i2p-doc 0.9.46-1ubuntu1 0.9.45-1~disco+1
+2020-05-26 21:58:24 replace sid deb main i386 i2p 0.9.46-1ubuntu1 0.9.45-1~disco+1
+2020-05-26 21:58:24 replace sid deb main amd64 libjbigi-jni 0.9.46-1ubuntu1 0.9.45-1~disco+1
+2020-05-26 21:58:24 replace sid deb main amd64 i2p-router 0.9.46-1ubuntu1 0.9.45-1~disco+1
+2020-05-26 21:58:24 replace sid deb main amd64 i2p-doc 0.9.46-1ubuntu1 0.9.45-1~disco+1
+2020-05-26 21:58:24 replace sid deb main amd64 i2p 0.9.46-1ubuntu1 0.9.45-1~disco+1
+2020-05-26 21:58:24 replace sid deb main arm64 libjbigi-jni 0.9.46-1ubuntu1 0.9.45-1~disco+1
+2020-05-26 21:58:24 replace sid deb main arm64 i2p-router 0.9.46-1ubuntu1 0.9.45-1~disco+1
+2020-05-26 21:58:24 replace sid deb main arm64 i2p-doc 0.9.46-1ubuntu1 0.9.45-1~disco+1
+2020-05-26 21:58:24 replace sid deb main arm64 i2p 0.9.46-1ubuntu1 0.9.45-1~disco+1
+2020-05-26 21:58:24 replace sid deb main armhf libjbigi-jni 0.9.46-1ubuntu1 0.9.45-1~disco+1
+2020-05-26 21:58:24 replace sid deb main armhf i2p-router 0.9.46-1ubuntu1 0.9.45-1~disco+1
+2020-05-26 21:58:24 replace sid deb main armhf i2p-doc 0.9.46-1ubuntu1 0.9.45-1~disco+1
+2020-05-26 21:58:24 replace sid deb main armhf i2p 0.9.46-1ubuntu1 0.9.45-1~disco+1
+2020-05-26 21:58:24 replace sid deb main ppc64el libjbigi-jni 0.9.46-1ubuntu1 0.9.45-1~disco+1
+2020-05-26 21:58:24 replace sid deb main ppc64el i2p-router 0.9.46-1ubuntu1 0.9.45-1~disco+1
+2020-05-26 21:58:24 replace sid deb main ppc64el i2p-doc 0.9.46-1ubuntu1 0.9.45-1~disco+1
+2020-05-26 21:58:24 replace sid deb main ppc64el i2p 0.9.46-1ubuntu1 0.9.45-1~disco+1
+2020-05-26 21:58:24 replace sid deb main s390x libjbigi-jni 0.9.46-1ubuntu1 0.9.45-1~disco+1
+2020-05-26 21:58:24 replace sid deb main s390x i2p-router 0.9.46-1ubuntu1 0.9.45-1~disco+1
+2020-05-26 21:58:24 replace sid deb main s390x i2p-doc 0.9.46-1ubuntu1 0.9.45-1~disco+1
+2020-05-26 21:58:24 replace sid deb main s390x i2p 0.9.46-1ubuntu1 0.9.45-1~disco+1
+2020-05-26 21:58:24 replace sid dsc main source i2p 0.9.46-1ubuntu1 0.9.45-1~disco+1
+2020-08-25 21:23:48 replace sid deb main i386 libjbigi-jni 0.9.46-1ubuntu1 0.9.46-1ubuntu1
+2020-08-25 21:23:48 replace sid deb main i386 i2p-router 0.9.47-1ubuntu1 0.9.46-1ubuntu1
+2020-08-25 21:23:48 replace sid deb main i386 i2p-doc 0.9.47-1ubuntu1 0.9.46-1ubuntu1
+2020-08-25 21:23:48 replace sid deb main i386 i2p 0.9.47-1ubuntu1 0.9.46-1ubuntu1
+2020-08-25 21:23:48 replace sid deb main amd64 libjbigi-jni 0.9.47-1ubuntu1 0.9.46-1ubuntu1
+2020-08-25 21:23:48 replace sid deb main amd64 i2p-router 0.9.47-1ubuntu1 0.9.46-1ubuntu1
+2020-08-25 21:23:48 replace sid deb main amd64 i2p-doc 0.9.47-1ubuntu1 0.9.46-1ubuntu1
+2020-08-25 21:23:48 replace sid deb main amd64 i2p 0.9.47-1ubuntu1 0.9.46-1ubuntu1
+2020-08-25 21:23:48 replace sid deb main arm64 libjbigi-jni 0.9.47-1ubuntu1 0.9.46-1ubuntu1
+2020-08-25 21:23:48 replace sid deb main arm64 i2p-router 0.9.47-1ubuntu1 0.9.46-1ubuntu1
+2020-08-25 21:23:48 replace sid deb main arm64 i2p-doc 0.9.47-1ubuntu1 0.9.46-1ubuntu1
+2020-08-25 21:23:48 replace sid deb main arm64 i2p 0.9.47-1ubuntu1 0.9.46-1ubuntu1
+2020-08-25 21:23:48 replace sid deb main armhf libjbigi-jni 0.9.47-1ubuntu1 0.9.46-1ubuntu1
+2020-08-25 21:23:48 replace sid deb main armhf i2p-router 0.9.47-1ubuntu1 0.9.46-1ubuntu1
+2020-08-25 21:23:48 replace sid deb main armhf i2p-doc 0.9.47-1ubuntu1 0.9.46-1ubuntu1
+2020-08-25 21:23:48 replace sid deb main armhf i2p 0.9.47-1ubuntu1 0.9.46-1ubuntu1
+2020-08-25 21:23:48 replace sid deb main ppc64el libjbigi-jni 0.9.47-1ubuntu1 0.9.46-1ubuntu1
+2020-08-25 21:23:48 replace sid deb main ppc64el i2p-router 0.9.47-1ubuntu1 0.9.46-1ubuntu1
+2020-08-25 21:23:48 replace sid deb main ppc64el i2p-doc 0.9.47-1ubuntu1 0.9.46-1ubuntu1
+2020-08-25 21:23:48 replace sid deb main ppc64el i2p 0.9.47-1ubuntu1 0.9.46-1ubuntu1
+2020-08-25 21:23:48 replace sid deb main s390x libjbigi-jni 0.9.47-1ubuntu1 0.9.46-1ubuntu1
+2020-08-25 21:23:48 replace sid deb main s390x i2p-router 0.9.47-1ubuntu1 0.9.46-1ubuntu1
+2020-08-25 21:23:48 replace sid deb main s390x i2p-doc 0.9.47-1ubuntu1 0.9.46-1ubuntu1
+2020-08-25 21:23:48 replace sid deb main s390x i2p 0.9.47-1ubuntu1 0.9.46-1ubuntu1
+2020-08-25 21:23:48 replace sid dsc main source i2p 0.9.47-1ubuntu1 0.9.46-1ubuntu1
+2020-12-02 17:39:37 replace sid deb main i386 libjbigi-jni 0.9.46-1ubuntu1 0.9.46-1ubuntu1
+2020-12-02 17:39:37 replace sid deb main i386 i2p-router 0.9.48-1ubuntu1 0.9.47-1ubuntu1
+2020-12-02 17:39:37 replace sid deb main i386 i2p-doc 0.9.48-1ubuntu1 0.9.47-1ubuntu1
+2020-12-02 17:39:37 replace sid deb main i386 i2p 0.9.48-1ubuntu1 0.9.47-1ubuntu1
+2020-12-02 17:39:37 replace sid deb main amd64 libjbigi-jni 0.9.48-1ubuntu1 0.9.47-1ubuntu1
+2020-12-02 17:39:37 replace sid deb main amd64 i2p-router 0.9.48-1ubuntu1 0.9.47-1ubuntu1
+2020-12-02 17:39:37 replace sid deb main amd64 i2p-doc 0.9.48-1ubuntu1 0.9.47-1ubuntu1
+2020-12-02 17:39:37 replace sid deb main amd64 i2p 0.9.48-1ubuntu1 0.9.47-1ubuntu1
+2020-12-02 17:39:37 replace sid deb main arm64 libjbigi-jni 0.9.48-1ubuntu1 0.9.47-1ubuntu1
+2020-12-02 17:39:37 replace sid deb main arm64 i2p-router 0.9.48-1ubuntu1 0.9.47-1ubuntu1
+2020-12-02 17:39:37 replace sid deb main arm64 i2p-doc 0.9.48-1ubuntu1 0.9.47-1ubuntu1
+2020-12-02 17:39:37 replace sid deb main arm64 i2p 0.9.48-1ubuntu1 0.9.47-1ubuntu1
+2020-12-02 17:39:37 replace sid deb main armhf libjbigi-jni 0.9.48-1ubuntu1 0.9.47-1ubuntu1
+2020-12-02 17:39:37 replace sid deb main armhf i2p-router 0.9.48-1ubuntu1 0.9.47-1ubuntu1
+2020-12-02 17:39:37 replace sid deb main armhf i2p-doc 0.9.48-1ubuntu1 0.9.47-1ubuntu1
+2020-12-02 17:39:37 replace sid deb main armhf i2p 0.9.48-1ubuntu1 0.9.47-1ubuntu1
+2020-12-02 17:39:37 replace sid deb main ppc64el libjbigi-jni 0.9.48-1ubuntu1 0.9.47-1ubuntu1
+2020-12-02 17:39:37 replace sid deb main ppc64el i2p-router 0.9.48-1ubuntu1 0.9.47-1ubuntu1
+2020-12-02 17:39:37 replace sid deb main ppc64el i2p-doc 0.9.48-1ubuntu1 0.9.47-1ubuntu1
+2020-12-02 17:39:37 replace sid deb main ppc64el i2p 0.9.48-1ubuntu1 0.9.47-1ubuntu1
+2020-12-02 17:39:37 replace sid deb main s390x libjbigi-jni 0.9.48-1ubuntu1 0.9.47-1ubuntu1
+2020-12-02 17:39:37 replace sid deb main s390x i2p-router 0.9.48-1ubuntu1 0.9.47-1ubuntu1
+2020-12-02 17:39:37 replace sid deb main s390x i2p-doc 0.9.48-1ubuntu1 0.9.47-1ubuntu1
+2020-12-02 17:39:37 replace sid deb main s390x i2p 0.9.48-1ubuntu1 0.9.47-1ubuntu1
+2020-12-02 17:39:37 replace sid dsc main source i2p 0.9.48-1ubuntu1 0.9.47-1ubuntu1
+2021-02-18 01:56:10 replace sid deb main i386 libjbigi-jni 0.9.46-1ubuntu1 0.9.46-1ubuntu1
+2021-02-18 01:56:10 replace sid deb main i386 i2p-router 0.9.49-1ubuntu1 0.9.48-1ubuntu1
+2021-02-18 01:56:10 replace sid deb main i386 i2p-doc 0.9.49-1ubuntu1 0.9.48-1ubuntu1
+2021-02-18 01:56:10 replace sid deb main i386 i2p 0.9.49-1ubuntu1 0.9.48-1ubuntu1
+2021-02-18 01:56:10 replace sid deb main amd64 libjbigi-jni 0.9.49-1ubuntu1 0.9.48-1ubuntu1
+2021-02-18 01:56:10 replace sid deb main amd64 i2p-router 0.9.49-1ubuntu1 0.9.48-1ubuntu1
+2021-02-18 01:56:10 replace sid deb main amd64 i2p-doc 0.9.49-1ubuntu1 0.9.48-1ubuntu1
+2021-02-18 01:56:10 replace sid deb main amd64 i2p 0.9.49-1ubuntu1 0.9.48-1ubuntu1
+2021-02-18 01:56:10 replace sid deb main arm64 libjbigi-jni 0.9.49-1ubuntu1 0.9.48-1ubuntu1
+2021-02-18 01:56:10 replace sid deb main arm64 i2p-router 0.9.49-1ubuntu1 0.9.48-1ubuntu1
+2021-02-18 01:56:10 replace sid deb main arm64 i2p-doc 0.9.49-1ubuntu1 0.9.48-1ubuntu1
+2021-02-18 01:56:10 replace sid deb main arm64 i2p 0.9.49-1ubuntu1 0.9.48-1ubuntu1
+2021-02-18 01:56:10 replace sid deb main armhf libjbigi-jni 0.9.49-1ubuntu1 0.9.48-1ubuntu1
+2021-02-18 01:56:10 replace sid deb main armhf i2p-router 0.9.49-1ubuntu1 0.9.48-1ubuntu1
+2021-02-18 01:56:10 replace sid deb main armhf i2p-doc 0.9.49-1ubuntu1 0.9.48-1ubuntu1
+2021-02-18 01:56:10 replace sid deb main armhf i2p 0.9.49-1ubuntu1 0.9.48-1ubuntu1
+2021-02-18 01:56:10 replace sid deb main ppc64el libjbigi-jni 0.9.49-1ubuntu1 0.9.48-1ubuntu1
+2021-02-18 01:56:10 replace sid deb main ppc64el i2p-router 0.9.49-1ubuntu1 0.9.48-1ubuntu1
+2021-02-18 01:56:10 replace sid deb main ppc64el i2p-doc 0.9.49-1ubuntu1 0.9.48-1ubuntu1
+2021-02-18 01:56:10 replace sid deb main ppc64el i2p 0.9.49-1ubuntu1 0.9.48-1ubuntu1
+2021-02-18 01:56:10 replace sid deb main s390x libjbigi-jni 0.9.49-1ubuntu1 0.9.48-1ubuntu1
+2021-02-18 01:56:10 replace sid deb main s390x i2p-router 0.9.49-1ubuntu1 0.9.48-1ubuntu1
+2021-02-18 01:56:10 replace sid deb main s390x i2p-doc 0.9.49-1ubuntu1 0.9.48-1ubuntu1
+2021-02-18 01:56:10 replace sid deb main s390x i2p 0.9.49-1ubuntu1 0.9.48-1ubuntu1
+2021-02-18 01:56:10 replace sid dsc main source i2p 0.9.49-1ubuntu1 0.9.48-1ubuntu1
+2021-05-19 18:11:53 replace sid deb main i386 libjbigi-jni 0.9.46-1ubuntu1 0.9.46-1ubuntu1
+2021-05-19 18:11:53 replace sid deb main i386 i2p-router 0.9.50-1ubuntu1 0.9.49-1ubuntu1
+2021-05-19 18:11:53 replace sid deb main i386 i2p-doc 0.9.50-1ubuntu1 0.9.49-1ubuntu1
+2021-05-19 18:11:53 replace sid deb main i386 i2p 0.9.50-1ubuntu1 0.9.49-1ubuntu1
+2021-05-19 18:11:53 replace sid deb main amd64 libjbigi-jni 0.9.50-1ubuntu1 0.9.49-1ubuntu1
+2021-05-19 18:11:53 replace sid deb main amd64 i2p-router 0.9.50-1ubuntu1 0.9.49-1ubuntu1
+2021-05-19 18:11:53 replace sid deb main amd64 i2p-doc 0.9.50-1ubuntu1 0.9.49-1ubuntu1
+2021-05-19 18:11:53 replace sid deb main amd64 i2p 0.9.50-1ubuntu1 0.9.49-1ubuntu1
+2021-05-19 18:11:53 replace sid deb main arm64 libjbigi-jni 0.9.50-1ubuntu1 0.9.49-1ubuntu1
+2021-05-19 18:11:53 replace sid deb main arm64 i2p-router 0.9.50-1ubuntu1 0.9.49-1ubuntu1
+2021-05-19 18:11:53 replace sid deb main arm64 i2p-doc 0.9.50-1ubuntu1 0.9.49-1ubuntu1
+2021-05-19 18:11:53 replace sid deb main arm64 i2p 0.9.50-1ubuntu1 0.9.49-1ubuntu1
+2021-05-19 18:11:53 replace sid deb main armhf libjbigi-jni 0.9.50-1ubuntu1 0.9.49-1ubuntu1
+2021-05-19 18:11:53 replace sid deb main armhf i2p-router 0.9.50-1ubuntu1 0.9.49-1ubuntu1
+2021-05-19 18:11:53 replace sid deb main armhf i2p-doc 0.9.50-1ubuntu1 0.9.49-1ubuntu1
+2021-05-19 18:11:53 replace sid deb main armhf i2p 0.9.50-1ubuntu1 0.9.49-1ubuntu1
+2021-05-19 18:11:53 replace sid deb main ppc64el libjbigi-jni 0.9.50-1ubuntu1 0.9.49-1ubuntu1
+2021-05-19 18:11:53 replace sid deb main ppc64el i2p-router 0.9.50-1ubuntu1 0.9.49-1ubuntu1
+2021-05-19 18:11:53 replace sid deb main ppc64el i2p-doc 0.9.50-1ubuntu1 0.9.49-1ubuntu1
+2021-05-19 18:11:53 replace sid deb main ppc64el i2p 0.9.50-1ubuntu1 0.9.49-1ubuntu1
+2021-05-19 18:11:53 replace sid deb main s390x libjbigi-jni 0.9.50-1ubuntu1 0.9.49-1ubuntu1
+2021-05-19 18:11:53 replace sid deb main s390x i2p-router 0.9.50-1ubuntu1 0.9.49-1ubuntu1
+2021-05-19 18:11:53 replace sid deb main s390x i2p-doc 0.9.50-1ubuntu1 0.9.49-1ubuntu1
+2021-05-19 18:11:53 replace sid deb main s390x i2p 0.9.50-1ubuntu1 0.9.49-1ubuntu1
+2021-05-19 18:11:53 replace sid dsc main source i2p 0.9.50-1ubuntu1 0.9.49-1ubuntu1
+2021-05-19 19:34:23 replace sid deb main i386 i2p-keyring 2019.09.21 2019.09.21
+2021-05-19 19:34:23 replace sid deb main amd64 i2p-keyring 2019.09.21 2019.09.21
+2021-05-19 19:34:23 replace sid deb main arm64 i2p-keyring 2019.09.21 2019.09.21
+2021-05-19 19:34:23 replace sid deb main armhf i2p-keyring 2019.09.21 2019.09.21
+2021-05-19 19:34:23 replace sid deb main ppc64el i2p-keyring 2019.09.21 2019.09.21
+2021-05-19 19:34:23 replace sid deb main s390x i2p-keyring 2019.09.21 2019.09.21
+2021-05-19 19:34:23 replace sid dsc main source i2p-keyring 2019.09.21 2019.09.21
+2021-05-19 19:34:32 replace sid deb main i386 libjbigi-jni 0.9.46-1ubuntu1 0.9.46-1ubuntu1
+2021-05-19 19:34:32 replace sid deb main i386 i2p-router 0.9.50-1ubuntu1 0.9.50-1ubuntu1
+2021-05-19 19:34:32 replace sid deb main i386 i2p-doc 0.9.50-1ubuntu1 0.9.50-1ubuntu1
+2021-05-19 19:34:32 replace sid deb main i386 i2p 0.9.50-1ubuntu1 0.9.50-1ubuntu1
+2021-05-19 19:34:32 replace sid deb main amd64 libjbigi-jni 0.9.50-1ubuntu1 0.9.50-1ubuntu1
+2021-05-19 19:34:32 replace sid deb main amd64 i2p-router 0.9.50-1ubuntu1 0.9.50-1ubuntu1
+2021-05-19 19:34:32 replace sid deb main amd64 i2p-doc 0.9.50-1ubuntu1 0.9.50-1ubuntu1
+2021-05-19 19:34:32 replace sid deb main amd64 i2p 0.9.50-1ubuntu1 0.9.50-1ubuntu1
+2021-05-19 19:34:32 replace sid deb main arm64 libjbigi-jni 0.9.50-1ubuntu1 0.9.50-1ubuntu1
+2021-05-19 19:34:32 replace sid deb main arm64 i2p-router 0.9.50-1ubuntu1 0.9.50-1ubuntu1
+2021-05-19 19:34:32 replace sid deb main arm64 i2p-doc 0.9.50-1ubuntu1 0.9.50-1ubuntu1
+2021-05-19 19:34:32 replace sid deb main arm64 i2p 0.9.50-1ubuntu1 0.9.50-1ubuntu1
+2021-05-19 19:34:32 replace sid deb main armhf libjbigi-jni 0.9.50-1ubuntu1 0.9.50-1ubuntu1
+2021-05-19 19:34:32 replace sid deb main armhf i2p-router 0.9.50-1ubuntu1 0.9.50-1ubuntu1
+2021-05-19 19:34:32 replace sid deb main armhf i2p-doc 0.9.50-1ubuntu1 0.9.50-1ubuntu1
+2021-05-19 19:34:32 replace sid deb main armhf i2p 0.9.50-1ubuntu1 0.9.50-1ubuntu1
+2021-05-19 19:34:32 replace sid deb main ppc64el libjbigi-jni 0.9.50-1ubuntu1 0.9.50-1ubuntu1
+2021-05-19 19:34:32 replace sid deb main ppc64el i2p-router 0.9.50-1ubuntu1 0.9.50-1ubuntu1
+2021-05-19 19:34:32 replace sid deb main ppc64el i2p-doc 0.9.50-1ubuntu1 0.9.50-1ubuntu1
+2021-05-19 19:34:32 replace sid deb main ppc64el i2p 0.9.50-1ubuntu1 0.9.50-1ubuntu1
+2021-05-19 19:34:32 replace sid deb main s390x libjbigi-jni 0.9.50-1ubuntu1 0.9.50-1ubuntu1
+2021-05-19 19:34:32 replace sid deb main s390x i2p-router 0.9.50-1ubuntu1 0.9.50-1ubuntu1
+2021-05-19 19:34:32 replace sid deb main s390x i2p-doc 0.9.50-1ubuntu1 0.9.50-1ubuntu1
+2021-05-19 19:34:32 replace sid deb main s390x i2p 0.9.50-1ubuntu1 0.9.50-1ubuntu1
+2021-05-19 19:34:32 replace sid dsc main source i2p 0.9.50-1ubuntu1 0.9.50-1ubuntu1
+2021-08-30 15:26:06 replace sid deb main i386 libjbigi-jni 0.9.46-1ubuntu1 0.9.46-1ubuntu1
+2021-08-30 15:26:06 replace sid deb main i386 i2p-router 1.5.0-2ubuntu1 0.9.50-1ubuntu1
+2021-08-30 15:26:06 replace sid deb main i386 i2p-doc 1.5.0-2ubuntu1 0.9.50-1ubuntu1
+2021-08-30 15:26:06 replace sid deb main i386 i2p 1.5.0-2ubuntu1 0.9.50-1ubuntu1
+2021-08-30 15:26:06 replace sid deb main amd64 libjbigi-jni 1.5.0-2ubuntu1 0.9.50-1ubuntu1
+2021-08-30 15:26:06 replace sid deb main amd64 i2p-router 1.5.0-2ubuntu1 0.9.50-1ubuntu1
+2021-08-30 15:26:06 replace sid deb main amd64 i2p-doc 1.5.0-2ubuntu1 0.9.50-1ubuntu1
+2021-08-30 15:26:06 replace sid deb main amd64 i2p 1.5.0-2ubuntu1 0.9.50-1ubuntu1
+2021-08-30 15:26:06 replace sid deb main arm64 libjbigi-jni 1.5.0-2ubuntu1 0.9.50-1ubuntu1
+2021-08-30 15:26:06 replace sid deb main arm64 i2p-router 1.5.0-2ubuntu1 0.9.50-1ubuntu1
+2021-08-30 15:26:06 replace sid deb main arm64 i2p-doc 1.5.0-2ubuntu1 0.9.50-1ubuntu1
+2021-08-30 15:26:06 replace sid deb main arm64 i2p 1.5.0-2ubuntu1 0.9.50-1ubuntu1
+2021-08-30 15:26:06 replace sid deb main armhf libjbigi-jni 1.5.0-2ubuntu1 0.9.50-1ubuntu1
+2021-08-30 15:26:06 replace sid deb main armhf i2p-router 1.5.0-2ubuntu1 0.9.50-1ubuntu1
+2021-08-30 15:26:06 replace sid deb main armhf i2p-doc 1.5.0-2ubuntu1 0.9.50-1ubuntu1
+2021-08-30 15:26:06 replace sid deb main armhf i2p 1.5.0-2ubuntu1 0.9.50-1ubuntu1
+2021-08-30 15:26:06 replace sid deb main ppc64el libjbigi-jni 1.5.0-2ubuntu1 0.9.50-1ubuntu1
+2021-08-30 15:26:06 replace sid deb main ppc64el i2p-router 1.5.0-2ubuntu1 0.9.50-1ubuntu1
+2021-08-30 15:26:06 replace sid deb main ppc64el i2p-doc 1.5.0-2ubuntu1 0.9.50-1ubuntu1
+2021-08-30 15:26:06 replace sid deb main ppc64el i2p 1.5.0-2ubuntu1 0.9.50-1ubuntu1
+2021-08-30 15:26:06 replace sid deb main s390x libjbigi-jni 1.5.0-2ubuntu1 0.9.50-1ubuntu1
+2021-08-30 15:26:06 replace sid deb main s390x i2p-router 1.5.0-2ubuntu1 0.9.50-1ubuntu1
+2021-08-30 15:26:06 replace sid deb main s390x i2p-doc 1.5.0-2ubuntu1 0.9.50-1ubuntu1
+2021-08-30 15:26:06 replace sid deb main s390x i2p 1.5.0-2ubuntu1 0.9.50-1ubuntu1
+2021-08-30 15:26:06 replace sid dsc main source i2p 1.5.0-2ubuntu1 0.9.50-1ubuntu1
+2021-09-10 17:34:11 replace sid deb main i386 i2p-keyring 2021.09.10 2019.09.21
+2021-09-10 17:34:11 replace sid deb main amd64 i2p-keyring 2021.09.10 2019.09.21
+2021-09-10 17:34:11 replace sid deb main armel i2p-keyring 2021.09.10 2019.09.21
+2021-09-10 17:34:11 replace sid deb main armhf i2p-keyring 2021.09.10 2019.09.21
+2021-09-10 17:34:11 replace sid deb main arm64 i2p-keyring 2021.09.10 2019.09.21
+2021-09-10 17:34:11 replace sid deb main ppc64el i2p-keyring 2021.09.10 2019.09.21
+2021-09-10 17:34:11 replace sid deb main s390x i2p-keyring 2021.09.10 2019.09.21
+2021-09-10 17:35:03 replace sid dsc main source i2p-keyring 2021.09.10 2019.09.21
+2021-11-30 16:39:26 replace sid deb main i386 libjbigi-jni 0.9.46-1ubuntu1 0.9.46-1ubuntu1
+2021-11-30 16:39:26 replace sid deb main i386 i2p-router 1.6.1-1ubuntu1 1.5.0-2ubuntu1
+2021-11-30 16:39:26 replace sid deb main i386 i2p-doc 1.6.1-1ubuntu1 1.5.0-2ubuntu1
+2021-11-30 16:39:26 replace sid deb main i386 i2p 1.6.1-1ubuntu1 1.5.0-2ubuntu1
+2021-11-30 16:39:26 replace sid deb main amd64 libjbigi-jni 1.6.1-1ubuntu1 1.5.0-2ubuntu1
+2021-11-30 16:39:26 replace sid deb main amd64 i2p-router 1.6.1-1ubuntu1 1.5.0-2ubuntu1
+2021-11-30 16:39:26 replace sid deb main amd64 i2p-doc 1.6.1-1ubuntu1 1.5.0-2ubuntu1
+2021-11-30 16:39:26 replace sid deb main amd64 i2p 1.6.1-1ubuntu1 1.5.0-2ubuntu1
+2021-11-30 16:39:26 replace sid deb main arm64 libjbigi-jni 1.6.1-1ubuntu1 1.5.0-2ubuntu1
+2021-11-30 16:39:26 replace sid deb main arm64 i2p-router 1.6.1-1ubuntu1 1.5.0-2ubuntu1
+2021-11-30 16:39:26 replace sid deb main arm64 i2p-doc 1.6.1-1ubuntu1 1.5.0-2ubuntu1
+2021-11-30 16:39:26 replace sid deb main arm64 i2p 1.6.1-1ubuntu1 1.5.0-2ubuntu1
+2021-11-30 16:39:26 replace sid deb main armhf libjbigi-jni 1.6.1-1ubuntu1 1.5.0-2ubuntu1
+2021-11-30 16:39:26 replace sid deb main armhf i2p-router 1.6.1-1ubuntu1 1.5.0-2ubuntu1
+2021-11-30 16:39:26 replace sid deb main armhf i2p-doc 1.6.1-1ubuntu1 1.5.0-2ubuntu1
+2021-11-30 16:39:26 replace sid deb main armhf i2p 1.6.1-1ubuntu1 1.5.0-2ubuntu1
+2021-11-30 16:39:26 replace sid deb main ppc64el libjbigi-jni 1.6.1-1ubuntu1 1.5.0-2ubuntu1
+2021-11-30 16:39:26 replace sid deb main ppc64el i2p-router 1.6.1-1ubuntu1 1.5.0-2ubuntu1
+2021-11-30 16:39:26 replace sid deb main ppc64el i2p-doc 1.6.1-1ubuntu1 1.5.0-2ubuntu1
+2021-11-30 16:39:26 replace sid deb main ppc64el i2p 1.6.1-1ubuntu1 1.5.0-2ubuntu1
+2021-11-30 16:39:26 replace sid deb main s390x libjbigi-jni 1.6.1-1ubuntu1 1.5.0-2ubuntu1
+2021-11-30 16:39:26 replace sid deb main s390x i2p-router 1.6.1-1ubuntu1 1.5.0-2ubuntu1
+2021-11-30 16:39:26 replace sid deb main s390x i2p-doc 1.6.1-1ubuntu1 1.5.0-2ubuntu1
+2021-11-30 16:39:26 replace sid deb main s390x i2p 1.6.1-1ubuntu1 1.5.0-2ubuntu1
+2021-11-30 16:39:26 replace sid dsc main source i2p 1.6.1-1ubuntu1 1.5.0-2ubuntu1
