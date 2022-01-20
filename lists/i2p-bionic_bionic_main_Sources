@@ -1,0 +1,54 @@
+Package: i2p
+Binary: i2p, libjbigi-jni, i2p-doc, i2p-router
+Version: 1.6.1-1~bionic+1
+Section: net
+Maintainer: zzz <zzz@i2pmail.org>
+Build-Depends: debhelper (>= 9.20160709), ant (>= 1.9.8), debconf, openjdk-8-jdk, libjetty9-java (>= 9.4), libtaglibs-standard-jstlel-java, libtomcat9-java, dh-apparmor, bash-completion, gettext, libgetopt-java, libjson-simple-java (>= 2), libjson-simple-java (<< 3), libgmp-dev (>= 2:5.0.5), libservice-wrapper-java, po-debconf
+Architecture: any all
+Standards-Version: 3.9.8
+Format: 3.0 (quilt)
+Directory: pool/main/i/i2p
+Files:
+ eaa9e954f58c8422e56d7b10498d09b5 6791058 i2p_1.6.1.orig.tar.bz2
+ 09df6d890754d238baa4979402399791 55980 i2p_1.6.1-1~bionic+1.debian.tar.xz
+ 8fb4a7476525cd4eb8f55a30a7bb4a05 2125 i2p_1.6.1-1~bionic+1.dsc
+Checksums-Sha1:
+ 5211ab0587965a54eafdaed1576958e1453182f5 6791058 i2p_1.6.1.orig.tar.bz2
+ 0e11cba45b426b7a42cea369626caf484d04b2e6 55980 i2p_1.6.1-1~bionic+1.debian.tar.xz
+ 5b23e12013aca48ae924d3fec7606022e3ce3041 2125 i2p_1.6.1-1~bionic+1.dsc
+Checksums-Sha256:
+ b3bb692e3d9f83623a0e3893e918cb05810f39a5962a36ed574619bf630cec38 6791058 i2p_1.6.1.orig.tar.bz2
+ 0346a4c0c55db1943cf1316ebef6581eebf5bde54eb686f0834890a57cf02a3a 55980 i2p_1.6.1-1~bionic+1.debian.tar.xz
+ c1317b7080bbe316e394dd76a22c3818a0b335858e0ec420566616fe18c23054 2125 i2p_1.6.1-1~bionic+1.dsc
+Homepage: https://geti2p.net/
+Package-List: i2p deb net optional arch=all
+ i2p-doc deb doc extra arch=all
+ i2p-router deb net optional arch=all
+ libjbigi-jni deb java optional arch=any
+
+Package: syndie
+Binary: syndie
+Version: 1.107b-2ubuntu1
+Section: java
+Maintainer: Kill Your TV <killyourtv@i2pmail.org>
+Build-Depends: debhelper (>= 7.0.50~)
+Build-Depends-Indep: ant, openjdk-7-jdk, libswt-gtk-3-java, libhsqldb-java, i2p-router | i2p
+Architecture: all
+Standards-Version: 3.9.3
+Format: 3.0 (quilt)
+Directory: pool/main/s/syndie
+Files:
+ 2e9a04f2c58288b652ceda8b2681bdd4 4531260 syndie_1.107b.orig.tar.bz2
+ 987f8a0685ff7b34ab4197c6ff8cbafe 4236 syndie_1.107b-2ubuntu1.debian.tar.xz
+ 77c1b19f9446e8ca304f6730c39b0c40 1800 syndie_1.107b-2ubuntu1.dsc
+Checksums-Sha1:
+ fe88ad7ed8b4849e778949441135d8d78d7495a7 4531260 syndie_1.107b.orig.tar.bz2
+ 660c50193bd4b597b39382a4a2c7c7ca1e98c928 4236 syndie_1.107b-2ubuntu1.debian.tar.xz
+ 98c71dda6d47c3b4f7040cb681d614406f1d54db 1800 syndie_1.107b-2ubuntu1.dsc
+Checksums-Sha256:
+ 88da9ece9e8b2965429a2fe4ca870e883376426194502070f23731cf586f8062 4531260 syndie_1.107b.orig.tar.bz2
+ c10b58c71049bcfb5fb795f594ae45042bbcef7558779c3cded50d723f90ee39 4236 syndie_1.107b-2ubuntu1.debian.tar.xz
+ 8e490ac2a304f7bbbcd9768424854723ac655a2341bc22f9492f78d081d65ad0 1800 syndie_1.107b-2ubuntu1.dsc
+Homepage: http://syndie.i2p2.de
+Package-List: syndie deb java extra arch=all
+
