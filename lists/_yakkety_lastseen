@@ -1,0 +1,10 @@
+Updates already processed for yakkety:
+Target yakkety|main|source
+Delete
+Index i2p-yakkety_yakkety_main_Sources :1:a25faf333c91479d3b4fafb0520ac47f28597686 :2:5aafda8ec7b42b309cbfa013ddd9b3ac809f0fddd84b3769662478c63b95e316 1edeaa54ed55c17ffc847c4e9329794b 2673
+Target yakkety|main|amd64
+Delete
+Index i2p-yakkety_yakkety_main_amd64_Packages :1:7cd90ed4bd4df496c98f44b1746794b066940d7e :2:5423c437a61c4314ac6e61949ac0cb5001e21e21e0b8644ed9c07b8455610c32 7458dc6547d96d0f8505f948f7a476f6 3353
+Target yakkety|main|i386
+Delete
+Index i2p-yakkety_yakkety_main_i386_Packages :1:b9a4d2bd4ed120a1cd6096e72cfc9eab3ae66fd9 :2:d60fbf99fc8ba0d970d522485e084e39cbdd683c2cc05a849b18f2eb6bb5e572 8a9a42b04460d185484d27235e7996f8 3351
