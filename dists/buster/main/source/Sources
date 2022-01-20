@@ -1,38 +1,38 @@
 Package: i2p
 Binary: i2p, libjbigi-jni, i2p-doc, i2p-router
-Version: 0.9.45-1~disco+1
+Version: 1.6.1-1ubuntu1
 Section: net
 Maintainer: zzz <zzz@i2pmail.org>
-Build-Depends: debhelper (>= 9.20160709), ant (>= 1.8), debconf, default-jdk, libjetty9-java (>= 9.4), libtaglibs-standard-jstlel-java, libtomcat9-java, dh-apparmor, bash-completion, gettext, libgetopt-java, libjson-simple-java (<< 3), libgmp-dev (>= 2:5.0.5), libservice-wrapper-java, po-debconf
+Build-Depends: debhelper (>= 9.20160709), ant (>= 1.9.8), debconf, default-jdk, libjetty9-java (>= 9.4), libtaglibs-standard-jstlel-java, libtomcat9-java, dh-apparmor, bash-completion, gettext, libgetopt-java, libjson-simple-java (>= 2), libjson-simple-java (<< 3), libgmp-dev (>= 2:5.0.5), libservice-wrapper-java, po-debconf
 Architecture: any all
 Standards-Version: 4.3.0
 Format: 3.0 (quilt)
 Directory: pool/main/i/i2p
 Files: 
- 3416fb827a4e38d200264c443cfdd2fd 6904253 i2p_0.9.45.orig.tar.bz2
- 6563d7ff16c59d47cb58a2c7e6b157da 54988 i2p_0.9.45-1~disco+1.debian.tar.xz
- 2d4e515c09f42f214cbd5d649df6863a 2194 i2p_0.9.45-1~disco+1.dsc
+ eaa9e954f58c8422e56d7b10498d09b5 6791058 i2p_1.6.1.orig.tar.bz2
+ 15e2a7ab200c8b13b2253944c8c559d4 55992 i2p_1.6.1-1ubuntu1.debian.tar.xz
+ 52384aa235592214441bcb2a74bae111 2213 i2p_1.6.1-1ubuntu1.dsc
 Checksums-Sha1: 
- d954b4a449e9976d1ee6009c91f0561d07455a99 6904253 i2p_0.9.45.orig.tar.bz2
- 44c2af0accebc4bb006892127d4449620a548cbb 54988 i2p_0.9.45-1~disco+1.debian.tar.xz
- c671be595c872543e0c079610171b6625ee1556a 2194 i2p_0.9.45-1~disco+1.dsc
+ 5211ab0587965a54eafdaed1576958e1453182f5 6791058 i2p_1.6.1.orig.tar.bz2
+ 28e27b275a26382186e519c2ef69b987c1fc1905 55992 i2p_1.6.1-1ubuntu1.debian.tar.xz
+ 800b0d90c738a8582cc30d193bb25364ab872fcc 2213 i2p_1.6.1-1ubuntu1.dsc
 Checksums-Sha256: 
- 073cb69336bcf2866f62842192d128c8a61d1e4fc3a06f198f1e305b1c22b967 6904253 i2p_0.9.45.orig.tar.bz2
- d9e72280defcecd48f04c07f451c1c187e4017961c6db934940278971838d9f9 54988 i2p_0.9.45-1~disco+1.debian.tar.xz
- 7af1503f3600183a544daffd252df986267ba415c3fd4162819e8c09cadf6936 2194 i2p_0.9.45-1~disco+1.dsc
+ b3bb692e3d9f83623a0e3893e918cb05810f39a5962a36ed574619bf630cec38 6791058 i2p_1.6.1.orig.tar.bz2
+ 396651d88952d1a6783c91c878e5c5c325ef26fbcad9898f1f5a6d606546429a 55992 i2p_1.6.1-1ubuntu1.debian.tar.xz
+ 803402dedb21cb8361d6f3aaa202946778ee724a7e65c21969364f3df82be0ce 2213 i2p_1.6.1-1ubuntu1.dsc
 Homepage: https://geti2p.net/
+Vcs-Browser: https://salsa.debian.org/debian/i2p
+Vcs-Git: https://salsa.debian.org/debian/i2p.git
 Package-List: i2p deb net optional arch=all
  i2p-doc deb doc extra arch=all
  i2p-router deb net optional arch=all
  libjbigi-jni deb java optional arch=any
-Vcs-Git: https://salsa.debian.org/debian/i2p.git
-Vcs-Browser: https://salsa.debian.org/debian/i2p
 
 Package: i2p-keyring
 Format: 1.0
 Binary: i2p-keyring
 Architecture: all
-Version: 2019.09.21
+Version: 2021.09.10
 Maintainer: zzz on i2p <zzz@i2pmail.org>
 Standards-Version: 3.9.4
 Build-Depends: debhelper (>= 7), gnupg
@@ -42,14 +42,14 @@ Priority: extra
 Section: misc
 Directory: pool/main/i/i2p-keyring
 Files: 
- f62e4e589ca511f54e9a6ceaf1ed63ef 1420 i2p-keyring_2019.09.21.dsc
- 8cc88707b11bf88c30266166f279653e 16038 i2p-keyring_2019.09.21.tar.gz
+ e254eb97dbaa66063a9590b410ffe528 1420 i2p-keyring_2021.09.10.dsc
+ 71879aeba3965926985444ab59e95cc2 17674 i2p-keyring_2021.09.10.tar.gz
 Checksums-Sha1: 
- 5c96fdeabb14f7996cea9688ea1a31624eb794e9 1420 i2p-keyring_2019.09.21.dsc
- 5b74ba6cf8ff5e7d891ac3716226187b2124fe2b 16038 i2p-keyring_2019.09.21.tar.gz
+ ac31da47afdf11c499614fecacecc53013cf633c 1420 i2p-keyring_2021.09.10.dsc
+ a6d9100f97e9e35a36f0a51e91758ebcce8d8331 17674 i2p-keyring_2021.09.10.tar.gz
 Checksums-Sha256: 
- f7ebf4a9c8c454df44fec2327c844c03142750c98457cb38f4292d4b3e8879b3 1420 i2p-keyring_2019.09.21.dsc
- db228a0e0d6c370241c88ecf00eef7deab272d212413073a8a0451248c5940b6 16038 i2p-keyring_2019.09.21.tar.gz
+ 2fe81fdeb4ff372dbeac2e308adf9cd9d428cfdaeecb667f322662d4cac62cb5 1420 i2p-keyring_2021.09.10.dsc
+ 4587489367f41dd44d8850c9051ae82a5d7cc143370092b3fd865275ba36cbb4 17674 i2p-keyring_2021.09.10.tar.gz
 
 Package: syndie
 Binary: syndie

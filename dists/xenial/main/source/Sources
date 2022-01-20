@@ -1,25 +1,25 @@
 Package: i2p
 Binary: i2p, libjbigi-jni, i2p-doc, i2p-router
-Version: 0.9.45x-1~xenial+1
+Version: 0.9.47x-2~xenial+1
 Section: net
 Maintainer: zzz <zzz@i2pmail.org>
-Build-Depends: debhelper (>= 7.0.50~), ant (>= 1.8), debconf, openjdk-8-jdk, libjetty9-java, glassfish-javaee, libtomcat8-java, dh-apparmor, dh-systemd, bash-completion, gettext, libgetopt-java, libjson-simple-java (<< 3), libgmp-dev (>= 2:5.0.2), libservice-wrapper-java, hardening-wrapper, po-debconf
+Build-Depends: debhelper (>= 7.0.50~), ant (>= 1.8), debconf, openjdk-8-jdk, libjetty9-java, glassfish-javaee, libtomcat8-java, dh-apparmor, dh-systemd, bash-completion, gettext, libgetopt-java, libgmp-dev (>= 2:5.0.2), libservice-wrapper-java, hardening-wrapper, po-debconf
 Architecture: any all
 Standards-Version: 3.9.6
 Format: 3.0 (quilt)
 Directory: pool/main/i/i2p
 Files: 
- dffa21319369ad6966b912103ce3c450 6937016 i2p_0.9.45x.orig.tar.bz2
- 08a3e32b478cfb6b4416578f06e5128e 53060 i2p_0.9.45x-1~xenial+1.debian.tar.xz
- fb58251078071b0482b841531745ad70 2113 i2p_0.9.45x-1~xenial+1.dsc
+ 66ffa585eb9cb2882cbac689c41eb4d0 6697059 i2p_0.9.47x.orig.tar.bz2
+ 91be83780106924ff88624af3947c0f2 53492 i2p_0.9.47x-2~xenial+1.debian.tar.xz
+ 479577c4d0c8777d7d9eaecec688ab01 2085 i2p_0.9.47x-2~xenial+1.dsc
 Checksums-Sha1: 
- 841e311a320357242361b3b9439cce7d15871001 6937016 i2p_0.9.45x.orig.tar.bz2
- 1f4af2258d10533693e31ca96cb272913394af29 53060 i2p_0.9.45x-1~xenial+1.debian.tar.xz
- c9c3de6dc4c838ea88168e239bcdb739dc329b16 2113 i2p_0.9.45x-1~xenial+1.dsc
+ 1827e812fbee262a551c9adc75e78c0e454beb2d 6697059 i2p_0.9.47x.orig.tar.bz2
+ 7da75d9f167d09b60bdf3ea5efbe0a91235700c6 53492 i2p_0.9.47x-2~xenial+1.debian.tar.xz
+ 5deca0c818f26220e8243eed7e579b1095aeae4f 2085 i2p_0.9.47x-2~xenial+1.dsc
 Checksums-Sha256: 
- b5b8b6fe2fd7156bd84c43b25fd0a09d8c719506331f6f9d1e67cf8d8731a998 6937016 i2p_0.9.45x.orig.tar.bz2
- 447b4ca66482de02fc4e180b651fb84368f96f1521adde9658780a8a4a77766c 53060 i2p_0.9.45x-1~xenial+1.debian.tar.xz
- 3d918ecfb3e617af6d0886a79330a7d9f4efd81e9c8e579997230c344a5af56c 2113 i2p_0.9.45x-1~xenial+1.dsc
+ ad5d25edc96088fe56c07cd955b29450bc92dcfae563958116bbf4cb1688e3e3 6697059 i2p_0.9.47x.orig.tar.bz2
+ ea219e98548a78463cbff49946012373c140bc02369819446a7882cdbfdf8769 53492 i2p_0.9.47x-2~xenial+1.debian.tar.xz
+ dae6ae4cebcdb8ae924ce9a12d0c101adbd74f4a4a7be2daf67798cee714c85c 2085 i2p_0.9.47x-2~xenial+1.dsc
 Homepage: https://geti2p.net/
 Package-List: i2p deb net optional arch=all
  i2p-doc deb doc extra arch=all
@@ -30,7 +30,7 @@ Package: i2p-keyring
 Format: 1.0
 Binary: i2p-keyring
 Architecture: all
-Version: 2019.09.21
+Version: 2021.09.10
 Maintainer: zzz on i2p <zzz@i2pmail.org>
 Standards-Version: 3.9.4
 Build-Depends: debhelper (>= 7), gnupg
@@ -40,14 +40,14 @@ Priority: extra
 Section: misc
 Directory: pool/main/i/i2p-keyring
 Files: 
- f62e4e589ca511f54e9a6ceaf1ed63ef 1420 i2p-keyring_2019.09.21.dsc
- 8cc88707b11bf88c30266166f279653e 16038 i2p-keyring_2019.09.21.tar.gz
+ e254eb97dbaa66063a9590b410ffe528 1420 i2p-keyring_2021.09.10.dsc
+ 71879aeba3965926985444ab59e95cc2 17674 i2p-keyring_2021.09.10.tar.gz
 Checksums-Sha1: 
- 5c96fdeabb14f7996cea9688ea1a31624eb794e9 1420 i2p-keyring_2019.09.21.dsc
- 5b74ba6cf8ff5e7d891ac3716226187b2124fe2b 16038 i2p-keyring_2019.09.21.tar.gz
+ ac31da47afdf11c499614fecacecc53013cf633c 1420 i2p-keyring_2021.09.10.dsc
+ a6d9100f97e9e35a36f0a51e91758ebcce8d8331 17674 i2p-keyring_2021.09.10.tar.gz
 Checksums-Sha256: 
- f7ebf4a9c8c454df44fec2327c844c03142750c98457cb38f4292d4b3e8879b3 1420 i2p-keyring_2019.09.21.dsc
- db228a0e0d6c370241c88ecf00eef7deab272d212413073a8a0451248c5940b6 16038 i2p-keyring_2019.09.21.tar.gz
+ 2fe81fdeb4ff372dbeac2e308adf9cd9d428cfdaeecb667f322662d4cac62cb5 1420 i2p-keyring_2021.09.10.dsc
+ 4587489367f41dd44d8850c9051ae82a5d7cc143370092b3fd865275ba36cbb4 17674 i2p-keyring_2021.09.10.tar.gz
 
 Package: syndie
 Binary: syndie

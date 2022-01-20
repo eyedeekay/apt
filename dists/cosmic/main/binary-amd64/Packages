@@ -34,7 +34,7 @@ Description-md5: a38a3343330ab23e4039d143d8b57c15
 Bugs: mailto:zzz@i2pmail.org
 
 Package: i2p-keyring
-Version: 2019.09.21
+Version: 2021.09.10
 Architecture: all
 Maintainer: zzz on i2p <zzz@i2pmail.org>
 Installed-Size: 28
@@ -42,11 +42,11 @@ Depends: gnupg, coreutils (>= 7.4)
 Recommends: killyourtv-keyring
 Priority: extra
 Section: misc
-Filename: pool/main/i/i2p-keyring/i2p-keyring_2019.09.21_all.deb
-Size: 14460
-SHA256: 1bf76927d8474bbc49cda0c2c2b524b80b2b024216a0d946f885fc709f9d0a24
-SHA1: bcc696f63a9b082b63fe94b2d2d696706bc3d5c6
-MD5sum: d3c996f5e5aa9de630b10183fd71964f
+Filename: pool/main/i/i2p-keyring/i2p-keyring_2021.09.10_all.deb
+Size: 15004
+SHA256: 2ad24b3f7d54fadbfb69bc5fe6f7381267a900ac7e2a3079ba2fa812915cca41
+SHA1: 494bf1b78d1b1efbc1934ff76dfbffe421de44bf
+MD5sum: 7c42bf8099cbaa9bb4134ef976d48862
 Description: GnuPG keys of the I2P package repository
  This package provides digital keys used for signing I2P's repositories.
  Upon installation of this package, your APT trusted keyring will updated with
