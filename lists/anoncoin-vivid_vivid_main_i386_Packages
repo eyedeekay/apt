@@ -1,0 +1,111 @@
+Package: i2p
+Priority: optional
+Section: net
+Installed-Size: 189
+Maintainer: Kill Your TV <killyourtv@i2pmail.org>
+Architecture: all
+Version: 0.9.23-2ubuntu1
+Depends: adduser, debconf, i2p-router (>= 0.8.6-5), libjbigi-jni, lsb-base, service-wrapper
+Filename: pool/main/i/i2p/i2p_0.9.23-2ubuntu1_all.deb
+Size: 35270
+MD5sum: 4a63d004088519a37c8e26bf7cc904ec
+SHA1: 49a0e3439e938029c8eb5b2df95c7e040bc3d067
+SHA256: 821544eab9325f29e88da63454ef2e51c509cd57e27da694bc8f36d9da16cfd2
+Description: Load-balanced unspoofable packet switching network
+Description-md5: 07d374457990b0a573824682708d0849
+Bugs: mailto:killyourtv@i2pmail.org
+
+Package: i2p-doc
+Source: i2p
+Priority: optional
+Section: doc
+Installed-Size: 52073
+Maintainer: Kill Your TV <killyourtv@i2pmail.org>
+Architecture: all
+Version: 0.9.23-2ubuntu1
+Suggests: i2p, default-jdk-doc
+Filename: pool/main/i/i2p/i2p-doc_0.9.23-2ubuntu1_all.deb
+Size: 2202376
+MD5sum: 6c75bca0f46b5f51375f11f2b7c6b4f6
+SHA1: a440b9d5f557166fb5aebf6bce41a87e1585923e
+SHA256: 8f01491eeffcf223506f046536c36611bca36481a3d7e86e12cb8777d01f73cb
+Description: Documentation for I2P
+Description-md5: bb6b5a0f608c3d0ed86fb5920cdb0614
+Bugs: mailto:killyourtv@i2pmail.org
+
+Package: libjbigi-jni
+Source: i2p
+Priority: optional
+Section: java
+Installed-Size: 39
+Maintainer: Kill Your TV <killyourtv@i2pmail.org>
+Architecture: i386
+Version: 0.9.23-2ubuntu1
+Depends: libc6 (>= 2.1.3), libgmp10, i2p-router
+Filename: pool/main/i/i2p/libjbigi-jni_0.9.23-2ubuntu1_i386.deb
+Size: 3592
+MD5sum: c16c14f97866fa693a6f80cab75d189e
+SHA1: 792f54a87685f5ecdefcd861a350ef5955f20d55
+SHA256: 0023d8fd947aa04cffa3b8c8d61575ed0b7cdb0ce00c4f5d50eb886731e3b65b
+Description: Java Big Integer library
+Description-md5: e84af55979a932bf73ddaf4b614c1a2d
+Bugs: mailto:killyourtv@i2pmail.org
+
+Package: i2p-router
+Source: i2p
+Priority: optional
+Section: net
+Installed-Size: 14951
+Maintainer: Kill Your TV <killyourtv@i2pmail.org>
+Architecture: all
+Version: 0.9.23-2ubuntu1
+Recommends: libjbigi-jni, ttf-dejavu
+Replaces: i2p (<< 0.8.6-5)
+Suggests: tor, apparmor, i2p-messenger, i2phex, i2p-tahoe-lafs, imule, irc-client, itoopie, mail-client, mail-reader, news-reader, polipo, privoxy, robert, syndie, www-browser, xul-ext-torbutton
+Depends: openjdk-8-jre-headless | openjdk-7-jre-headless | openjdk-6-jre-headless | default-jre-headless | java8-runtime-headless | java7-runtime-headless | java6-runtime-headless, libecj-java
+Breaks: i2p (<< 0.8.6-5)
+Filename: pool/main/i/i2p/i2p-router_0.9.23-2ubuntu1_all.deb
+Size: 10936548
+MD5sum: e91b0af82d4416179986555859954951
+SHA1: 415850f50745f5bd66f46e00707fbbab6e5c174b
+SHA256: 0ba352d7855987ab3fd0bf838ea3c85bdfe6d54e43dd5c9a5bc22b81124df183
+Description: Load-balanced unspoofable packet switching network
+Description-md5: 7bfa015ed4f1a91b82c0cdbe1003f1ba
+Bugs: mailto:killyourtv@i2pmail.org
+
+Package: i2pd
+Priority: optional
+Section: net
+Installed-Size: 2428
+Maintainer: Kill Your TV <killyourtv@i2pmail.org>
+Architecture: i386
+Version: 0.10.0-1ubuntu1
+Recommends: privoxy
+Suggests: tor
+Depends: libboost-date-time1.55.0, libboost-filesystem1.55.0, libboost-program-options1.55.0, libboost-regex1.55.0, libboost-system1.55.0, libc6 (>= 2.9), libcrypto++9, libgcc1 (>= 1:4.1.1), libstdc++6 (>= 4.9)
+Pre-Depends: adduser
+Filename: pool/main/i/i2pd/i2pd_0.10.0-1ubuntu1_i386.deb
+Size: 851892
+MD5sum: 8e08c18d2e2630a658472da417a96d22
+SHA1: b178bb916a4fa129bf9462d6581ad0b1c343429d
+SHA256: bd8dc23279089bfe6dd07abece0c69da161f3e133ca574537d2c493decb1ee0d
+Description: load-balanced unspoofable packet switching network - C++ port
+Description-md5: 33f1f7208e6a90024258737c78ec01d9
+
+Package: i2pd-dbg
+Source: i2pd
+Priority: extra
+Section: debug
+Installed-Size: 15456
+Maintainer: Kill Your TV <killyourtv@i2pmail.org>
+Architecture: i386
+Version: 0.10.0-1ubuntu1
+Depends: i2pd (= 0.10.0-1ubuntu1)
+Filename: pool/main/i/i2pd/i2pd-dbg_0.10.0-1ubuntu1_i386.deb
+Size: 14900888
+MD5sum: d163e7b45ac5ff01e602dee95cacbf11
+SHA1: 2c4af93cb29ea0d24c0bc2094ed7673e948e8095
+SHA256: a657c654db16bb1a73143c9a4a8548e945d574bfdb93a334f1a4afc4160de8e1
+Description: i2pd debugging symbols
+Description-md5: 481c656c1e0d409ef85570cddd3821cd
+
