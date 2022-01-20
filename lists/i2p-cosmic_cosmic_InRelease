@@ -1,0 +1,175 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Origin: LP-PPA-i2p-maintainers-i2p
+Label: I2P Packages
+Suite: cosmic
+Version: 18.10
+Codename: cosmic
+Date: Wed, 03 Jul 2019 20:05:52 UTC
+Architectures: amd64 arm64 armhf i386 ppc64el s390x
+Components: main
+Description: Ubuntu Cosmic 18.10
+MD5Sum:
+ 3df205ecd2057bd90bd9e5452d079dd6              122 main/binary-amd64/Release
+ bfc623fb591d8102b6767fb0d06d950a             1256 main/binary-amd64/Packages.xz
+ 9be6ad246f59e42eefd9d1ffadf1fdd4             1196 main/binary-amd64/Packages.gz
+ 011279336d61e6aeb5967e4ca030487f             2805 main/binary-amd64/Packages
+ eb30d0faa4f6da5766bf43c1bdda62fd              122 main/binary-arm64/Release
+ 944e01810cd71f7e8c8add2f850f7bbc             1256 main/binary-arm64/Packages.xz
+ d9cdeff939e729f6be9f1a2bb2cddbfb             2806 main/binary-arm64/Packages
+ 434200b515ab8077cc9fdc3af909a8a5             1196 main/binary-arm64/Packages.gz
+ 0600df5c688b799e95ffa91d48b46df5             1195 main/binary-armhf/Packages.gz
+ f9a5c51c171ba878eb7f5de73613d487              122 main/binary-armhf/Release
+ 6565d6405a9342d5c735519317efd22a             2805 main/binary-armhf/Packages
+ 163bc67eb56eadb52c565eaf68e5c4ef             1256 main/binary-armhf/Packages.xz
+ 8e2548b6aa5d1cdd946534bc5cd62ded              121 main/binary-i386/Release
+ 1032b13ac95c7afd6609adf6d449cffa             1252 main/binary-i386/Packages.xz
+ 629f83b4dc17b247a1312a778b2bd5da             2803 main/binary-i386/Packages
+ 3a58b463d19312afea7964143cb67a1d             1195 main/binary-i386/Packages.gz
+ 633e721c3712b646680ea383867a989e             2810 main/binary-ppc64el/Packages
+ 2802b88cbdbb5dc36c736128966a83c7             1256 main/binary-ppc64el/Packages.xz
+ 6ecf9d7e4f6170381de5e44207a23354              124 main/binary-ppc64el/Release
+ 93047a85ca54163c49e69899a43422f6             1199 main/binary-ppc64el/Packages.gz
+ b62eaf30ac50e31fbb952bb1367c1b8a             2805 main/binary-s390x/Packages
+ b6109405de3bf6692eca4d27fe16c9ad             1198 main/binary-s390x/Packages.gz
+ d6d3c2c39213891ab505360c6bead70b              122 main/binary-s390x/Release
+ 05bb13672e27bce6eb770924e3bcd8e8             1256 main/binary-s390x/Packages.xz
+ fa9ac5a217b5547bc7dd4e6e894fe135               20 main/debian-installer/binary-amd64/Packages.gz
+ 8dc5aea5b03dff8595f096f9e368e888               32 main/debian-installer/binary-amd64/Packages.xz
+ d41d8cd98f00b204e9800998ecf8427e                0 main/debian-installer/binary-amd64/Packages
+ d41d8cd98f00b204e9800998ecf8427e                0 main/debian-installer/binary-arm64/Packages
+ fa9ac5a217b5547bc7dd4e6e894fe135               20 main/debian-installer/binary-arm64/Packages.gz
+ 8dc5aea5b03dff8595f096f9e368e888               32 main/debian-installer/binary-arm64/Packages.xz
+ fa9ac5a217b5547bc7dd4e6e894fe135               20 main/debian-installer/binary-armhf/Packages.gz
+ d41d8cd98f00b204e9800998ecf8427e                0 main/debian-installer/binary-armhf/Packages
+ 8dc5aea5b03dff8595f096f9e368e888               32 main/debian-installer/binary-armhf/Packages.xz
+ fa9ac5a217b5547bc7dd4e6e894fe135               20 main/debian-installer/binary-i386/Packages.gz
+ 8dc5aea5b03dff8595f096f9e368e888               32 main/debian-installer/binary-i386/Packages.xz
+ d41d8cd98f00b204e9800998ecf8427e                0 main/debian-installer/binary-i386/Packages
+ d41d8cd98f00b204e9800998ecf8427e                0 main/debian-installer/binary-ppc64el/Packages
+ 8dc5aea5b03dff8595f096f9e368e888               32 main/debian-installer/binary-ppc64el/Packages.xz
+ fa9ac5a217b5547bc7dd4e6e894fe135               20 main/debian-installer/binary-ppc64el/Packages.gz
+ 8dc5aea5b03dff8595f096f9e368e888               32 main/debian-installer/binary-s390x/Packages.xz
+ d41d8cd98f00b204e9800998ecf8427e                0 main/debian-installer/binary-s390x/Packages
+ fa9ac5a217b5547bc7dd4e6e894fe135               20 main/debian-installer/binary-s390x/Packages.gz
+ e4a7c6be2d9cdd4f4a0af52fa3a671b1              749 main/i18n/Translation-en.gz
+ ee1b0b246df3ee46c20ccbaef8fca665              848 main/i18n/Translation-en.xz
+ 1fdc6741e16cea7e50741dc02ea53cf5             1967 main/i18n/Translation-en
+ 0f78310c7521ae5098fa15039d3fdaba              198 main/i18n/Index
+ e4b0272c352f67e746e0fa096a11a420             1481 main/source/Sources
+ ffe72372ff05765c43c808a985fdae48              123 main/source/Release
+ beb007bf034190a8b107ce659aeb94e6              876 main/source/Sources.xz
+ 01c3c385e5cfa8299b7882c65c61acb3              805 main/source/Sources.gz
+SHA1:
+ d26205d5f02e000e80dcaf1839378b5989af8572              122 main/binary-amd64/Release
+ 1d30a5838e4d25451a23bf405f30d4ad775a49ea             1256 main/binary-amd64/Packages.xz
+ 6050edb795808fd5e0f41ebcfe0015d28838db0b             1196 main/binary-amd64/Packages.gz
+ b44ceb583d5a42d4ab4f3e43507843f5665e0034             2805 main/binary-amd64/Packages
+ 978fdc5ccd7aa00da3520e57a48f3b695c62f0a2              122 main/binary-arm64/Release
+ fae589b32e22e90dd3786684ebb63e590e893ed1             1256 main/binary-arm64/Packages.xz
+ 1fbae3d511b4e2404213d8ebedcae0cca45e88cd             2806 main/binary-arm64/Packages
+ dc40e796a2c626e333b6547a503fdb2137034db0             1196 main/binary-arm64/Packages.gz
+ 90d912c0602f08170a4896af7d69f74b7599d8fe             1195 main/binary-armhf/Packages.gz
+ c7bbcca55309db6a2455235de6a178090242d43a              122 main/binary-armhf/Release
+ b8336904fb6f0870954303f3e8058a658a425930             2805 main/binary-armhf/Packages
+ a26e6d13871476b64aa0976f3e56c5b14faa0638             1256 main/binary-armhf/Packages.xz
+ edc8efcd2b67dfd329bfd4c3d8a5b6c18241a9c1              121 main/binary-i386/Release
+ 0ccb3b0e3e0bccab2f8e6c60df2132e11b2c970e             1252 main/binary-i386/Packages.xz
+ f6a9ca5ff2b0529d0d38f574631b9dae7b97f081             2803 main/binary-i386/Packages
+ 5df1c89a543d2395db2b456e2113a682575e907c             1195 main/binary-i386/Packages.gz
+ 297d29bf0877075353b566981b89962fe3b976a8             2810 main/binary-ppc64el/Packages
+ 08b0d7f19da426fd34e1941e4464107bc7c2e6a3             1256 main/binary-ppc64el/Packages.xz
+ 2eaaba7866044dfa0f71f4110e9942a83b31d58e              124 main/binary-ppc64el/Release
+ 5faf76edfcf8204cf0cde9af01b24f26feea0120             1199 main/binary-ppc64el/Packages.gz
+ f05ee96c10afa6495f590ab2ccac80a01701166e             2805 main/binary-s390x/Packages
+ 1c2678c7a4d9dc663f1c6c967b53df6709aea229             1198 main/binary-s390x/Packages.gz
+ cd8befa43abc017dcb764e2ad5be9f4c187cc236              122 main/binary-s390x/Release
+ 504c85ec78fd51a5f36fee3dc15e3cb656a41e17             1256 main/binary-s390x/Packages.xz
+ 89892054d65b8b0dd6a081b33a97b6f2bd1fa267               20 main/debian-installer/binary-amd64/Packages.gz
+ 9746882f4236fa1c3a8f86be2f1d9c46680c0b10               32 main/debian-installer/binary-amd64/Packages.xz
+ da39a3ee5e6b4b0d3255bfef95601890afd80709                0 main/debian-installer/binary-amd64/Packages
+ da39a3ee5e6b4b0d3255bfef95601890afd80709                0 main/debian-installer/binary-arm64/Packages
+ 89892054d65b8b0dd6a081b33a97b6f2bd1fa267               20 main/debian-installer/binary-arm64/Packages.gz
+ 9746882f4236fa1c3a8f86be2f1d9c46680c0b10               32 main/debian-installer/binary-arm64/Packages.xz
+ 89892054d65b8b0dd6a081b33a97b6f2bd1fa267               20 main/debian-installer/binary-armhf/Packages.gz
+ da39a3ee5e6b4b0d3255bfef95601890afd80709                0 main/debian-installer/binary-armhf/Packages
+ 9746882f4236fa1c3a8f86be2f1d9c46680c0b10               32 main/debian-installer/binary-armhf/Packages.xz
+ 89892054d65b8b0dd6a081b33a97b6f2bd1fa267               20 main/debian-installer/binary-i386/Packages.gz
+ 9746882f4236fa1c3a8f86be2f1d9c46680c0b10               32 main/debian-installer/binary-i386/Packages.xz
+ da39a3ee5e6b4b0d3255bfef95601890afd80709                0 main/debian-installer/binary-i386/Packages
+ da39a3ee5e6b4b0d3255bfef95601890afd80709                0 main/debian-installer/binary-ppc64el/Packages
+ 9746882f4236fa1c3a8f86be2f1d9c46680c0b10               32 main/debian-installer/binary-ppc64el/Packages.xz
+ 89892054d65b8b0dd6a081b33a97b6f2bd1fa267               20 main/debian-installer/binary-ppc64el/Packages.gz
+ 9746882f4236fa1c3a8f86be2f1d9c46680c0b10               32 main/debian-installer/binary-s390x/Packages.xz
+ da39a3ee5e6b4b0d3255bfef95601890afd80709                0 main/debian-installer/binary-s390x/Packages
+ 89892054d65b8b0dd6a081b33a97b6f2bd1fa267               20 main/debian-installer/binary-s390x/Packages.gz
+ 2da958be384058edae00f9839885bb3d87942dcb              749 main/i18n/Translation-en.gz
+ 13c548c68dc8ae698044a3e9439156b0f16ac2c3              848 main/i18n/Translation-en.xz
+ 90a368cd98172dc92e4e47beb53b040d7e45fba1             1967 main/i18n/Translation-en
+ ab584aeea2b2c4c758615e009ac6b37fe605cd29              198 main/i18n/Index
+ dd3e9af7e8e44b4d4ef2851a57d06d63087a9530             1481 main/source/Sources
+ 1d1216b7da56c17cd08b3fd7add9fe55e315a405              123 main/source/Release
+ dc42517b560bed8366f84a4de038897aa2764a8b              876 main/source/Sources.xz
+ 9b46ac2e598febcfc3a1692fe8c43f640a83dc2f              805 main/source/Sources.gz
+SHA256:
+ 851106aa0a9c764ee97673d3fabb1e5d1e577a7f6ff1b64fdd1740dd89a02a2c              122 main/binary-amd64/Release
+ f6c06936c982791c26ccf18036f140e8fa1e50edca4dc6c92214240c0637acf7             1256 main/binary-amd64/Packages.xz
+ 95a7054cc308d618ccdb2ca2d5dcaf6df944c52f040484669166cef94d6f65b9             1196 main/binary-amd64/Packages.gz
+ 7a861419f6b0c2c3ce8ed6f0fc27ef2dfe8bfc9c36b8aade50f2c758b0a3839c             2805 main/binary-amd64/Packages
+ 6f80e9e864e3c946dec32c129e897070a3a69622388e31cce9eac85aea13d851              122 main/binary-arm64/Release
+ 229910fbfb9c67abf397ffe2f5ef2901a86014de0d03f727cd788603ef611fa0             1256 main/binary-arm64/Packages.xz
+ 2652e8251fde2e179f1e4bd64f8bb5daaa399d31b94c3bb97d6cc3a9db99798d             2806 main/binary-arm64/Packages
+ 664d3126f17a50e054228783ba2219c7e460c4fa43323c1c6807485db53c3c78             1196 main/binary-arm64/Packages.gz
+ 5ab51885db88301b44211f9a7e4c93eefc67b2a144b7335c823e078ab7fe713b             1195 main/binary-armhf/Packages.gz
+ 945dc7c2065540e982f0d4d27c44dd114fadd160e5cdc1ed6b05a4577d2caa45              122 main/binary-armhf/Release
+ dce069e9cc0f39abaa5090e58220359a29ba52a92377dbaf6a3722044fce0637             2805 main/binary-armhf/Packages
+ 1a4fa2eafcffb83c6d549acebb2a7eaa2024e6b06c2ed2887753638985e45189             1256 main/binary-armhf/Packages.xz
+ f95588255771c16dd5717802c29cce9444cdb62ba8f60b8acd2fe739c25b50fa              121 main/binary-i386/Release
+ 1a3e4f27cb9e5f552fb4452a2b8e3cb19d37bae52b6dfab98f39adf3167bab7a             1252 main/binary-i386/Packages.xz
+ f5929a5177c931be46937ec9dc674ea624dda6c4c2fec8190235c18949d5f220             2803 main/binary-i386/Packages
+ ceb3104525c880b582d26d8476e92f529e4377e4be8d1f7421ca5222bc70a35f             1195 main/binary-i386/Packages.gz
+ 87b0dfb9cc748ca7997a51759cf5fd44e64f265499329409ff6de3865b3d33cd             2810 main/binary-ppc64el/Packages
+ cc2aafb028649486477721d14468792a9c2e6f28d834b3e854415eed8f6d67f3             1256 main/binary-ppc64el/Packages.xz
+ 7024dc84a57d92ff27508c1587f4093e0d54aaff2fc5c2e02e4c6d93dbea0d89              124 main/binary-ppc64el/Release
+ db4f25d549b61ee92ab47dc72071b8733d8bd0802da5ae05511f937713ba2de3             1199 main/binary-ppc64el/Packages.gz
+ 5b541137d92480a447ca637ee185b98e42c97083a66d969f5427754780504bff             2805 main/binary-s390x/Packages
+ b9a566c47ebe851910c797c1bf1c742fcedd7c35dabdb25c6b8b56d06b141938             1198 main/binary-s390x/Packages.gz
+ 4bdf282a99fcb252358b5faf847d964af5b3d0283bab349ed6c35854c0a09a32              122 main/binary-s390x/Release
+ 56518e82753c4c785b842c990060888c1410d8b28461358637be1391b7a42db5             1256 main/binary-s390x/Packages.xz
+ 9ceffb7310338057cfe71a4ae1e2c98d2c485d81cdef906532a801f457a38d64               20 main/debian-installer/binary-amd64/Packages.gz
+ 0040f94d11d0039505328a90b2ff48968db873e9e7967307631bf40ef5679275               32 main/debian-installer/binary-amd64/Packages.xz
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855                0 main/debian-installer/binary-amd64/Packages
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855                0 main/debian-installer/binary-arm64/Packages
+ 9ceffb7310338057cfe71a4ae1e2c98d2c485d81cdef906532a801f457a38d64               20 main/debian-installer/binary-arm64/Packages.gz
+ 0040f94d11d0039505328a90b2ff48968db873e9e7967307631bf40ef5679275               32 main/debian-installer/binary-arm64/Packages.xz
+ 9ceffb7310338057cfe71a4ae1e2c98d2c485d81cdef906532a801f457a38d64               20 main/debian-installer/binary-armhf/Packages.gz
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855                0 main/debian-installer/binary-armhf/Packages
+ 0040f94d11d0039505328a90b2ff48968db873e9e7967307631bf40ef5679275               32 main/debian-installer/binary-armhf/Packages.xz
+ 9ceffb7310338057cfe71a4ae1e2c98d2c485d81cdef906532a801f457a38d64               20 main/debian-installer/binary-i386/Packages.gz
+ 0040f94d11d0039505328a90b2ff48968db873e9e7967307631bf40ef5679275               32 main/debian-installer/binary-i386/Packages.xz
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855                0 main/debian-installer/binary-i386/Packages
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855                0 main/debian-installer/binary-ppc64el/Packages
+ 0040f94d11d0039505328a90b2ff48968db873e9e7967307631bf40ef5679275               32 main/debian-installer/binary-ppc64el/Packages.xz
+ 9ceffb7310338057cfe71a4ae1e2c98d2c485d81cdef906532a801f457a38d64               20 main/debian-installer/binary-ppc64el/Packages.gz
+ 0040f94d11d0039505328a90b2ff48968db873e9e7967307631bf40ef5679275               32 main/debian-installer/binary-s390x/Packages.xz
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855                0 main/debian-installer/binary-s390x/Packages
+ 9ceffb7310338057cfe71a4ae1e2c98d2c485d81cdef906532a801f457a38d64               20 main/debian-installer/binary-s390x/Packages.gz
+ 2816d94ab650c8d082f927dd7e126fe2c52a657cba829f7c9a2d0641ddb3ce92              749 main/i18n/Translation-en.gz
+ 80e7442551bbcf6f891e5a6f4316f0a3c29220203c225e93e42ff90e6d8ea25e              848 main/i18n/Translation-en.xz
+ affd03a3241f20884349ead9b9e00b29367b1679483f34458a23be342c6bf90b             1967 main/i18n/Translation-en
+ cec0d53e5d5c090d6f1e90b24fb63ef7b0046f674d048b0f3049d378eef396a5              198 main/i18n/Index
+ 991ef116cab5e6ec30d2831779d7b13b543c8a9c585f14eb6173b56b423b9599             1481 main/source/Sources
+ 6d9fd61a71655afca2c962e7881441dfb1d10fee00f07124581699a5df5a6de8              123 main/source/Release
+ 93ec323d0e993eee16a6a6572b1f1a8c141078a9b5cf763a0f4f3cf7671ef2dc              876 main/source/Sources.xz
+ 66ec4117f19c33ad4016507edce525c2a5c83772323466fed2c4903acd14405b              805 main/source/Sources.gz
+Acquire-By-Hash: yes
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1
+
+iJwEAQEKAAYFAl0dCqAACgkQq5ZguessyIuPpgP+PUUmBGUjw75RxMsL1fkEODdP
+i2RG7kK+GSWY1YUkYDhnfyZYW2Qmak8vIf1+op6gMP8MwGnejynUQMSId7B52mMh
+jIu6EvW57iTFoNBjLHCxxiRo3S8xJR8WpMUAfCoH0eOcVdtGvg/CA6ntWEfd3e5I
+8NQ1UOeHCFMQiY/ITaw=
+=Je0f
+-----END PGP SIGNATURE-----
