@@ -1,0 +1,10 @@
+Updates already processed for wily:
+Target wily|main|source
+Delete
+Index i2p-wily_wily_main_Sources :1:d2fd7478df022ae641c4a900d4e4ab4615895d69 :2:3b65b7e5a2ebfec13dddd315b21ecdcab8ed242fef2ee4b36673234200e1939e 90cd6efc2e6bb27427f9f7ef395dd7e6 2696
+Target wily|main|amd64
+Delete
+Index i2p-wily_wily_main_amd64_Packages :1:598bd6dcbde535c4c18b8a8d6d951439c5c5ed2c :2:2119f9ed8c1bcc1156890ab81e826ce5e273962accd822e3a4b05c10687fac08 7ec6b285dccc16823837675c53eb0d60 3517
+Target wily|main|i386
+Delete
+Index i2p-wily_wily_main_i386_Packages :1:aff79e7a14fb7d2d3c90ab50059fd0cc52359ee2 :2:4e15a04bfb5684ac25d6d97d61406cc8248a7b0ad566921c712cdcb5f4ba0915 3175caadc8d151e4f21d37f9d8875745 3515
