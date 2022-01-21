@@ -1,0 +1,51 @@
+Package: i2p
+Binary: i2p, libjbigi-jni, i2p-doc, i2p-router
+Version: 0.9.35-1ubuntu1
+Section: net
+Maintainer: zzz <zzz@i2pmail.org>
+Build-Depends: debhelper (>= 9.20160709), ant (>= 1.8), debconf, openjdk-8-jdk, libjetty9-java, libtaglibs-standard-jstlel-java, libtomcat8-java, dh-apparmor, bash-completion, gettext, libgetopt-java, libgmp-dev (>= 2:5.0.5), libservice-wrapper-java, po-debconf
+Architecture: any all
+Standards-Version: 3.9.8
+Format: 3.0 (quilt)
+Directory: pool/main/i/i2p
+Files: 
+ a69f4e855a10e515cb99fd3d4c9872ee 6449235 i2p_0.9.35.orig.tar.bz2
+ b747912cc8d921d123e7c0538296041c 50564 i2p_0.9.35-1ubuntu1.debian.tar.xz
+ 7e9142546d40f6b89062bb6638235cd7 2057 i2p_0.9.35-1ubuntu1.dsc
+Checksums-Sha1: 
+ fde273019d915324b0643e9ed3c8d053a1a297a5 6449235 i2p_0.9.35.orig.tar.bz2
+ c8dae268b6ed4402b0239042a79604d0c0123a0e 50564 i2p_0.9.35-1ubuntu1.debian.tar.xz
+ e8e4d7a86f612812b09f85a94c17820fbb3d83e8 2057 i2p_0.9.35-1ubuntu1.dsc
+Checksums-Sha256: 
+ 6ed6298702c8d09e97e637df571b75c95816a488eabe0af610cc8390ca63660e 6449235 i2p_0.9.35.orig.tar.bz2
+ b04644b1a190a8152478940fe354edd86111549f9b131a50de31a282fa987ac8 50564 i2p_0.9.35-1ubuntu1.debian.tar.xz
+ a096962f7fcfee3fa71511e212b1e3edad256a1acd55a531ef424e22b4836046 2057 i2p_0.9.35-1ubuntu1.dsc
+Homepage: https://geti2p.net/
+Package-List: i2p deb net optional arch=all
+ i2p-doc deb doc extra arch=all
+ i2p-router deb net optional arch=all
+ libjbigi-jni deb java optional arch=any
+
+Package: i2p-keyring
+Format: 1.0
+Binary: i2p-keyring
+Architecture: all
+Version: 2021.09.10
+Maintainer: zzz on i2p <zzz@i2pmail.org>
+Standards-Version: 3.9.4
+Build-Depends: debhelper (>= 7), gnupg
+Package-List:
+ i2p-keyring deb misc extra arch=all
+Priority: extra
+Section: misc
+Directory: pool/main/i/i2p-keyring
+Files: 
+ e254eb97dbaa66063a9590b410ffe528 1420 i2p-keyring_2021.09.10.dsc
+ 71879aeba3965926985444ab59e95cc2 17674 i2p-keyring_2021.09.10.tar.gz
+Checksums-Sha1: 
+ ac31da47afdf11c499614fecacecc53013cf633c 1420 i2p-keyring_2021.09.10.dsc
+ a6d9100f97e9e35a36f0a51e91758ebcce8d8331 17674 i2p-keyring_2021.09.10.tar.gz
+Checksums-Sha256: 
+ 2fe81fdeb4ff372dbeac2e308adf9cd9d428cfdaeecb667f322662d4cac62cb5 1420 i2p-keyring_2021.09.10.dsc
+ 4587489367f41dd44d8850c9051ae82a5d7cc143370092b3fd865275ba36cbb4 17674 i2p-keyring_2021.09.10.tar.gz
+
