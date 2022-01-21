@@ -1,0 +1,132 @@
+Package: i2p
+Priority: optional
+Section: net
+Installed-Size: 379
+Maintainer: zzz <zzz@i2pmail.org>
+Architecture: all
+Version: 1.6.1-1~bionic+1
+Depends: debconf (>= 0.5) | debconf-2.0, i2p-router (= 1.6.1-1~bionic+1), adduser, debconf, libjbigi-jni, lsb-base, service-wrapper
+Filename: pool/main/i/i2p/i2p_1.6.1-1~bionic+1_all.deb
+Size: 69736
+SHA256: 70f3fab0fa9f061a0fdf19da8a2462e363ddcf73f3a07494d3f4b35a4a763d1b
+SHA1: 70baccba21a3a7c21d0e6a317ac12c55a1d301d5
+MD5sum: 0124c4923af846e215c8292a190be330
+Description: Invisible Internet Project (I2P) - anonymous network
+ I2P is an anonymizing network, offering a simple layer that identity-sensitive
+ applications can use to securely communicate. All data is wrapped with several
+ layers of encryption, and the network is both distributed and dynamic, with no
+ trusted parties.
+ .
+ This package depends on the router, jbigi, the java service wrapper, and
+ includes support to run I2P as a daemon.
+Bugs: mailto:zzz@i2pmail.org
+
+Package: i2p-doc
+Source: i2p
+Priority: extra
+Section: doc
+Installed-Size: 79929
+Maintainer: zzz <zzz@i2pmail.org>
+Architecture: all
+Version: 1.6.1-1~bionic+1
+Suggests: i2p, default-jdk-doc
+Filename: pool/main/i/i2p/i2p-doc_1.6.1-1~bionic+1_all.deb
+Size: 3182856
+SHA256: 048843936567debf991286c8fb3b671b6ae362cfdd9c65df7ba86d2f4b5fbb75
+SHA1: 17e110a251f020fa3dbccb055c49cc12913601d1
+MD5sum: fcf00878a40400c844b5932e7033872e
+Description: Invisible Internet Project (I2P) - developer documentation
+ I2P is an anonymizing network, offering a simple layer that identity-sensitive
+ applications can use to securely communicate. All data is wrapped with several
+ layers of encryption, and the network is both distributed and dynamic, with no
+ trusted parties.
+ .
+ This package contains the Javadoc files.
+Bugs: mailto:zzz@i2pmail.org
+
+Package: i2p-keyring
+Version: 2021.09.10
+Architecture: all
+Maintainer: zzz on i2p <zzz@i2pmail.org>
+Installed-Size: 28
+Depends: gnupg, coreutils (>= 7.4)
+Recommends: killyourtv-keyring
+Priority: extra
+Section: misc
+Filename: pool/main/i/i2p-keyring/i2p-keyring_2021.09.10_all.deb
+Size: 15004
+SHA256: 2ad24b3f7d54fadbfb69bc5fe6f7381267a900ac7e2a3079ba2fa812915cca41
+SHA1: 494bf1b78d1b1efbc1934ff76dfbffe421de44bf
+MD5sum: 7c42bf8099cbaa9bb4134ef976d48862
+Description: GnuPG keys of the I2P package repository
+ This package provides digital keys used for signing I2P's repositories.
+ Upon installation of this package, your APT trusted keyring will updated with
+ these keys. Upon removal of this package, the keys provided by this package
+ will be removed from the APT trusted keyring.
+
+Package: i2p-router
+Source: i2p
+Priority: optional
+Section: net
+Installed-Size: 12889
+Maintainer: zzz <zzz@i2pmail.org>
+Architecture: all
+Version: 1.6.1-1~bionic+1
+Recommends: libjbigi-jni
+Replaces: i2p (<< 0.8.6-5)
+Suggests: apparmor, privoxy, syndie
+Depends: openjdk-17-jre-headless | openjdk-11-jre-headless | openjdk-8-jre-headless | default-jre-headless | java17-runtime-headless | java11-runtime-headless | java8-runtime-headless, geoip-database, gettext-base, libgetopt-java, libjson-simple-java (>= 2), libjson-simple-java (<< 3), libjetty9-java (>= 9.4), libtaglibs-standard-jstlel-java, libtomcat9-java, famfamfam-flag-png
+Breaks: i2p (<< 0.8.6-5)
+Filename: pool/main/i/i2p/i2p-router_1.6.1-1~bionic+1_all.deb
+Size: 11008768
+SHA256: 03d1fb46d1b1297c37a6f06825932922e582b10a88cdedac9ef3686e0dbfc39f
+SHA1: a5b1e0646d98f33323dca3ea2c61a3ee53e33240
+MD5sum: f1259695f34fe2ac9263fbfe4dcc95c3
+Description: Invisible Internet Project (I2P) - Router
+ I2P is an anonymizing network, offering a simple layer that identity-sensitive
+ applications can use to securely communicate. All data is wrapped with several
+ layers of encryption, and the network is both distributed and dynamic, with no
+ trusted parties.
+Bugs: mailto:zzz@i2pmail.org
+
+Package: libjbigi-jni
+Source: i2p
+Priority: optional
+Section: java
+Installed-Size: 286
+Maintainer: zzz <zzz@i2pmail.org>
+Architecture: s390x
+Version: 1.6.1-1~bionic+1
+Depends: libc6 (>= 2.4), libgmp10 (>= 2:5.0.5), i2p-router
+Filename: pool/main/i/i2p/libjbigi-jni_1.6.1-1~bionic+1_s390x.deb
+Size: 268324
+SHA256: 4e892a4edb3c16023e9884e5a6072660bf7f3ca84819dd2b4a6dd2d92d27bd35
+SHA1: 5365053df2ce781a29b76efae332541de56e31c9
+MD5sum: 2d1e15a619e2ea534469ab447a7b38d2
+Description: Invisible Internet Project (I2P) - libjbigi library
+ This Package contains the libjbigi JNI library (and on x86 platforms, jcpuid).
+ .
+ libjbigi is a math library that is part of the I2P installation.  Use of this
+ library greatly enhances the efficiency of cryptographic algorithms, such as
+ the ones used by I2P. You can expect to see a 5-7x speed improvement on certain
+ tasks, such as elGamal encryption/decryption.
+Bugs: mailto:zzz@i2pmail.org
+
+Package: syndie
+Priority: extra
+Section: java
+Installed-Size: 4596
+Maintainer: Kill Your TV <killyourtv@i2pmail.org>
+Architecture: all
+Version: 1.107b-2ubuntu1
+Suggests: tor, freenet
+Depends: openjdk-9-jre | openjdk-8-jre | openjdk-7-jre | default-jre | java9-runtime | java8-runtime | java7-runtime, libswt-gtk-3-java, libhsqldb-java, i2p-router | i2p
+Enhances: i2p, i2p-router, tor
+Filename: pool/main/s/syndie/syndie_1.107b-2ubuntu1_all.deb
+Size: 4220986
+SHA256: ae476672797154ef6dc25137ddb81a7e45e283aa79870a41daba0e8de95b4f1e
+SHA1: 70296e8d4a5fc20a2315b73947b3c2314192b176
+MD5sum: 69056e17c771fb3c46543f8e06f26c0b
+Description: Syndie anonymous distributed forums
+Description-md5: 6ac3d9136577e5e981c1dbb49a9f93b2
+
