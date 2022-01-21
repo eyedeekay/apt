@@ -1,0 +1,109 @@
+Name: i2p-precise
+Method: http://ppa.launchpad.net/i2p-maintainers/i2p/ubuntu 
+Architectures: amd64 i386 armhf powerpc source
+VerifyRelease: AB9660B9EB2CC88B
+
+Name: i2p-trusty
+Method: http://ppa.launchpad.net/i2p-maintainers/i2p/ubuntu 
+Architectures: amd64 i386 arm64 armhf ppc64el powerpc source
+VerifyRelease: AB9660B9EB2CC88B
+
+Name: i2p-vivid
+Method: http://ppa.launchpad.net/i2p-maintainers/i2p/ubuntu 
+Architectures: amd64 i386 source
+VerifyRelease: AB9660B9EB2CC88B
+
+Name: i2p-wily
+Method: http://ppa.launchpad.net/i2p-maintainers/i2p/ubuntu 
+Architectures: amd64 i386 source
+VerifyRelease: AB9660B9EB2CC88B
+
+Name: i2p-xenial
+Method: http://ppa.launchpad.net/i2p-maintainers/i2p/ubuntu 
+Architectures: amd64 i386 arm64 armhf ppc64el powerpc s390x source
+VerifyRelease: AB9660B9EB2CC88B
+
+Name: i2p-yakkety
+Method: http://ppa.launchpad.net/i2p-maintainers/i2p/ubuntu 
+Architectures: amd64 i386 source
+VerifyRelease: AB9660B9EB2CC88B
+
+Name: i2p-zesty
+Method: http://ppa.launchpad.net/i2p-maintainers/i2p/ubuntu 
+Architectures: amd64 i386 source
+VerifyRelease: AB9660B9EB2CC88B
+
+Name: i2p-artful
+method: http://ppa.launchpad.net/i2p-maintainers/i2p/ubuntu 
+Architectures: amd64 i386 source
+VerifyRelease: AB9660B9EB2CC88B
+
+Name: i2p-bionic
+method: http://ppa.launchpad.net/i2p-maintainers/i2p/ubuntu 
+Architectures: amd64 i386 arm64 armhf ppc64el s390x source
+VerifyRelease: AB9660B9EB2CC88B
+
+Name: i2p-cosmic
+method: http://ppa.launchpad.net/i2p-maintainers/i2p/ubuntu 
+Architectures: amd64 i386 arm64 armhf ppc64el s390x source
+VerifyRelease: AB9660B9EB2CC88B
+
+Name: i2p-disco
+method: http://ppa.launchpad.net/i2p-maintainers/i2p/ubuntu 
+Architectures: amd64 i386 arm64 armhf ppc64el s390x source
+VerifyRelease: AB9660B9EB2CC88B
+
+Name: i2p-eoan
+method: http://ppa.launchpad.net/i2p-maintainers/i2p/ubuntu 
+Architectures: amd64 i386 arm64 armhf ppc64el s390x source
+VerifyRelease: AB9660B9EB2CC88B
+
+Name: i2p-focal
+method: http://ppa.launchpad.net/i2p-maintainers/i2p/ubuntu 
+Architectures: amd64 i386 arm64 armhf ppc64el s390x source
+VerifyRelease: AB9660B9EB2CC88B
+
+Name: i2p-groovy
+method: http://ppa.launchpad.net/i2p-maintainers/i2p/ubuntu 
+Architectures: amd64 i386 arm64 armhf ppc64el s390x source
+VerifyRelease: AB9660B9EB2CC88B
+
+Name: i2p-hirsute
+method: http://ppa.launchpad.net/i2p-maintainers/i2p/ubuntu 
+Architectures: amd64 i386 arm64 armhf ppc64el s390x source
+VerifyRelease: AB9660B9EB2CC88B
+
+Name: i2p-impish
+method: http://ppa.launchpad.net/i2p-maintainers/i2p/ubuntu 
+Architectures: amd64 i386 arm64 armhf ppc64el s390x source
+VerifyRelease: AB9660B9EB2CC88B
+
+Name: i2p-jammy
+method: http://ppa.launchpad.net/i2p-maintainers/i2p/ubuntu 
+Architectures: amd64 i386 arm64 armhf ppc64el s390x source
+VerifyRelease: AB9660B9EB2CC88B
+
+#Name: anoncoin-precise
+#Method: http://ppa.launchpad.net/anoncoin/anoncoin/ubuntu
+#Architectures: amd64 i386 source
+#VerifyRelease: 1C0E15DE
+#
+#Name: anoncoin-trusty
+#Method: http://ppa.launchpad.net/anoncoin/anoncoin/ubuntu
+#Architectures: amd64 i386 source
+#VerifyRelease: 1C0E15DE
+#
+#Name: anoncoin-vivid
+#Method: http://ppa.launchpad.net/anoncoin/anoncoin/ubuntu
+#Architectures: amd64 i386 source
+#VerifyRelease: 1C0E15DE
+#
+#Name: anoncoin-wily
+#Method: http://ppa.launchpad.net/anoncoin/anoncoin/ubuntu
+#Architectures: amd64 i386 source
+#VerifyRelease: 1C0E15DE
+#
+#Name: anoncoin-xenial
+#Method: http://ppa.launchpad.net/anoncoin/anoncoin/ubuntu
+#Architectures: amd64 i386 source
+#VerifyRelease: 1C0E15DE
