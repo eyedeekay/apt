@@ -1,0 +1,77 @@
+Package: i2p
+Binary: i2p, libjbigi-jni, i2p-doc, i2p-router
+Version: 0.9.31p-2~trusty+1
+Section: net
+Maintainer: zzz <zzz@i2pmail.org>
+Build-Depends: debhelper (>= 7.0.50~), ant (>= 1.8), debconf, openjdk-7-jdk, openjdk-6-jdk, glassfish-javaee, dh-apparmor, dh-systemd, bash-completion, gettext, libgetopt-java, libgmp-dev (>= 2:5.0.2), libservice-wrapper-java, hardening-wrapper, po-debconf
+Architecture: any all
+Standards-Version: 3.9.6
+Format: 3.0 (quilt)
+Directory: pool/main/i/i2p
+Files: 
+ d9d7584394b00ba2e01fe6c2a19bef30 9334876 i2p_0.9.31p.orig.tar.bz2
+ a57037216ab27e127271e60b2e3566dc 49924 i2p_0.9.31p-2~trusty+1.debian.tar.xz
+ 66d6524d72d2e34e023d68d84e6a8c98 2035 i2p_0.9.31p-2~trusty+1.dsc
+Checksums-Sha1: 
+ 0be1eb9271e4fff29e57e86bacb2caf4a38296bc 9334876 i2p_0.9.31p.orig.tar.bz2
+ c841461fb34f44417b12b87c9341603273f38d27 49924 i2p_0.9.31p-2~trusty+1.debian.tar.xz
+ 66f73a90f9e9b742c7405ad22057693a48a5b685 2035 i2p_0.9.31p-2~trusty+1.dsc
+Checksums-Sha256: 
+ a7da3203fa3e43f089793219af22300e939d4e1968ccf38654760ed5610a2d2b 9334876 i2p_0.9.31p.orig.tar.bz2
+ a7378f65eefb60c04b8ca1b94a7fb9a21806c462260050cc556e50a06f2e3680 49924 i2p_0.9.31p-2~trusty+1.debian.tar.xz
+ 25530c0c311d50de6f892c1bb7d229eb59ff2a1e09d98c1f18b2a42c4df067e4 2035 i2p_0.9.31p-2~trusty+1.dsc
+Homepage: https://geti2p.net/
+Package-List: i2p deb net optional arch=all
+ i2p-doc deb doc extra arch=all
+ i2p-router deb net optional arch=all
+ libjbigi-jni deb java optional arch=any
+
+Package: i2p-keyring
+Format: 1.0
+Binary: i2p-keyring
+Architecture: all
+Version: 2021.09.10
+Maintainer: zzz on i2p <zzz@i2pmail.org>
+Standards-Version: 3.9.4
+Build-Depends: debhelper (>= 7), gnupg
+Package-List:
+ i2p-keyring deb misc extra arch=all
+Priority: extra
+Section: misc
+Directory: pool/main/i/i2p-keyring
+Files: 
+ e254eb97dbaa66063a9590b410ffe528 1420 i2p-keyring_2021.09.10.dsc
+ 71879aeba3965926985444ab59e95cc2 17674 i2p-keyring_2021.09.10.tar.gz
+Checksums-Sha1: 
+ ac31da47afdf11c499614fecacecc53013cf633c 1420 i2p-keyring_2021.09.10.dsc
+ a6d9100f97e9e35a36f0a51e91758ebcce8d8331 17674 i2p-keyring_2021.09.10.tar.gz
+Checksums-Sha256: 
+ 2fe81fdeb4ff372dbeac2e308adf9cd9d428cfdaeecb667f322662d4cac62cb5 1420 i2p-keyring_2021.09.10.dsc
+ 4587489367f41dd44d8850c9051ae82a5d7cc143370092b3fd865275ba36cbb4 17674 i2p-keyring_2021.09.10.tar.gz
+
+Package: syndie
+Binary: syndie
+Version: 1.107b-2ubuntu1
+Section: java
+Maintainer: Kill Your TV <killyourtv@i2pmail.org>
+Build-Depends: debhelper (>= 7.0.50~)
+Build-Depends-Indep: ant, openjdk-7-jdk, libswt-gtk-3-java, libhsqldb-java, i2p-router | i2p
+Architecture: all
+Standards-Version: 3.9.3
+Format: 3.0 (quilt)
+Directory: pool/main/s/syndie
+Files: 
+ 2e9a04f2c58288b652ceda8b2681bdd4 4531260 syndie_1.107b.orig.tar.bz2
+ 987f8a0685ff7b34ab4197c6ff8cbafe 4236 syndie_1.107b-2ubuntu1.debian.tar.xz
+ 77c1b19f9446e8ca304f6730c39b0c40 1800 syndie_1.107b-2ubuntu1.dsc
+Checksums-Sha1: 
+ fe88ad7ed8b4849e778949441135d8d78d7495a7 4531260 syndie_1.107b.orig.tar.bz2
+ 660c50193bd4b597b39382a4a2c7c7ca1e98c928 4236 syndie_1.107b-2ubuntu1.debian.tar.xz
+ 98c71dda6d47c3b4f7040cb681d614406f1d54db 1800 syndie_1.107b-2ubuntu1.dsc
+Checksums-Sha256: 
+ 88da9ece9e8b2965429a2fe4ca870e883376426194502070f23731cf586f8062 4531260 syndie_1.107b.orig.tar.bz2
+ c10b58c71049bcfb5fb795f594ae45042bbcef7558779c3cded50d723f90ee39 4236 syndie_1.107b-2ubuntu1.debian.tar.xz
+ 8e490ac2a304f7bbbcd9768424854723ac655a2341bc22f9492f78d081d65ad0 1800 syndie_1.107b-2ubuntu1.dsc
+Homepage: http://syndie.i2p2.de
+Package-List: syndie deb java extra arch=all
+
