@@ -1,0 +1,110 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Origin: I2P-PPA
+Codename: quantal
+Date: Sun, 27 Jul 2014 11:14:10 UTC
+Architectures: i386 amd64
+Components: main
+Description: Official I2P Quantal mirror
+MD5Sum:
+ 688e01914037a26e1c8e94360c244b56 8001 main/binary-i386/Packages
+ fe04b96f7a86888e27334d4e503e17ca 2368 main/binary-i386/Packages.gz
+ 12ac53234983a9e761f189beded8088d 2695 main/binary-i386/Packages.bz2
+ 351724ec5b7a032e8b81e67f34e6a30a 2368 main/binary-i386/Packages.xz
+ 89da8358a8486f893ff63b1014976f4c 2322 main/binary-i386/Packages.lzma
+ e07878d44f94625d105d5889d86fdeef 945 main/binary-i386/Packages.diff/Index
+ 14e5c0a058270b3e792614da2beaec2b 92 main/binary-i386/Release
+ 75bd09e5f05dd6d09805df3e667a6056 8011 main/binary-amd64/Packages
+ 2fb090571f1889472609b8976f4b5e77 2371 main/binary-amd64/Packages.gz
+ 715432b388c38609e624c038cca1f13c 2686 main/binary-amd64/Packages.bz2
+ a867094424657fa5512eb09b5331629c 2364 main/binary-amd64/Packages.xz
+ 4226fe0a7ca20096813c0cc7f810be41 2316 main/binary-amd64/Packages.lzma
+ 8ff719071c6e158ac0e69e624c91354b 945 main/binary-amd64/Packages.diff/Index
+ 5cee4bb8f46bad72c4b4bda58bf0be73 93 main/binary-amd64/Release
+ 75a3f92d7fe6a68b3121dede52a9d34e 4346 main/source/Sources
+ 8ec1acd0764564e9bddf63f408e49a61 1684 main/source/Sources.gz
+ b5a49dff7fd5504d3d8a8f72196cef9a 1839 main/source/Sources.bz2
+ 47226fc66670461583b978d6b70ed5dc 1688 main/source/Sources.xz
+ 21391661fa1973ba55ca63263c546622 1640 main/source/Sources.lzma
+ f033bb3e2725ff43e8a822ec1e83be07 945 main/source/Sources.diff/Index
+ f98c4b0b7c5fd16fbc145ec8b945fec3 94 main/source/Release
+ b2268197cf19971a0000b9632659c42e 24051 Contents-i386
+ 143d46af8c83d4eb4f2fd294eaf3ef7e 2060 Contents-i386.gz
+ 241050a7822b7e127087601da7e49b52 2016 Contents-i386.bz2
+ b2268197cf19971a0000b9632659c42e 24051 Contents-amd64
+ 143d46af8c83d4eb4f2fd294eaf3ef7e 2060 Contents-amd64.gz
+ 241050a7822b7e127087601da7e49b52 2016 Contents-amd64.bz2
+SHA1:
+ 4865ccb12f15c5387bb948a3a69c0ccb70a3f197 8001 main/binary-i386/Packages
+ d98eac565d2f8473c97cba52e854e5811c2042e2 2368 main/binary-i386/Packages.gz
+ 0f9ab4c8c360681ead0ead2d2685363fe52dc629 2695 main/binary-i386/Packages.bz2
+ 1cc2c495981e75c6340127c1ab8e0d7854c439fa 2368 main/binary-i386/Packages.xz
+ 05f0e53050a8a2bbac5f89fca92d90fc7c0787c7 2322 main/binary-i386/Packages.lzma
+ df4d806727a03f62c6fc9038794b072aed907e39 945 main/binary-i386/Packages.diff/Index
+ 5aee02be3258f88a8c7b30f27edb08f92705f462 92 main/binary-i386/Release
+ 83db97bb8f69f08e332f37685c864f9303d594f1 8011 main/binary-amd64/Packages
+ cd8e555816162fc51d0bd561d886294b2f84646d 2371 main/binary-amd64/Packages.gz
+ 5554a367ec7f0915211d62759062f8032575f584 2686 main/binary-amd64/Packages.bz2
+ c63b19cf942c30c7cad1260f5ddb0a4e06c04ab7 2364 main/binary-amd64/Packages.xz
+ b388acbbf81c6f4757abd0fbe9dfa5eea5601425 2316 main/binary-amd64/Packages.lzma
+ 218b8542a0fbcfe6429d39ad627147703f98a01a 945 main/binary-amd64/Packages.diff/Index
+ 9dc8b78d80b8aa70b5efbf0e20b92b0ea46ca1da 93 main/binary-amd64/Release
+ fc5a57d2d7855f2029f80aef440ab878295bb343 4346 main/source/Sources
+ 93a79f2ff0472169343c1c2ef009f1e86104e0f4 1684 main/source/Sources.gz
+ 78c4414204dca26f2db50ab63c1b291999a100fc 1839 main/source/Sources.bz2
+ 2863c9d941e98af8a0afeabc01e0eb22231b30f6 1688 main/source/Sources.xz
+ b7a4f547bf795e8a79a61501fa37918a12c4eb06 1640 main/source/Sources.lzma
+ 3fd02434b1806e3d2ce032fbf115706482b504e0 945 main/source/Sources.diff/Index
+ 5d5970e4fa7e793c8363c972886d1e3afd0327c2 94 main/source/Release
+ f974a081147d098847f2804905bfffd25ece989e 24051 Contents-i386
+ 395a0bcaecd55b3d2957b53e43479123355ae72b 2060 Contents-i386.gz
+ cb09f91ee78ce1128f042ad1e8b18d091580f467 2016 Contents-i386.bz2
+ f974a081147d098847f2804905bfffd25ece989e 24051 Contents-amd64
+ 395a0bcaecd55b3d2957b53e43479123355ae72b 2060 Contents-amd64.gz
+ cb09f91ee78ce1128f042ad1e8b18d091580f467 2016 Contents-amd64.bz2
+SHA256:
+ 3e86adbc7356e20f99a34d8964591ec8126a85a2feaadba70fb404b63606b668 8001 main/binary-i386/Packages
+ 60fd67f6c7255cbc7ea9dd1eb537b0ec20164801517d75a9e735f8e6c8892e4c 2368 main/binary-i386/Packages.gz
+ aa47c769b373064553c93195e24bf5646ee255c25c7b5c886f8c13067182a691 2695 main/binary-i386/Packages.bz2
+ 3969f4b2052f2c643f961553b4dedf7b778d158333e3a140d86d630868b1413a 2368 main/binary-i386/Packages.xz
+ 141d53f978851f8be5382b5150131d49798dbbfcb510c0fb5294a1c7632db9bf 2322 main/binary-i386/Packages.lzma
+ 006949f802cb4a102098b583f4c05da44dc621cfdcaa6a2e59003602d24a165b 945 main/binary-i386/Packages.diff/Index
+ 43ec0eefe759837c92d85f6422181facb1b16186c22d6034c6de24fdab56582c 92 main/binary-i386/Release
+ 73978778b272d3fbe9319145402b18a54aeeac0a1096a0182b2e3cfb3d058a80 8011 main/binary-amd64/Packages
+ d6847ded657b703f1d08b08c302315ade10330a38ca7fa46aa07dd758c6a6b0a 2371 main/binary-amd64/Packages.gz
+ 2cf43c59fb339fee402e36530aba792f311066d769f87e950bad1234244c91c8 2686 main/binary-amd64/Packages.bz2
+ c49a43a31664263aeec1f91968b568842d6d0d566798076c122857b9e12c2000 2364 main/binary-amd64/Packages.xz
+ 5633df7d3c568e67393f3f668215f99887cda330f4979da359b335f1cf1bd9be 2316 main/binary-amd64/Packages.lzma
+ 638dafcbab19659b0b4203bf6e8ce344ae029a6ff3073e39539547a423f0f949 945 main/binary-amd64/Packages.diff/Index
+ d1a7f9f79c52ca23d222b6b8e1182ee5cf7b8969599be8cb0bd64aac902aa755 93 main/binary-amd64/Release
+ 20d779ddb5dfbe87440b97f8542cf47cb3234e70565a9c8828c9f1b7ed0869f3 4346 main/source/Sources
+ 34a0817cff42e811cc847ad4d8610e2a2c9caab86edec7ffda2b9f2377885746 1684 main/source/Sources.gz
+ 2b965cb52a71d08049beaa337269592602ca51d41f498e99ab2c97992e19df83 1839 main/source/Sources.bz2
+ 4a5c8238d687e37938d19806ecb10c2c9defc1f346e73d80aeba53b9ecaa44d9 1688 main/source/Sources.xz
+ ceb5434d44365e07fc2df038fba1b508e2edcd58c0c496d8c48d5b46c77502ac 1640 main/source/Sources.lzma
+ 29a1635110eefbc62ac6baf21555174474f92e5e510441765d7e9b04e7f4df1e 945 main/source/Sources.diff/Index
+ 40551a609cb6e5e1677492b52e9da27de81e36206b0b0577e21d43b536730daf 94 main/source/Release
+ 47e2ded1bf1d84c388593a1c8775fc0cca7fc61b1aac53ad0c7dea77006b285c 24051 Contents-i386
+ 22f53268b20b4b2390fe7dafeb7b1deea7db84e483cb8e59afec447ebc916e85 2060 Contents-i386.gz
+ 0667011def0fe3c7f41a79f57863b9710278cdf5bb56e2a40e4a2679d7623426 2016 Contents-i386.bz2
+ 47e2ded1bf1d84c388593a1c8775fc0cca7fc61b1aac53ad0c7dea77006b285c 24051 Contents-amd64
+ 22f53268b20b4b2390fe7dafeb7b1deea7db84e483cb8e59afec447ebc916e85 2060 Contents-amd64.gz
+ 0667011def0fe3c7f41a79f57863b9710278cdf5bb56e2a40e4a2679d7623426 2016 Contents-amd64.bz2
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1.4.11 (GNU/Linux)
+
+iQIcBAEBCgAGBQJT1N8CAAoJEGfs5WBbzxNGanQP+wW+XgUcdre8fBgakjtAD/D1
+QRRo2OmTSYva8uZoaTBXqYGW/y605sLXA8pQni6fKReH15Ch4lcVKbmLGCVXa0Yt
+0jB7iLUCj6jNxKDkywx3FDuuosqApkq6vzlY6BN9cjbzBTokO1rpTt3iGr7Ilc62
++cZWXlEWA4Gmh5U6OJJxxzf63+Q1vR0uDp0y1SJ3UwQSAysOPdBDseK3v4rXEtyK
+NoP7FLmz/kEC5G1WcOlw3qZXOI+pXHN6KP0MHwaXQT/ffDXslnntnH+CNu99x6tn
+jXAnzK8oZQleFSq4MTWRI/HmsPkAG5luoyCa/PTIQuyCGDZFSUZq9pF+WSpIoE6R
+wb2ROFS90mdST+EMLJzpcAp+t9zow7LyEWakKL7yAPuxWUoZTY783HkmV0/TLH7/
+es7gWPXd+uuQvSH251x9QHnoDP0QZEqAA1oW6MtPzcrVExcznTUwn+bCBJ0RIGJK
+JEKmC/qTplDFfBrLEm7aGw8v+TB53Fh0rajfgP7PHKh0BBaYDp7//EHY/rwhFe7j
+vS6VSpG3ys7PNvNRwCbWssUc6Chzk4BImAbtdWGVBoWRs+Lc+KXzrVHyB3Ius1iN
+Aq6IaqNhlA9VaF5ljAQc5MDtzbRUTeYa5v7rM9s6UCPrWzV37dk4xbYwEN4jf2BI
+GeZ51Qtp0wTI7dn9fzOM
+=3bA8
+-----END PGP SIGNATURE-----
