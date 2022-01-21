@@ -1,0 +1,169 @@
+Package: i2p
+Priority: optional
+Section: net
+Installed-Size: 627
+Maintainer: zzz <zzz@i2pmail.org>
+Architecture: all
+Version: 0.9.46p-1~precise+1
+Depends: adduser, debconf, i2p-router (>= 0.8.6-5), libjbigi-jni, lsb-base (>= 3.0-6), service-wrapper
+Filename: pool/main/i/i2p/i2p_0.9.46p-1~precise+1_all.deb
+Size: 69462
+SHA256: 942699a7791a1a37fb100a1292a4934e2e7ad62690f382bde341e146646e6e39
+SHA1: 5523876ac3fad493623a84c932fe37b6a1cd4dc5
+MD5sum: 5b9ce1f22abe6f808c8e51416f167ff4
+Description: Invisible Internet Project (I2P) - anonymous network
+Description-md5: af30cb5729ed02b68be39b03bbe331bf
+Bugs: mailto:zzz@i2pmail.org
+
+Package: i2p-doc
+Source: i2p
+Priority: extra
+Section: doc
+Installed-Size: 72409
+Maintainer: zzz <zzz@i2pmail.org>
+Architecture: all
+Version: 0.9.46p-1~precise+1
+Suggests: i2p, default-jdk-doc
+Filename: pool/main/i/i2p/i2p-doc_0.9.46p-1~precise+1_all.deb
+Size: 3057496
+SHA256: fcf29e046b180372ed1be5c91c9bdb1bfd5f58183ec7dde65d986a8e3564d3a2
+SHA1: ac22a553eb42ad9248c56bef1df937193affb8b2
+MD5sum: 4fc11a1b1448a301f6833c85b571d896
+Description: Invisible Internet Project (I2P) - developer documentation
+Description-md5: a38a3343330ab23e4039d143d8b57c15
+Bugs: mailto:zzz@i2pmail.org
+
+Package: i2p-keyring
+Version: 2021.09.10
+Architecture: all
+Maintainer: zzz on i2p <zzz@i2pmail.org>
+Installed-Size: 28
+Depends: gnupg, coreutils (>= 7.4)
+Recommends: killyourtv-keyring
+Priority: extra
+Section: misc
+Filename: pool/main/i/i2p-keyring/i2p-keyring_2021.09.10_all.deb
+Size: 15004
+SHA256: 2ad24b3f7d54fadbfb69bc5fe6f7381267a900ac7e2a3079ba2fa812915cca41
+SHA1: 494bf1b78d1b1efbc1934ff76dfbffe421de44bf
+MD5sum: 7c42bf8099cbaa9bb4134ef976d48862
+Description: GnuPG keys of the I2P package repository
+ This package provides digital keys used for signing I2P's repositories.
+ Upon installation of this package, your APT trusted keyring will updated with
+ these keys. Upon removal of this package, the keys provided by this package
+ will be removed from the APT trusted keyring.
+
+Package: i2p-router
+Source: i2p
+Priority: optional
+Section: net
+Installed-Size: 17600
+Maintainer: zzz <zzz@i2pmail.org>
+Architecture: all
+Version: 0.9.46p-1~precise+1
+Recommends: libjbigi-jni
+Replaces: i2p (<< 0.8.6-5)
+Suggests: apparmor, privoxy, syndie
+Depends: openjdk-8-jre-headless | openjdk-7-jre-headless | java8-runtime-headless | java7-runtime-headless, geoip-database, gettext-base, libgetopt-java, glassfish-javaee
+Breaks: i2p (<< 0.8.6-5)
+Filename: pool/main/i/i2p/i2p-router_0.9.46p-1~precise+1_all.deb
+Size: 14449474
+SHA256: b166b77e40fc9edc2408e766b4897c1dfbf941e93753262a2f3e4cdd932600e9
+SHA1: 04866742cea552e804f1220acbf0a77fafe99f7a
+MD5sum: 7996aa6602ce74432f6401fc42d4606f
+Description: Invisible Internet Project (I2P) - Router
+Description-md5: b09b6523ae336da4c30a1d1deee14532
+Bugs: mailto:zzz@i2pmail.org
+
+Package: libjbigi-jni
+Source: i2p
+Priority: optional
+Section: java
+Installed-Size: 38
+Maintainer: zzz <zzz@i2pmail.org>
+Architecture: powerpc
+Version: 0.9.46p-1~precise+1
+Depends: libc6 (>= 2.1.3), libgmp10, i2p-router
+Filename: pool/main/i/i2p/libjbigi-jni_0.9.46p-1~precise+1_powerpc.deb
+Size: 3982
+SHA256: 2cbeb55014473aea3d58d3dcef5d2e3b8c02848f064c962b4059509a4108a5b9
+SHA1: f17f175ec375b23f3ab1ed2fc165524e1bb3160e
+MD5sum: 77bf17a69dd8e30ea6bd086b4273bf29
+Description: Invisible Internet Project (I2P) - libjbigi library
+Description-md5: 9abc006aa799702ff868098881332bad
+Bugs: mailto:zzz@i2pmail.org
+
+Package: libservice-wrapper-doc
+Source: service-wrapper-java
+Priority: optional
+Section: doc
+Installed-Size: 1976
+Maintainer: Kill Your TV <killyourtv@i2pmail.org>
+Architecture: all
+Version: 3.5.25-1~precise1
+Filename: pool/main/s/service-wrapper-java/libservice-wrapper-doc_3.5.25-1~precise1_all.deb
+Size: 222032
+SHA256: 3d2fafb4b5d6a4bed484859a8a6a894fb3b25316978f17e95358999d8457abf6
+SHA1: 83f2eb85c9c6fc35338501e61a6498d867463e87
+MD5sum: bd06634c2343e0d84f1d0e3e85bc95b2
+Description: Jar daemon wrapper (javadoc files)
+ The Java Service Wrapper makes very easy to install a Java Application as a
+ daemon process on Unix systems. The Wrapper monitors a JVM (Java Virtual
+ Machine) process and automatically restarts it if it that the JVM has crashed
+ or hung. This process takes just a few seconds once the Wrapper has decided
+ there is a problem. It also gives the ability to handle process priority.
+ .
+ This package contains the javadoc files.
+
+Package: libservice-wrapper-java
+Source: service-wrapper-java
+Priority: optional
+Section: java
+Installed-Size: 274
+Maintainer: Kill Your TV <killyourtv@i2pmail.org>
+Architecture: all
+Version: 3.5.25-1~precise1
+Depends: service-wrapper
+Filename: pool/main/s/service-wrapper-java/libservice-wrapper-java_3.5.25-1~precise1_all.deb
+Size: 231100
+SHA256: 07c98987113c352de92bec2da2aa9d0674f08ed1ba00c86b06a002fdd9cccb5f
+SHA1: 3b50136d6dad4d4d8170866a8c7b83f5ef1c4f39
+MD5sum: 82b9f1bf6c7b0329114352d95577ca0e
+Description: Jar daemon wrapper java libraries
+ This Package contains the Java jar libraries used by the Java Service Wrapper.
+ It can be used to handle wrapper specific attributes.
+ .
+ The Java Service Wrapper makes very easy to install a Java Application as a
+ daemon process on Unix systems. The Wrapper monitors a JVM (Java Virtual
+ Machine) process and automatically restarts it if it that the JVM has crashed
+ or hung. This process takes just a few seconds once the Wrapper has decided
+ there is a problem. It also gives the ability to handle process priority.
+
+Package: syndie
+Priority: extra
+Section: java
+Installed-Size: 5834
+Maintainer: Kill Your TV <killyourtv@i2pmail.org>
+Architecture: all
+Version: 1.105b-1ubuntu1
+Suggests: tor, freenet
+Depends: default-jre | java5-runtime | java6-runtime, libswt-cairo-gtk-3-jni, libswt-gtk-3-java, i2p-router | i2p, jarwrapper
+Enhances: i2p, i2p-router, tor
+Filename: pool/main/s/syndie/syndie_1.105b-1ubuntu1_all.deb
+Size: 5482090
+SHA256: 7c1ce9b59a4bb5bc8e9c25c27b5d5acdadc47b60a953a869037e89f4500bf1df
+SHA1: 3b5a1733f091c985c457f005ba880ecc5a710613
+MD5sum: f419a375724ea60c96fad80ead626f42
+Description: open source system for operating distributed forums
+ Syndie is java-based open source system for operating secure distributed
+ forums.
+ .
+ Some of the features include:
+ - Decentralized forums
+ - Private forums
+ - Offline browsing
+ - Secure reader
+ .
+ At its core, Syndie is a content layer with a defined file format and
+ cryptographic algorithms.
+
