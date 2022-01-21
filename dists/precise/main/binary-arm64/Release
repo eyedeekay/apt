@@ -1,0 +1,4 @@
+Component: main
+Origin: I2P-PPA
+Architecture: arm64
+Description: Official I2P Precise mirror
