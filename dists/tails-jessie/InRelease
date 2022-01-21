@@ -1,0 +1,77 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Origin: I2P
+Label: I2P
+Suite: tails-jessie
+Codename: tails-jessie
+Version: 8.0
+Date: Wed, 24 Jul 2019 15:45:27 UTC
+Architectures: i386
+Components: main
+Description: I2P
+MD5Sum:
+ 1d3012239fd74c9aafe33bc5b2dc7d84 4170 main/binary-i386/Packages
+ 5aaaab0ccf3246d19fc2ba0484b717ca 1629 main/binary-i386/Packages.gz
+ 3d52f4f9bf1f34f4482dfaecd77a5f80 1870 main/binary-i386/Packages.bz2
+ 3bcde4e3d98dda6c1a96b1a54a1234a8 1692 main/binary-i386/Packages.xz
+ ba525d4dc81d2ef76f5bc1745c57a0cd 1645 main/binary-i386/Packages.lzma
+ 53fe3ba193bc84390568ac66c6a8fbfa 110 main/binary-i386/Release
+ 34cfffdf529877d1415d99b5e0c6c190 1478 main/source/Sources
+ 37d1350816dd543bd8710d8d4e103181 796 main/source/Sources.gz
+ e65af61614043c5427eaea598ecc8251 907 main/source/Sources.bz2
+ 2808d36151c7691a46f49acfd0273122 856 main/source/Sources.xz
+ 16588c22ce25b0be6aa13d9c29d8491b 810 main/source/Sources.lzma
+ 25a85e6aa2bca6367c2d69c720a31ef1 112 main/source/Release
+ 3013a62dee02b752890c9083a90ad99f 328464 main/Contents-i386
+ 3efc72922e9f3082be77694ad3568e0b 22202 main/Contents-i386.gz
+ 32dd3221dcb03f38f8934b4e976768b5 16984 main/Contents-i386.bz2
+SHA1:
+ 5d466f4377130ee6ceed6dadcc7ab52c9087b0c3 4170 main/binary-i386/Packages
+ e71dddfd77f26d5ef86f456bdc80503ed74bc176 1629 main/binary-i386/Packages.gz
+ 796ab3a517168aebc716ed20021307102c01e71d 1870 main/binary-i386/Packages.bz2
+ f40bd5548647f5fd80cfd51ffa42a593191619cc 1692 main/binary-i386/Packages.xz
+ e9918c66b4bc531be7487a1d831314114c9e4dd5 1645 main/binary-i386/Packages.lzma
+ d79c77809e900f76c062bf7c87e731aea21866e9 110 main/binary-i386/Release
+ 963920f13663ae134ee3912350cf31cfc4dd79ec 1478 main/source/Sources
+ 34d645503c0d630861eb7b46dbdc97e72c404544 796 main/source/Sources.gz
+ a981cf140ac40808c7aa87de3badda8dcb044510 907 main/source/Sources.bz2
+ 00e2d33f0da06b629be3a91eb8fab6f1fe9054ca 856 main/source/Sources.xz
+ 25389f4acfcdaa0355cc0caf9c2c22cc8c8adf2c 810 main/source/Sources.lzma
+ 95bf8b563578137d4f76644618d0cf826d1927ef 112 main/source/Release
+ 3f316359191c0171a44a727ad3ce4c4d47f5f2fd 328464 main/Contents-i386
+ bf6a35532b6eb287deccb75bf9e2062d959ff125 22202 main/Contents-i386.gz
+ 31261c69ecda2d11cdc5f1bab19ec1740fd135cc 16984 main/Contents-i386.bz2
+SHA256:
+ 542eadebb9fbc2714666ab2179d5307d1e6fbbfea5147bd040c4ca1231157e9e 4170 main/binary-i386/Packages
+ 79b3d6a1ab6010f24fce5f7338bc63e9d456cd05fd8dff490a7382d85b87c8ea 1629 main/binary-i386/Packages.gz
+ dabef5315741044957f48cd4e6eafda3f7a415a3a95aa347cbdef617b3e20ce1 1870 main/binary-i386/Packages.bz2
+ cae4e13327f153f08851c771310232205ef8150f53bff39dbc5a1eb592a47cb2 1692 main/binary-i386/Packages.xz
+ f668db5c8cb09bace7259f793e7a4b9893c0bf9527200ab0f947783bae1a42d3 1645 main/binary-i386/Packages.lzma
+ 266076cab73e274ed0f180a9348be8ad2ce28ec0641443d84242d2e49bcf34af 110 main/binary-i386/Release
+ 5e8de52fead27249ad0bc0f7385bea1066e75c4b2ab445538b620dfe323e920b 1478 main/source/Sources
+ 706b5647298638d905adb45f7404b7881569ff019afc943d40513f6b46aed473 796 main/source/Sources.gz
+ 27b9566d815a5dc5daf8333c90f4b4bd3e96a8b736161a7f540d1e5ae995f2ef 907 main/source/Sources.bz2
+ de9d6e81542d655712802754a7b477012c3a5f24ba37fc35f637b7fb96e5ad6e 856 main/source/Sources.xz
+ a3f282b24e43c8aad2c55d6f27fd08e8d0b5d69d8a00d9fefb57eb31f157e5d0 810 main/source/Sources.lzma
+ dc295e3887b674870905410b916e96b089a16492360a9e90e0d1e6d745b9a466 112 main/source/Release
+ 40e112510aafa128edae241b0f0a6f4542ecee801ddebc1db5e8ecff09e10c34 328464 main/Contents-i386
+ 88af680f0cbf583d69dc8de4f159f1ec6672bb522b4c74cfeddf19a8a7a73554 22202 main/Contents-i386.gz
+ 90478663e785427bfe3fbf1f71964b4b65ca17fbf3b451f9747a31258140c55b 16984 main/Contents-i386.bz2
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1
+
+iQIcBAEBCgAGBQJdOH0XAAoJEGfs5WBbzxNGePkP/R3ukIcE9UshW9bNLtInFyfu
+E/w/nDCjukoiixBA3BOiUFl5jRVD9Bh/HcEk7le9KeCSGyxZK50t5vVqIDE4wMAG
+9UmfGGl+UEdFLD3xZa/cuBhPWyARxksl2uZ/QtL34x5QSSfppQuezIrEgH3J2TMb
+aqTLb2XVOX4V/D3W8s6inytK7GWL5et1/zAbSP/Sl1+aA3SpzjyQWILeuFXBz9zF
+yhzY9dZ1MjArluTgzO3oNZKrfNJQqFpgTr5YffBlcPZ51eC4NP90myJ6aYcKu3ky
+OYA8htRRYZhZsuPN0R1OzyC4ku0DaPgUSJxqTqEnej33MQGvV/8HC6sFSRk1KqqA
+oxUTkkpajkPnC6SBRobUX3oIp5nQrGb/4KNy8wpvDJiBIcH0vHc5seOj/ID4eNwu
+TcpkzWV/bFgHXCuTtuJBAQt4wfU8ACPdb2iXEDJFsMCUm4A96fJHH4nhH24/CNoK
+IOovjV1Dqn13B2puUwUgACl23u8KStqEIZ4oS/Gr6s+adBGe1EWV5PJolvwjIS9W
+DUkRFfu9nvNFQ2iKwx20BEHXTzjRw04eT68daPAFSXu64kkCd8y9HFsCdLRMTCXf
+weXTwW4O9DndcUMNTUIP/DqyYbE77uYfua8d6QTjRMhQ5vwRvli1pDntGWwZTB1p
+qt/r11qZTm5je5fuTEfH
+=cks5
+-----END PGP SIGNATURE-----
