@@ -1,0 +1,7 @@
+Archive: stable
+Version: 8.0
+Component: rpi
+Origin: I2P
+Label: I2P
+Architecture: ppc64el
+Description: I2P
