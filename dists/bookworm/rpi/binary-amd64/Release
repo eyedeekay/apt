@@ -1,0 +1,7 @@
+Archive: newstable
+Version: 12.0
+Component: rpi
+Origin: I2P
+Label: I2P
+Architecture: amd64
+Description: I2P
