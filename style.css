@@ -1,0 +1,59 @@
+.name
+{
+    color:darkgreen;
+    font-weight:bold;
+}
+
+.description {
+    width:75%;
+}
+
+.package {
+    margin-left:50px;
+}
+
+.infobox {
+    border:1px solid red;
+    background-color:#FBB;
+    width:800px;
+}
+
+/*code, .listing {
+    background-color:#E0E0E0;
+    color:#000;
+    width:99%;
+    overflow:auto;
+    font:9pt "Lucida Console", "DejaVu Sans Mono", Courier, mono;
+    margin:0;
+    padding:5px 5px 3px;
+} */
+
+code, pre {
+        background: #eee;
+    }
+
+    pre {
+        padding: .5em;
+        }
+
+/*code {
+    text-align:left;
+    font:9pt "Lucida Console", "DejaVu Sans Mono", Courier, mono;
+    color:#A52A2A;
+    font-weight:700;
+}*/
+
+dd {
+    padding-bottom:1em;
+}
+
+a {
+    text-decoration:none;
+    font-weight:700;
+}
+
+a:hover {
+    text-decoration:underline overline;
+    font-weight:700;
+}
+
