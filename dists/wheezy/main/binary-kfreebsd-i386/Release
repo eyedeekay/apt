@@ -1,0 +1,7 @@
+Archive: stable
+Version: 7.0
+Component: main
+Origin: I2P
+Label: I2P
+Architecture: kfreebsd-i386
+Description: I2P
