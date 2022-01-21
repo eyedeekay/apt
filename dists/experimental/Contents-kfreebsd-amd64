@@ -1,0 +1,9 @@
+FILE                                                    LOCATION
+usr/share/doc/i2p-keyring/changelog.gz	    misc/i2p-keyring
+usr/share/doc/i2p-keyring/copyright	    misc/i2p-keyring
+usr/share/doc/killyourtv-keyring/changelog.gz	    misc/killyourtv-keyring
+usr/share/doc/killyourtv-keyring/copyright	    misc/killyourtv-keyring
+usr/share/keyrings/i2p-archive-keyring.gpg	    misc/i2p-keyring
+usr/share/keyrings/i2p-archive-removed-keys.gpg	    misc/i2p-keyring
+usr/share/keyrings/kytv-archive-keyring.gpg	    misc/killyourtv-keyring
+usr/share/keyrings/kytv-archive-removed-keys.gpg	    misc/killyourtv-keyring
