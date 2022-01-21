@@ -1,0 +1,264 @@
+Package: i2p
+Version: 0.9.16-1~deb6u+1
+Architecture: all
+Bugs: mailto:killyourtv@i2pmail.org
+Maintainer: Kill Your TV <killyourtv@i2pmail.org>
+Installed-Size: 184
+Depends: adduser, i2p-router (>= 0.8.6-5), libjbigi-jni, lsb-base, service-wrapper
+Homepage: https://geti2p.net
+Priority: optional
+Section: net
+Filename: pool/main/i/i2p/i2p_0.9.16-1~deb6u+1_all.deb
+Size: 30170
+SHA256: 61559c4d05e06f6be0e362577f1e0b9bb02dd4361d542bde62e239f40ed766ee
+SHA1: 1e905cc935e575e60b7f11fc0cd2d5fb45dfc15f
+MD5sum: 10cb9cc74e3fe6a9a0eb745e61a578ea
+Description: Load-balanced unspoofable packet switching network
+ I2P is an anonymizing network, offering a simple layer that identity-sensitive
+ applications can use to securely communicate. All data is wrapped with several
+ layers of encryption, and the network is both distributed and dynamic, with no
+ trusted parties.
+ .
+ This package depends on the router, jbigi, the java service wrapper, and
+ includes support to run I2P as a daemon.
+
+Package: i2p-doc
+Source: i2p
+Version: 0.9.16-1~deb6u+1
+Architecture: all
+Bugs: mailto:killyourtv@i2pmail.org
+Maintainer: Kill Your TV <killyourtv@i2pmail.org>
+Installed-Size: 59888
+Suggests: i2p, default-jdk-doc
+Homepage: https://geti2p.net
+Priority: optional
+Section: doc
+Filename: pool/main/i/i2p/i2p-doc_0.9.16-1~deb6u+1_all.deb
+Size: 2268214
+SHA256: f9c5e761bd8a1a13d6f092555310ad8da95d095710f3e6b8b99966dada53142f
+SHA1: 94a4b9a557c10215db16d7d44d80c68454ad7542
+MD5sum: 473eef896113603b5793fc0a47d1c3b0
+Description: Documentation for I2P
+ I2P is an anonymizing network, offering a simple layer that identity-sensitive
+ applications can use to securely communicate. All data is wrapped with several
+ layers of encryption, and the network is both distributed and dynamic, with no
+ trusted parties.
+ .
+ This package contains the Javadoc files.
+
+Package: i2p-keyring
+Version: 2014.09.25
+Architecture: all
+Maintainer: Kill Your TV <killyourtv@i2pmail.org>
+Installed-Size: 41
+Depends: gnupg, coreutils (>= 7.4)
+Recommends: killyourtv-keyring
+Priority: extra
+Section: misc
+Filename: pool/main/i/i2p-keyring/i2p-keyring_2014.09.25_all.deb
+Size: 9740
+SHA256: 1e70a4625ae2a34e2b38aee03a1cde6d5383dc5b02ca4dbc169deb20c9fb655b
+SHA1: 94cf680feb0b5bbc7f639bfcda1d26bbf50f51fe
+MD5sum: d2791752105bf817de1d03dcd5a25dd3
+Description: GnuPG keys of the I2P package repository
+ This package provides digital keys used for signing I2P's repositories.
+ Upon instalation of this package, your APT trusted keyring will updated with
+ these keys. Upon removal of this package, the keys provided by this package
+ will be removed from the APT trusted keyring.
+
+Package: i2p-router
+Source: i2p
+Version: 0.9.16-1~deb6u+1
+Architecture: all
+Bugs: mailto:killyourtv@i2pmail.org
+Maintainer: Kill Your TV <killyourtv@i2pmail.org>
+Installed-Size: 16396
+Depends: openjdk-7-jre-headless | openjdk-6-jre-headless | default-jre-headless | java7-runtime-headless | java6-runtime-headless, libecj-java
+Recommends: libjbigi-jni, ttf-dejavu
+Suggests: tor, i2p-messenger, i2phex, i2p-tahoe-lafs, imule, irc-client, itoopie, mail-client, mail-reader, news-reader, polipo, privox, robert, syndie, www-browser, xul-ext-torbutton
+Breaks: i2p (<< 0.8.6-5)
+Replaces: i2p (<< 0.8.6-5)
+Homepage: https://geti2p.net
+Priority: optional
+Section: net
+Filename: pool/main/i/i2p/i2p-router_0.9.16-1~deb6u+1_all.deb
+Size: 10982168
+SHA256: ee5394ff382bb9f0ffe1d5c46136b63545769c0fbdced184a15bda19bb4817c1
+SHA1: 527e264c8032e08f6e9a3b6e7c9dd9b022818849
+MD5sum: 3316b221f5cac66d66e41e4f8f797b47
+Description: Load-balanced unspoofable packet switching network
+ I2P is an anonymizing network, offering a simple layer that identity-sensitive
+ applications can use to securely communicate. All data is wrapped with several
+ layers of encryption, and the network is both distributed and dynamic, with no
+ trusted parties.
+ .
+ TrueType fonts (such as those provided in the package ttf-dejavu) are required
+ in order to generate graphs.
+
+Package: killyourtv-keyring
+Version: 2015.03.27.1
+Architecture: all
+Maintainer: Kill Your TV <killyourtv@i2pmail.org>
+Installed-Size: 44
+Depends: gnupg, coreutils (>= 7.4), i2p-keyring
+Priority: extra
+Section: misc
+Filename: pool/main/k/killyourtv-keyring/killyourtv-keyring_2015.03.27.1_all.deb
+Size: 12906
+SHA256: e3254e2e94827d8a96e1c12117ad014228316ed1e84cb9e0ae2f5e7c61e0f3e8
+SHA1: 429087beaea13597dbcd229651663468e2902ab1
+MD5sum: 21afd35581800ad3a2c4ba69053cd63b
+Description: GnuPG keys of KillYourTV's repository
+ This package provides digital keys used for signing KillYourTV's repositories.
+ Upon instalation of this package, your APT trusted keyring will updated with
+ these keys. Upon removal of this package, the keys provided by this package
+ will be removed from the APT trusted keyring.
+
+Package: libjbigi-jni
+Source: i2p
+Version: 0.9.16-1~deb6u+1
+Architecture: i386
+Bugs: mailto:killyourtv@i2pmail.org
+Maintainer: Kill Your TV <killyourtv@i2pmail.org>
+Installed-Size: 48
+Depends: libc6 (>= 2.1.3), libgmp3c2, i2p-router
+Homepage: http://www.i2p2.de/jbigi
+Priority: optional
+Section: java
+Filename: pool/main/i/i2p/libjbigi-jni_0.9.16-1~deb6u+1_i386.deb
+Size: 4148
+SHA256: ba3b090c5d2509a5ae42d980d4b7fa30832b2338036b76cae56398b133c3ab49
+SHA1: dfb03930423abc586978c1ee6fe087098915d0b0
+MD5sum: 0da61bef4487fd0e079fda2e1d3dc375
+Description: Java Big Integer library
+ This Package contains the libjbigi JNI library (and on x86 platforms, jcpuid).
+ .
+ libjbigi is a math library that is part of the I2P installation.  Use of this
+ library greatly enhances the efficiency of cryptographic algorithms, such as
+ the ones used by I2P. You can expect to see a 5-7x speed improvement on certain
+ tasks, such as elGamal encryption/decryption.
+
+Package: libservice-wrapper-doc
+Source: service-wrapper-java
+Version: 3.5.22-1~deb6u1
+Architecture: all
+Maintainer: Kill Your TV <killyourtv@i2pmail.org>
+Installed-Size: 2408
+Homepage: http://wrapper.tanukisoftware.com
+Priority: optional
+Section: doc
+Filename: pool/main/s/service-wrapper-java/libservice-wrapper-doc_3.5.22-1~deb6u1_all.deb
+Size: 224360
+SHA256: 1bde565ad09e155c33c286c2f7c19565e83fa40c8d36a0937f7284d42e19eaac
+SHA1: b0f89d65e305f0f544c4d5f5ec8db5b0a93fae5a
+MD5sum: 3220e0e3ea7e6ac033f6b53b85260c3e
+Description: Jar daemon wrapper (javadoc files)
+ The Java Service Wrapper makes very easy to install a Java Application as a
+ daemon process on Unix systems. The Wrapper monitors a JVM (Java Virtual
+ Machine) process and automatically restarts it if it that the JVM has crashed
+ or hung. This process takes just a few seconds once the Wrapper has decided
+ there is a problem. It also gives the ability to handle process priority.
+ .
+ This package contains the javadoc files.
+
+Package: libservice-wrapper-java
+Source: service-wrapper-java
+Version: 3.5.22-1~deb6u1
+Architecture: all
+Maintainer: Kill Your TV <killyourtv@i2pmail.org>
+Installed-Size: 272
+Depends: service-wrapper
+Homepage: http://wrapper.tanukisoftware.com
+Priority: optional
+Section: java
+Filename: pool/main/s/service-wrapper-java/libservice-wrapper-java_3.5.22-1~deb6u1_all.deb
+Size: 225486
+SHA256: 69363353e0a09a083588c4da5325f39d301fb6caeb161d4141986ccbca3fa6e9
+SHA1: 0a9c8873aae1817ab68fa28ffcdb582bf5fb58bd
+MD5sum: 1af24694830b51f45594b82f9e0cc99e
+Description: Jar daemon wrapper java libraries
+ This Package contains the Java jar libraries used by the Java Service Wrapper.
+ It can be used to handle wrapper specific attributes.
+ .
+ The Java Service Wrapper makes very easy to install a Java Application as a
+ daemon process on Unix systems. The Wrapper monitors a JVM (Java Virtual
+ Machine) process and automatically restarts it if it that the JVM has crashed
+ or hung. This process takes just a few seconds once the Wrapper has decided
+ there is a problem. It also gives the ability to handle process priority.
+
+Package: libservice-wrapper-jni
+Source: service-wrapper-java
+Version: 3.5.22-1~deb6u1
+Architecture: i386
+Maintainer: Kill Your TV <killyourtv@i2pmail.org>
+Installed-Size: 68
+Depends: libc6 (>= 2.4), service-wrapper, default-jre-headless | java5-runtime-headless | java6-runtime-headless
+Suggests: libservice-wrapper-doc
+Homepage: http://wrapper.tanukisoftware.com
+Priority: optional
+Section: java
+Filename: pool/main/s/service-wrapper-java/libservice-wrapper-jni_3.5.22-1~deb6u1_i386.deb
+Size: 14222
+SHA256: ad1b24f501066c6c209b018bf257e7b75a7b42220d6877f7d99db87e9ccf8f92
+SHA1: c454e452f0c4a239ee76a66242e2a2e295b96b2c
+MD5sum: 8744bd0abacdceae01c7776c1f6cbc4a
+Description: Jar daemon wrapper JNI libraries
+ This Package contains the JNI libraries used by the Java Service Wrapper.
+ .
+ The Java Service Wrapper makes very easy to install a Java Application as a
+ daemon process on Unix systems. The Wrapper monitors a JVM (Java Virtual
+ Machine) process and automatically restarts it if it that the JVM has crashed
+ or hung. This process takes just a few seconds once the Wrapper has decided
+ there is a problem. It also gives the ability to handle process priority.
+
+Package: service-wrapper
+Source: service-wrapper-java
+Version: 3.5.22-1~deb6u1
+Architecture: i386
+Maintainer: Kill Your TV <killyourtv@i2pmail.org>
+Installed-Size: 420
+Depends: libc6 (>= 2.4), libservice-wrapper-java (>= 3.5.22-1~deb6u1), libservice-wrapper-jni (>= 3.5.22-1~deb6u1)
+Homepage: http://wrapper.tanukisoftware.com
+Priority: optional
+Section: java
+Filename: pool/main/s/service-wrapper-java/service-wrapper_3.5.22-1~deb6u1_i386.deb
+Size: 162380
+SHA256: fccaceaf64922a960945b57e3c3b6c094f2cd2b169caa4fdac9cf35b461feeed
+SHA1: 8db7a682511eba9a5ee0831cde0238012d90fbe8
+MD5sum: 1c4920c679dcfca241ed9af3615c5f93
+Description: Jar daemon wrapper
+ The Java Service Wrapper makes very easy to install a Java Application as a
+ daemon process on Unix systems. The Wrapper monitors a JVM (Java Virtual
+ Machine) process and automatically restarts it if it that the JVM has crashed
+ or hung. This process takes just a few seconds once the Wrapper has decided
+ there is a problem. It also gives the ability to handle process priority.
+
+Package: syndie
+Version: 1.103b-4+deb7u1
+Architecture: all
+Maintainer: Kill Your TV <killyourtv@i2pmail.org>
+Installed-Size: 4238
+Depends: default-jre | java5-runtime | java6-runtime, libhsqldb-java (<= 1.9.0) | libhsqldb1.8.0-java, libswt-cairo-gtk-3-jni, libswt-gtk-3-java, i2p-router | i2p, jarwrapper
+Suggests: tor, freenet
+Enhances: i2p, i2p-router, tor
+Homepage: http://syndie.i2p2.de
+Priority: extra
+Section: java
+Filename: pool/main/s/syndie/syndie_1.103b-4+deb7u1_all.deb
+Size: 3919758
+SHA256: 00294dfe28fadbd6fa9663ba5300ab8471a49945967bbfd504e90e171fa5e041
+SHA1: b48d2fdf3b5572b13a176a9056f1ce97d5e7ab89
+MD5sum: 9b6f88438755dba5b5254f9d35a56e54
+Description: open source system for operating distributed forums
+ Syndie is java-based open source system for operating secure distributed
+ forums.
+ .
+ Some of the features include:
+  - Decentralized forums
+  - Private forums
+  - Offline browsing
+  - Secure reader
+ .
+ At its core, Syndie is a content layer with a defined file format and
+ cryptographic algorithms.
+
