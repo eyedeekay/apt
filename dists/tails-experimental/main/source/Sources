@@ -1,0 +1,53 @@
+Package: i2p
+Format: 3.0 (quilt)
+Binary: i2p, libjbigi-jni, i2p-doc, i2p-router
+Architecture: any all
+Version: 0.9.22-1~deb7u+1
+Maintainer: Kill Your TV <killyourtv@i2pmail.org>
+Homepage: https://geti2p.net
+Standards-Version: 3.9.6
+Build-Depends: debhelper (>= 7.0.50~), ant (>= 1.8), ant-optional, debconf, default-jdk | openjdk-7-jdk | openjdk-6-jdk, gettext, dh-apparmor, libgmp3-dev, libservice-wrapper-java, libcommons-logging-java, hardening-wrapper, po-debconf, dh-systemd
+Package-List:
+ i2p deb net optional
+ i2p-doc deb doc optional
+ i2p-router deb net optional
+ libjbigi-jni deb java optional
+Priority: optional
+Section: net
+Directory: pool/main/i/i2p
+Files: 
+ 1baa3fba903d8036ff23c4a17f2df432 2001 i2p_0.9.22-1~deb7u+1.dsc
+ 0d7f33824729ff6a8ee498faaf29341a 9112123 i2p_0.9.22.orig.tar.bz2
+ 3483b162f7edf9fd9a3734747fb4ab82 48684 i2p_0.9.22-1~deb7u+1.debian.tar.xz
+Checksums-Sha1: 
+ 791f8b0229e669fd32abe7119309ea702d036637 2001 i2p_0.9.22-1~deb7u+1.dsc
+ b81fe779be3b7b439d17ab6e749b2cf6a16d0eb0 9112123 i2p_0.9.22.orig.tar.bz2
+ 86bb6aa0fc37dd5736f21d8c0b8adbe11531cfdf 48684 i2p_0.9.22-1~deb7u+1.debian.tar.xz
+Checksums-Sha256: 
+ d3fe305be2cbe751104e5e97364c1e17aaf8c929e5d5d48e18cec529a02bdbb6 2001 i2p_0.9.22-1~deb7u+1.dsc
+ db610d7f75251b34fa773d38e6d54d0adb7c8fb67dcd004fc1b6d73584cd742a 9112123 i2p_0.9.22.orig.tar.bz2
+ 9eccb9c934162a37fd38e72d438cb46a97745189166b9a550e7eab6bc1b3454f 48684 i2p_0.9.22-1~deb7u+1.debian.tar.xz
+
+Package: i2p-keyring
+Format: 1.0
+Binary: i2p-keyring
+Architecture: all
+Version: 2015.10.02.1
+Maintainer: Kill Your TV <killyourtv@i2pmail.org>
+Standards-Version: 3.9.4
+Build-Depends: debhelper (>= 7), gnupg
+Package-List:
+ i2p-keyring deb misc extra arch=all
+Priority: extra
+Section: misc
+Directory: pool/main/i/i2p-keyring
+Files: 
+ 3ccb8fa8d85c646a1f87857c13818c64 1405 i2p-keyring_2015.10.02.1.dsc
+ 7cf496a89c9e599e5ab18b8d9ded7965 11050 i2p-keyring_2015.10.02.1.tar.gz
+Checksums-Sha1: 
+ 16b2c2bfd1a20e1e55185756e034981208857801 1405 i2p-keyring_2015.10.02.1.dsc
+ 9b8307332ac22190a8ccb65ae0ae80b130753355 11050 i2p-keyring_2015.10.02.1.tar.gz
+Checksums-Sha256: 
+ c3267947023183988c66f7e1254d169360120cdc977b6e70cf4a528b40413bbb 1405 i2p-keyring_2015.10.02.1.dsc
+ a9aca131f2cafe2cf548c5f2e187abfb165d013d4b21f7956fab72677d78951b 11050 i2p-keyring_2015.10.02.1.tar.gz
+
