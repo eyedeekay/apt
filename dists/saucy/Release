@@ -1,0 +1,90 @@
+Origin: I2P-PPA
+Codename: saucy
+Date: Sun, 27 Jul 2014 11:14:11 UTC
+Architectures: i386 amd64
+Components: main
+Description: Official I2P Saucy mirror
+MD5Sum:
+ e8a968c60a51269e446fbfca12f016d1 7887 main/binary-i386/Packages
+ 1a556c7d574effc9bcb2bcb2f3d64c17 2373 main/binary-i386/Packages.gz
+ 2c988317078068968044c89cb2e32d3a 2668 main/binary-i386/Packages.bz2
+ c127cdc2227df941ae33e8fcd1bf8a55 2372 main/binary-i386/Packages.xz
+ 66ff8ad4cb4c1aedaf8db2e8ebb21f82 2327 main/binary-i386/Packages.lzma
+ a304c60ec40178ecc688d8a09b8a1a28 945 main/binary-i386/Packages.diff/Index
+ fed3582cd52924e3b5d18819d5870dbc 90 main/binary-i386/Release
+ 6c2fdcdb2364ceb1b55ea9c8f8fdc4f7 7897 main/binary-amd64/Packages
+ 8a3965c0c50f0d011a372d55ae01f069 2369 main/binary-amd64/Packages.gz
+ 84bb554a056cf2e3a83540bf159fcae8 2683 main/binary-amd64/Packages.bz2
+ 5d851a640eb3281ec746395b55b89f6b 2360 main/binary-amd64/Packages.xz
+ 6c096ddcf7178fa7ab9fcec010db1945 2316 main/binary-amd64/Packages.lzma
+ c81a64f94db80710d0533e52d4edf6bd 945 main/binary-amd64/Packages.diff/Index
+ c375e2124044b9d575354b83b8a086de 91 main/binary-amd64/Release
+ 614733b3dcd62ea9ee61c55eccde78cb 4346 main/source/Sources
+ 194fb63382b40642eb8e3775ef97cecb 1695 main/source/Sources.gz
+ 3459cb8c8306561fec7200ac3458679a 1858 main/source/Sources.bz2
+ 1c269d1a0dbad7444ef35c82893827a4 1696 main/source/Sources.xz
+ 28d56bde3dd23bcb4841dc1b539facb8 1650 main/source/Sources.lzma
+ 5e1d6fee29d2dfc9667096488b44dd1e 945 main/source/Sources.diff/Index
+ b411e2fa412a69f3fd7d3bfde9518c10 92 main/source/Release
+ b2268197cf19971a0000b9632659c42e 24051 Contents-i386
+ 143d46af8c83d4eb4f2fd294eaf3ef7e 2060 Contents-i386.gz
+ 241050a7822b7e127087601da7e49b52 2016 Contents-i386.bz2
+ b2268197cf19971a0000b9632659c42e 24051 Contents-amd64
+ 143d46af8c83d4eb4f2fd294eaf3ef7e 2060 Contents-amd64.gz
+ 241050a7822b7e127087601da7e49b52 2016 Contents-amd64.bz2
+SHA1:
+ d0378af59de459f26e7bb6a97669a13c8d5af61f 7887 main/binary-i386/Packages
+ e744c8ad0badfd3044317ab585094d3c934d49dc 2373 main/binary-i386/Packages.gz
+ 9d97ef33eb5c53cd9bbdd9f6694b2dc17ee3addc 2668 main/binary-i386/Packages.bz2
+ 91eae996b33464483c5476c788f3e4d8f28391b2 2372 main/binary-i386/Packages.xz
+ a87fdb83c1187dca94aa52066bcc9670847f0ea1 2327 main/binary-i386/Packages.lzma
+ 53ff00be04c1fb41333d0c363d6292ea3dd8d716 945 main/binary-i386/Packages.diff/Index
+ 97efcec6825a1f2c5fa684e95ebcccdf12f2d361 90 main/binary-i386/Release
+ 80c47ea128b0302edf1436498c740e32f131deaf 7897 main/binary-amd64/Packages
+ 713ab85ca3aab11e8c9af01ab540aa29524d942a 2369 main/binary-amd64/Packages.gz
+ a1154202f28b9f55d714dfa6e44792831c3a7aa3 2683 main/binary-amd64/Packages.bz2
+ efcf728069979e2b557bf3b8a2dd0783615261e7 2360 main/binary-amd64/Packages.xz
+ c32e80d6c306b1f934d96281a320d228a03cfecc 2316 main/binary-amd64/Packages.lzma
+ 21ef0ef80cfbf03639ebc54fa0c11ec288fde910 945 main/binary-amd64/Packages.diff/Index
+ d5d1e6d230bd98f2edebb0dd0b0c2624d4e95db1 91 main/binary-amd64/Release
+ ee70d6f09c37b1727bc444e90f1304e34d1eeaed 4346 main/source/Sources
+ f1335c0e71ca5aa581c9aa46ace3fa7931ef65c7 1695 main/source/Sources.gz
+ a5d3a824d535aafcdcfe3a53063a885121d728c8 1858 main/source/Sources.bz2
+ 6e8ad0ddf293f5b841d806ff4f51d38dbff88e62 1696 main/source/Sources.xz
+ 36609506fc966fce9304d2a401adfdcf6a4e92f3 1650 main/source/Sources.lzma
+ 64fc78c3397430b15133f1af3ea983c080be32e5 945 main/source/Sources.diff/Index
+ c7a583592cd398d511eeb21e4616f75a71587b96 92 main/source/Release
+ f974a081147d098847f2804905bfffd25ece989e 24051 Contents-i386
+ 395a0bcaecd55b3d2957b53e43479123355ae72b 2060 Contents-i386.gz
+ cb09f91ee78ce1128f042ad1e8b18d091580f467 2016 Contents-i386.bz2
+ f974a081147d098847f2804905bfffd25ece989e 24051 Contents-amd64
+ 395a0bcaecd55b3d2957b53e43479123355ae72b 2060 Contents-amd64.gz
+ cb09f91ee78ce1128f042ad1e8b18d091580f467 2016 Contents-amd64.bz2
+SHA256:
+ 503d7dc5d43ab9ea79096885d5750bac99abad5eaaa492c844b87a3951fad64e 7887 main/binary-i386/Packages
+ be5110dd0524e1a851f2c5738a62b716459a3e2157b115ae6b303e8551e1032e 2373 main/binary-i386/Packages.gz
+ d1dbea9f9e9393bdc76b5b141593452f219682c51f7017ae9e1cdb6db309a256 2668 main/binary-i386/Packages.bz2
+ 79c8982ad8ac1a756b1d294952e0104ff3492ccab906d6233dd6e1126c8cb136 2372 main/binary-i386/Packages.xz
+ 48d35e8c7b6dd928a8ff79890e027ec35c3da670d7aee73e2457aff478fa1205 2327 main/binary-i386/Packages.lzma
+ 92b457701864349873586f9c04c23a25933ea19ed2040f2e92837b91bfa1becd 945 main/binary-i386/Packages.diff/Index
+ 3fcc7733c38e9d175aa9237374bb100b267cf4925906b3dcdd53acc80d2fd829 90 main/binary-i386/Release
+ 47b92b760d9dd5701ac4d3fb4bdf4fcb84f729c09a5ac1786f05e84d018ac612 7897 main/binary-amd64/Packages
+ d9ab3ff851b382c667f3bec5390e781a00002cc0fb7d3680fd7a933d01b020f7 2369 main/binary-amd64/Packages.gz
+ 5efd74a8afbd212c1f64dfa302b96f6527890aa6ad25153647761c51662ce36e 2683 main/binary-amd64/Packages.bz2
+ 2d277f0f7eb72f56ce254ea9d6113e68eb13761b4e6282f078e34da5b1ebb5a4 2360 main/binary-amd64/Packages.xz
+ 5bab06023a6a4c784b88be1b7d72442ad7569ce88108741926777ef80da24b53 2316 main/binary-amd64/Packages.lzma
+ 403bc121e0e0c22b84c17f6fb928a5a551b77d76668d3edf927a3b338f6ee23e 945 main/binary-amd64/Packages.diff/Index
+ 29ca86c1f92d9f4f91a3992b5b6a1c5b563b9efc79b9dfbc01dd1f8d6b294798 91 main/binary-amd64/Release
+ 5b1452db9367bfc3ec5d0d790e6bfa2692ec96c5d9fc6e6e7fc92d4c51a9ed29 4346 main/source/Sources
+ 479b109b973fb161aa4c4cafc139608a8370c192ebb59b7abcc6da1a3ddcd566 1695 main/source/Sources.gz
+ 30aeb214ec0763f2045a93e93dd0340522e12c2faae14d9e9d6642fd07082047 1858 main/source/Sources.bz2
+ fe9f09862817fd2036647c4a46beec47bac2e6a53da62f2858f28a6060b735e4 1696 main/source/Sources.xz
+ 747ab7cad89768191da226e7ede9094707429993318ac0e8ad61a9504eca95ac 1650 main/source/Sources.lzma
+ f5e4ffe0f1a68b06d99f210adeb152f9af263254c410beb4e6e4f29d1632926f 945 main/source/Sources.diff/Index
+ bcc0ba31b9e70578567df90666eee3f40b07b47b121e5693bda718df8b62db58 92 main/source/Release
+ 47e2ded1bf1d84c388593a1c8775fc0cca7fc61b1aac53ad0c7dea77006b285c 24051 Contents-i386
+ 22f53268b20b4b2390fe7dafeb7b1deea7db84e483cb8e59afec447ebc916e85 2060 Contents-i386.gz
+ 0667011def0fe3c7f41a79f57863b9710278cdf5bb56e2a40e4a2679d7623426 2016 Contents-i386.bz2
+ 47e2ded1bf1d84c388593a1c8775fc0cca7fc61b1aac53ad0c7dea77006b285c 24051 Contents-amd64
+ 22f53268b20b4b2390fe7dafeb7b1deea7db84e483cb8e59afec447ebc916e85 2060 Contents-amd64.gz
+ 0667011def0fe3c7f41a79f57863b9710278cdf5bb56e2a40e4a2679d7623426 2016 Contents-amd64.bz2
