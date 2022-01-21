@@ -1,0 +1,90 @@
+Origin: I2P-PPA
+Codename: artful
+Date: Fri, 10 Sep 2021 15:35:07 UTC
+Architectures: i386 amd64
+Components: main
+Description: Official I2P Artful mirror
+MD5Sum:
+ 91a3de3e78fac84e40501b3c852bf543 3528 main/binary-i386/Packages
+ 91e55bc8b893792b60f00334f4eb71e6 1509 main/binary-i386/Packages.gz
+ 4a5ff685b69dc5b6e107a2caf12aedca 1629 main/binary-i386/Packages.bz2
+ c6d4278001fd0a64d893e3042dafb72e 1560 main/binary-i386/Packages.xz
+ e821a71d362bf4fbd66bc394c173beb7 1512 main/binary-i386/Packages.lzma
+ a2c3bfe7bba2dddb654d2e18eedb8f91 2001 main/binary-i386/Packages.diff/Index
+ d5ab62f9787b20fe8ef7f608057bb381 91 main/binary-i386/Release
+ cf14e3cbee79e9d760992d4499db5e7a 3530 main/binary-amd64/Packages
+ f1c4fbd5b38f2ed1d7862d6656c4219f 1507 main/binary-amd64/Packages.gz
+ 7c0f9c7ecde67501d102bff90624aa28 1626 main/binary-amd64/Packages.bz2
+ 1b0b2842b8f77421f4f72e0acd4532ae 1560 main/binary-amd64/Packages.xz
+ f98cfdebfbc0bb06ee02724f3dd8bdf5 1513 main/binary-amd64/Packages.lzma
+ 8ad3e41a9b4102337662ab9b2390d3b1 2001 main/binary-amd64/Packages.diff/Index
+ 5f1b68a2d31dad1cc718c5a94f5b20af 92 main/binary-amd64/Release
+ 126f6213b3cb43bf47f41c0dafa3ea6b 2292 main/source/Sources
+ 87381229e5dfbd95263d5ff6cad29321 1080 main/source/Sources.gz
+ 83a8df19bdc5ad4531720e07b6c9bf0b 1180 main/source/Sources.bz2
+ d518e0a4287c459c6e3de5dabde3215f 1140 main/source/Sources.xz
+ 923b9488f541c96ebe51081a6a34b492 1092 main/source/Sources.lzma
+ f86e67f6ac00b65a5c9b0208248b012d 2001 main/source/Sources.diff/Index
+ 0b90e7a7ab82a0ef2572df3df2a062af 93 main/source/Release
+ 2d8329370e56d6bf1a76df77849333d3 435086 main/Contents-i386
+ b5310086252093885ef6f06889e0ec99 29090 main/Contents-i386.gz
+ c956434c4cab574ce2f620a4547966b9 22006 main/Contents-i386.bz2
+ 2d8329370e56d6bf1a76df77849333d3 435086 main/Contents-amd64
+ b5310086252093885ef6f06889e0ec99 29090 main/Contents-amd64.gz
+ c956434c4cab574ce2f620a4547966b9 22006 main/Contents-amd64.bz2
+SHA1:
+ ed65c71ef3f16d11cb881efb79a33a1415daad44 3528 main/binary-i386/Packages
+ b85371f53a3fff9ef2820f5c794342221b535c5c 1509 main/binary-i386/Packages.gz
+ c688c5670221a82822eacaafac1c1644f75db2da 1629 main/binary-i386/Packages.bz2
+ 1f328435b706eeb7a492c473c66b3f023c1e391a 1560 main/binary-i386/Packages.xz
+ 9c9bbdb7957de06d601fc61db1e428943f523764 1512 main/binary-i386/Packages.lzma
+ ad98d980534c0572b71dbbd4a44c3be4ec84c542 2001 main/binary-i386/Packages.diff/Index
+ 8f293bb74e641e486b3c0049fdf2051afb8b02e3 91 main/binary-i386/Release
+ 3f5d686dc90a7a13ab447f3e2e90fe578acd7c93 3530 main/binary-amd64/Packages
+ e14ccd483b88e7ae8d4a3b4b19c0549d101df1f4 1507 main/binary-amd64/Packages.gz
+ 787a5fe219e83c3a7a2ac80899c44ce8c9df4d90 1626 main/binary-amd64/Packages.bz2
+ f8e7a32a4db07804a512a87675615cbd0f29f242 1560 main/binary-amd64/Packages.xz
+ 21bec7a43e1aafde835cb9417b9a8cee7f5d138e 1513 main/binary-amd64/Packages.lzma
+ 4da22a027a4f342534bec2263840fd24ed50deeb 2001 main/binary-amd64/Packages.diff/Index
+ 981713de454c717f81d829d2a11cf8b10951cd4c 92 main/binary-amd64/Release
+ dcdf4c5b055358eaf5b6be67b943a875281c3527 2292 main/source/Sources
+ f469708a8e5c358e71d6316ad075841706547c08 1080 main/source/Sources.gz
+ 552d5db252cb315434d461efa2e908acba60c017 1180 main/source/Sources.bz2
+ bc62b30bf1ceefd2ec33e8d4d7b66424bee91c8e 1140 main/source/Sources.xz
+ bf47e8db0bfde4041ebbd5255b08e7e1b029950f 1092 main/source/Sources.lzma
+ 742f32f23c2f2eff879a078b839d2d60046696f2 2001 main/source/Sources.diff/Index
+ 9864fa34c6755f0fce2f3cab29fb6ff9adb678be 93 main/source/Release
+ 09b3f42792736283864b8915bbf2afc2f5370ca9 435086 main/Contents-i386
+ 160ca5e70c355b4c8498e866326bd523b8175a5b 29090 main/Contents-i386.gz
+ edd009e65181bce8d0f30c82a1cb6e71249eac69 22006 main/Contents-i386.bz2
+ 09b3f42792736283864b8915bbf2afc2f5370ca9 435086 main/Contents-amd64
+ 160ca5e70c355b4c8498e866326bd523b8175a5b 29090 main/Contents-amd64.gz
+ edd009e65181bce8d0f30c82a1cb6e71249eac69 22006 main/Contents-amd64.bz2
+SHA256:
+ 66c5d8afaecf400bfd3d1fbf9750c0eacc1374b4d2df124937a688ae476bac7f 3528 main/binary-i386/Packages
+ 16e2966ca8ef26de9b7ebe27261bf8e4a1e28fc7c9b3281265165203591772f4 1509 main/binary-i386/Packages.gz
+ 2c1f067594220204f82da5e528231b89e39b8b188552ad5d67b573f4ef9d5b86 1629 main/binary-i386/Packages.bz2
+ ac60d11fd10be305e4a510d2c26a93c740479615e8bc6707ed25252c496a3249 1560 main/binary-i386/Packages.xz
+ 609794bad697d1664bc16f233d8fb3a1257d6c5697c1f32744daabc539d993a3 1512 main/binary-i386/Packages.lzma
+ fdb03e7dae87af05593e2960d28709a9b9630795726655c4c25c6289f6275113 2001 main/binary-i386/Packages.diff/Index
+ dc3b7d0f33728c1b27f95c7958eea2492c3b6814e15ff5b9128c8a3c01b83423 91 main/binary-i386/Release
+ fd6c9d43f48fbf781cdd64f6b8fbc3d692f186248430f7341e6b36bb81a47074 3530 main/binary-amd64/Packages
+ febde1092661e7a10a9320bb5c6860ca50a7d59384d9ffcb5e11a307eaa68739 1507 main/binary-amd64/Packages.gz
+ 99d6b5af0a1ec72a70e622a932bfb249e1aeba677a54deb864360588e3355e3f 1626 main/binary-amd64/Packages.bz2
+ afb3372471856dbe812182a00e4c129600b397d2493e4d3663063bf685f10c8c 1560 main/binary-amd64/Packages.xz
+ c7d4c93cbf50c12ff4a333e69f543f8bab99c4cdaab4d061841a8e30ff199185 1513 main/binary-amd64/Packages.lzma
+ 1d2c0ec523884849b96d6c60d322968dc2bcf151249f414c41de0967646bb561 2001 main/binary-amd64/Packages.diff/Index
+ 84b59be15e47d5e8a8f7609521d38251e4229a813ef0e48256c60860b678a567 92 main/binary-amd64/Release
+ bb9b612e9b136e56f8c15bc8d1f33784a1bb4db0eecb702d862a9348bf458c41 2292 main/source/Sources
+ cfe7e0c980f587c9586e67386d60e281423914f55c7fdeaab57036304b337391 1080 main/source/Sources.gz
+ d1ba284de9f1fcff337296dd42a36dbba18ca302f82634ffff26c5f55e475844 1180 main/source/Sources.bz2
+ 61a3baa6a117c9f03574f027e6fd35b6a5200ee4b1b4e61970bad824b7413049 1140 main/source/Sources.xz
+ cc54ce21de9517e5a6aaf0bab83a09d63f7f4e3116b59280c768c5630cbec9d1 1092 main/source/Sources.lzma
+ bcf833db30e07feea7ee7e88c3611f97cd3471e36e95f7b24763ed06545fed5e 2001 main/source/Sources.diff/Index
+ 8c10e63c20038641edcd41b48d6eaa0b87084184a1ce031d233ddc28821fa0f2 93 main/source/Release
+ 0b9186c7c9041a242a593013f18f6fee48bc9d4e67e8986bf8468c739cf4ca99 435086 main/Contents-i386
+ 3fc7b4057078f467de0731bdc4af1599b7d45793bba3f9ef63c0521f5eaf5366 29090 main/Contents-i386.gz
+ 287089e03c5be5b842822eee63fb09eb2332e86ae0f188231e53fed6018ba5f7 22006 main/Contents-i386.bz2
+ 0b9186c7c9041a242a593013f18f6fee48bc9d4e67e8986bf8468c739cf4ca99 435086 main/Contents-amd64
+ 3fc7b4057078f467de0731bdc4af1599b7d45793bba3f9ef63c0521f5eaf5366 29090 main/Contents-amd64.gz
+ 287089e03c5be5b842822eee63fb09eb2332e86ae0f188231e53fed6018ba5f7 22006 main/Contents-amd64.bz2
