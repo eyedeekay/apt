@@ -1,0 +1,4 @@
+Component: main
+Origin: I2P-PPA
+Architecture: s390x
+Description: Official I2P Eoan mirror
