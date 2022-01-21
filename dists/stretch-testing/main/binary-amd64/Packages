@@ -1,0 +1,158 @@
+Package: i2p
+Version: 0.9.29-17-rc-2ac5993f-1
+Architecture: all
+Bugs: mailto:zzz@i2pmail.org
+Maintainer: zzz <zzz@i2pmail.org>
+Installed-Size: 324
+Depends: adduser, debconf, i2p-router (>= 0.8.6-5), libjbigi-jni, lsb-base, service-wrapper
+Homepage: https://geti2p.net/
+Priority: optional
+Section: net
+Filename: pool/main/i/i2p/i2p_0.9.29-17-rc-2ac5993f-1_all.deb
+Size: 65340
+SHA256: 76c5e6e9f6bd27deb45b90fc0a2e69d682beca0252d9d3f2fa1bcf389dac7734
+SHA1: c9a2a6a2e7b0cecf7afcd907802f8da33fe2536e
+MD5sum: e4dbd0fc97321fb59700c6c25a317a19
+Description: I2P anonymous network
+ I2P is an anonymizing network, offering a simple layer that identity-sensitive
+ applications can use to securely communicate. All data is wrapped with several
+ layers of encryption, and the network is both distributed and dynamic, with no
+ trusted parties.
+ .
+ This package depends on the router, jbigi, the java service wrapper, and
+ includes support to run I2P as a daemon.
+
+Package: i2p-doc
+Source: i2p
+Version: 0.9.29-17-rc-2ac5993f-1
+Architecture: all
+Bugs: mailto:zzz@i2pmail.org
+Maintainer: zzz <zzz@i2pmail.org>
+Installed-Size: 64230
+Suggests: i2p, default-jdk-doc
+Homepage: https://geti2p.net/
+Priority: extra
+Section: doc
+Filename: pool/main/i/i2p/i2p-doc_0.9.29-17-rc-2ac5993f-1_all.deb
+Size: 2563836
+SHA256: 44c19dcd98b95ebd34df32a25d21e16bd034c6462254ac6b91e2bdccd3efebcf
+SHA1: 0c54dc8fc47c1b6f6d8aae90d3f3b7540555cd34
+MD5sum: 92c1a86ec31e390b40df9af5235d46ed
+Description: I2P developer documentation
+ I2P is an anonymizing network, offering a simple layer that identity-sensitive
+ applications can use to securely communicate. All data is wrapped with several
+ layers of encryption, and the network is both distributed and dynamic, with no
+ trusted parties.
+ .
+ This package contains the Javadoc files.
+
+Package: i2p-keyring
+Version: 2021.09.10
+Architecture: all
+Maintainer: zzz on i2p <zzz@i2pmail.org>
+Installed-Size: 28
+Depends: gnupg, coreutils (>= 7.4)
+Recommends: killyourtv-keyring
+Priority: extra
+Section: misc
+Filename: pool/main/i/i2p-keyring/i2p-keyring_2021.09.10_all.deb
+Size: 15004
+SHA256: 2ad24b3f7d54fadbfb69bc5fe6f7381267a900ac7e2a3079ba2fa812915cca41
+SHA1: 494bf1b78d1b1efbc1934ff76dfbffe421de44bf
+MD5sum: 7c42bf8099cbaa9bb4134ef976d48862
+Description: GnuPG keys of the I2P package repository
+ This package provides digital keys used for signing I2P's repositories.
+ Upon installation of this package, your APT trusted keyring will updated with
+ these keys. Upon removal of this package, the keys provided by this package
+ will be removed from the APT trusted keyring.
+
+Package: i2p-router
+Source: i2p
+Version: 0.9.29-17-rc-2ac5993f-1
+Architecture: all
+Bugs: mailto:zzz@i2pmail.org
+Maintainer: zzz <zzz@i2pmail.org>
+Installed-Size: 10213
+Depends: openjdk-9-jre-headless | openjdk-8-jre-headless | openjdk-7-jre-headless | default-jre-headless | java9-runtime-headless | java8-runtime-headless | java7-runtime-headless, libecj-java, geoip-database, gettext-base, libgetopt-java, libjetty9-java, glassfish-javaee, libtomcat8-java
+Recommends: libjbigi-jni, ttf-dejavu
+Suggests: tor, apparmor, i2p-messenger, i2phex, i2p-tahoe-lafs, imule, irc-client, itoopie, mail-client, mail-reader, news-reader, polipo, privoxy, robert, syndie, www-browser, xul-ext-torbutton
+Breaks: i2p (<< 0.8.6-5)
+Replaces: i2p (<< 0.8.6-5)
+Homepage: https://geti2p.net/
+Priority: optional
+Section: net
+Filename: pool/main/i/i2p/i2p-router_0.9.29-17-rc-2ac5993f-1_all.deb
+Size: 8331234
+SHA256: 81b06e40dabd4866a40080390d8594397bc3d737ae17284683e434a289b0c980
+SHA1: 56deb58256196ada083582f4c2ab2a3b7c24d4b9
+MD5sum: 819b3faa2c2df02e3db3a6aed2ac07b0
+Description: I2P router
+ I2P is an anonymizing network, offering a simple layer that identity-sensitive
+ applications can use to securely communicate. All data is wrapped with several
+ layers of encryption, and the network is both distributed and dynamic, with no
+ trusted parties.
+ .
+ TrueType fonts (such as those provided in the package ttf-dejavu) are required
+ in order to generate graphs.
+
+Package: killyourtv-keyring
+Version: 2015.03.27.1
+Architecture: all
+Maintainer: Kill Your TV <killyourtv@i2pmail.org>
+Installed-Size: 44
+Depends: gnupg, coreutils (>= 7.4), i2p-keyring
+Priority: extra
+Section: misc
+Filename: pool/main/k/killyourtv-keyring/killyourtv-keyring_2015.03.27.1_all.deb
+Size: 12906
+SHA256: e3254e2e94827d8a96e1c12117ad014228316ed1e84cb9e0ae2f5e7c61e0f3e8
+SHA1: 429087beaea13597dbcd229651663468e2902ab1
+MD5sum: 21afd35581800ad3a2c4ba69053cd63b
+Description: GnuPG keys of KillYourTV's repository
+ This package provides digital keys used for signing KillYourTV's repositories.
+ Upon instalation of this package, your APT trusted keyring will updated with
+ these keys. Upon removal of this package, the keys provided by this package
+ will be removed from the APT trusted keyring.
+
+Package: libjbigi-jni
+Source: i2p
+Version: 0.9.29-17-rc-2ac5993f-1
+Architecture: amd64
+Bugs: mailto:zzz@i2pmail.org
+Maintainer: zzz <zzz@i2pmail.org>
+Installed-Size: 26
+Depends: libc6 (>= 2.4), libgmp10 (>= 2:5.0.5), i2p-router
+Homepage: https://geti2p.net/
+Priority: optional
+Section: java
+Filename: pool/main/i/i2p/libjbigi-jni_0.9.29-17-rc-2ac5993f-1_amd64.deb
+Size: 4986
+SHA256: db2002612065ce385715c6cba4c271efcbd3ac776501fe247e0e86d8e435a6ba
+SHA1: 65cea6bdd1f24831889230714d6ac2a46d95afef
+MD5sum: 80e08ad928da3fbc90f827268e8c6ffc
+Description: I2P libjbigi library
+ This Package contains the libjbigi JNI library (and on x86 platforms, jcpuid).
+ .
+ libjbigi is a math library that is part of the I2P installation.  Use of this
+ library greatly enhances the efficiency of cryptographic algorithms, such as
+ the ones used by I2P. You can expect to see a 5-7x speed improvement on certain
+ tasks, such as elGamal encryption/decryption.
+
+Package: syndie
+Priority: extra
+Section: java
+Installed-Size: 4596
+Maintainer: Kill Your TV <killyourtv@i2pmail.org>
+Architecture: all
+Version: 1.107b-2ubuntu1
+Suggests: tor, freenet
+Depends: openjdk-9-jre | openjdk-8-jre | openjdk-7-jre | default-jre | java9-runtime | java8-runtime | java7-runtime, libswt-gtk-3-java, libhsqldb-java, i2p-router | i2p
+Enhances: i2p, i2p-router, tor
+Filename: pool/main/s/syndie/syndie_1.107b-2ubuntu1_all.deb
+Size: 4220986
+SHA256: ae476672797154ef6dc25137ddb81a7e45e283aa79870a41daba0e8de95b4f1e
+SHA1: 70296e8d4a5fc20a2315b73947b3c2314192b176
+MD5sum: 69056e17c771fb3c46543f8e06f26c0b
+Description: Syndie anonymous distributed forums
+Description-md5: 6ac3d9136577e5e981c1dbb49a9f93b2
+
