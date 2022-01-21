@@ -1,0 +1,72 @@
+Package: i2p-keyring
+Format: 1.0
+Binary: i2p-keyring
+Architecture: all
+Version: 2016.10.01
+Maintainer: zzz on i2p <zzz@i2pmail.org>
+Standards-Version: 3.9.4
+Build-Depends: debhelper (>= 7), gnupg
+Package-List:
+ i2p-keyring deb misc extra arch=all
+Priority: extra
+Section: misc
+Directory: pool/main/i/i2p-keyring
+Files: 
+ 6a4306f3e04765890749647b487d9320 1404 i2p-keyring_2016.10.01.dsc
+ 17023d3fca3ab2d35684288e72d9b490 13390 i2p-keyring_2016.10.01.tar.gz
+Checksums-Sha1: 
+ e3a3fd741d51cafc3429b888be6005a75765fb19 1404 i2p-keyring_2016.10.01.dsc
+ 6cb961bcae382ba69c714833b428289d6b466453 13390 i2p-keyring_2016.10.01.tar.gz
+Checksums-Sha256: 
+ dd4afc2d23421fd51c4994cd796109a7fb6cd29ad342c40a713378d826016359 1404 i2p-keyring_2016.10.01.dsc
+ 0fe222241bc1b388c766ef85280c9258565e04fb1e545fde48e92438798968bc 13390 i2p-keyring_2016.10.01.tar.gz
+
+Package: killyourtv-keyring
+Format: 1.0
+Binary: killyourtv-keyring
+Architecture: all
+Version: 2015.03.27.1
+Maintainer: Kill Your TV <killyourtv@i2pmail.org>
+Standards-Version: 3.9.4
+Build-Depends: debhelper (>= 7), gnupg
+Package-List:
+ killyourtv-keyring deb misc extra
+Priority: extra
+Section: misc
+Directory: pool/main/k/killyourtv-keyring
+Files: 
+ 625ea7157f6826b60236df8307bff022 1442 killyourtv-keyring_2015.03.27.1.dsc
+ 2b5892730416751d4a2298d3ec79ca12 13400 killyourtv-keyring_2015.03.27.1.tar.gz
+Checksums-Sha1: 
+ 7b24272fa8c407117858cc067d6164ad69808950 1442 killyourtv-keyring_2015.03.27.1.dsc
+ 383a29ea8d4fcf731b0e4d86aaf58f14a5e139c6 13400 killyourtv-keyring_2015.03.27.1.tar.gz
+Checksums-Sha256: 
+ 42fd9d5311ee892a41bfd0b356edd154fbddcc1d8223e2ed474620dc64d57334 1442 killyourtv-keyring_2015.03.27.1.dsc
+ 119c718865bb85becc3c35d1e1bb94dcf3c8cd4173be8e7ad64063248599537a 13400 killyourtv-keyring_2015.03.27.1.tar.gz
+
+Package: syndie
+Binary: syndie
+Version: 1.107b-2ubuntu1
+Section: java
+Maintainer: Kill Your TV <killyourtv@i2pmail.org>
+Build-Depends: debhelper (>= 7.0.50~)
+Build-Depends-Indep: ant, openjdk-7-jdk, libswt-gtk-3-java, libhsqldb-java, i2p-router | i2p
+Architecture: all
+Standards-Version: 3.9.3
+Format: 3.0 (quilt)
+Directory: pool/main/s/syndie
+Files: 
+ 2e9a04f2c58288b652ceda8b2681bdd4 4531260 syndie_1.107b.orig.tar.bz2
+ 987f8a0685ff7b34ab4197c6ff8cbafe 4236 syndie_1.107b-2ubuntu1.debian.tar.xz
+ 77c1b19f9446e8ca304f6730c39b0c40 1800 syndie_1.107b-2ubuntu1.dsc
+Checksums-Sha1: 
+ fe88ad7ed8b4849e778949441135d8d78d7495a7 4531260 syndie_1.107b.orig.tar.bz2
+ 660c50193bd4b597b39382a4a2c7c7ca1e98c928 4236 syndie_1.107b-2ubuntu1.debian.tar.xz
+ 98c71dda6d47c3b4f7040cb681d614406f1d54db 1800 syndie_1.107b-2ubuntu1.dsc
+Checksums-Sha256: 
+ 88da9ece9e8b2965429a2fe4ca870e883376426194502070f23731cf586f8062 4531260 syndie_1.107b.orig.tar.bz2
+ c10b58c71049bcfb5fb795f594ae45042bbcef7558779c3cded50d723f90ee39 4236 syndie_1.107b-2ubuntu1.debian.tar.xz
+ 8e490ac2a304f7bbbcd9768424854723ac655a2341bc22f9492f78d081d65ad0 1800 syndie_1.107b-2ubuntu1.dsc
+Homepage: http://syndie.i2p2.de
+Package-List: syndie deb java extra arch=all
+
