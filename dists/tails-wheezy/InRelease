@@ -1,0 +1,83 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Origin: I2P
+Label: I2P
+Suite: tails-wheezy
+Codename: tails-wheezy
+Version: 7.6
+Date: Wed, 24 Jul 2019 15:45:26 UTC
+Architectures: i386
+Components: main
+Description: I2P
+MD5Sum:
+ f4032120978abf7036e10e9d60a62134 4967 main/binary-i386/Packages
+ a51f530f4bed2e3c004b035b178d48f4 1925 main/binary-i386/Packages.gz
+ 626255407aecab2886e0b7dea3f9376a 2152 main/binary-i386/Packages.bz2
+ e850f3c319875b12b43a0ec511e4454a 1988 main/binary-i386/Packages.xz
+ c6ce24f623de6e6d2d614cba00d2ca39 1942 main/binary-i386/Packages.lzma
+ efd392727a405efb8dfbc878f7aba54d 3761 main/binary-i386/Packages.diff/Index
+ bdc652007e5045d7be1599ab7a54b61a 110 main/binary-i386/Release
+ fef8d1a4680a3142df46576ef6d6051c 2291 main/source/Sources
+ 9d108ae69e015e9f6d1ba2696c2349e5 1068 main/source/Sources.gz
+ 21eeffe414e23aa837cd91af98c86c79 1201 main/source/Sources.bz2
+ 181a01074509d82dc9782bc451b16116 1120 main/source/Sources.xz
+ ab507ab8af7e0ccf490e602ebe818854 1073 main/source/Sources.lzma
+ b486057da3ea14ec8ffc392f5225bd29 3761 main/source/Sources.diff/Index
+ 8e2c87c70fba6f83f0750c950c1cdc1a 112 main/source/Release
+ 173813800a04a349157f2b6e4ec3ca8c 328471 main/Contents-i386
+ e905462215cca53a18871f517ff3edc1 22230 main/Contents-i386.gz
+ feb19f39a703295c610de109598c1f84 17017 main/Contents-i386.bz2
+SHA1:
+ d18f8d956cf80636ee09ca921707e276407d02fc 4967 main/binary-i386/Packages
+ 0d0cec2fd885ef51d2cab97490e8a6586240f88f 1925 main/binary-i386/Packages.gz
+ 564df0dd1ccbd7b043d94df4d5a7f239b33dfdd9 2152 main/binary-i386/Packages.bz2
+ 9c6fb1231251f8547f39cd4e6f2fb4f408f72d82 1988 main/binary-i386/Packages.xz
+ 6ac517941e1a7bdc4e95a5777409732a42cb48f0 1942 main/binary-i386/Packages.lzma
+ 6b0d80fc922f30bc44d815cea15f523986d5bfcf 3761 main/binary-i386/Packages.diff/Index
+ b54aea7e94364fdf190d634bbc41ec9b81fa597c 110 main/binary-i386/Release
+ 94c7abde6b4418d92e9c30062fde165418e48c11 2291 main/source/Sources
+ caeef50de8466c3b189e98b67cf4e43de28f80c0 1068 main/source/Sources.gz
+ f21946882e43f5ad3f2c108bc44a1f101037f3c2 1201 main/source/Sources.bz2
+ 5ef45507bdbe9691bbc9d46bc548cfaffbd4f80d 1120 main/source/Sources.xz
+ 642e3b83b3f6a208edf4518ea76bbb8722fcfac3 1073 main/source/Sources.lzma
+ f0c5f79851416478697aa0ef4a28599ebc4ba773 3761 main/source/Sources.diff/Index
+ f1ae7ec025c1e8c97efbdcb19e68458426d32e72 112 main/source/Release
+ a95345102a75aef6a3285c07bc6f265673186295 328471 main/Contents-i386
+ a756d3bb97289480101686daf2d8bfdc247878c2 22230 main/Contents-i386.gz
+ 413d2c1c14c1ab3b0275da4038588232f5972c75 17017 main/Contents-i386.bz2
+SHA256:
+ d33c52f51b5d7787a4ec05b83b3fce78abf644f141ea053759b0af98e9bee8d3 4967 main/binary-i386/Packages
+ 00afe21e162bdf3a1a79acb3594b9cd42bd7956ae441ed50ea37349338f09a14 1925 main/binary-i386/Packages.gz
+ 46ba31a6913a37aafe99c62272bc849e7e2c7f195fd69062f6052baf1149f3f9 2152 main/binary-i386/Packages.bz2
+ 89c6eb8bd7a8d092084be13ee29777215b746bf7ac713a676795c542f7d27afa 1988 main/binary-i386/Packages.xz
+ 9b87a7640503b3b9c234197a3e43ecb036f46fdc21e59a155f52e418e046209b 1942 main/binary-i386/Packages.lzma
+ 6bd9c4805b62aaeac611b7b1b5179cc984b25201ecc9cf1e6a5e60a91e52dccf 3761 main/binary-i386/Packages.diff/Index
+ ed2c6f30794c48def1c0308a4840ef4d2dc553d928683b7b7ece5aa90eb17f06 110 main/binary-i386/Release
+ 5d9a453c09c4b93ca48630171f20913a0366ed82d84856d08519f19f56c9b361 2291 main/source/Sources
+ adb5b2f748331e49bb06c58776cb36d6763f8813067e11c1df1e1b78758d4b01 1068 main/source/Sources.gz
+ 5b4c7fa01e5cf66505eb1ad3e4698b7475836e39159b24133343af51ee711859 1201 main/source/Sources.bz2
+ 078d0c26e7ab189f5ae504491cf7b2024783d0731746f4593a4c7fed51b937c5 1120 main/source/Sources.xz
+ c32b8a212af64452d085b1cfbacef1dcfebf4e1234b3efbaa442f9964c2fb204 1073 main/source/Sources.lzma
+ 47d96e6d91921353c8106b6fa2872a87d77a67941bfdee568b6d051645dc316f 3761 main/source/Sources.diff/Index
+ 902d5419f8d196dc5ffa0780ce4069b506b10c0a073cecdb47eabffed100c90e 112 main/source/Release
+ a10028880f9ca532b27e17f370c7118021d77129165bc6af5fcccf7c5acbf66c 328471 main/Contents-i386
+ 83de2ed1924623ada428004dba5c8cccb354fc32449bfb64293d3c086c2f42fe 22230 main/Contents-i386.gz
+ 41bd75d132aa10f31b5c57ddd4d3910077ac7388467c66eb47221f58ff4ad57b 17017 main/Contents-i386.bz2
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1
+
+iQIcBAEBCgAGBQJdOH0WAAoJEGfs5WBbzxNG6fwQAKdyJWom/te7vMY0nKhTVwxk
+9d8YmuPtVa1eKmsQAa3TbMmdiE0vZz5w2PSuc7uB4PFKAJn13BpLMOEJz5xaVzy8
+o8l5f9oIOuEsnOTEYBDlGyhu6JRL4zHTpUVN/Nx+w8GnYzNZpVGSputv5iUZg/2g
+spcL9t2x+QIB78kR0LxugImKF11He0niY3R2bT2CvbIhAXQl2zruP5SPMFu7x9aP
+/KvH20q/1TYSguWiv5l6JS2cyIeZ7tXAdDlOIHM1m5ssFZdxBsqimb8l8UKOrtpW
+fhutlWqEa7L7bZJ++96uESiLW71C47lv3nM4uB9mc+EA4l91pvWavQCalLgX1WxR
+bbW7BE/mRznvyKE0bb7Z2e6sLleWifvQk1Us0L+N4gUkYkpQoTOBNdazIxJ4KNa/
+kt08biVVAuX4lHRtD1OdaRd2nHtUritqhzSWtxPVsD4EzlX+TxGsnfcVW+x4XLFM
+IfheLvz/Cxd6bATB4U/XRqUCIQZMS+EcL1S8+VXysbZvqllO5luBVE4TIgcvjqE6
+SeV0rQHSMQjuDU9P3BVlLQtnh0UoOu9zVHX0cz++uvnFWyYMF+siXZ86WnF2MGDi
+FkDlQ/jzDvz8yj3f9kfuC7D5jxnC7idIxSwYa6kGsIe5IXrKN1VuwBpHoYm0aHs0
+7e/9rqD3fm9R2xG+48t7
+=pOAb
+-----END PGP SIGNATURE-----
