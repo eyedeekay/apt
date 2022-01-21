@@ -1,0 +1,233 @@
+#Origin: I2P
+#Label: I2P
+#Suite: oldstable
+#Codename: squeeze
+#Version: 6.0
+#Architectures: i386 amd64 armel powerpc source 
+#Components: main 
+#DebIndices: Packages Release . .gz .bz2  xz.sh lzma.sh /usr/bin/rredtool
+#DscIndices: Sources Release . .gz .bz2 xz.sh lzma.sh /usr/bin/rredtool
+#Contents: . .gz .bz2
+#Description: I2P
+#SignWith: 5BCF1346
+#Uploaders: uploaders
+#Log: squeeze.log
+# --type=dsc changelogs.example
+
+Origin: I2P
+Label: I2P
+Suite: oldstable
+Codename: wheezy
+Version: 7.8
+Architectures: i386 amd64 armel powerpc source armhf
+Components: main 
+DebIndices: Packages Release . .gz .bz2 xz.sh lzma.sh /usr/bin/rredtool
+DscIndices: Sources Release . .gz .bz2 xz.sh lzma.sh /usr/bin/rredtool
+Contents: . .gz .bz2
+Description: I2P
+SignWith: 5BCF1346
+Uploaders: uploaders
+Log: wheezy.log
+ --type=dsc changelogs.example
+
+Origin: I2P
+Label: I2P
+Suite: stable
+Codename: jessie
+Version: 8.0
+Architectures: i386 amd64 armel powerpc source armhf
+Components: main  rpi
+DebIndices: Packages Release . .gz .bz2 xz.sh lzma.sh /usr/bin/rredtool
+DscIndices: Sources Release . .gz .bz2 xz.sh lzma.sh /usr/bin/rredtool
+Contents: . .gz .bz2
+Description: I2P
+SignWith: 5BCF1346
+Uploaders: uploaders
+Log: jessie.log
+ --type=dsc changelogs.example
+
+Origin: I2P
+Label: I2P
+Suite: unstable
+Codename: sid
+Architectures: i386 amd64 armel armhf source
+Components: main 
+DebIndices: Packages Release . .gz .bz2 xz.sh lzma.sh /usr/bin/rredtool
+DscIndices: Sources Release . .gz .bz2 xz.sh lzma.sh /usr/bin/rredtool
+Contents: . .gz .bz2
+Description: I2P
+SignWith: 5BCF1346
+Uploaders: uploaders
+Log: sid.log
+ --type=dsc changelogs.example
+
+Origin: I2P
+Label: I2P
+Suite: experimental
+Codename: experimental
+Version: 8.0
+Architectures: i386 amd64 armel powerpc source armhf
+#Architectures: i386 amd64 armel source
+Components: main
+DebIndices: Packages Release . .gz .bz2 xz.sh lzma.sh /usr/bin/rredtool
+DscIndices: Sources Release . .gz .bz2 xz.sh lzma.sh /usr/bin/rredtool
+Contents: . .gz .bz2
+Description: I2P
+SignWith: 5BCF1346
+Uploaders: uploaders
+Log: experimental.log
+ --type=dsc changelogs.example
+
+Origin: I2P
+Label: I2P
+Suite: tails-experimental
+Codename: tails-experimental
+Version: 6.0.8
+Architectures: i386 source
+Components: main
+DebIndices: Packages Release . .gz .bz2 xz.sh lzma.sh /usr/bin/rredtool
+DscIndices: Sources Release . .gz .bz2 xz.sh lzma.sh /usr/bin/rredtool
+Contents: . .gz .bz2
+Description: I2P
+SignWith: 5BCF1346
+Uploaders: uploaders
+Log: tails-experimental.log
+ --type=dsc changelogs.example
+
+Origin: I2P
+Label: I2P
+Suite: tails-wheezy
+Codename: tails-wheezy
+Version: 7.6
+Architectures: i386 source
+Components: main
+DebIndices: Packages Release . .gz .bz2 xz.sh lzma.sh /usr/bin/rredtool
+DscIndices: Sources Release . .gz .bz2 xz.sh lzma.sh /usr/bin/rredtool
+Contents: . .gz .bz2
+Description: I2P
+SignWith: 5BCF1346
+Uploaders: uploaders
+Log: tails-wheezy.log
+ --type=dsc changelogs.example
+
+Origin: I2P
+Label: I2P
+Suite: tails-jessie
+Codename: tails-jessie
+Version: 8.0
+Architectures: i386 source
+Components: main
+DebIndices: Packages Release . .gz .bz2 xz.sh lzma.sh /usr/bin/rredtool
+DscIndices: Sources Release . .gz .bz2 xz.sh lzma.sh /usr/bin/rredtool
+Contents: . .gz .bz2
+Description: I2P
+SignWith: 5BCF1346
+Uploaders: uploaders
+Log: tails-jessie.log
+ --type=dsc changelogs.example
+
+
+
+Origin: I2P-PPA
+Codename: precise
+Description: Official I2P Precise mirror
+Architectures: i386 amd64 source
+DebIndices: Packages Release . .gz .bz2 xz.sh lzma.sh /usr/bin/rredtool
+DscIndices: Sources Release . .gz .bz2 xz.sh lzma.sh /usr/bin/rredtool
+Contents: . .gz .bz2
+Components: main
+Update: - i2p-precise
+SignWith: 5BCF1346
+Log: mirror.log
+  --type=dsc changelogs.example
+
+#Origin: I2P-PPA
+#Codename: quantal
+#Description: Official I2P Quantal mirror
+#Architectures: i386 amd64 source
+#DebIndices: Packages Release . .gz .bz2 xz.sh lzma.sh /usr/bin/rredtool
+#DscIndices: Sources Release . .gz .bz2 xz.sh lzma.sh /usr/bin/rredtool
+#Contents: . .gz .bz2
+#Components: main
+#Update: - i2p-quantal anoncoin-quantal
+#SignWith: 5BCF1346
+#Log: mirror.log
+#  --type=dsc changelogs.example
+#
+#Origin: I2P-PPA
+#Codename: saucy
+#Description: Official I2P Saucy mirror
+#Architectures: i386 amd64 source
+#DebIndices: Packages Release . .gz .bz2 xz.sh lzma.sh /usr/bin/rredtool
+#DscIndices: Sources Release . .gz .bz2 xz.sh lzma.sh /usr/bin/rredtool
+#Contents: . .gz .bz2
+#Components: main
+#Update: - i2p-saucy anoncoin-saucy
+#SignWith: 5BCF1346
+#Log: mirror.log
+#  --type=dsc changelogs.example
+
+Origin: I2P-PPA
+Codename: trusty
+Description: Official I2P Trusty mirror
+Architectures: i386 amd64 source
+DebIndices: Packages Release . .gz .bz2 xz.sh lzma.sh /usr/bin/rredtool
+DscIndices: Sources Release . .gz .bz2 xz.sh lzma.sh /usr/bin/rredtool
+Contents: . .gz .bz2
+Components: main
+Update: - i2p-trusty
+SignWith: 5BCF1346
+Log: mirror.log
+  --type=dsc changelogs.example
+
+Origin: I2P-PPA
+Codename: vivid
+Description: Official I2P Vivid mirror
+Architectures: i386 amd64 source
+DebIndices: Packages Release . .gz .bz2 xz.sh lzma.sh /usr/bin/rredtool
+DscIndices: Sources Release . .gz .bz2 xz.sh lzma.sh /usr/bin/rredtool
+Contents: . .gz .bz2
+Components: main
+Update: - i2p-vivid
+SignWith: 5BCF1346
+Log: mirror.log
+  --type=dsc changelogs.example
+
+Origin: I2P-PPA
+Codename: wily
+Description: Official I2P Wily mirror
+Architectures: i386 amd64 source
+DebIndices: Packages Release . .gz .bz2 xz.sh lzma.sh /usr/bin/rredtool
+DscIndices: Sources Release . .gz .bz2 xz.sh lzma.sh /usr/bin/rredtool
+Contents: . .gz .bz2
+Components: main
+Update: - i2p-wily
+SignWith: 5BCF1346
+Log: mirror.log
+  --type=dsc changelogs.example
+
+Origin: I2P-PPA
+Codename: xenial
+Description: Official I2P Xenial mirror
+Architectures: i386 amd64 source
+DebIndices: Packages Release . .gz .bz2 xz.sh lzma.sh /usr/bin/rredtool
+DscIndices: Sources Release . .gz .bz2 xz.sh lzma.sh /usr/bin/rredtool
+Contents: . .gz .bz2
+Components: main
+Update: - i2p-xenial
+SignWith: 5BCF1346
+Log: mirror.log
+  --type=dsc changelogs.example
+
+Origin: I2P-PPA
+Codename: yakkety
+Description: Official I2P Yakkety mirror
+Architectures: i386 amd64 source
+DebIndices: Packages Release . .gz .bz2 xz.sh lzma.sh /usr/bin/rredtool
+DscIndices: Sources Release . .gz .bz2 xz.sh lzma.sh /usr/bin/rredtool
+Contents: . .gz .bz2
+Components: main
+Update: - i2p-yakkety
+SignWith: 5BCF1346
+Log: mirror.log
+  --type=dsc changelogs.example
