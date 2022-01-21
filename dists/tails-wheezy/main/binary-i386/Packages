@@ -1,0 +1,121 @@
+Package: i2p
+Version: 0.9.23-2~deb7u+1
+Architecture: all
+Bugs: mailto:killyourtv@i2pmail.org
+Maintainer: Kill Your TV <killyourtv@i2pmail.org>
+Installed-Size: 124
+Depends: adduser, debconf, i2p-router (>= 0.8.6-5), libjbigi-jni, lsb-base, service-wrapper
+Homepage: https://geti2p.net
+Priority: optional
+Section: net
+Filename: pool/main/i/i2p/i2p_0.9.23-2~deb7u+1_all.deb
+Size: 34498
+SHA256: e98985d53f16d8d7e8dc3d355ec34639273d2794c0637097dfbf06d0a3a6188c
+SHA1: c30812a4f55dbb5eed15b470f6f725fabe2362f3
+MD5sum: 97789c75f5249eb3be9b5442e58b8f9b
+Description: Load-balanced unspoofable packet switching network
+ I2P is an anonymizing network, offering a simple layer that identity-sensitive
+ applications can use to securely communicate. All data is wrapped with several
+ layers of encryption, and the network is both distributed and dynamic, with no
+ trusted parties.
+ .
+ This package depends on the router, jbigi, the java service wrapper, and
+ includes support to run I2P as a daemon.
+
+Package: i2p-doc
+Source: i2p
+Version: 0.9.23-2~deb7u+1
+Architecture: all
+Bugs: mailto:killyourtv@i2pmail.org
+Maintainer: Kill Your TV <killyourtv@i2pmail.org>
+Installed-Size: 56017
+Suggests: i2p, default-jdk-doc
+Homepage: https://geti2p.net
+Priority: optional
+Section: doc
+Filename: pool/main/i/i2p/i2p-doc_0.9.23-2~deb7u+1_all.deb
+Size: 2153700
+SHA256: 371290d414fe8f1c0e34af976a1f120726d2fbd0a22616c4e6fb07e01d185dfd
+SHA1: e888d5f543203c9e71cee4a96c660a13d0c676d5
+MD5sum: 6a0b7d0a22790b179898522011c48d5f
+Description: Documentation for I2P
+ I2P is an anonymizing network, offering a simple layer that identity-sensitive
+ applications can use to securely communicate. All data is wrapped with several
+ layers of encryption, and the network is both distributed and dynamic, with no
+ trusted parties.
+ .
+ This package contains the Javadoc files.
+
+Package: i2p-keyring
+Version: 2015.10.02.1
+Architecture: all
+Maintainer: Kill Your TV <killyourtv@i2pmail.org>
+Installed-Size: 24
+Depends: gnupg, coreutils (>= 7.4)
+Recommends: killyourtv-keyring
+Priority: extra
+Section: misc
+Filename: pool/main/i/i2p-keyring/i2p-keyring_2015.10.02.1_all.deb
+Size: 10708
+SHA256: ac28d7ee26190b1c7c9d2edd00b9cba6d12eac93062b7611ae57c3668073e2fc
+SHA1: e4bf90939a4feb12c2c6e93b0ceeff1979a1dd5a
+MD5sum: 94185561b7a95ff523f8429c1329534a
+Description: GnuPG keys of the I2P package repository
+ This package provides digital keys used for signing I2P's repositories.
+ Upon instalation of this package, your APT trusted keyring will updated with
+ these keys. Upon removal of this package, the keys provided by this package
+ will be removed from the APT trusted keyring.
+
+Package: i2p-router
+Source: i2p
+Version: 0.9.23-2~deb7u+1
+Architecture: all
+Bugs: mailto:killyourtv@i2pmail.org
+Maintainer: Kill Your TV <killyourtv@i2pmail.org>
+Installed-Size: 14715
+Depends: openjdk-8-jre-headless | openjdk-7-jre-headless | openjdk-6-jre-headless | default-jre-headless | java8-runtime-headless | java7-runtime-headless | java6-runtime-headless, libecj-java
+Recommends: libjbigi-jni, ttf-dejavu
+Suggests: tor, apparmor, i2p-messenger, i2phex, i2p-tahoe-lafs, imule, irc-client, itoopie, mail-client, mail-reader, news-reader, polipo, privoxy, robert, syndie, www-browser, xul-ext-torbutton
+Breaks: i2p (<< 0.8.6-5)
+Replaces: i2p (<< 0.8.6-5)
+Homepage: https://geti2p.net
+Priority: optional
+Section: net
+Filename: pool/main/i/i2p/i2p-router_0.9.23-2~deb7u+1_all.deb
+Size: 10945518
+SHA256: 38b46514c663796db9ae30f48d26d6d0eff73ab401f7cdd31743ff8f9710d54d
+SHA1: 22e0be012506df3530ce64524e306fd03abf1eb8
+MD5sum: f91965be0488f6ebce2e59c00b55e35d
+Description: Load-balanced unspoofable packet switching network
+ I2P is an anonymizing network, offering a simple layer that identity-sensitive
+ applications can use to securely communicate. All data is wrapped with several
+ layers of encryption, and the network is both distributed and dynamic, with no
+ trusted parties.
+ .
+ TrueType fonts (such as those provided in the package ttf-dejavu) are required
+ in order to generate graphs.
+
+Package: libjbigi-jni
+Source: i2p
+Version: 0.9.23-2~deb7u+1
+Architecture: i386
+Bugs: mailto:killyourtv@i2pmail.org
+Maintainer: Kill Your TV <killyourtv@i2pmail.org>
+Installed-Size: 9
+Depends: libc6 (>= 2.1.3), libgmp10, i2p-router
+Homepage: http://www.i2p2.de/jbigi
+Priority: optional
+Section: java
+Filename: pool/main/i/i2p/libjbigi-jni_0.9.23-2~deb7u+1_i386.deb
+Size: 3704
+SHA256: d2586761e8f9bc896e8c80993b680d63522e99ac83531de7d69965c33c9b4a3c
+SHA1: ab8a27fa5557f8bac833532e9dc126cc73fcdbaa
+MD5sum: 92f72a83d837fd60ab33e7a16c145c21
+Description: Java Big Integer library
+ This Package contains the libjbigi JNI library (and on x86 platforms, jcpuid).
+ .
+ libjbigi is a math library that is part of the I2P installation.  Use of this
+ library greatly enhances the efficiency of cryptographic algorithms, such as
+ the ones used by I2P. You can expect to see a 5-7x speed improvement on certain
+ tasks, such as elGamal encryption/decryption.
+
