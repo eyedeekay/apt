@@ -1,0 +1,46 @@
+Package: i2p-keyring
+Format: 1.0
+Binary: i2p-keyring
+Architecture: all
+Version: 2021.09.10
+Maintainer: zzz on i2p <zzz@i2pmail.org>
+Standards-Version: 3.9.4
+Build-Depends: debhelper (>= 7), gnupg
+Package-List:
+ i2p-keyring deb misc extra arch=all
+Priority: extra
+Section: misc
+Directory: pool/main/i/i2p-keyring
+Files: 
+ e254eb97dbaa66063a9590b410ffe528 1420 i2p-keyring_2021.09.10.dsc
+ 71879aeba3965926985444ab59e95cc2 17674 i2p-keyring_2021.09.10.tar.gz
+Checksums-Sha1: 
+ ac31da47afdf11c499614fecacecc53013cf633c 1420 i2p-keyring_2021.09.10.dsc
+ a6d9100f97e9e35a36f0a51e91758ebcce8d8331 17674 i2p-keyring_2021.09.10.tar.gz
+Checksums-Sha256: 
+ 2fe81fdeb4ff372dbeac2e308adf9cd9d428cfdaeecb667f322662d4cac62cb5 1420 i2p-keyring_2021.09.10.dsc
+ 4587489367f41dd44d8850c9051ae82a5d7cc143370092b3fd865275ba36cbb4 17674 i2p-keyring_2021.09.10.tar.gz
+
+Package: killyourtv-keyring
+Format: 1.0
+Binary: killyourtv-keyring
+Architecture: all
+Version: 2015.03.27.1
+Maintainer: Kill Your TV <killyourtv@i2pmail.org>
+Standards-Version: 3.9.4
+Build-Depends: debhelper (>= 7), gnupg
+Package-List:
+ killyourtv-keyring deb misc extra
+Priority: extra
+Section: misc
+Directory: pool/main/k/killyourtv-keyring
+Files: 
+ 625ea7157f6826b60236df8307bff022 1442 killyourtv-keyring_2015.03.27.1.dsc
+ 2b5892730416751d4a2298d3ec79ca12 13400 killyourtv-keyring_2015.03.27.1.tar.gz
+Checksums-Sha1: 
+ 7b24272fa8c407117858cc067d6164ad69808950 1442 killyourtv-keyring_2015.03.27.1.dsc
+ 383a29ea8d4fcf731b0e4d86aaf58f14a5e139c6 13400 killyourtv-keyring_2015.03.27.1.tar.gz
+Checksums-Sha256: 
+ 42fd9d5311ee892a41bfd0b356edd154fbddcc1d8223e2ed474620dc64d57334 1442 killyourtv-keyring_2015.03.27.1.dsc
+ 119c718865bb85becc3c35d1e1bb94dcf3c8cd4173be8e7ad64063248599537a 13400 killyourtv-keyring_2015.03.27.1.tar.gz
+
