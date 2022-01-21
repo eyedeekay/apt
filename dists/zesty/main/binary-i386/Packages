@@ -1,0 +1,95 @@
+Package: i2p
+Priority: optional
+Section: net
+Installed-Size: 340
+Maintainer: zzz <zzz@i2pmail.org>
+Architecture: all
+Version: 0.9.33-1ubuntu1
+Depends: debconf (>= 0.5) | debconf-2.0, i2p-router (= 0.9.33-1ubuntu1), adduser, debconf, libjbigi-jni, lsb-base, service-wrapper
+Filename: pool/main/i/i2p/i2p_0.9.33-1ubuntu1_all.deb
+Size: 62480
+SHA256: 3910e28e7b33607fb1f16f24f35326d9cddb4f0a7126f1eddf5287cb13421869
+SHA1: ed4aa0fa0c98d352a6449eab0d9507a27f393a3d
+MD5sum: 1c4767cb89c0b997c2606926526b3402
+Description: Anonymous network (I2P)
+Description-md5: 8928f35d2fc881f87602ede2469309c0
+Bugs: mailto:zzz@i2pmail.org
+
+Package: i2p-doc
+Source: i2p
+Priority: extra
+Section: doc
+Installed-Size: 64830
+Maintainer: zzz <zzz@i2pmail.org>
+Architecture: all
+Version: 0.9.33-1ubuntu1
+Suggests: i2p, default-jdk-doc
+Filename: pool/main/i/i2p/i2p-doc_0.9.33-1ubuntu1_all.deb
+Size: 2624334
+SHA256: 763c17f2092fa7a7bf55b8e198975ffe13d904016ae74cd05b14c26bf2180223
+SHA1: 22b3040973173ef1c532111d491660ff573fe2e6
+MD5sum: de80961ddf85dd117aa6dd3c5696edfc
+Description: I2P developer documentation
+Description-md5: d7f14013406adebd1d08800d7374b041
+Bugs: mailto:zzz@i2pmail.org
+
+Package: i2p-keyring
+Version: 2021.09.10
+Architecture: all
+Maintainer: zzz on i2p <zzz@i2pmail.org>
+Installed-Size: 28
+Depends: gnupg, coreutils (>= 7.4)
+Recommends: killyourtv-keyring
+Priority: extra
+Section: misc
+Filename: pool/main/i/i2p-keyring/i2p-keyring_2021.09.10_all.deb
+Size: 15004
+SHA256: 2ad24b3f7d54fadbfb69bc5fe6f7381267a900ac7e2a3079ba2fa812915cca41
+SHA1: 494bf1b78d1b1efbc1934ff76dfbffe421de44bf
+MD5sum: 7c42bf8099cbaa9bb4134ef976d48862
+Description: GnuPG keys of the I2P package repository
+ This package provides digital keys used for signing I2P's repositories.
+ Upon installation of this package, your APT trusted keyring will updated with
+ these keys. Upon removal of this package, the keys provided by this package
+ will be removed from the APT trusted keyring.
+
+Package: i2p-router
+Source: i2p
+Priority: optional
+Section: net
+Installed-Size: 12704
+Maintainer: zzz <zzz@i2pmail.org>
+Architecture: all
+Version: 0.9.33-1ubuntu1
+Recommends: libjbigi-jni, ttf-dejavu
+Replaces: i2p (<< 0.8.6-5)
+Suggests: apparmor, privoxy, syndie
+Depends: openjdk-9-jre-headless | openjdk-8-jre-headless | default-jre-headless | java9-runtime-headless | java8-runtime-headless, geoip-database, gettext-base, libgetopt-java, libjetty9-java, libtaglibs-standard-jstlel-java, libtomcat8-java
+Breaks: i2p (<< 0.8.6-5)
+Filename: pool/main/i/i2p/i2p-router_0.9.33-1ubuntu1_all.deb
+Size: 9115038
+SHA256: c10dbee3cc5062ad857f5a49d3f41c09303fb727ad60fc7152d196e2fbdaf73e
+SHA1: c209dfeb5522a6acebd3f635c665291e3dc316cc
+MD5sum: 4c4b6486b44cd53e428303fbcdcfc998
+Description: Router for I2P
+Description-md5: 6a3e86ed060e1d943f4b83865acc0a55
+Bugs: mailto:zzz@i2pmail.org
+
+Package: libjbigi-jni
+Source: i2p
+Priority: optional
+Section: java
+Installed-Size: 25
+Maintainer: zzz <zzz@i2pmail.org>
+Architecture: i386
+Version: 0.9.33-1ubuntu1
+Depends: i2p-router (= 0.9.33-1ubuntu1), libc6 (>= 2.4), libgmp10 (>= 2:5.0.5)
+Filename: pool/main/i/i2p/libjbigi-jni_0.9.33-1ubuntu1_i386.deb
+Size: 5398
+SHA256: e23abc1cb407d32d4f4ec52fb128af0af6da24880983e83de0572cf0ab472282
+SHA1: 149eab4217c7e3b8d10203cc38e778a13434a55c
+MD5sum: 1f292b89390a9c5f7fae6d914cd4652f
+Description: I2P libjbigi library
+Description-md5: d98ba584e7990f88e89129e1d5857186
+Bugs: mailto:zzz@i2pmail.org
+
