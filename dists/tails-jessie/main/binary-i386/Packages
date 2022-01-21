@@ -1,0 +1,101 @@
+Package: i2p
+Version: 0.9.23-2~deb8u+1
+Architecture: all
+Bugs: mailto:killyourtv@i2pmail.org
+Maintainer: Kill Your TV <killyourtv@i2pmail.org>
+Installed-Size: 126
+Depends: adduser, debconf, i2p-router (>= 0.8.6-5), libjbigi-jni, lsb-base, service-wrapper
+Homepage: https://geti2p.net
+Priority: optional
+Section: net
+Filename: pool/main/i/i2p/i2p_0.9.23-2~deb8u+1_all.deb
+Size: 36788
+SHA256: 4179f5ffcbfe72a93e0ed8bf4a5f2d8dcdddfbfd34bbf7b1f209aef04dc14ab7
+SHA1: 8c0fe5c04b16dc6b0f49908d563da67d902b916f
+MD5sum: 9a3b6f91a2d81f84cdf70f0d5e0d2480
+Description: Load-balanced unspoofable packet switching network
+ I2P is an anonymizing network, offering a simple layer that identity-sensitive
+ applications can use to securely communicate. All data is wrapped with several
+ layers of encryption, and the network is both distributed and dynamic, with no
+ trusted parties.
+ .
+ This package depends on the router, jbigi, the java service wrapper, and
+ includes support to run I2P as a daemon.
+
+Package: i2p-doc
+Source: i2p
+Version: 0.9.23-2~deb8u+1
+Architecture: all
+Bugs: mailto:killyourtv@i2pmail.org
+Maintainer: Kill Your TV <killyourtv@i2pmail.org>
+Installed-Size: 51070
+Suggests: i2p, default-jdk-doc
+Homepage: https://geti2p.net
+Priority: optional
+Section: doc
+Filename: pool/main/i/i2p/i2p-doc_0.9.23-2~deb8u+1_all.deb
+Size: 2209028
+SHA256: 761df5c0afb0a0114f89071cc588560dffc55489ba386f5789e257c0974732dc
+SHA1: 79d0e8c814eda0a6397696f6d83c545d907b1478
+MD5sum: 3dca85f7a75127fbdf9585981e8f9c78
+Description: Documentation for I2P
+ I2P is an anonymizing network, offering a simple layer that identity-sensitive
+ applications can use to securely communicate. All data is wrapped with several
+ layers of encryption, and the network is both distributed and dynamic, with no
+ trusted parties.
+ .
+ This package contains the Javadoc files.
+
+Package: i2p-router
+Source: i2p
+Version: 0.9.23-2~deb8u+1
+Architecture: all
+Bugs: mailto:killyourtv@i2pmail.org
+Maintainer: Kill Your TV <killyourtv@i2pmail.org>
+Installed-Size: 14715
+Depends: openjdk-8-jre-headless | openjdk-7-jre-headless | openjdk-6-jre-headless | default-jre-headless | java8-runtime-headless | java7-runtime-headless | java6-runtime-headless, libecj-java
+Recommends: libjbigi-jni, ttf-dejavu
+Suggests: tor, apparmor, i2p-messenger, i2phex, i2p-tahoe-lafs, imule, irc-client, itoopie, mail-client, mail-reader, news-reader, polipo, privoxy, robert, syndie, www-browser, xul-ext-torbutton
+Breaks: i2p (<< 0.8.6-5)
+Replaces: i2p (<< 0.8.6-5)
+Homepage: https://geti2p.net
+Priority: optional
+Section: net
+Filename: pool/main/i/i2p/i2p-router_0.9.23-2~deb8u+1_all.deb
+Size: 10945008
+SHA256: 931f31e7a238efce401e328234ebc8007476c714315eacaa0423d59edaa942bb
+SHA1: 8181e5e385c8a9ceb8642918d71489386b4c55ed
+MD5sum: c4e73a67a324c855ab90adea3c991bdf
+Description: Load-balanced unspoofable packet switching network
+ I2P is an anonymizing network, offering a simple layer that identity-sensitive
+ applications can use to securely communicate. All data is wrapped with several
+ layers of encryption, and the network is both distributed and dynamic, with no
+ trusted parties.
+ .
+ TrueType fonts (such as those provided in the package ttf-dejavu) are required
+ in order to generate graphs.
+
+Package: libjbigi-jni
+Source: i2p
+Version: 0.9.23-2~deb8u+1
+Architecture: i386
+Bugs: mailto:killyourtv@i2pmail.org
+Maintainer: Kill Your TV <killyourtv@i2pmail.org>
+Installed-Size: 11
+Depends: libc6 (>= 2.4), libgmp10, i2p-router
+Homepage: http://www.i2p2.de/jbigi
+Priority: optional
+Section: java
+Filename: pool/main/i/i2p/libjbigi-jni_0.9.23-2~deb8u+1_i386.deb
+Size: 3826
+SHA256: dbba8ac9dd8ab4c3bfc402ed61274389eb1b71cb71b9dbf9427ba3f61e4ce911
+SHA1: 8cdb280f8aafee8239e0cab55434c234b7c9187a
+MD5sum: 849bc06efb6f908e20fe2a198b523112
+Description: Java Big Integer library
+ This Package contains the libjbigi JNI library (and on x86 platforms, jcpuid).
+ .
+ libjbigi is a math library that is part of the I2P installation.  Use of this
+ library greatly enhances the efficiency of cryptographic algorithms, such as
+ the ones used by I2P. You can expect to see a 5-7x speed improvement on certain
+ tasks, such as elGamal encryption/decryption.
+
