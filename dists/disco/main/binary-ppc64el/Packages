@@ -1,0 +1,113 @@
+Package: i2p
+Priority: optional
+Section: net
+Installed-Size: 375
+Maintainer: zzz <zzz@i2pmail.org>
+Architecture: all
+Version: 0.9.46-1ubuntu1
+Depends: debconf (>= 0.5) | debconf-2.0, i2p-router (= 0.9.46-1ubuntu1), adduser, apparmor, debconf, libjbigi-jni, lsb-base, service-wrapper, ucf (>= 0.28)
+Filename: pool/main/i/i2p/i2p_0.9.46-1ubuntu1_all.deb
+Size: 67664
+SHA256: 95652169d8545a8afda9918d1a942a532144c474872298865da9475b15f3005c
+SHA1: 06760918579ef8884dfe64c21f23353960a69c07
+MD5sum: a9f75d2d50590558a17b99f94fe6a855
+Description: Invisible Internet Project (I2P) - anonymous network
+Description-md5: af30cb5729ed02b68be39b03bbe331bf
+Bugs: mailto:zzz@i2pmail.org
+
+Package: i2p-doc
+Source: i2p
+Priority: extra
+Section: doc
+Installed-Size: 81899
+Maintainer: zzz <zzz@i2pmail.org>
+Architecture: all
+Version: 0.9.46-1ubuntu1
+Suggests: i2p, default-jdk-doc
+Filename: pool/main/i/i2p/i2p-doc_0.9.46-1ubuntu1_all.deb
+Size: 3672288
+SHA256: edf41e452161021cbae1a992e944f35a4d25bc5c3787d71c9a0389676009d6f3
+SHA1: 90f85af8a79120383b629dd5ab8453bede01896c
+MD5sum: 120952df9f4ae267b9f24ba498d4feed
+Description: Invisible Internet Project (I2P) - developer documentation
+Description-md5: a38a3343330ab23e4039d143d8b57c15
+Bugs: mailto:zzz@i2pmail.org
+
+Package: i2p-keyring
+Version: 2021.09.10
+Architecture: all
+Maintainer: zzz on i2p <zzz@i2pmail.org>
+Installed-Size: 28
+Depends: gnupg, coreutils (>= 7.4)
+Recommends: killyourtv-keyring
+Priority: extra
+Section: misc
+Filename: pool/main/i/i2p-keyring/i2p-keyring_2021.09.10_all.deb
+Size: 15004
+SHA256: 2ad24b3f7d54fadbfb69bc5fe6f7381267a900ac7e2a3079ba2fa812915cca41
+SHA1: 494bf1b78d1b1efbc1934ff76dfbffe421de44bf
+MD5sum: 7c42bf8099cbaa9bb4134ef976d48862
+Description: GnuPG keys of the I2P package repository
+ This package provides digital keys used for signing I2P's repositories.
+ Upon installation of this package, your APT trusted keyring will updated with
+ these keys. Upon removal of this package, the keys provided by this package
+ will be removed from the APT trusted keyring.
+
+Package: i2p-router
+Source: i2p
+Priority: optional
+Section: net
+Installed-Size: 13805
+Maintainer: zzz <zzz@i2pmail.org>
+Architecture: all
+Version: 0.9.46-1ubuntu1
+Recommends: libjbigi-jni
+Replaces: i2p (<< 0.8.6-5)
+Suggests: apparmor, privoxy, syndie
+Depends: openjdk-14-jre-headless | openjdk-13-jre-headless | openjdk-12-jre-headless | openjdk-11-jre-headless | default-jre-headless | java14-runtime-headless | java13-runtime-headless | java12-runtime-headless | java11-runtime-headless, geoip-database, gettext-base, libgetopt-java, libjson-simple-java (<< 3), libjetty9-java (>= 9.4), libtaglibs-standard-jstlel-java, libtomcat9-java, famfamfam-flag-png, sensible-utils
+Breaks: i2p (<< 0.8.6-5)
+Filename: pool/main/i/i2p/i2p-router_0.9.46-1ubuntu1_all.deb
+Size: 10713312
+SHA256: 4e90e5bdf7aebfe51335c128652a86ae441b3d50d567f71169cbc9bcd608b612
+SHA1: bc3c7b054323c28361aa3acf815e564b1ef831de
+MD5sum: bfa56765d0590dc1f89d86fd9bc788cd
+Description: Invisible Internet Project (I2P) - Router
+Description-md5: b09b6523ae336da4c30a1d1deee14532
+Bugs: mailto:zzz@i2pmail.org
+
+Package: libjbigi-jni
+Source: i2p
+Priority: optional
+Section: java
+Installed-Size: 75
+Maintainer: zzz <zzz@i2pmail.org>
+Architecture: ppc64el
+Version: 0.9.46-1ubuntu1
+Depends: i2p-router (= 0.9.46-1ubuntu1), libc6 (>= 2.17), libgmp10 (>= 2:5.0.5)
+Filename: pool/main/i/i2p/libjbigi-jni_0.9.46-1ubuntu1_ppc64el.deb
+Size: 4796
+SHA256: 5a16b4f183ee9b75bf39a13f037a812cac20c7e4ff0416d0653b27cb95bc3aef
+SHA1: 7360c9337e381406a23136885fd82b320956807d
+MD5sum: 3f74844d0fc471dffa0c2733f43f4abe
+Description: Invisible Internet Project (I2P) - libjbigi library
+Description-md5: 9abc006aa799702ff868098881332bad
+Bugs: mailto:zzz@i2pmail.org
+
+Package: syndie
+Priority: extra
+Section: java
+Installed-Size: 4596
+Maintainer: Kill Your TV <killyourtv@i2pmail.org>
+Architecture: all
+Version: 1.107b-2ubuntu1
+Suggests: tor, freenet
+Depends: openjdk-9-jre | openjdk-8-jre | openjdk-7-jre | default-jre | java9-runtime | java8-runtime | java7-runtime, libswt-gtk-3-java, libhsqldb-java, i2p-router | i2p
+Enhances: i2p, i2p-router, tor
+Filename: pool/main/s/syndie/syndie_1.107b-2ubuntu1_all.deb
+Size: 4220986
+SHA256: ae476672797154ef6dc25137ddb81a7e45e283aa79870a41daba0e8de95b4f1e
+SHA1: 70296e8d4a5fc20a2315b73947b3c2314192b176
+MD5sum: 69056e17c771fb3c46543f8e06f26c0b
+Description: Syndie anonymous distributed forums
+Description-md5: 6ac3d9136577e5e981c1dbb49a9f93b2
+
