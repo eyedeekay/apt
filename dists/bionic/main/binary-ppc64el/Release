@@ -1,0 +1,4 @@
+Component: main
+Origin: I2P-PPA
+Architecture: ppc64el
+Description: Official I2P Bionic mirror
