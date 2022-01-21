@@ -1,0 +1,101 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Origin: I2P-PPA
+Codename: yakkity
+Date: Tue, 18 Oct 2016 14:36:58 UTC
+Architectures: i386 amd64
+Components: main
+Description: Official I2P Yakkity mirror
+MD5Sum:
+ d41d8cd98f00b204e9800998ecf8427e 0 main/binary-i386/Packages
+ 7029066c27ac6f5ef18d660d5741979a 20 main/binary-i386/Packages.gz
+ 4059d198768f9f8dc9372dc1c54bc3c3 14 main/binary-i386/Packages.bz2
+ 8dc5aea5b03dff8595f096f9e368e888 32 main/binary-i386/Packages.xz
+ 2c553588b726ffc32a2c77e69928a36e 23 main/binary-i386/Packages.lzma
+ e1190630e5a5ea702dd9bc6dca6a78ef 92 main/binary-i386/Release
+ d41d8cd98f00b204e9800998ecf8427e 0 main/binary-amd64/Packages
+ 7029066c27ac6f5ef18d660d5741979a 20 main/binary-amd64/Packages.gz
+ 4059d198768f9f8dc9372dc1c54bc3c3 14 main/binary-amd64/Packages.bz2
+ 8dc5aea5b03dff8595f096f9e368e888 32 main/binary-amd64/Packages.xz
+ 2c553588b726ffc32a2c77e69928a36e 23 main/binary-amd64/Packages.lzma
+ d2cbbde0a128e1c55bb3793922a3b173 93 main/binary-amd64/Release
+ d41d8cd98f00b204e9800998ecf8427e 0 main/source/Sources
+ 7029066c27ac6f5ef18d660d5741979a 20 main/source/Sources.gz
+ 4059d198768f9f8dc9372dc1c54bc3c3 14 main/source/Sources.bz2
+ 8dc5aea5b03dff8595f096f9e368e888 32 main/source/Sources.xz
+ 2c553588b726ffc32a2c77e69928a36e 23 main/source/Sources.lzma
+ 6487f3de5eebaa55fa796960d21a12d6 94 main/source/Release
+ 27d58e50709d18eb98859c77cca82b90 65 Contents-i386
+ 1fd31403618fd8b765b0738230f5a085 36 Contents-i386.gz
+ 9f413f218e87a1fc2d908fa6965571fd 59 Contents-i386.bz2
+ 27d58e50709d18eb98859c77cca82b90 65 Contents-amd64
+ 1fd31403618fd8b765b0738230f5a085 36 Contents-amd64.gz
+ 9f413f218e87a1fc2d908fa6965571fd 59 Contents-amd64.bz2
+SHA1:
+ da39a3ee5e6b4b0d3255bfef95601890afd80709 0 main/binary-i386/Packages
+ 46c6643f07aa7f6bfe7118de926b86defc5087c4 20 main/binary-i386/Packages.gz
+ 64a543afbb5f4bf728636bdcbbe7a2ed0804adc2 14 main/binary-i386/Packages.bz2
+ 9746882f4236fa1c3a8f86be2f1d9c46680c0b10 32 main/binary-i386/Packages.xz
+ 733e3f4328add9d8466c850ca5f86bcba2d36fc7 23 main/binary-i386/Packages.lzma
+ cc0d094f3d3f10743bb611db72660dac353f7bfa 92 main/binary-i386/Release
+ da39a3ee5e6b4b0d3255bfef95601890afd80709 0 main/binary-amd64/Packages
+ 46c6643f07aa7f6bfe7118de926b86defc5087c4 20 main/binary-amd64/Packages.gz
+ 64a543afbb5f4bf728636bdcbbe7a2ed0804adc2 14 main/binary-amd64/Packages.bz2
+ 9746882f4236fa1c3a8f86be2f1d9c46680c0b10 32 main/binary-amd64/Packages.xz
+ 733e3f4328add9d8466c850ca5f86bcba2d36fc7 23 main/binary-amd64/Packages.lzma
+ 3a6e47a865da8241d0a45b3bd0076b9f44f006fe 93 main/binary-amd64/Release
+ da39a3ee5e6b4b0d3255bfef95601890afd80709 0 main/source/Sources
+ 46c6643f07aa7f6bfe7118de926b86defc5087c4 20 main/source/Sources.gz
+ 64a543afbb5f4bf728636bdcbbe7a2ed0804adc2 14 main/source/Sources.bz2
+ 9746882f4236fa1c3a8f86be2f1d9c46680c0b10 32 main/source/Sources.xz
+ 733e3f4328add9d8466c850ca5f86bcba2d36fc7 23 main/source/Sources.lzma
+ bacdd67e4228eeb91118bac8e13d8c14f4ce55c3 94 main/source/Release
+ fae4412e63f2f45c1e651dbd256890008330cf4b 65 Contents-i386
+ 971e263d7f444314afabcbf4a73376a4dba3b2e5 36 Contents-i386.gz
+ 76ce397cd7bc6d3e1c0bd2e4fe00883f7588beb2 59 Contents-i386.bz2
+ fae4412e63f2f45c1e651dbd256890008330cf4b 65 Contents-amd64
+ 971e263d7f444314afabcbf4a73376a4dba3b2e5 36 Contents-amd64.gz
+ 76ce397cd7bc6d3e1c0bd2e4fe00883f7588beb2 59 Contents-amd64.bz2
+SHA256:
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/binary-i386/Packages
+ 59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 main/binary-i386/Packages.gz
+ d3dda84eb03b9738d118eb2be78e246106900493c0ae07819ad60815134a8058 14 main/binary-i386/Packages.bz2
+ 0040f94d11d0039505328a90b2ff48968db873e9e7967307631bf40ef5679275 32 main/binary-i386/Packages.xz
+ b8d8686989e9c36d659dddb4f0c7e800c778cf973adf59fc3e1022bfeaac4874 23 main/binary-i386/Packages.lzma
+ 38f4ca1c1666ab595e7329378dc47b86ad57bd8537ba76b82bfcc7df0063490c 92 main/binary-i386/Release
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/binary-amd64/Packages
+ 59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 main/binary-amd64/Packages.gz
+ d3dda84eb03b9738d118eb2be78e246106900493c0ae07819ad60815134a8058 14 main/binary-amd64/Packages.bz2
+ 0040f94d11d0039505328a90b2ff48968db873e9e7967307631bf40ef5679275 32 main/binary-amd64/Packages.xz
+ b8d8686989e9c36d659dddb4f0c7e800c778cf973adf59fc3e1022bfeaac4874 23 main/binary-amd64/Packages.lzma
+ c5f31d580b4308b4a8f815f428ccde016017380b1e14a998053e63294349d006 93 main/binary-amd64/Release
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/source/Sources
+ 59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 main/source/Sources.gz
+ d3dda84eb03b9738d118eb2be78e246106900493c0ae07819ad60815134a8058 14 main/source/Sources.bz2
+ 0040f94d11d0039505328a90b2ff48968db873e9e7967307631bf40ef5679275 32 main/source/Sources.xz
+ b8d8686989e9c36d659dddb4f0c7e800c778cf973adf59fc3e1022bfeaac4874 23 main/source/Sources.lzma
+ 8bc7ba02375eb4e9d17959fdfb7037f922dd1181c9b42ac397145d209264157e 94 main/source/Release
+ cf13e85fc3cdf7bc0182ba23034b735b2544edbc0074dcbe617974164ae3be9f 65 Contents-i386
+ 44818733e04c03289b19184fc4f4d7cd61e9496fd94bc254744cd5c7d10c2ab6 36 Contents-i386.gz
+ ca775561e75f27bc51a8f4324f70cd59bdfead1c6edb14d934cf964d6e2b94cf 59 Contents-i386.bz2
+ cf13e85fc3cdf7bc0182ba23034b735b2544edbc0074dcbe617974164ae3be9f 65 Contents-amd64
+ 44818733e04c03289b19184fc4f4d7cd61e9496fd94bc254744cd5c7d10c2ab6 36 Contents-amd64.gz
+ ca775561e75f27bc51a8f4324f70cd59bdfead1c6edb14d934cf964d6e2b94cf 59 Contents-amd64.bz2
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1.4.11 (GNU/Linux)
+
+iQIcBAEBCgAGBQJYBjOKAAoJEGfs5WBbzxNGcogP/1yvhvk26a66lzKizSPQnlI6
+BpAbvB+qVJRVSlg8UG1+NPtfPqn/PF9K57ETpvHrxBriyV94YbZWL0NKYJAbD3X5
+W4sjkuFGZ7SbRbWUL9bBVz4bEr2W5gj6W6vjJtY9Q2S0JSo8t8j9L3L6pc5rTFxr
+0jFhCQeua/UjcMrNKGYeREWWjfPxOOOxXENmZD9L20d5AMAqiZ8Mxia0A9smwzFL
+/wIxta+CL1iO+DokhJT1RX81OyJNM4ZsL/KbcwX9Z+YtVVmmN2mcUqR9TM7/5zoz
+eW4CqIqBVXe+k50X8n0HXl8poyYrmZlK+pWMKOR86VC3p0iGlAdY7+7W3ednbHc6
+Z+C85Tbr/cQp6LveKVUgTr3x+4Fp0/FMP3VlW4euFO3B7cNjeorKYcg7R0Jqh7lX
+WgWB+OW0/7ABzGgpwsJSf8Vq6eRIZE6LAydrgOtdZwWNGeCCELbl9FqnaT90sJZm
+7/Qn3Ry3HloD3hFft6QQjFFGSLH/n/+8MOHWd4Ews0hMAaBRiniDPfCT+4gmQy6h
+L7PTDdIIttaXGsutYYiH5S6OtohaCMzliteKS4gZp1s85s3/WlvYAIEs7W8UwY1B
+xcwJgJAb2pGJBSm9JxcpbUYWQ/X7AtgfMuNTUZSZ50Lp1L43SqHS6U4VNn1dGjvN
+bD57hLNmRmzIXwiF5cst
+=O3Y7
+-----END PGP SIGNATURE-----
