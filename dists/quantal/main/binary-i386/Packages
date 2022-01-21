@@ -1,0 +1,176 @@
+Package: anoncoin-qt
+Source: anoncoin
+Priority: optional
+Section: utils
+Installed-Size: 6615
+Maintainer: Kill Your TV <killyourtv@i2pmail.org>
+Architecture: i386
+Version: 0.8.5.6-1ubuntu1~quantal1
+Recommends: i2p | i2p-router, tor
+Suggests: db-util
+Depends: libboost-filesystem1.49.0 (>= 1.49.0-1), libboost-program-options1.49.0 (>= 1.49.0-1), libboost-system1.49.0 (>= 1.49.0-1), libboost-thread1.49.0 (>= 1.49.0-1), libc6 (>= 2.15), libdb5.1++, libgcc1 (>= 1:4.1.1), libminiupnpc8 (>= 1.6), libqrencode3 (>= 3.2.0), libqt4-dbus (>= 4:4.5.3), libqt4-network (>= 4:4.5.3), libqtcore4 (>= 4:4.8.0), libqtgui4 (>= 4:4.8.0), libssl1.0.0 (>= 1.0.0), libstdc++6 (>= 4.6)
+Filename: pool/main/a/anoncoin/anoncoin-qt_0.8.5.6-1ubuntu1~quantal1_i386.deb
+Size: 1998658
+SHA256: 65a30fbb0a4d81ee36027d67a4f10bc467230f82df8f91b26b3d7fd08776b5ed
+SHA1: ca32ce5b5dc45d8f88f0980130df380847557dc5
+MD5sum: 772e20cdb810d40e3cdbf9be8b23426e
+Description: peer-to-peer network based digital currency - Qt GUI
+ Anoncoin is a free open source peer-to-peer electronic cash system that
+ is completely decentralized, without the need for a central server or
+ trusted parties.  Users hold the crypto keys to their own money and
+ transact directly with each other, with the help of a P2P network to
+ check for double-spending. Anoncoin is a fork of Bitcoin.
+ .
+ Full transaction history is stored locally at each client.
+ This requires 200 MB+ of space, slowly growing.
+ .
+ This package provides Anoncoin-Qt, a GUI for Anoncoin based on Qt.
+
+Package: anoncoind
+Source: anoncoin
+Priority: optional
+Section: utils
+Installed-Size: 3303
+Maintainer: Kill Your TV <killyourtv@i2pmail.org>
+Architecture: i386
+Version: 0.8.5.6-1ubuntu1~quantal1
+Recommends: i2p | i2p-router, tor
+Suggests: db-util
+Depends: libboost-filesystem1.49.0 (>= 1.49.0-1), libboost-program-options1.49.0 (>= 1.49.0-1), libboost-system1.49.0 (>= 1.49.0-1), libboost-thread1.49.0 (>= 1.49.0-1), libc6 (>= 2.15), libdb5.1++, libgcc1 (>= 1:4.1.1), libminiupnpc8 (>= 1.6), libssl1.0.0 (>= 1.0.0), libstdc++6 (>= 4.6)
+Filename: pool/main/a/anoncoin/anoncoind_0.8.5.6-1ubuntu1~quantal1_i386.deb
+Size: 855554
+SHA256: 9a0b60c5e3d08d614c54677bb709cc502eff8f53593e4172b9f5731990fcde13
+SHA1: a377561fe3924aa05aaf7c1d2c41f0c957a5b11e
+MD5sum: 5b3449d590efe61bb0396a0cd32e6350
+Description: peer-to-peer network based digital currency - daemon
+ Anoncoin is a free open source peer-to-peer electronic cash system that
+ is completely decentralized, without the need for a central server or
+ trusted parties.  Users hold the crypto keys to their own money and
+ transact directly with each other, with the help of a P2P network to
+ check for double-spending. Anoncoin is a fork of Bitcoin.
+ .
+ Full transaction history is stored locally at each client.
+ This requires 200 MB+ of space, slowly growing.
+ .
+ This package provides anoncoind, a combined daemon and CLI tool to
+ interact with the daemon.
+
+Package: libservice-wrapper-doc
+Source: service-wrapper-java
+Priority: optional
+Section: doc
+Installed-Size: 1970
+Maintainer: Kill Your TV <killyourtv@i2pmail.org>
+Architecture: all
+Version: 3.5.22-1~quantal1
+Filename: pool/main/s/service-wrapper-java/libservice-wrapper-doc_3.5.22-1~quantal1_all.deb
+Size: 233898
+SHA256: f192d91e39e8fe527dee491baabc7643f12baf3fef509b4b7e8ebf977d543bf5
+SHA1: 15e0fd122dd946c609bf8b9a7a8446a449f7402f
+MD5sum: aad1bff7bc75f10a8e1ef4b8e1aab84c
+Description: Jar daemon wrapper (javadoc files)
+ The Java Service Wrapper makes very easy to install a Java Application as a
+ daemon process on Unix systems. The Wrapper monitors a JVM (Java Virtual
+ Machine) process and automatically restarts it if it that the JVM has crashed
+ or hung. This process takes just a few seconds once the Wrapper has decided
+ there is a problem. It also gives the ability to handle process priority.
+ .
+ This package contains the javadoc files.
+
+Package: libservice-wrapper-java
+Source: service-wrapper-java
+Priority: optional
+Section: java
+Installed-Size: 259
+Maintainer: Kill Your TV <killyourtv@i2pmail.org>
+Architecture: all
+Version: 3.5.22-1~quantal1
+Depends: service-wrapper
+Filename: pool/main/s/service-wrapper-java/libservice-wrapper-java_3.5.22-1~quantal1_all.deb
+Size: 216094
+SHA256: c9f3df99c6ddcd451d63b2f39f91559b51b01f845fa6a71e58fe8ab6897887de
+SHA1: c4afed4c80aee5af31ee3ab48974a398acf71823
+MD5sum: 298600b267c32e69cfb58b9c20ceabcf
+Description: Jar daemon wrapper java libraries
+ This Package contains the Java jar libraries used by the Java Service Wrapper.
+ It can be used to handle wrapper specific attributes.
+ .
+ The Java Service Wrapper makes very easy to install a Java Application as a
+ daemon process on Unix systems. The Wrapper monitors a JVM (Java Virtual
+ Machine) process and automatically restarts it if it that the JVM has crashed
+ or hung. This process takes just a few seconds once the Wrapper has decided
+ there is a problem. It also gives the ability to handle process priority.
+
+Package: libservice-wrapper-jni
+Source: service-wrapper-java
+Priority: optional
+Section: java
+Installed-Size: 66
+Maintainer: Kill Your TV <killyourtv@i2pmail.org>
+Architecture: i386
+Version: 3.5.22-1~quantal1
+Suggests: libservice-wrapper-doc
+Depends: libc6 (>= 2.4), service-wrapper, default-jre-headless | java5-runtime-headless | java6-runtime-headless
+Filename: pool/main/s/service-wrapper-java/libservice-wrapper-jni_3.5.22-1~quantal1_i386.deb
+Size: 15498
+SHA256: ec7e3dc8ae59356888768b2fa44fa0d984ec21845b2cfaea7b6671e0bcaec708
+SHA1: 942a42fc7bd686f0ffb7e5a5990cda197ea65324
+MD5sum: 1118326d0862f8914e4e4a8e72224d03
+Description: Jar daemon wrapper JNI libraries
+ This Package contains the JNI libraries used by the Java Service Wrapper.
+ .
+ The Java Service Wrapper makes very easy to install a Java Application as a
+ daemon process on Unix systems. The Wrapper monitors a JVM (Java Virtual
+ Machine) process and automatically restarts it if it that the JVM has crashed
+ or hung. This process takes just a few seconds once the Wrapper has decided
+ there is a problem. It also gives the ability to handle process priority.
+
+Package: service-wrapper
+Source: service-wrapper-java
+Priority: optional
+Section: java
+Installed-Size: 406
+Maintainer: Kill Your TV <killyourtv@i2pmail.org>
+Architecture: i386
+Version: 3.5.22-1~quantal1
+Depends: libc6 (>= 2.4), libservice-wrapper-java (>= 3.5.22-1~quantal1), libservice-wrapper-jni (>= 3.5.22-1~quantal1)
+Filename: pool/main/s/service-wrapper-java/service-wrapper_3.5.22-1~quantal1_i386.deb
+Size: 168204
+SHA256: 964aea908e1bede212bd894ead46f790800101eb4516517977bf85ce6766bd92
+SHA1: e79ac0ba4d7752042c096463c0c9127aa52446f6
+MD5sum: fde4ae6e15c55ae1a5085974b97d7285
+Description: Jar daemon wrapper
+ The Java Service Wrapper makes very easy to install a Java Application as a
+ daemon process on Unix systems. The Wrapper monitors a JVM (Java Virtual
+ Machine) process and automatically restarts it if it that the JVM has crashed
+ or hung. This process takes just a few seconds once the Wrapper has decided
+ there is a problem. It also gives the ability to handle process priority.
+
+Package: syndie
+Priority: extra
+Section: java
+Installed-Size: 5834
+Maintainer: Kill Your TV <killyourtv@i2pmail.org>
+Architecture: all
+Version: 1.105b-1ubuntu1
+Suggests: tor, freenet
+Depends: default-jre | java5-runtime | java6-runtime, libswt-cairo-gtk-3-jni, libswt-gtk-3-java, i2p-router | i2p, jarwrapper
+Enhances: i2p, i2p-router, tor
+Filename: pool/main/s/syndie/syndie_1.105b-1ubuntu1_all.deb
+Size: 5482090
+SHA256: 7c1ce9b59a4bb5bc8e9c25c27b5d5acdadc47b60a953a869037e89f4500bf1df
+SHA1: 3b5a1733f091c985c457f005ba880ecc5a710613
+MD5sum: f419a375724ea60c96fad80ead626f42
+Description: open source system for operating distributed forums
+ Syndie is java-based open source system for operating secure distributed
+ forums.
+ .
+ Some of the features include:
+ - Decentralized forums
+ - Private forums
+ - Offline browsing
+ - Secure reader
+ .
+ At its core, Syndie is a content layer with a defined file format and
+ cryptographic algorithms.
+
