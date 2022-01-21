@@ -1,0 +1,4 @@
+Name: incoming
+IncomingDir: /var/www/debian/incoming
+TempDir: /var/tmp/i2p
+Allow: experimental>experimental unstable>sid stable>stable oldstable>wheezy stable>jessie tails-experimental>tails-experimental
