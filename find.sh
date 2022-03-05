@@ -1,1 +1,1 @@
-find ./dists -type f -exec ./add.sh {} \;
+find ./dists -type f -name 'Contents*' -exec ./add.sh {} \;
