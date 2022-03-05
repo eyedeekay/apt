@@ -20,6 +20,8 @@ For Ubuntu, we recommend <a href="https://launchpad.net/~i2p-maintainers/+archiv
 <h2>News</h2>
 <!-- newest first please -->
 <ul>
+<li><b>2022-03-03</b> Fixed the architecture listings below for libjbigi-jni.
+<li><b>2022-02-22</b> I2P 1.7.0 release added to all repos.
 <li><b>2021-11-30</b> I2P 1.6.1 release added to all repos.
 <li><b>2021-10-23</b> Jammy repo added.
 <li><b>2021-09-10</b> Repository signing key updated; Bookworm repo added; stable/oldstable links updated.
@@ -196,31 +198,30 @@ echo "<hr style=\"width:75%\">";
 echo "<h2 id=\"bullseye\" style=\"text-align:center\">Packages in Bullseye (Debian stable)</h2>";
 parse_and_list(
   Array("dists/bullseye/main/binary-i386/Packages.gz",
-  "dists/bullseye/main/binary-amd64/Packages.gz"),
-  "dists/bullseye/main/binary-armel/Packages.gz",
+  "dists/bullseye/main/binary-amd64/Packages.gz",
   "dists/bullseye/main/binary-armhf/Packages.gz",
   "dists/bullseye/main/binary-arm64/Packages.gz",
   "dists/bullseye/main/binary-ppc64el/Packages.gz",
-  "dists/bullseye/main/binary-s390x/Packages.gz",
+  "dists/bullseye/main/binary-s390x/Packages.gz"),
   "dists/bullseye/main/source/Sources.gz");
 
 echo "<h2 id=\"buster\" style=\"text-align:center\">Packages in Buster (Debian old stable)</h2>";
 parse_and_list(
   Array("dists/buster/main/binary-i386/Packages.gz",
-  "dists/buster/main/binary-amd64/Packages.gz"),
+  "dists/buster/main/binary-amd64/Packages.gz",
   "dists/buster/main/binary-armel/Packages.gz",
   "dists/buster/main/binary-armhf/Packages.gz",
   "dists/buster/main/binary-arm64/Packages.gz",
   "dists/buster/main/binary-ppc64el/Packages.gz",
-  "dists/buster/main/binary-s390x/Packages.gz",
+  "dists/buster/main/binary-s390x/Packages.gz"),
   "dists/buster/main/source/Sources.gz");
 
 echo "<h2 id=\"stretch\" style=\"text-align:center\">Packages in Stretch (Debian old old stable)</h2>";
 parse_and_list(
   Array("dists/stretch/main/binary-i386/Packages.gz",
-  "dists/stretch/main/binary-amd64/Packages.gz"),
+  "dists/stretch/main/binary-amd64/Packages.gz",
   "dists/stretch/main/binary-armel/Packages.gz",
-  "dists/stretch/main/binary-armhf/Packages.gz",
+  "dists/stretch/main/binary-armhf/Packages.gz"),
   "dists/stretch/main/source/Sources.gz");
 
 echo "<h2 id=\"jessie\" style=\"text-align:center\">Packages in Jessie (Debian's old old old stable distribution, released 2015-04-25)</h2>";
@@ -246,9 +247,9 @@ echo "<hr style=\"width:75%\">";
 echo "<h2 id=\"sid\" style=\"text-align:center\">Packages in Unstable (sid)</h2>";
 parse_and_list(
   Array("dists/unstable/main/binary-i386/Packages.gz",
-  "dists/unstable/main/binary-amd64/Packages.gz"),
+  "dists/unstable/main/binary-amd64/Packages.gz",
   "dists/unstable/main/binary-armel/Packages.gz",
-  "dists/unstable/main/binary-armhf/Packages.gz",
+  "dists/unstable/main/binary-armhf/Packages.gz"),
   "dists/unstable/main/source/Sources.gz");
 
 ?>

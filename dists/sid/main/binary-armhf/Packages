@@ -1,16 +1,16 @@
 Package: i2p
 Priority: optional
 Section: net
-Installed-Size: 379
+Installed-Size: 384
 Maintainer: zzz <zzz@i2pmail.org>
 Architecture: all
-Version: 1.6.1-1ubuntu1
-Depends: debconf (>= 0.5) | debconf-2.0, i2p-router (= 1.6.1-1ubuntu1), adduser, apparmor, debconf, libjbigi-jni, lsb-base, service-wrapper, ucf (>= 0.28)
-Filename: pool/main/i/i2p/i2p_1.6.1-1ubuntu1_all.deb
-Size: 69600
-SHA256: c7300a29a684ee721f4c4ed99641d5624f76ce1299d49a432ac571aef762c252
-SHA1: 7e1b449fbab8fec8af907a257b0e6b5cde62a188
-MD5sum: 52333e69c8da9790d193c14fab167424
+Version: 1.7.0-1ubuntu1
+Depends: debconf (>= 0.5) | debconf-2.0, i2p-router (= 1.7.0-1ubuntu1), adduser, apparmor, debconf, libjbigi-jni, lsb-base, service-wrapper, ucf (>= 0.28)
+Filename: pool/main/i/i2p/i2p_1.7.0-1ubuntu1_all.deb
+Size: 71048
+SHA256: 009078ce419858182b9c1fd109b7f52c7c3aee1d4e78f09365ba025ed997a29e
+SHA1: e9e59100b66862ec9a7e1d64b729d61322c9b2be
+MD5sum: a518cbf56b8e85a6d7d6e69b40a5c3c9
 Description: Invisible Internet Project (I2P) - anonymous network
  I2P is an anonymizing network, offering a simple layer that identity-sensitive
  applications can use to securely communicate. All data is wrapped with several
@@ -25,16 +25,16 @@ Package: i2p-doc
 Source: i2p
 Priority: extra
 Section: doc
-Installed-Size: 84844
+Installed-Size: 84837
 Maintainer: zzz <zzz@i2pmail.org>
 Architecture: all
-Version: 1.6.1-1ubuntu1
+Version: 1.7.0-1ubuntu1
 Suggests: i2p, default-jdk-doc
-Filename: pool/main/i/i2p/i2p-doc_1.6.1-1ubuntu1_all.deb
-Size: 3809080
-SHA256: 6d3eaedcc1bb86df2b23070ee3dc3f219d338ec76ba75f9a50d9b516be61a61e
-SHA1: 18c582472d0a614723366e2ea4861ee226b40477
-MD5sum: 280718deb45cfef052f6abc0da71ebe1
+Filename: pool/main/i/i2p/i2p-doc_1.7.0-1ubuntu1_all.deb
+Size: 3815584
+SHA256: c929114f8cec7a791242aad4ae11af1654227ef95d12379e6f2a10c02d82372d
+SHA1: f4fab5534b4f18e889147f02724ffb9fe57e514e
+MD5sum: 4213e47f440d734fe061b8550c9e0796
 Description: Invisible Internet Project (I2P) - developer documentation
  I2P is an anonymizing network, offering a simple layer that identity-sensitive
  applications can use to securely communicate. All data is wrapped with several
@@ -68,20 +68,20 @@ Package: i2p-router
 Source: i2p
 Priority: optional
 Section: net
-Installed-Size: 12926
+Installed-Size: 12967
 Maintainer: zzz <zzz@i2pmail.org>
 Architecture: all
-Version: 1.6.1-1ubuntu1
+Version: 1.7.0-1ubuntu1
 Recommends: libjbigi-jni
 Replaces: i2p (<< 0.8.6-5)
 Suggests: apparmor, privoxy, syndie
-Depends: openjdk-17-jre-headless | openjdk-16-jre-headless | openjdk-15-jre-headless | openjdk-11-jre-headless | default-jre-headless | java17-runtime-headless | java16-runtime-headless | java15-runtime-headless | java11-runtime-headless, geoip-database, gettext-base, libgetopt-java, libjson-simple-java (>= 2), libjson-simple-java (<< 3), libjetty9-java (>= 9.4), libtaglibs-standard-jstlel-java, libtomcat9-java, famfamfam-flag-png, sensible-utils
+Depends: openjdk-17-jre-headless | openjdk-16-jre-headless | openjdk-15-jre-headless | openjdk-11-jre-headless | default-jre-headless | java17-runtime-headless | java16-runtime-headless | java15-runtime-headless | java11-runtime-headless, geoip-database, gettext-base, libgetopt-java, libjson-simple-java (>= 2), libjson-simple-java (<< 3), libjetty9-java (>= 9.4), libservlet3.1-java, libtaglibs-standard-jstlel-java, libtomcat9-java, famfamfam-flag-png, sensible-utils
 Breaks: i2p (<< 0.8.6-5)
-Filename: pool/main/i/i2p/i2p-router_1.6.1-1ubuntu1_all.deb
-Size: 11069256
-SHA256: 6d254f62093638c0806f6272653902b043c0eb526e575cb23269930b54aa293d
-SHA1: 1847c6b449363fc1d6d1299a31ef20c8378eb863
-MD5sum: 1cd72e339f55e9e2f1c20cfee0b085bd
+Filename: pool/main/i/i2p/i2p-router_1.7.0-1ubuntu1_all.deb
+Size: 11104696
+SHA256: bfd444064c664030bb7c0856751ee94b74e64fc20c8334548aab01baf328daab
+SHA1: d4c93aed6b6b5ba31bc7322d6bcb6c9804313d63
+MD5sum: 813ab5a528680f41fd7165c9a4da9d6b
 Description: Invisible Internet Project (I2P) - Router
  I2P is an anonymizing network, offering a simple layer that identity-sensitive
  applications can use to securely communicate. All data is wrapped with several
@@ -112,16 +112,16 @@ Package: libjbigi-jni
 Source: i2p
 Priority: optional
 Section: java
-Installed-Size: 285
+Installed-Size: 287
 Maintainer: zzz <zzz@i2pmail.org>
 Architecture: armhf
-Version: 1.6.1-1ubuntu1
+Version: 1.7.0-1ubuntu1
 Depends: libc6 (>= 2.4), libgmp10 (>= 2:5.0.5), i2p-router
-Filename: pool/main/i/i2p/libjbigi-jni_1.6.1-1ubuntu1_armhf.deb
-Size: 268040
-SHA256: f4a815e211232ea8894275262781e15b973176cd1858a520459e8ccd94a0d786
-SHA1: 4c2a72c09306878d941e596f1fc4457cba63183a
-MD5sum: 5f5591a8ee0181e4b9377163a0a36a38
+Filename: pool/main/i/i2p/libjbigi-jni_1.7.0-1ubuntu1_armhf.deb
+Size: 269296
+SHA256: a2e0ae8d85a7bc76e1d9b08deb73196f108651b797d145cbc6e578f7ad7410b8
+SHA1: 7430794898de8c4e69f4ced8d4191bfa1d38cdef
+MD5sum: 1f02f7ffbf27640b4b94dbd87b89a111
 Description: Invisible Internet Project (I2P) - libjbigi library
  This Package contains the libjbigi JNI library (and on x86 platforms, jcpuid).
  .

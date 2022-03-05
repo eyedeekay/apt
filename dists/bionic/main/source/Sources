@@ -1,25 +1,25 @@
 Package: i2p
 Binary: i2p, libjbigi-jni, i2p-doc, i2p-router
-Version: 1.6.1-1~bionic+1
+Version: 1.7.0-1~bionic+1
 Section: net
 Maintainer: zzz <zzz@i2pmail.org>
-Build-Depends: debhelper (>= 9.20160709), ant (>= 1.9.8), debconf, openjdk-8-jdk, libjetty9-java (>= 9.4), libtaglibs-standard-jstlel-java, libtomcat9-java, dh-apparmor, bash-completion, gettext, libgetopt-java, libjson-simple-java (>= 2), libjson-simple-java (<< 3), libgmp-dev (>= 2:5.0.5), libservice-wrapper-java, po-debconf
+Build-Depends: debhelper (>= 9.20160709), ant (>= 1.9.8), debconf, openjdk-8-jdk, libjetty9-java (>= 9.4), libservlet3.1-java, libtaglibs-standard-jstlel-java, libtomcat9-java, dh-apparmor, bash-completion, gettext, libgetopt-java, libjson-simple-java (>= 2), libjson-simple-java (<< 3), libgmp-dev (>= 2:5.0.5), libservice-wrapper-java, po-debconf
 Architecture: any all
 Standards-Version: 3.9.8
 Format: 3.0 (quilt)
 Directory: pool/main/i/i2p
 Files: 
- eaa9e954f58c8422e56d7b10498d09b5 6791058 i2p_1.6.1.orig.tar.bz2
- 09df6d890754d238baa4979402399791 55980 i2p_1.6.1-1~bionic+1.debian.tar.xz
- 8fb4a7476525cd4eb8f55a30a7bb4a05 2125 i2p_1.6.1-1~bionic+1.dsc
+ 0c4d9d9086d1da4ba9cebd10d149d176 6806752 i2p_1.7.0.orig.tar.bz2
+ 50d2cedd837104e9125b0c247e0f479a 56540 i2p_1.7.0-1~bionic+1.debian.tar.xz
+ 23f6ad2295ef2418ed907298869faf6d 2145 i2p_1.7.0-1~bionic+1.dsc
 Checksums-Sha1: 
- 5211ab0587965a54eafdaed1576958e1453182f5 6791058 i2p_1.6.1.orig.tar.bz2
- 0e11cba45b426b7a42cea369626caf484d04b2e6 55980 i2p_1.6.1-1~bionic+1.debian.tar.xz
- 5b23e12013aca48ae924d3fec7606022e3ce3041 2125 i2p_1.6.1-1~bionic+1.dsc
+ e162266d6d9a540ec05202ec9f3c7724e888c222 6806752 i2p_1.7.0.orig.tar.bz2
+ f6bcc3b8dc9ece5119f90ba8b2e5752dabc902b1 56540 i2p_1.7.0-1~bionic+1.debian.tar.xz
+ cd60ad7ea8ca81ceb43c37ec9635c65bbdc5ed60 2145 i2p_1.7.0-1~bionic+1.dsc
 Checksums-Sha256: 
- b3bb692e3d9f83623a0e3893e918cb05810f39a5962a36ed574619bf630cec38 6791058 i2p_1.6.1.orig.tar.bz2
- 0346a4c0c55db1943cf1316ebef6581eebf5bde54eb686f0834890a57cf02a3a 55980 i2p_1.6.1-1~bionic+1.debian.tar.xz
- c1317b7080bbe316e394dd76a22c3818a0b335858e0ec420566616fe18c23054 2125 i2p_1.6.1-1~bionic+1.dsc
+ 83ceca0ed5ff68b780d8f800d0ecb46825ff29398209cb71fe283f1cf1b4b12e 6806752 i2p_1.7.0.orig.tar.bz2
+ c07d09f0ff1d783e7c393074ebac7a845cb7dcd70fe51f5541929a01f4484053 56540 i2p_1.7.0-1~bionic+1.debian.tar.xz
+ fc5649414f1678171c30779eec9d944aeb6be05e018698d7c596e755b10f49c8 2145 i2p_1.7.0-1~bionic+1.dsc
 Homepage: https://geti2p.net/
 Package-List: i2p deb net optional arch=all
  i2p-doc deb doc extra arch=all

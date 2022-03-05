@@ -26,7 +26,6 @@ usr/share/doc/i2p-router/changelog.gz	    net/i2p-router
 usr/share/doc/i2p-router/copyright	    net/i2p-router
 usr/share/doc/i2p-router/examples/scripts/i2pProxy.pac.gz	    net/i2p-router
 usr/share/doc/i2p-router/licenses/ABOUT-Jetty.html	    net/i2p-router
-usr/share/doc/i2p-router/licenses/COPYING-BOB.txt	    net/i2p-router
 usr/share/doc/i2p-router/licenses/LICENSE-Addressbook.txt	    net/i2p-router
 usr/share/doc/i2p-router/licenses/LICENSE-Apache2.0.txt	    net/i2p-router
 usr/share/doc/i2p-router/licenses/LICENSE-BSD.txt	    net/i2p-router
@@ -90,7 +89,7 @@ usr/share/i2p/certificates/plugin/str4d_at_mail.i2p.crt	    net/i2p-router
 usr/share/i2p/certificates/plugin/zab_at_mail.i2p.crt	    net/i2p-router
 usr/share/i2p/certificates/plugin/zzz-plugin_at_mail.i2p.crt	    net/i2p-router
 usr/share/i2p/certificates/reseed/creativecowpat_at_mail.i2p.crt	    net/i2p-router
-usr/share/i2p/certificates/reseed/echelon_at_mail.i2p.crt	    net/i2p-router
+usr/share/i2p/certificates/reseed/echelon3_at_mail.i2p.crt	    net/i2p-router
 usr/share/i2p/certificates/reseed/hankhill19580_at_gmail.com.crt	    net/i2p-router
 usr/share/i2p/certificates/reseed/hottuna_at_mail.i2p.crt	    net/i2p-router
 usr/share/i2p/certificates/reseed/igor_at_novg.net.crt	    net/i2p-router
@@ -100,7 +99,6 @@ usr/share/i2p/certificates/reseed/reseed_at_diva.exchange.crt	    net/i2p-router
 usr/share/i2p/certificates/router/echelon_at_mail.i2p.crt	    net/i2p-router
 usr/share/i2p/certificates/router/hankhill19580_at_gmail.com.crt	    net/i2p-router
 usr/share/i2p/certificates/router/zzz_at_mail.i2p.crt	    net/i2p-router
-usr/share/i2p/certificates/ssl/echelon.reseed2017.crt	    net/i2p-router
 usr/share/i2p/certificates/ssl/i2pseed.creativecowpat.net.crt	    net/i2p-router
 usr/share/i2p/certificates/ssl/isrgrootx1.crt	    net/i2p-router
 usr/share/i2p/docs/console.ico	    net/i2p-router
@@ -711,35 +709,6 @@ usr/share/i2p/docs/javadoc/net/i2p/I2PException.html	    doc/i2p-doc
 usr/share/i2p/docs/javadoc/net/i2p/package-summary.html	    doc/i2p-doc
 usr/share/i2p/docs/javadoc/net/i2p/package-tree.html	    doc/i2p-doc
 usr/share/i2p/docs/javadoc/net/i2p/package-use.html	    doc/i2p-doc
-usr/share/i2p/docs/javadoc/net/i2p/BOB/BOB.html	    doc/i2p-doc
-usr/share/i2p/docs/javadoc/net/i2p/BOB/DoCMDS.html	    doc/i2p-doc
-usr/share/i2p/docs/javadoc/net/i2p/BOB/I2Plistener.html	    doc/i2p-doc
-usr/share/i2p/docs/javadoc/net/i2p/BOB/I2PtoTCP.html	    doc/i2p-doc
-usr/share/i2p/docs/javadoc/net/i2p/BOB/Lifted.html	    doc/i2p-doc
-usr/share/i2p/docs/javadoc/net/i2p/BOB/Logger.html	    doc/i2p-doc
-usr/share/i2p/docs/javadoc/net/i2p/BOB/MUXlisten.html	    doc/i2p-doc
-usr/share/i2p/docs/javadoc/net/i2p/BOB/Main.html	    doc/i2p-doc
-usr/share/i2p/docs/javadoc/net/i2p/BOB/NamedDB.html	    doc/i2p-doc
-usr/share/i2p/docs/javadoc/net/i2p/BOB/TCPio.html	    doc/i2p-doc
-usr/share/i2p/docs/javadoc/net/i2p/BOB/TCPlistener.html	    doc/i2p-doc
-usr/share/i2p/docs/javadoc/net/i2p/BOB/TCPtoI2P.html	    doc/i2p-doc
-usr/share/i2p/docs/javadoc/net/i2p/BOB/UDPIOthread.html	    doc/i2p-doc
-usr/share/i2p/docs/javadoc/net/i2p/BOB/package-summary.html	    doc/i2p-doc
-usr/share/i2p/docs/javadoc/net/i2p/BOB/package-tree.html	    doc/i2p-doc
-usr/share/i2p/docs/javadoc/net/i2p/BOB/package-use.html	    doc/i2p-doc
-usr/share/i2p/docs/javadoc/net/i2p/BOB/class-use/BOB.html	    doc/i2p-doc
-usr/share/i2p/docs/javadoc/net/i2p/BOB/class-use/DoCMDS.html	    doc/i2p-doc
-usr/share/i2p/docs/javadoc/net/i2p/BOB/class-use/I2Plistener.html	    doc/i2p-doc
-usr/share/i2p/docs/javadoc/net/i2p/BOB/class-use/I2PtoTCP.html	    doc/i2p-doc
-usr/share/i2p/docs/javadoc/net/i2p/BOB/class-use/Lifted.html	    doc/i2p-doc
-usr/share/i2p/docs/javadoc/net/i2p/BOB/class-use/Logger.html	    doc/i2p-doc
-usr/share/i2p/docs/javadoc/net/i2p/BOB/class-use/MUXlisten.html	    doc/i2p-doc
-usr/share/i2p/docs/javadoc/net/i2p/BOB/class-use/Main.html	    doc/i2p-doc
-usr/share/i2p/docs/javadoc/net/i2p/BOB/class-use/NamedDB.html	    doc/i2p-doc
-usr/share/i2p/docs/javadoc/net/i2p/BOB/class-use/TCPio.html	    doc/i2p-doc
-usr/share/i2p/docs/javadoc/net/i2p/BOB/class-use/TCPlistener.html	    doc/i2p-doc
-usr/share/i2p/docs/javadoc/net/i2p/BOB/class-use/TCPtoI2P.html	    doc/i2p-doc
-usr/share/i2p/docs/javadoc/net/i2p/BOB/class-use/UDPIOthread.html	    doc/i2p-doc
 usr/share/i2p/docs/javadoc/net/i2p/addressbook/AddressBook.html	    doc/i2p-doc
 usr/share/i2p/docs/javadoc/net/i2p/addressbook/ConfigParser.html	    doc/i2p-doc
 usr/share/i2p/docs/javadoc/net/i2p/addressbook/Daemon.html	    doc/i2p-doc
@@ -772,8 +741,8 @@ usr/share/i2p/docs/javadoc/net/i2p/app/ClientApp.html	    doc/i2p-doc
 usr/share/i2p/docs/javadoc/net/i2p/app/ClientAppManager.html	    doc/i2p-doc
 usr/share/i2p/docs/javadoc/net/i2p/app/ClientAppManagerImpl.html	    doc/i2p-doc
 usr/share/i2p/docs/javadoc/net/i2p/app/ClientAppState.html	    doc/i2p-doc
+usr/share/i2p/docs/javadoc/net/i2p/app/NotificationService.html	    doc/i2p-doc
 usr/share/i2p/docs/javadoc/net/i2p/app/Outproxy.html	    doc/i2p-doc
-usr/share/i2p/docs/javadoc/net/i2p/app/ShellService.html	    doc/i2p-doc
 usr/share/i2p/docs/javadoc/net/i2p/app/package-summary.html	    doc/i2p-doc
 usr/share/i2p/docs/javadoc/net/i2p/app/package-tree.html	    doc/i2p-doc
 usr/share/i2p/docs/javadoc/net/i2p/app/package-use.html	    doc/i2p-doc
@@ -781,8 +750,8 @@ usr/share/i2p/docs/javadoc/net/i2p/app/class-use/ClientApp.html	    doc/i2p-doc
 usr/share/i2p/docs/javadoc/net/i2p/app/class-use/ClientAppManager.html	    doc/i2p-doc
 usr/share/i2p/docs/javadoc/net/i2p/app/class-use/ClientAppManagerImpl.html	    doc/i2p-doc
 usr/share/i2p/docs/javadoc/net/i2p/app/class-use/ClientAppState.html	    doc/i2p-doc
+usr/share/i2p/docs/javadoc/net/i2p/app/class-use/NotificationService.html	    doc/i2p-doc
 usr/share/i2p/docs/javadoc/net/i2p/app/class-use/Outproxy.html	    doc/i2p-doc
-usr/share/i2p/docs/javadoc/net/i2p/app/class-use/ShellService.html	    doc/i2p-doc
 usr/share/i2p/docs/javadoc/net/i2p/apps/systray/ConfigFile.html	    doc/i2p-doc
 usr/share/i2p/docs/javadoc/net/i2p/apps/systray/UrlLauncher.html	    doc/i2p-doc
 usr/share/i2p/docs/javadoc/net/i2p/apps/systray/package-summary.html	    doc/i2p-doc
@@ -1686,7 +1655,6 @@ usr/share/i2p/docs/javadoc/net/i2p/i2ptunnel/localServer/class-use/LocalHTTPServ
 usr/share/i2p/docs/javadoc/net/i2p/i2ptunnel/socks/I2PSOCKSIRCTunnel.html	    doc/i2p-doc
 usr/share/i2p/docs/javadoc/net/i2p/i2ptunnel/socks/I2PSOCKSTunnel.html	    doc/i2p-doc
 usr/share/i2p/docs/javadoc/net/i2p/i2ptunnel/socks/MultiSink.html	    doc/i2p-doc
-usr/share/i2p/docs/javadoc/net/i2p/i2ptunnel/socks/ReplyTracker.html	    doc/i2p-doc
 usr/share/i2p/docs/javadoc/net/i2p/i2ptunnel/socks/SOCKS4aServer.html	    doc/i2p-doc
 usr/share/i2p/docs/javadoc/net/i2p/i2ptunnel/socks/SOCKS5Server.html	    doc/i2p-doc
 usr/share/i2p/docs/javadoc/net/i2p/i2ptunnel/socks/SOCKSHeader.html	    doc/i2p-doc
@@ -1703,7 +1671,6 @@ usr/share/i2p/docs/javadoc/net/i2p/i2ptunnel/socks/package-use.html	    doc/i2p-
 usr/share/i2p/docs/javadoc/net/i2p/i2ptunnel/socks/class-use/I2PSOCKSIRCTunnel.html	    doc/i2p-doc
 usr/share/i2p/docs/javadoc/net/i2p/i2ptunnel/socks/class-use/I2PSOCKSTunnel.html	    doc/i2p-doc
 usr/share/i2p/docs/javadoc/net/i2p/i2ptunnel/socks/class-use/MultiSink.html	    doc/i2p-doc
-usr/share/i2p/docs/javadoc/net/i2p/i2ptunnel/socks/class-use/ReplyTracker.html	    doc/i2p-doc
 usr/share/i2p/docs/javadoc/net/i2p/i2ptunnel/socks/class-use/SOCKS4aServer.html	    doc/i2p-doc
 usr/share/i2p/docs/javadoc/net/i2p/i2ptunnel/socks/class-use/SOCKS5Server.html	    doc/i2p-doc
 usr/share/i2p/docs/javadoc/net/i2p/i2ptunnel/socks/class-use/SOCKSHeader.html	    doc/i2p-doc
@@ -1714,6 +1681,7 @@ usr/share/i2p/docs/javadoc/net/i2p/i2ptunnel/socks/class-use/SOCKSUDPTunnel.html
 usr/share/i2p/docs/javadoc/net/i2p/i2ptunnel/socks/class-use/SOCKSUDPUnwrapper.html	    doc/i2p-doc
 usr/share/i2p/docs/javadoc/net/i2p/i2ptunnel/socks/class-use/SOCKSUDPWrapper.html	    doc/i2p-doc
 usr/share/i2p/docs/javadoc/net/i2p/i2ptunnel/socks/class-use/SocketWrapper.html	    doc/i2p-doc
+usr/share/i2p/docs/javadoc/net/i2p/i2ptunnel/streamr/MultiSource.MSink.html	    doc/i2p-doc
 usr/share/i2p/docs/javadoc/net/i2p/i2ptunnel/streamr/MultiSource.html	    doc/i2p-doc
 usr/share/i2p/docs/javadoc/net/i2p/i2ptunnel/streamr/Pinger.html	    doc/i2p-doc
 usr/share/i2p/docs/javadoc/net/i2p/i2ptunnel/streamr/StreamrConsumer.html	    doc/i2p-doc
@@ -1722,6 +1690,7 @@ usr/share/i2p/docs/javadoc/net/i2p/i2ptunnel/streamr/Subscriber.html	    doc/i2p
 usr/share/i2p/docs/javadoc/net/i2p/i2ptunnel/streamr/package-summary.html	    doc/i2p-doc
 usr/share/i2p/docs/javadoc/net/i2p/i2ptunnel/streamr/package-tree.html	    doc/i2p-doc
 usr/share/i2p/docs/javadoc/net/i2p/i2ptunnel/streamr/package-use.html	    doc/i2p-doc
+usr/share/i2p/docs/javadoc/net/i2p/i2ptunnel/streamr/class-use/MultiSource.MSink.html	    doc/i2p-doc
 usr/share/i2p/docs/javadoc/net/i2p/i2ptunnel/streamr/class-use/MultiSource.html	    doc/i2p-doc
 usr/share/i2p/docs/javadoc/net/i2p/i2ptunnel/streamr/class-use/Pinger.html	    doc/i2p-doc
 usr/share/i2p/docs/javadoc/net/i2p/i2ptunnel/streamr/class-use/StreamrConsumer.html	    doc/i2p-doc
@@ -1730,6 +1699,7 @@ usr/share/i2p/docs/javadoc/net/i2p/i2ptunnel/streamr/class-use/Subscriber.html	 
 usr/share/i2p/docs/javadoc/net/i2p/i2ptunnel/udp/I2PSink.html	    doc/i2p-doc
 usr/share/i2p/docs/javadoc/net/i2p/i2ptunnel/udp/I2PSinkAnywhere.html	    doc/i2p-doc
 usr/share/i2p/docs/javadoc/net/i2p/i2ptunnel/udp/I2PSource.Listener.html	    doc/i2p-doc
+usr/share/i2p/docs/javadoc/net/i2p/i2ptunnel/udp/I2PSource.Protocol.html	    doc/i2p-doc
 usr/share/i2p/docs/javadoc/net/i2p/i2ptunnel/udp/I2PSource.html	    doc/i2p-doc
 usr/share/i2p/docs/javadoc/net/i2p/i2ptunnel/udp/Sink.html	    doc/i2p-doc
 usr/share/i2p/docs/javadoc/net/i2p/i2ptunnel/udp/Source.html	    doc/i2p-doc
@@ -1742,6 +1712,7 @@ usr/share/i2p/docs/javadoc/net/i2p/i2ptunnel/udp/package-use.html	    doc/i2p-do
 usr/share/i2p/docs/javadoc/net/i2p/i2ptunnel/udp/class-use/I2PSink.html	    doc/i2p-doc
 usr/share/i2p/docs/javadoc/net/i2p/i2ptunnel/udp/class-use/I2PSinkAnywhere.html	    doc/i2p-doc
 usr/share/i2p/docs/javadoc/net/i2p/i2ptunnel/udp/class-use/I2PSource.Listener.html	    doc/i2p-doc
+usr/share/i2p/docs/javadoc/net/i2p/i2ptunnel/udp/class-use/I2PSource.Protocol.html	    doc/i2p-doc
 usr/share/i2p/docs/javadoc/net/i2p/i2ptunnel/udp/class-use/I2PSource.html	    doc/i2p-doc
 usr/share/i2p/docs/javadoc/net/i2p/i2ptunnel/udp/class-use/Sink.html	    doc/i2p-doc
 usr/share/i2p/docs/javadoc/net/i2p/i2ptunnel/udp/class-use/Source.html	    doc/i2p-doc
@@ -2683,6 +2654,7 @@ usr/share/i2p/docs/javadoc/net/i2p/router/tunnel/class-use/TunnelGatewayPumper.h
 usr/share/i2p/docs/javadoc/net/i2p/router/tunnel/class-use/TunnelGatewayZeroHop.html	    doc/i2p-doc
 usr/share/i2p/docs/javadoc/net/i2p/router/tunnel/class-use/TunnelParticipant.html	    doc/i2p-doc
 usr/share/i2p/docs/javadoc/net/i2p/router/tunnel/pool/AliasedTunnelPool.html	    doc/i2p-doc
+usr/share/i2p/docs/javadoc/net/i2p/router/tunnel/pool/BuildExecutor.Result.html	    doc/i2p-doc
 usr/share/i2p/docs/javadoc/net/i2p/router/tunnel/pool/BuildExecutor.html	    doc/i2p-doc
 usr/share/i2p/docs/javadoc/net/i2p/router/tunnel/pool/BuildHandler.html	    doc/i2p-doc
 usr/share/i2p/docs/javadoc/net/i2p/router/tunnel/pool/BuildMessageGenerator.html	    doc/i2p-doc
@@ -2705,6 +2677,7 @@ usr/share/i2p/docs/javadoc/net/i2p/router/tunnel/pool/package-summary.html	    d
 usr/share/i2p/docs/javadoc/net/i2p/router/tunnel/pool/package-tree.html	    doc/i2p-doc
 usr/share/i2p/docs/javadoc/net/i2p/router/tunnel/pool/package-use.html	    doc/i2p-doc
 usr/share/i2p/docs/javadoc/net/i2p/router/tunnel/pool/class-use/AliasedTunnelPool.html	    doc/i2p-doc
+usr/share/i2p/docs/javadoc/net/i2p/router/tunnel/pool/class-use/BuildExecutor.Result.html	    doc/i2p-doc
 usr/share/i2p/docs/javadoc/net/i2p/router/tunnel/pool/class-use/BuildExecutor.html	    doc/i2p-doc
 usr/share/i2p/docs/javadoc/net/i2p/router/tunnel/pool/class-use/BuildHandler.html	    doc/i2p-doc
 usr/share/i2p/docs/javadoc/net/i2p/router/tunnel/pool/class-use/BuildMessageGenerator.html	    doc/i2p-doc
@@ -2819,6 +2792,7 @@ usr/share/i2p/docs/javadoc/net/i2p/router/web/NewsHelper.html	    doc/i2p-doc
 usr/share/i2p/docs/javadoc/net/i2p/router/web/PluginStarter.html	    doc/i2p-doc
 usr/share/i2p/docs/javadoc/net/i2p/router/web/PluginStopper.html	    doc/i2p-doc
 usr/share/i2p/docs/javadoc/net/i2p/router/web/RouterConsoleRunner.html	    doc/i2p-doc
+usr/share/i2p/docs/javadoc/net/i2p/router/web/ShellService.html	    doc/i2p-doc
 usr/share/i2p/docs/javadoc/net/i2p/router/web/StatSummarizer.html	    doc/i2p-doc
 usr/share/i2p/docs/javadoc/net/i2p/router/web/SummaryListener.html	    doc/i2p-doc
 usr/share/i2p/docs/javadoc/net/i2p/router/web/SummaryRenderer.html	    doc/i2p-doc
@@ -2849,6 +2823,7 @@ usr/share/i2p/docs/javadoc/net/i2p/router/web/class-use/NewsHelper.html	    doc/
 usr/share/i2p/docs/javadoc/net/i2p/router/web/class-use/PluginStarter.html	    doc/i2p-doc
 usr/share/i2p/docs/javadoc/net/i2p/router/web/class-use/PluginStopper.html	    doc/i2p-doc
 usr/share/i2p/docs/javadoc/net/i2p/router/web/class-use/RouterConsoleRunner.html	    doc/i2p-doc
+usr/share/i2p/docs/javadoc/net/i2p/router/web/class-use/ShellService.html	    doc/i2p-doc
 usr/share/i2p/docs/javadoc/net/i2p/router/web/class-use/StatSummarizer.html	    doc/i2p-doc
 usr/share/i2p/docs/javadoc/net/i2p/router/web/class-use/SummaryListener.html	    doc/i2p-doc
 usr/share/i2p/docs/javadoc/net/i2p/router/web/class-use/SummaryRenderer.html	    doc/i2p-doc
@@ -3769,6 +3744,8 @@ usr/share/i2p/docs/javadoc/org/klomp/snark/StorageListener.html	    doc/i2p-doc
 usr/share/i2p/docs/javadoc/org/klomp/snark/Tracker.html	    doc/i2p-doc
 usr/share/i2p/docs/javadoc/org/klomp/snark/TrackerClient.html	    doc/i2p-doc
 usr/share/i2p/docs/javadoc/org/klomp/snark/TrackerInfo.html	    doc/i2p-doc
+usr/share/i2p/docs/javadoc/org/klomp/snark/UDPTrackerClient.TrackerResponse.html	    doc/i2p-doc
+usr/share/i2p/docs/javadoc/org/klomp/snark/UDPTrackerClient.html	    doc/i2p-doc
 usr/share/i2p/docs/javadoc/org/klomp/snark/URIUtil.html	    doc/i2p-doc
 usr/share/i2p/docs/javadoc/org/klomp/snark/UpdateHandler.html	    doc/i2p-doc
 usr/share/i2p/docs/javadoc/org/klomp/snark/UpdateRunner.html	    doc/i2p-doc
@@ -3827,6 +3804,8 @@ usr/share/i2p/docs/javadoc/org/klomp/snark/class-use/StorageListener.html	    do
 usr/share/i2p/docs/javadoc/org/klomp/snark/class-use/Tracker.html	    doc/i2p-doc
 usr/share/i2p/docs/javadoc/org/klomp/snark/class-use/TrackerClient.html	    doc/i2p-doc
 usr/share/i2p/docs/javadoc/org/klomp/snark/class-use/TrackerInfo.html	    doc/i2p-doc
+usr/share/i2p/docs/javadoc/org/klomp/snark/class-use/UDPTrackerClient.TrackerResponse.html	    doc/i2p-doc
+usr/share/i2p/docs/javadoc/org/klomp/snark/class-use/UDPTrackerClient.html	    doc/i2p-doc
 usr/share/i2p/docs/javadoc/org/klomp/snark/class-use/URIUtil.html	    doc/i2p-doc
 usr/share/i2p/docs/javadoc/org/klomp/snark/class-use/UpdateHandler.html	    doc/i2p-doc
 usr/share/i2p/docs/javadoc/org/klomp/snark/class-use/UpdateRunner.html	    doc/i2p-doc
@@ -4498,7 +4477,6 @@ usr/share/i2p/eepsite/docroot/help/lib/resources/word.png	    net/i2p-router
 usr/share/i2p/eepsite/docroot/help/lib/resources/zip.png	    net/i2p-router
 usr/share/i2p/eepsite/etc/realm.properties	    net/i2p-router
 usr/share/i2p/eepsite/etc/webdefault.xml	    net/i2p-router
-usr/share/i2p/lib/BOB.jar	    net/i2p-router
 usr/share/i2p/lib/addressbook.jar	    net/i2p-router
 usr/share/i2p/lib/commons-el.jar	    net/i2p-router
 usr/share/i2p/lib/commons-logging.jar	    net/i2p-router
@@ -4600,6 +4578,9 @@ usr/share/man/hu/man1/i2prouter.1.gz	    net/i2p
 usr/share/man/it/man1/eepget.1.gz	    net/i2p-router
 usr/share/man/it/man1/i2prouter-nowrapper.1.gz	    net/i2p-router
 usr/share/man/it/man1/i2prouter.1.gz	    net/i2p
+usr/share/man/ja/man1/eepget.1.gz	    net/i2p-router
+usr/share/man/ja/man1/i2prouter-nowrapper.1.gz	    net/i2p-router
+usr/share/man/ja/man1/i2prouter.1.gz	    net/i2p
 usr/share/man/ko/man1/eepget.1.gz	    net/i2p-router
 usr/share/man/ko/man1/i2prouter-nowrapper.1.gz	    net/i2p-router
 usr/share/man/ko/man1/i2prouter.1.gz	    net/i2p
