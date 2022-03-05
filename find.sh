@@ -1,1 +1,1 @@
-find . -type f -exec ./add.sh {} \;
+find ./dists -type f -exec ./add.sh {} \;
