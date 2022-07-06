@@ -1,4 +1,5 @@
 #! /usr/bin/env sh
+
 if echo $1 | grep '.git/'; then
 	echo "ignore git file"
 else
