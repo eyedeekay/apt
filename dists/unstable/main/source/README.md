@@ -2,9 +2,9 @@ source
 ========================
 
 - [.](.)
-- [Sources.bz2](Sources.bz2)
-- [Sources.xz](Sources.xz)
-- [Sources.gz](Sources.gz)
 - [Sources](Sources)
+- [Sources.gz](Sources.gz)
+- [Sources.bz2](Sources.bz2)
 - [README.md](README.md)
+- [Sources.xz](Sources.xz)
 - [Release](Release)

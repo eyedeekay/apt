@@ -452,3 +452,16 @@ Update: - i2p-jammy
 SignWith: 5BCF1346
 Log: mirror.log
   --type=dsc changelogs.example
+
+Origin: I2P-PPA
+Codename: kinetic
+Description: Official I2P Kinetic mirror
+Architectures: i386 amd64 source arm64 armhf ppc64el s390x
+DebIndices: Packages Release . .gz .bz2 xz.sh lzma.sh /usr/bin/rredtool
+DscIndices: Sources Release . .gz .bz2 xz.sh lzma.sh /usr/bin/rredtool
+Contents: . .gz .bz2
+Components: main
+Update: - i2p-kinetic
+SignWith: 5BCF1346
+Log: mirror.log
+  --type=dsc changelogs.example

@@ -1,6 +1,6 @@
 Package: i2p
 Binary: i2p, libjbigi-jni, i2p-doc, i2p-router
-Version: 1.7.0-1~bionic+1
+Version: 1.8.0-1~bionic+1
 Section: net
 Maintainer: zzz <zzz@i2pmail.org>
 Build-Depends: debhelper (>= 9.20160709), ant (>= 1.9.8), debconf, openjdk-8-jdk, libjetty9-java (>= 9.4), libservlet3.1-java, libtaglibs-standard-jstlel-java, libtomcat9-java, dh-apparmor, bash-completion, gettext, libgetopt-java, libjson-simple-java (>= 2), libjson-simple-java (<< 3), libgmp-dev (>= 2:5.0.5), libservice-wrapper-java, po-debconf
@@ -9,17 +9,17 @@ Standards-Version: 3.9.8
 Format: 3.0 (quilt)
 Directory: pool/main/i/i2p
 Files:
- 0c4d9d9086d1da4ba9cebd10d149d176 6806752 i2p_1.7.0.orig.tar.bz2
- 50d2cedd837104e9125b0c247e0f479a 56540 i2p_1.7.0-1~bionic+1.debian.tar.xz
- 23f6ad2295ef2418ed907298869faf6d 2145 i2p_1.7.0-1~bionic+1.dsc
+ 429f993ceb888d2d438c0361dd48391a 6640995 i2p_1.8.0.orig.tar.bz2
+ 9db5c5d7d5e24150098bf2010ff69b31 56428 i2p_1.8.0-1~bionic+1.debian.tar.xz
+ a8a80848ec3d1be81d91ce8614abd8ca 2145 i2p_1.8.0-1~bionic+1.dsc
 Checksums-Sha1:
- e162266d6d9a540ec05202ec9f3c7724e888c222 6806752 i2p_1.7.0.orig.tar.bz2
- f6bcc3b8dc9ece5119f90ba8b2e5752dabc902b1 56540 i2p_1.7.0-1~bionic+1.debian.tar.xz
- cd60ad7ea8ca81ceb43c37ec9635c65bbdc5ed60 2145 i2p_1.7.0-1~bionic+1.dsc
+ 2c4257062f6191ba1722780eb8215ba11cab3ed3 6640995 i2p_1.8.0.orig.tar.bz2
+ 79cdac3cccb7492d7dec6b177d3c64603ee6576b 56428 i2p_1.8.0-1~bionic+1.debian.tar.xz
+ bf6845044e04aa499ea8e8032ac4903aacde2e6f 2145 i2p_1.8.0-1~bionic+1.dsc
 Checksums-Sha256:
- 83ceca0ed5ff68b780d8f800d0ecb46825ff29398209cb71fe283f1cf1b4b12e 6806752 i2p_1.7.0.orig.tar.bz2
- c07d09f0ff1d783e7c393074ebac7a845cb7dcd70fe51f5541929a01f4484053 56540 i2p_1.7.0-1~bionic+1.debian.tar.xz
- fc5649414f1678171c30779eec9d944aeb6be05e018698d7c596e755b10f49c8 2145 i2p_1.7.0-1~bionic+1.dsc
+ 69d5f04f51ffa61d7097422ae3702b9844457cac9be4277f09b2df40a1a8b0ce 6640995 i2p_1.8.0.orig.tar.bz2
+ a2de6832a9d512055a69b25a360eee29663b7a95670f396848ad0b2af6dd9299 56428 i2p_1.8.0-1~bionic+1.debian.tar.xz
+ bd911646faf3a2cae5f8531047dc860ca6f6dd144231567d3eaa9f3715d7088e 2145 i2p_1.8.0-1~bionic+1.dsc
 Homepage: https://geti2p.net/
 Package-List: i2p deb net optional arch=all
  i2p-doc deb doc extra arch=all

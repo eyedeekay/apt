@@ -2,9 +2,11 @@ binary-amd64
 ========================
 
 - [.](.)
-- [Packages.bz2](Packages.bz2)
+- [Packages.diff](Packages.diff)
+- [Packages.gz](Packages.gz)
+- [Packages.lzma](Packages.lzma)
 - [Packages.xz](Packages.xz)
 - [Packages](Packages)
-- [Packages.gz](Packages.gz)
-- [Release](Release)
+- [Packages.bz2](Packages.bz2)
 - [README.md](README.md)
+- [Release](Release)

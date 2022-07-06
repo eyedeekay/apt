@@ -1,16 +1,16 @@
 Package: i2p
 Priority: optional
 Section: net
-Installed-Size: 384
+Installed-Size: 393
 Maintainer: zzz <zzz@i2pmail.org>
 Architecture: all
-Version: 1.7.0-1~bionic+1
-Depends: debconf (>= 0.5) | debconf-2.0, i2p-router (= 1.7.0-1~bionic+1), adduser, debconf, libjbigi-jni, lsb-base, service-wrapper
-Filename: pool/main/i/i2p/i2p_1.7.0-1~bionic+1_all.deb
-Size: 71184
-SHA256: acb9f3d3c0359c3ff24d63ca135b376fe676baacfe6b573806eb3a42ab2db561
-SHA1: 23f8fe1a8985617381184613482fd7e96f60691f
-MD5sum: bb0711e2aaa38c62e29a863ad31ce30b
+Version: 1.8.0-1~bionic+1
+Depends: debconf (>= 0.5) | debconf-2.0, i2p-router (= 1.8.0-1~bionic+1), adduser, debconf, libjbigi-jni, lsb-base, service-wrapper
+Filename: pool/main/i/i2p/i2p_1.8.0-1~bionic+1_all.deb
+Size: 72188
+SHA256: 1fcd8ebe5306cb2101bc5e7c4d3ad52d37a4aa131aa63ff4568c4e9f5ef9b56b
+SHA1: f113b53be7d9866f1a0d873583e2256c5255cfdd
+MD5sum: c4aff60ecc3ca9d8298e7cab4f75cabd
 Description: Invisible Internet Project (I2P) - anonymous network
  I2P is an anonymizing network, offering a simple layer that identity-sensitive
  applications can use to securely communicate. All data is wrapped with several
@@ -25,16 +25,16 @@ Package: i2p-doc
 Source: i2p
 Priority: extra
 Section: doc
-Installed-Size: 79879
+Installed-Size: 81596
 Maintainer: zzz <zzz@i2pmail.org>
 Architecture: all
-Version: 1.7.0-1~bionic+1
+Version: 1.8.0-1~bionic+1
 Suggests: i2p, default-jdk-doc
-Filename: pool/main/i/i2p/i2p-doc_1.7.0-1~bionic+1_all.deb
-Size: 3188080
-SHA256: 7554a0ad53edeb1820d8a710721c8af271e48315016f959a35c7123f6fa88a7b
-SHA1: f0a9e50c5175474eecc25be3e4160c508f4b8b17
-MD5sum: f02e3f53f600c82f27e201954c727a30
+Filename: pool/main/i/i2p/i2p-doc_1.8.0-1~bionic+1_all.deb
+Size: 3245180
+SHA256: 12f38fcc362790ca0b07d75f325050f2d03de511a7c1034b5233329715e323a2
+SHA1: e51787a35cfbe28e7c2bd694e9651c7a8ed39099
+MD5sum: 42470f86943dee4632bb5c5925744684
 Description: Invisible Internet Project (I2P) - developer documentation
  I2P is an anonymizing network, offering a simple layer that identity-sensitive
  applications can use to securely communicate. All data is wrapped with several
@@ -68,20 +68,20 @@ Package: i2p-router
 Source: i2p
 Priority: optional
 Section: net
-Installed-Size: 12931
+Installed-Size: 13014
 Maintainer: zzz <zzz@i2pmail.org>
 Architecture: all
-Version: 1.7.0-1~bionic+1
+Version: 1.8.0-1~bionic+1
 Recommends: libjbigi-jni
 Replaces: i2p (<< 0.8.6-5)
 Suggests: apparmor, privoxy, syndie
 Depends: openjdk-17-jre-headless | openjdk-11-jre-headless | openjdk-8-jre-headless | default-jre-headless | java17-runtime-headless | java11-runtime-headless | java8-runtime-headless, geoip-database, gettext-base, libgetopt-java, libjson-simple-java (>= 2), libjson-simple-java (<< 3), libjetty9-java (>= 9.4), libservlet3.1-java, libtaglibs-standard-jstlel-java, libtomcat9-java, famfamfam-flag-png
 Breaks: i2p (<< 0.8.6-5)
-Filename: pool/main/i/i2p/i2p-router_1.7.0-1~bionic+1_all.deb
-Size: 11044400
-SHA256: 458298e4cb16314b0875c2d84c212c7bbf75045b268246e54436e27dcb6dd58a
-SHA1: 19b3fbf175c8d285cb613ec7ff4e6e1981b86a65
-MD5sum: 64c470964c8e77103bc2243da5e72d01
+Filename: pool/main/i/i2p/i2p-router_1.8.0-1~bionic+1_all.deb
+Size: 11103928
+SHA256: e28b06e6cd935f20db804fc0cd3bbca85e86e31d00d780114857843adab664a0
+SHA1: 8dc464406db2cf53bcdf258aefc53725c6c47671
+MD5sum: ba1467be1a574e361e099932e3b566f1
 Description: Invisible Internet Project (I2P) - Router
  I2P is an anonymizing network, offering a simple layer that identity-sensitive
  applications can use to securely communicate. All data is wrapped with several
@@ -93,16 +93,16 @@ Package: libjbigi-jni
 Source: i2p
 Priority: optional
 Section: java
-Installed-Size: 343
+Installed-Size: 344
 Maintainer: zzz <zzz@i2pmail.org>
 Architecture: ppc64el
-Version: 1.7.0-1~bionic+1
+Version: 1.8.0-1~bionic+1
 Depends: libc6 (>= 2.17), libgmp10 (>= 2:5.0.5), i2p-router
-Filename: pool/main/i/i2p/libjbigi-jni_1.7.0-1~bionic+1_ppc64el.deb
-Size: 270040
-SHA256: 99f03169d7a8706370b5a99aa1fb2b355604ad4c6ba0d23a500a6e847146abe5
-SHA1: 553c03553c4dd53de02c48723dc79af4f5e05be6
-MD5sum: 0de403078dae8a145d3b01e4a4554fa3
+Filename: pool/main/i/i2p/libjbigi-jni_1.8.0-1~bionic+1_ppc64el.deb
+Size: 271188
+SHA256: fc8cafd8caca567ddd4c55e694860be56a636cfc18333bb60b43a2f09575ab5c
+SHA1: 7e07c2ff9279081a1a40c03511652c1fe9b653eb
+MD5sum: a3dafa10a55549cb9967619358648a76
 Description: Invisible Internet Project (I2P) - libjbigi library
  This Package contains the libjbigi JNI library (and on x86 platforms, jcpuid).
  .

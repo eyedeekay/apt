@@ -20,6 +20,7 @@ For Ubuntu, we recommend <a href="https://launchpad.net/~i2p-maintainers/+archiv
 <h2>News</h2>
 <!-- newest first please -->
 <ul>
+<li><b>2022-05-24</b> I2P 1.8.0 release added to all repos; Kinetic repo added.
 <li><b>2022-03-03</b> Fixed the architecture listings below for libjbigi-jni.
 <li><b>2022-02-22</b> I2P 1.7.0 release added to all repos.
 <li><b>2021-11-30</b> I2P 1.6.1 release added to all repos.

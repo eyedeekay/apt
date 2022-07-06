@@ -1,6 +1,6 @@
 Package: i2p
 Binary: i2p, libjbigi-jni, i2p-doc, i2p-router
-Version: 1.7.0-1ubuntu1
+Version: 1.8.0-1ubuntu1
 Section: net
 Maintainer: zzz <zzz@i2pmail.org>
 Build-Depends: debhelper (>= 9.20160709), ant (>= 1.9.8), debconf, default-jdk, libjetty9-java (>= 9.4), libservlet3.1-java, libtaglibs-standard-jstlel-java, libtomcat9-java, dh-apparmor, bash-completion, gettext, libgetopt-java, libjson-simple-java (>= 2), libjson-simple-java (<< 3), libgmp-dev (>= 2:5.0.5), libservice-wrapper-java, po-debconf
@@ -9,24 +9,24 @@ Standards-Version: 4.3.0
 Format: 3.0 (quilt)
 Directory: pool/main/i/i2p
 Files: 
- 0c4d9d9086d1da4ba9cebd10d149d176 6806752 i2p_1.7.0.orig.tar.bz2
- de97c86cd711b23540a8f629c784aae1 56556 i2p_1.7.0-1ubuntu1.debian.tar.xz
- 2f768ea02d5f6ea8a0f73b2ba493ff1d 2233 i2p_1.7.0-1ubuntu1.dsc
+ 429f993ceb888d2d438c0361dd48391a 6640995 i2p_1.8.0.orig.tar.bz2
+ 1f314f959f5cbedc3d1083d3d3dd44c6 56436 i2p_1.8.0-1ubuntu1.debian.tar.xz
+ 21781d9f8a93be7ee6b3dcd210a49f82 2233 i2p_1.8.0-1ubuntu1.dsc
 Checksums-Sha1: 
- e162266d6d9a540ec05202ec9f3c7724e888c222 6806752 i2p_1.7.0.orig.tar.bz2
- f908fe4861af2df9ea35b96672deb780fec02fa9 56556 i2p_1.7.0-1ubuntu1.debian.tar.xz
- b63aaa7016347fd29eb35bfd135539e729963606 2233 i2p_1.7.0-1ubuntu1.dsc
+ 2c4257062f6191ba1722780eb8215ba11cab3ed3 6640995 i2p_1.8.0.orig.tar.bz2
+ 687580cab3c180d8295d31d8d24c43acc13b9136 56436 i2p_1.8.0-1ubuntu1.debian.tar.xz
+ 73aedf5863e9c6d3b4eeb346844630c55943e2fc 2233 i2p_1.8.0-1ubuntu1.dsc
 Checksums-Sha256: 
- 83ceca0ed5ff68b780d8f800d0ecb46825ff29398209cb71fe283f1cf1b4b12e 6806752 i2p_1.7.0.orig.tar.bz2
- 262093f485933f8d9acd11bbbc6983473a9601131feb02fe6062f34fb7b4043c 56556 i2p_1.7.0-1ubuntu1.debian.tar.xz
- 89f9273fe7dac12fc88e310d293b5fd4fda991e54cd9349aa82c7e3a19e20d8a 2233 i2p_1.7.0-1ubuntu1.dsc
+ 69d5f04f51ffa61d7097422ae3702b9844457cac9be4277f09b2df40a1a8b0ce 6640995 i2p_1.8.0.orig.tar.bz2
+ 2580178dc897377e287bd488509a7c34f05680584ad29d9c556a449b7c4240e2 56436 i2p_1.8.0-1ubuntu1.debian.tar.xz
+ 8dab22e41102b037f3a5b6d2684d431fa8c8c5e71179c205748cdefff0ddeb9c 2233 i2p_1.8.0-1ubuntu1.dsc
 Homepage: https://geti2p.net/
 Package-List: i2p deb net optional arch=all
  i2p-doc deb doc extra arch=all
  i2p-router deb net optional arch=all
  libjbigi-jni deb java optional arch=any
-Vcs-Browser: https://salsa.debian.org/debian/i2p
 Vcs-Git: https://salsa.debian.org/debian/i2p.git
+Vcs-Browser: https://salsa.debian.org/debian/i2p
 
 Package: i2p-keyring
 Format: 1.0

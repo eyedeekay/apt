@@ -83,6 +83,11 @@ method: http://ppa.launchpad.net/i2p-maintainers/i2p/ubuntu
 Architectures: amd64 i386 arm64 armhf ppc64el s390x source
 VerifyRelease: AB9660B9EB2CC88B
 
+Name: i2p-kinetic
+method: http://ppa.launchpad.net/i2p-maintainers/i2p/ubuntu 
+Architectures: amd64 i386 arm64 armhf ppc64el s390x source
+VerifyRelease: AB9660B9EB2CC88B
+
 #Name: anoncoin-precise
 #Method: http://ppa.launchpad.net/anoncoin/anoncoin/ubuntu
 #Architectures: amd64 i386 source

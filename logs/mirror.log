@@ -5280,3 +5280,187 @@
 2022-02-22 15:16:15 replace hirsute deb main s390x i2p-doc 1.7.0-1ubuntu1 1.6.1-1ubuntu1
 2022-02-22 15:16:15 replace hirsute deb main s390x i2p 1.7.0-1ubuntu1 1.6.1-1ubuntu1
 2022-02-22 15:16:15 replace hirsute dsc main source i2p 1.7.0-1ubuntu1 1.6.1-1ubuntu1
+2022-05-24 20:18:18 replace bionic dsc main source i2p 1.8.0-1~bionic+1 1.7.0-1~bionic+1
+2022-05-24 20:18:18 remove bionic dsc main source i2p-keyring 2021.09.10
+2022-05-24 20:18:18 replace bionic deb main s390x i2p 1.8.0-1~bionic+1 1.7.0-1~bionic+1
+2022-05-24 20:18:18 replace bionic deb main s390x i2p-doc 1.8.0-1~bionic+1 1.7.0-1~bionic+1
+2022-05-24 20:18:18 remove bionic deb main s390x i2p-keyring 2021.09.10
+2022-05-24 20:18:18 replace bionic deb main s390x i2p-router 1.8.0-1~bionic+1 1.7.0-1~bionic+1
+2022-05-24 20:18:18 replace bionic deb main s390x libjbigi-jni 1.8.0-1~bionic+1 1.7.0-1~bionic+1
+2022-05-24 20:18:18 replace bionic deb main ppc64el i2p 1.8.0-1~bionic+1 1.7.0-1~bionic+1
+2022-05-24 20:18:18 replace bionic deb main ppc64el i2p-doc 1.8.0-1~bionic+1 1.7.0-1~bionic+1
+2022-05-24 20:18:18 remove bionic deb main ppc64el i2p-keyring 2021.09.10
+2022-05-24 20:18:18 replace bionic deb main ppc64el i2p-router 1.8.0-1~bionic+1 1.7.0-1~bionic+1
+2022-05-24 20:18:18 replace bionic deb main ppc64el libjbigi-jni 1.8.0-1~bionic+1 1.7.0-1~bionic+1
+2022-05-24 20:18:18 replace bionic deb main armhf i2p 1.8.0-1~bionic+1 1.7.0-1~bionic+1
+2022-05-24 20:18:18 replace bionic deb main armhf i2p-doc 1.8.0-1~bionic+1 1.7.0-1~bionic+1
+2022-05-24 20:18:18 remove bionic deb main armhf i2p-keyring 2021.09.10
+2022-05-24 20:18:18 replace bionic deb main armhf i2p-router 1.8.0-1~bionic+1 1.7.0-1~bionic+1
+2022-05-24 20:18:18 replace bionic deb main armhf libjbigi-jni 1.8.0-1~bionic+1 1.7.0-1~bionic+1
+2022-05-24 20:18:18 replace bionic deb main arm64 i2p 1.8.0-1~bionic+1 1.7.0-1~bionic+1
+2022-05-24 20:18:18 replace bionic deb main arm64 i2p-doc 1.8.0-1~bionic+1 1.7.0-1~bionic+1
+2022-05-24 20:18:18 remove bionic deb main arm64 i2p-keyring 2021.09.10
+2022-05-24 20:18:18 replace bionic deb main arm64 i2p-router 1.8.0-1~bionic+1 1.7.0-1~bionic+1
+2022-05-24 20:18:18 replace bionic deb main arm64 libjbigi-jni 1.8.0-1~bionic+1 1.7.0-1~bionic+1
+2022-05-24 20:18:18 replace bionic deb main amd64 i2p 1.8.0-1~bionic+1 1.7.0-1~bionic+1
+2022-05-24 20:18:18 replace bionic deb main amd64 i2p-doc 1.8.0-1~bionic+1 1.7.0-1~bionic+1
+2022-05-24 20:18:18 remove bionic deb main amd64 i2p-keyring 2021.09.10
+2022-05-24 20:18:18 replace bionic deb main amd64 i2p-router 1.8.0-1~bionic+1 1.7.0-1~bionic+1
+2022-05-24 20:18:18 replace bionic deb main amd64 libjbigi-jni 1.8.0-1~bionic+1 1.7.0-1~bionic+1
+2022-05-24 20:18:18 replace bionic deb main i386 i2p 1.8.0-1~bionic+1 1.7.0-1~bionic+1
+2022-05-24 20:18:18 replace bionic deb main i386 i2p-doc 1.8.0-1~bionic+1 1.7.0-1~bionic+1
+2022-05-24 20:18:18 remove bionic deb main i386 i2p-keyring 2021.09.10
+2022-05-24 20:18:18 replace bionic deb main i386 i2p-router 1.8.0-1~bionic+1 1.7.0-1~bionic+1
+2022-05-24 20:18:18 replace bionic deb main i386 libjbigi-jni 1.8.0-1~bionic+1 1.7.0-1~bionic+1
+2022-05-24 20:18:25 add bionic deb main i386 i2p-keyring 2021.09.10
+2022-05-24 20:18:25 add bionic deb main amd64 i2p-keyring 2021.09.10
+2022-05-24 20:18:25 add bionic dsc main source i2p-keyring 2021.09.10
+2022-05-24 20:18:26 add bionic deb main arm64 i2p-keyring 2021.09.10
+2022-05-24 20:18:26 add bionic deb main armhf i2p-keyring 2021.09.10
+2022-05-24 20:18:26 add bionic deb main ppc64el i2p-keyring 2021.09.10
+2022-05-24 20:18:26 add bionic deb main s390x i2p-keyring 2021.09.10
+2022-05-24 20:18:30 replace focal dsc main source i2p 1.8.0-1ubuntu1 1.7.0-1ubuntu1
+2022-05-24 20:18:30 remove focal dsc main source i2p-keyring 2021.09.10
+2022-05-24 20:18:30 replace focal deb main s390x i2p 1.8.0-1ubuntu1 1.7.0-1ubuntu1
+2022-05-24 20:18:30 replace focal deb main s390x i2p-doc 1.8.0-1ubuntu1 1.7.0-1ubuntu1
+2022-05-24 20:18:30 remove focal deb main s390x i2p-keyring 2021.09.10
+2022-05-24 20:18:30 replace focal deb main s390x i2p-router 1.8.0-1ubuntu1 1.7.0-1ubuntu1
+2022-05-24 20:18:30 replace focal deb main s390x libjbigi-jni 1.8.0-1ubuntu1 1.7.0-1ubuntu1
+2022-05-24 20:18:30 replace focal deb main ppc64el i2p 1.8.0-1ubuntu1 1.7.0-1ubuntu1
+2022-05-24 20:18:30 replace focal deb main ppc64el i2p-doc 1.8.0-1ubuntu1 1.7.0-1ubuntu1
+2022-05-24 20:18:30 remove focal deb main ppc64el i2p-keyring 2021.09.10
+2022-05-24 20:18:30 replace focal deb main ppc64el i2p-router 1.8.0-1ubuntu1 1.7.0-1ubuntu1
+2022-05-24 20:18:30 replace focal deb main ppc64el libjbigi-jni 1.8.0-1ubuntu1 1.7.0-1ubuntu1
+2022-05-24 20:18:30 replace focal deb main armhf i2p 1.8.0-1ubuntu1 1.7.0-1ubuntu1
+2022-05-24 20:18:30 replace focal deb main armhf i2p-doc 1.8.0-1ubuntu1 1.7.0-1ubuntu1
+2022-05-24 20:18:30 remove focal deb main armhf i2p-keyring 2021.09.10
+2022-05-24 20:18:30 replace focal deb main armhf i2p-router 1.8.0-1ubuntu1 1.7.0-1ubuntu1
+2022-05-24 20:18:30 replace focal deb main armhf libjbigi-jni 1.8.0-1ubuntu1 1.7.0-1ubuntu1
+2022-05-24 20:18:30 replace focal deb main arm64 i2p 1.8.0-1ubuntu1 1.7.0-1ubuntu1
+2022-05-24 20:18:30 replace focal deb main arm64 i2p-doc 1.8.0-1ubuntu1 1.7.0-1ubuntu1
+2022-05-24 20:18:30 remove focal deb main arm64 i2p-keyring 2021.09.10
+2022-05-24 20:18:30 replace focal deb main arm64 i2p-router 1.8.0-1ubuntu1 1.7.0-1ubuntu1
+2022-05-24 20:18:30 replace focal deb main arm64 libjbigi-jni 1.8.0-1ubuntu1 1.7.0-1ubuntu1
+2022-05-24 20:18:30 replace focal deb main amd64 i2p 1.8.0-1ubuntu1 1.7.0-1ubuntu1
+2022-05-24 20:18:30 replace focal deb main amd64 i2p-doc 1.8.0-1ubuntu1 1.7.0-1ubuntu1
+2022-05-24 20:18:30 remove focal deb main amd64 i2p-keyring 2021.09.10
+2022-05-24 20:18:30 replace focal deb main amd64 i2p-router 1.8.0-1ubuntu1 1.7.0-1ubuntu1
+2022-05-24 20:18:30 replace focal deb main amd64 libjbigi-jni 1.8.0-1ubuntu1 1.7.0-1ubuntu1
+2022-05-24 20:18:30 replace focal deb main i386 i2p 1.8.0-1ubuntu1 1.7.0-1ubuntu1
+2022-05-24 20:18:30 replace focal deb main i386 i2p-doc 1.8.0-1ubuntu1 1.7.0-1ubuntu1
+2022-05-24 20:18:30 remove focal deb main i386 i2p-keyring 2021.09.10
+2022-05-24 20:18:30 replace focal deb main i386 i2p-router 1.8.0-1ubuntu1 1.7.0-1ubuntu1
+2022-05-24 20:18:36 add focal deb main i386 i2p-keyring 2021.09.10
+2022-05-24 20:18:36 add focal deb main amd64 i2p-keyring 2021.09.10
+2022-05-24 20:18:36 add focal dsc main source i2p-keyring 2021.09.10
+2022-05-24 20:18:37 add focal deb main arm64 i2p-keyring 2021.09.10
+2022-05-24 20:18:37 add focal deb main armhf i2p-keyring 2021.09.10
+2022-05-24 20:18:37 add focal deb main ppc64el i2p-keyring 2021.09.10
+2022-05-24 20:18:37 add focal deb main s390x i2p-keyring 2021.09.10
+2022-05-24 20:18:39 replace impish dsc main source i2p 1.8.0-1ubuntu1 1.7.0-1ubuntu1
+2022-05-24 20:18:39 remove impish dsc main source i2p-keyring 2021.09.10
+2022-05-24 20:18:39 replace impish deb main s390x i2p 1.8.0-1ubuntu1 1.7.0-1ubuntu1
+2022-05-24 20:18:39 replace impish deb main s390x i2p-doc 1.8.0-1ubuntu1 1.7.0-1ubuntu1
+2022-05-24 20:18:39 remove impish deb main s390x i2p-keyring 2021.09.10
+2022-05-24 20:18:39 replace impish deb main s390x i2p-router 1.8.0-1ubuntu1 1.7.0-1ubuntu1
+2022-05-24 20:18:39 replace impish deb main s390x libjbigi-jni 1.8.0-1ubuntu1 1.7.0-1ubuntu1
+2022-05-24 20:18:39 replace impish deb main ppc64el i2p 1.8.0-1ubuntu1 1.7.0-1ubuntu1
+2022-05-24 20:18:39 replace impish deb main ppc64el i2p-doc 1.8.0-1ubuntu1 1.7.0-1ubuntu1
+2022-05-24 20:18:39 remove impish deb main ppc64el i2p-keyring 2021.09.10
+2022-05-24 20:18:39 replace impish deb main ppc64el i2p-router 1.8.0-1ubuntu1 1.7.0-1ubuntu1
+2022-05-24 20:18:39 replace impish deb main ppc64el libjbigi-jni 1.8.0-1ubuntu1 1.7.0-1ubuntu1
+2022-05-24 20:18:39 replace impish deb main armhf i2p 1.8.0-1ubuntu1 1.7.0-1ubuntu1
+2022-05-24 20:18:39 replace impish deb main armhf i2p-doc 1.8.0-1ubuntu1 1.7.0-1ubuntu1
+2022-05-24 20:18:39 remove impish deb main armhf i2p-keyring 2021.09.10
+2022-05-24 20:18:39 replace impish deb main armhf i2p-router 1.8.0-1ubuntu1 1.7.0-1ubuntu1
+2022-05-24 20:18:39 replace impish deb main armhf libjbigi-jni 1.8.0-1ubuntu1 1.7.0-1ubuntu1
+2022-05-24 20:18:39 replace impish deb main arm64 i2p 1.8.0-1ubuntu1 1.7.0-1ubuntu1
+2022-05-24 20:18:39 replace impish deb main arm64 i2p-doc 1.8.0-1ubuntu1 1.7.0-1ubuntu1
+2022-05-24 20:18:39 remove impish deb main arm64 i2p-keyring 2021.09.10
+2022-05-24 20:18:39 replace impish deb main arm64 i2p-router 1.8.0-1ubuntu1 1.7.0-1ubuntu1
+2022-05-24 20:18:39 replace impish deb main arm64 libjbigi-jni 1.8.0-1ubuntu1 1.7.0-1ubuntu1
+2022-05-24 20:18:39 replace impish deb main amd64 i2p 1.8.0-1ubuntu1 1.7.0-1ubuntu1
+2022-05-24 20:18:39 replace impish deb main amd64 i2p-doc 1.8.0-1ubuntu1 1.7.0-1ubuntu1
+2022-05-24 20:18:39 remove impish deb main amd64 i2p-keyring 2021.09.10
+2022-05-24 20:18:39 replace impish deb main amd64 i2p-router 1.8.0-1ubuntu1 1.7.0-1ubuntu1
+2022-05-24 20:18:39 replace impish deb main amd64 libjbigi-jni 1.8.0-1ubuntu1 1.7.0-1ubuntu1
+2022-05-24 20:18:39 replace impish deb main i386 i2p 1.8.0-1ubuntu1 1.7.0-1ubuntu1
+2022-05-24 20:18:39 replace impish deb main i386 i2p-doc 1.8.0-1ubuntu1 1.7.0-1ubuntu1
+2022-05-24 20:18:39 remove impish deb main i386 i2p-keyring 2021.09.10
+2022-05-24 20:18:39 replace impish deb main i386 i2p-router 1.8.0-1ubuntu1 1.7.0-1ubuntu1
+2022-05-24 20:18:40 add impish deb main i386 i2p-keyring 2021.09.10
+2022-05-24 20:18:40 add impish deb main amd64 i2p-keyring 2021.09.10
+2022-05-24 20:18:40 add impish dsc main source i2p-keyring 2021.09.10
+2022-05-24 20:18:41 add impish deb main arm64 i2p-keyring 2021.09.10
+2022-05-24 20:18:41 add impish deb main armhf i2p-keyring 2021.09.10
+2022-05-24 20:18:41 add impish deb main ppc64el i2p-keyring 2021.09.10
+2022-05-24 20:18:41 add impish deb main s390x i2p-keyring 2021.09.10
+2022-05-24 20:18:43 replace jammy dsc main source i2p 1.8.0-1ubuntu1 1.7.0-1ubuntu1
+2022-05-24 20:18:43 remove jammy dsc main source i2p-keyring 2021.09.10
+2022-05-24 20:18:43 replace jammy deb main s390x i2p 1.8.0-1ubuntu1 1.7.0-1ubuntu1
+2022-05-24 20:18:43 replace jammy deb main s390x i2p-doc 1.8.0-1ubuntu1 1.7.0-1ubuntu1
+2022-05-24 20:18:43 remove jammy deb main s390x i2p-keyring 2021.09.10
+2022-05-24 20:18:43 replace jammy deb main s390x i2p-router 1.8.0-1ubuntu1 1.7.0-1ubuntu1
+2022-05-24 20:18:43 replace jammy deb main s390x libjbigi-jni 1.8.0-1ubuntu1 1.7.0-1ubuntu1
+2022-05-24 20:18:43 replace jammy deb main ppc64el i2p 1.8.0-1ubuntu1 1.7.0-1ubuntu1
+2022-05-24 20:18:43 replace jammy deb main ppc64el i2p-doc 1.8.0-1ubuntu1 1.7.0-1ubuntu1
+2022-05-24 20:18:43 remove jammy deb main ppc64el i2p-keyring 2021.09.10
+2022-05-24 20:18:43 replace jammy deb main ppc64el i2p-router 1.8.0-1ubuntu1 1.7.0-1ubuntu1
+2022-05-24 20:18:43 replace jammy deb main ppc64el libjbigi-jni 1.8.0-1ubuntu1 1.7.0-1ubuntu1
+2022-05-24 20:18:43 replace jammy deb main armhf i2p 1.8.0-1ubuntu1 1.7.0-1ubuntu1
+2022-05-24 20:18:43 replace jammy deb main armhf i2p-doc 1.8.0-1ubuntu1 1.7.0-1ubuntu1
+2022-05-24 20:18:43 remove jammy deb main armhf i2p-keyring 2021.09.10
+2022-05-24 20:18:43 replace jammy deb main armhf i2p-router 1.8.0-1ubuntu1 1.7.0-1ubuntu1
+2022-05-24 20:18:43 replace jammy deb main armhf libjbigi-jni 1.8.0-1ubuntu1 1.7.0-1ubuntu1
+2022-05-24 20:18:43 replace jammy deb main arm64 i2p 1.8.0-1ubuntu1 1.7.0-1ubuntu1
+2022-05-24 20:18:43 replace jammy deb main arm64 i2p-doc 1.8.0-1ubuntu1 1.7.0-1ubuntu1
+2022-05-24 20:18:43 remove jammy deb main arm64 i2p-keyring 2021.09.10
+2022-05-24 20:18:43 replace jammy deb main arm64 i2p-router 1.8.0-1ubuntu1 1.7.0-1ubuntu1
+2022-05-24 20:18:43 replace jammy deb main arm64 libjbigi-jni 1.8.0-1ubuntu1 1.7.0-1ubuntu1
+2022-05-24 20:18:43 replace jammy deb main amd64 i2p 1.8.0-1ubuntu1 1.7.0-1ubuntu1
+2022-05-24 20:18:43 replace jammy deb main amd64 i2p-doc 1.8.0-1ubuntu1 1.7.0-1ubuntu1
+2022-05-24 20:18:43 remove jammy deb main amd64 i2p-keyring 2021.09.10
+2022-05-24 20:18:43 replace jammy deb main amd64 i2p-router 1.8.0-1ubuntu1 1.7.0-1ubuntu1
+2022-05-24 20:18:43 replace jammy deb main amd64 libjbigi-jni 1.8.0-1ubuntu1 1.7.0-1ubuntu1
+2022-05-24 20:18:43 replace jammy deb main i386 i2p 1.8.0-1ubuntu1 1.7.0-1ubuntu1
+2022-05-24 20:18:43 replace jammy deb main i386 i2p-doc 1.8.0-1ubuntu1 1.7.0-1ubuntu1
+2022-05-24 20:18:43 remove jammy deb main i386 i2p-keyring 2021.09.10
+2022-05-24 20:18:43 replace jammy deb main i386 i2p-router 1.8.0-1ubuntu1 1.7.0-1ubuntu1
+2022-05-24 20:18:44 add jammy deb main i386 i2p-keyring 2021.09.10
+2022-05-24 20:18:44 add jammy deb main amd64 i2p-keyring 2021.09.10
+2022-05-24 20:18:44 add jammy dsc main source i2p-keyring 2021.09.10
+2022-05-24 20:18:45 add jammy deb main arm64 i2p-keyring 2021.09.10
+2022-05-24 20:18:45 add jammy deb main armhf i2p-keyring 2021.09.10
+2022-05-24 20:18:45 add jammy deb main ppc64el i2p-keyring 2021.09.10
+2022-05-24 20:18:45 add jammy deb main s390x i2p-keyring 2021.09.10
+2022-05-24 20:18:46 add kinetic dsc main source i2p 1.8.0-1ubuntu1
+2022-05-24 20:18:46 add kinetic deb main s390x i2p 1.8.0-1ubuntu1
+2022-05-24 20:18:46 add kinetic deb main s390x i2p-doc 1.8.0-1ubuntu1
+2022-05-24 20:18:46 add kinetic deb main s390x i2p-router 1.8.0-1ubuntu1
+2022-05-24 20:18:46 add kinetic deb main s390x libjbigi-jni 1.8.0-1ubuntu1
+2022-05-24 20:18:46 add kinetic deb main ppc64el i2p 1.8.0-1ubuntu1
+2022-05-24 20:18:46 add kinetic deb main ppc64el i2p-doc 1.8.0-1ubuntu1
+2022-05-24 20:18:46 add kinetic deb main ppc64el i2p-router 1.8.0-1ubuntu1
+2022-05-24 20:18:46 add kinetic deb main ppc64el libjbigi-jni 1.8.0-1ubuntu1
+2022-05-24 20:18:46 add kinetic deb main armhf i2p 1.8.0-1ubuntu1
+2022-05-24 20:18:46 add kinetic deb main armhf i2p-doc 1.8.0-1ubuntu1
+2022-05-24 20:18:46 add kinetic deb main armhf i2p-router 1.8.0-1ubuntu1
+2022-05-24 20:18:46 add kinetic deb main armhf libjbigi-jni 1.8.0-1ubuntu1
+2022-05-24 20:18:46 add kinetic deb main arm64 i2p 1.8.0-1ubuntu1
+2022-05-24 20:18:46 add kinetic deb main arm64 i2p-doc 1.8.0-1ubuntu1
+2022-05-24 20:18:46 add kinetic deb main arm64 i2p-router 1.8.0-1ubuntu1
+2022-05-24 20:18:46 add kinetic deb main arm64 libjbigi-jni 1.8.0-1ubuntu1
+2022-05-24 20:18:46 add kinetic deb main amd64 i2p 1.8.0-1ubuntu1
+2022-05-24 20:18:46 add kinetic deb main amd64 i2p-doc 1.8.0-1ubuntu1
+2022-05-24 20:18:46 add kinetic deb main amd64 i2p-router 1.8.0-1ubuntu1
+2022-05-24 20:18:46 add kinetic deb main amd64 libjbigi-jni 1.8.0-1ubuntu1
+2022-05-24 20:18:46 add kinetic deb main i386 i2p 1.8.0-1ubuntu1
+2022-05-24 20:18:46 add kinetic deb main i386 i2p-doc 1.8.0-1ubuntu1
+2022-05-24 20:18:46 add kinetic deb main i386 i2p-router 1.8.0-1ubuntu1
+2022-05-24 20:18:48 add kinetic deb main i386 i2p-keyring 2021.09.10
+2022-05-24 20:18:48 add kinetic deb main amd64 i2p-keyring 2021.09.10
+2022-05-24 20:18:48 add kinetic dsc main source i2p-keyring 2021.09.10
+2022-05-24 20:18:48 add kinetic deb main arm64 i2p-keyring 2021.09.10
+2022-05-24 20:18:48 add kinetic deb main armhf i2p-keyring 2021.09.10
+2022-05-24 20:18:48 add kinetic deb main ppc64el i2p-keyring 2021.09.10
+2022-05-24 20:18:48 add kinetic deb main s390x i2p-keyring 2021.09.10
