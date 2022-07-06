@@ -1,0 +1,99 @@
+<?php header("Content-type: text/html; charset=utf-8");?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+        <title>Debian I2P Packages</title>
+<link rel="stylesheet" type="text/css" href="style.css" />
+<link rel="shortcut icon" href="favicon.ico" />
+</head>
+<body>
+<!--<img style="float:left;display:inline;" src="openlogo-50.png" alt="Debian" width="50" height="61" /> -->
+<h1 style="text-align:center">I2P Packages for Debian and Ubuntu</h1>
+<h2>Notes</h2>
+<p>Any necessary dependency packages will be found in either Debian's repository or this one. Please report any problems with the I2P packages on the <a href="http://trac.i2p2.de/newticket?component=package/debian&amp;owner=killyourtv&amp;cc=killyourtv@mail.i2p">I2P Bug Tracker</a>. Bugs for Anoncoin should be reported on its <a href="https://github.com/anoncoin/anoncoin/issues">Github project page</a>.</p>
+
+<h3>Repository Information</h3>
+<p>Add lines like the following to <code>/etc/apt/sources.list.d/i2p.list</code>.</p>
+<p>For Debian Wheezy (oldstable):</p>
+<pre class="listing">
+    deb http://deb.i2p2.no/ wheezy main
+    deb-src http://deb.i2p2.no/ wheezy main</pre>
+<p>For Debian Jessie (stable):</p>
+<pre class="listing">
+    deb http://deb.i2p2.no/ jessie main
+    deb-src http://deb.i2p2.no/ jessie main</pre>
+
+<p>For Debian Stretch (testing) or Sid (unstable):</p>
+<pre class="listing">
+    deb http://deb.i2p2.no/ unstable main
+    deb-src http://deb.i2p2.no/ unstable main</pre>
+
+<p>For Ubuntu Precise (LTS):</p>
+<pre class="listing">
+    deb http://deb.i2p2.no/ precise main
+    deb-src http://deb.i2p2.no/ precise main</pre>
+<p>For Ubuntu Trusty:</p>
+<pre class="listing">
+    deb http://deb.i2p2.no/ trusty main
+    deb-src http://deb.i2p2.no/ trusty main</pre>
+<p>For Ubuntu Vivid:</p>
+<pre class="listing">
+    deb http://deb.i2p2.no/ vivid main
+    deb-src http://deb.i2p2.no/ vivid main</pre>
+
+<p>For Ubuntu Wily:</p>
+<pre class="listing">
+    deb http://deb.i2p2.no/ wily main
+    deb-src http://deb.i2p2.no/ wily main</pre>
+
+<p>For Ubuntu Xenial:</p>
+<pre class="listing">
+    deb http://deb.i2p2.no/ xenial main
+    deb-src http://deb.i2p2.no/ xenial main</pre>
+
+
+<h3>Updating the pkg list</h3>
+<p>
+After adding the repo to apt, update the package list with</p>
+<pre class="listing">    apt-get update</pre>
+<p>APT will likely complain about a missing key. If it does you can resolve this by running the following:</p>
+<pre class="listing">    apt-get install i2p-keyring &amp;&amp; apt-get update</pre>
+<h2>History/News</h2>
+<ul>
+<li>2013-10-10 Repository started with hosting generously provided by Meeh.</li>
+<li>2014-03-09 Now serving <a href="http://www.anoncoin.net">Anoncoin</a> and packages for Ubuntu</li>
+<li>2014-10-17 Now serving <a href="https://github.com/PrivacySolutions/i2pd">i2pd</a></li>
+</ul>
+
+<hr style="width:75%" />
+<?php
+include_once("parse-apt-files.inc");
+echo "<h2 id=\"jessie\" style=\"text-align:center\">Packages in Jessie (Debian's stable distribution, released 2015-04-25)</h2>";
+echo "<p>These packages will work in Debian Jessie (stable). Packages for Unstable are <a href='#sid'>below</a>.</p>";
+parse_and_list(
+  Array("dists/jessie/main/binary-i386/Packages.gz",
+  "dists/jessie/main/binary-amd64/Packages.gz",
+  "dists/jessie/main/binary-armel/Packages.gz",
+  "dists/jessie/main/binary-armhf/Packages.gz",
+  "dists/jessie/main/binary-powerpc/Packages.gz"),
+  "dists/jessie/main/source/Sources.gz");
+
+echo "<hr style=\"width:75%\">";
+echo "<h2 id=\"sid\" style=\"text-align:center\">Packages in Unstable</h2>";
+parse_and_list(
+  Array("dists/unstable/main/binary-i386/Packages.gz",
+  "dists/unstable/main/binary-amd64/Packages.gz"),
+  "dists/unstable/main/source/Sources.gz");
+echo "<hr style=\"width:75%\">";
+echo "<h2 id=\"wheezy\" style=\"text-align:center\">Packages in Wheezy (Debian's old stable distribution, released 2013-05-04)</h2>";
+echo "<p>These packages will work in Debian Wheezy (oldstable). Packages for Stable are <a href='#jessie'>above</a>.</p>";
+parse_and_list(
+  Array("dists/wheezy/main/binary-i386/Packages.gz",
+  "dists/wheezy/main/binary-amd64/Packages.gz",
+  "dists/wheezy/main/binary-armel/Packages.gz",
+  "dists/wheezy/main/binary-armhf/Packages.gz",
+  "dists/wheezy/main/binary-powerpc/Packages.gz"),
+  "dists/wheezy/main/source/Sources.gz");
+?>
+</body>
+</html>
