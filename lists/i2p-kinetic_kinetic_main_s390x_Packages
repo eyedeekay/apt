@@ -1,0 +1,75 @@
+Package: i2p
+Priority: optional
+Section: net
+Installed-Size: 393
+Maintainer: zzz <zzz@i2pmail.org>
+Architecture: all
+Version: 1.8.0-1ubuntu1
+Depends: debconf (>= 0.5) | debconf-2.0, i2p-router (= 1.8.0-1ubuntu1), adduser, apparmor, debconf, libjbigi-jni, lsb-base, service-wrapper, ucf (>= 0.28)
+Filename: pool/main/i/i2p/i2p_1.8.0-1ubuntu1_all.deb
+Size: 72056
+MD5sum: 38cc8a3e1edf84c1bd14a21b98f5fef9
+SHA1: ba9202ecb035dac8b846156501d74d9bcd299834
+SHA256: 516cdf54651f61f1aeabb9bced870e5045d46d991a19b0548d98749d162ffa53
+Description: Invisible Internet Project (I2P) - anonymous network
+Description-md5: af30cb5729ed02b68be39b03bbe331bf
+Bugs: mailto:zzz@i2pmail.org
+
+Package: i2p-doc
+Source: i2p
+Priority: extra
+Section: doc
+Installed-Size: 86610
+Maintainer: zzz <zzz@i2pmail.org>
+Architecture: all
+Version: 1.8.0-1ubuntu1
+Suggests: i2p, default-jdk-doc
+Filename: pool/main/i/i2p/i2p-doc_1.8.0-1ubuntu1_all.deb
+Size: 3886096
+MD5sum: 62e3c34c13ad75a643893d5eff831d14
+SHA1: e62427bd324fe9d4895ab51c48a955d4dfe3ce38
+SHA256: c624451c4f9f98f9786afb3d525119d430a63a04c932e2251c2a5104ebf596a5
+Description: Invisible Internet Project (I2P) - developer documentation
+Description-md5: a38a3343330ab23e4039d143d8b57c15
+Bugs: mailto:zzz@i2pmail.org
+
+Package: i2p-router
+Source: i2p
+Priority: optional
+Section: net
+Installed-Size: 13054
+Maintainer: zzz <zzz@i2pmail.org>
+Architecture: all
+Version: 1.8.0-1ubuntu1
+Recommends: libjbigi-jni
+Replaces: i2p (<< 0.8.6-5)
+Suggests: apparmor, privoxy, syndie
+Depends: openjdk-18-jre-headless | openjdk-17-jre-headless | openjdk-16-jre-headless | openjdk-15-jre-headless | openjdk-11-jre-headless | default-jre-headless | java18-runtime-headless | java17-runtime-headless | java16-runtime-headless | java15-runtime-headless | java11-runtime-headless, geoip-database, gettext-base, libgetopt-java, libjson-simple-java (>= 2), libjson-simple-java (<< 3), libjetty9-java (>= 9.4), libservlet3.1-java, libtaglibs-standard-jstlel-java, libtomcat9-java, famfamfam-flag-png, sensible-utils
+Breaks: i2p (<< 0.8.6-5)
+Filename: pool/main/i/i2p/i2p-router_1.8.0-1ubuntu1_all.deb
+Size: 11165824
+MD5sum: d7cc0b475766054b1c9fb37836b11279
+SHA1: 436c63be81f1b5e752f84e9c46306ade1e8bc58e
+SHA256: df978f7ae2d5ee2010b6f307d8eca218ac546a723ee9829812934a0172956264
+Description: Invisible Internet Project (I2P) - Router
+Description-md5: b09b6523ae336da4c30a1d1deee14532
+Bugs: mailto:zzz@i2pmail.org
+
+Package: libjbigi-jni
+Source: i2p
+Priority: optional
+Section: java
+Installed-Size: 289
+Maintainer: zzz <zzz@i2pmail.org>
+Architecture: s390x
+Version: 1.8.0-1ubuntu1
+Depends: libc6 (>= 2.4), libgmp10 (>= 2:5.0.5), i2p-router
+Filename: pool/main/i/i2p/libjbigi-jni_1.8.0-1ubuntu1_s390x.deb
+Size: 270636
+MD5sum: 058464b2319109c710f5ad998b131e99
+SHA1: 10aaa006a0fed74c69cd7d4656bc9337c3651078
+SHA256: 7fc14dc282882daf989774943ec496566b53cab53fb6242032c27493c0ea53fb
+Description: Invisible Internet Project (I2P) - libjbigi library
+Description-md5: 9abc006aa799702ff868098881332bad
+Bugs: mailto:zzz@i2pmail.org
+
